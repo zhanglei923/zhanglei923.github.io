@@ -3,10 +3,11 @@ Hi, I am a front-end developer/architector with 13+ years js+java+node experienc
 Below is the fields which I am interested in:
 
 + Open-source
-+ ERP/CRM product developing
++ Web based ERP/CRM product developing
 + Web based developing tools
 + Web based UI components/frameworks
-+ Node/Java based auto testing
++ Node/Java/Shell based auto testing
++ Auto reviewing
 + Parsers/Data binding/Event bus/Meta data
 + Workflow
 + Linux/Shell
