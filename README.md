@@ -6,10 +6,10 @@ Below is the fields which I am interested in:
 + Web based ERP/CRM product developing
 + Web based developing tools
 + Web based UI components/frameworks
++ Web based workflow client
 + Node/Java/Shell based auto testing
 + Auto reviewing
 + Parsers/Data binding/Event bus/Meta data
-+ Workflow
 + Linux/Shell
 + Qulity control
 + Team management
