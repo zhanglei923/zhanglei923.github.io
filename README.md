@@ -13,4 +13,5 @@ Below is the fields which I am interested in:
 + Linux/Shell
 + Qulity control
 + Team management
++ Agile development/CI
 + LEGO
