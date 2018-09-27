@@ -1,4 +1,4 @@
-I am a full-stack(js,node,java) with 13+ years experiences. I have my daytime job and also as an individual developer working on Github.
+I am a full-stack(js,node,java) developer with 13+ years experiences. I have my daytime job and also as an individual developer working on Github.
 
 Below are the fields which I am interested in:
 
