@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-articlev2.mobileViewer.2b0fcf5d9e3eeb4049aa.js",
+      "totalBytes": 10284,
+      "mappedBytes": 10203,
+      "unmappedBytes": 1,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 79,
+      "files": {
+        "webpack://SeismicArticlev2/webpack/universalModuleDefinition": {
+          "size": 236
+        },
+        "[no source]": {
+          "size": 109
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/chunk loaded": {
+          "size": 372
+        },
+        "webpack://SeismicArticlev2/node_modules/babel-polyfill/lib/index.js": {
+          "size": 579
+        },
+        "webpack://SeismicArticlev2/integrateSDK/viewers/Mobile/index.jsx": {
+          "size": 82
+        },
+        "webpack://SeismicArticlev2/webpack/bootstrap": {
+          "size": 170
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/amd options": {
+          "size": 10
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/compat get default export": {
+          "size": 111
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/global": {
+          "size": 165
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/node module decorator": {
+          "size": 67
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/publicPath": {
+          "size": 7
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/jsonp chunk loading": {
+          "size": 421
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/nonce": {
+          "size": 12
+        },
+        "webpack://SeismicArticlev2/webpack/startup": {
+          "size": 7512
+        },
+        "[sourceMappingURL]": {
+          "size": 79
+        },
+        "[unmapped]": {
+          "size": 1
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

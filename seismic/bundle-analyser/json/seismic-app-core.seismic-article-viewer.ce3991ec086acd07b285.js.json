@@ -1,0 +1,92 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-app-core.seismic-article-viewer.ce3991ec086acd07b285.js",
+      "totalBytes": 21049,
+      "mappedBytes": 20819,
+      "unmappedBytes": 141,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 88,
+      "files": {
+        "webpack://seismic-app-core/src/ArticleViewer/ArticleSDK/index.jsx": {
+          "size": 1068
+        },
+        "[no source]": {
+          "size": 5966
+        },
+        "webpack://seismic-app-core/src/ArticleViewer/core/apiClient/index.js": {
+          "size": 285
+        },
+        "webpack://seismic-app-core/src/ArticleViewer/core/dialogHelper/index.js": {
+          "size": 106
+        },
+        "webpack://seismic-app-core/src/ArticleViewer/core/errorHandler/index.js": {
+          "size": 824
+        },
+        "webpack://seismic-app-core/src/ArticleViewer/core/i18n/index.js": {
+          "size": 744
+        },
+        "webpack://seismic-app-core/src/ArticleViewer/core/i18n/local-data/en-US.js": {
+          "size": 157
+        },
+        "webpack://seismic-app-core/src/ArticleViewer/core/i18n/local-data/zh-CN.js": {
+          "size": 157
+        },
+        "webpack://seismic-app-core/src/ArticleViewer/index.jsx": {
+          "size": 4085
+        },
+        "webpack://seismic-app-core/src/common/ReactDynamicLoader.jsx": {
+          "size": 4129
+        },
+        "webpack://seismic-app-core/src/common/i18n.js": {
+          "size": 230
+        },
+        "webpack://seismic-app-core/src/common/loadModules/index.js": {
+          "size": 643
+        },
+        "webpack://seismic-app-core/src/common/loadModules/script.js": {
+          "size": 1208
+        },
+        "webpack://seismic-app-core/src/common/loadModules/stylesheet.js": {
+          "size": 387
+        },
+        "webpack://seismic-app-core/src/common/loadModules/tryModule.js": {
+          "size": 384
+        },
+        "webpack://seismic-app-core/external assign \"PropTypes\"": {
+          "size": 19
+        },
+        "webpack://seismic-app-core/external assign \"React\"": {
+          "size": 15
+        },
+        "webpack://seismic-app-core/external assign \"__global_module_registers__[\\\"seismic-common\\\"]\"": {
+          "size": 55
+        },
+        "webpack://seismic-app-core/external assign \"__global_module_registers__[\\\"seismic-toolkit\\\"]\"": {
+          "size": 56
+        },
+        "webpack://seismic-app-core/webpack/bootstrap": {
+          "size": 122
+        },
+        "webpack://seismic-app-core/webpack/runtime/publicPath": {
+          "size": 7
+        },
+        "webpack://seismic-app-core/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 103
+        },
+        "webpack://seismic-app-core/src/ArticleViewer/entry.js": {
+          "size": 69
+        },
+        "[sourceMappingURL]": {
+          "size": 88
+        },
+        "[unmapped]": {
+          "size": 141
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

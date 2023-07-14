@@ -1,0 +1,58 @@
+Source	Size
+webpack://seismic-profile-view/external assign "__global_module_registers__[\"seismic-common\"]"	101963
+webpack://seismic-profile-view/node_modules/react-responsive/dist/react-responsive.js	17338
+webpack://seismic-profile-view/src/utils/commonHelper.js	16466
+webpack://seismic-profile-view/src/ProfileView/index.jsx	12508
+webpack://seismic-profile-view/src/ProfileView/Header/index.jsx	9877
+webpack://seismic-profile-view/node_modules/color-convert/conversions.js	8433
+webpack://seismic-profile-view/src/common/commonService/serviceHandler.js	7772
+webpack://seismic-profile-view/src/common/components/AppWrapper/profileView.jsx	6922
+webpack://seismic-profile-view/node_modules/color/index.js	6049
+webpack://seismic-profile-view/src/common/commonService/profileView/providers.jsx	5550
+webpack://seismic-profile-view/src/components/LandingPageViewer/index.jsx	4902
+webpack://seismic-profile-view/src/common/commonService/contexts.js	3727
+webpack://seismic-profile-view/src/service/doc-center-service/index.js	3580
+webpack://seismic-profile-view/node_modules/color-name/index.js	3427
+webpack://seismic-profile-view/src/components/ScrollBar/index.jsx	3186
+webpack://seismic-profile-view/node_modules/color-string/index.js	3175
+webpack://seismic-profile-view/src/components/comon-page-viewer/index.tsx	3022
+webpack://seismic-profile-view/external assign "__global_module_registers__[\"seismic-content-discovery-toolkit\"]"	2728
+webpack://seismic-profile-view/src/ProfileView/Tabs/index.jsx	2633
+webpack://seismic-profile-view/src/components/LazyLoadContainer/index.jsx	2487
+webpack://seismic-profile-view/external assign "ReactCustomScrollbars"	1906
+webpack://seismic-profile-view/src/components/AllContentsView/index.jsx	1868
+webpack://seismic-profile-view/external assign "ReactDOM"	1656
+webpack://seismic-profile-view/src/service/index.js	1616
+webpack://seismic-profile-view/src/ProfileView/Header/copyUrl.js	1554
+webpack://seismic-profile-view/src/ProfileView/container.jsx	1410
+webpack://seismic-profile-view/src/common/commonErrorHandler/index.js	1282
+webpack://seismic-profile-view/src/common/components/Responsive/index.jsx	1105
+webpack://seismic-profile-view/src/common/apiClient/forNGexit.js	968
+webpack://seismic-profile-view/node_modules/color-convert/index.js	747
+webpack://seismic-profile-view/node_modules/color-convert/route.js	729
+webpack://seismic-profile-view/src/common/newrelic/NewRelicPageAction.js	653
+webpack://seismic-profile-view/node_modules/classnames/index.js	538
+webpack://seismic-profile-view/webpack/runtime/jsonp chunk loading	430
+webpack://seismic-profile-view/src/common/constants/constants.js	398
+webpack://seismic-profile-view/webpack/runtime/chunk loaded	395
+webpack://seismic-profile-view/external assign "__global_module_registers__[\"seismic-toolkit\"]"	303
+webpack://seismic-profile-view/node_modules/simple-swizzle/index.js	273
+webpack://seismic-profile-view/node_modules/is-arrayish/index.js	239
+webpack://seismic-profile-view/src/utils/commonService/index.js	234
+webpack://seismic-profile-view/node_modules/@seismic/toolchain-scripts/webpack/setPublicPath.js	205
+webpack://seismic-profile-view/webpack/runtime/make namespace object	175
+webpack://seismic-profile-view/webpack/bootstrap	143
+webpack://seismic-profile-view/src/utils/util.js	132
+webpack://seismic-profile-view/webpack/startup	127
+[unmapped]	119
+webpack://seismic-profile-view/webpack/runtime/compat get default export	111
+webpack://seismic-profile-view/webpack/runtime/define property getters	107
+[sourceMappingURL]	74
+webpack://seismic-profile-view/webpack/runtime/hasOwnProperty shorthand	68
+webpack://seismic-profile-view/external assign "__global_module_registers__[\"@seismic/mantle\"]"	49
+webpack://seismic-profile-view/external assign "PropTypes"	21
+webpack://seismic-profile-view/external assign "Moment"	18
+webpack://seismic-profile-view/external assign "React"	18
+webpack://seismic-profile-view/webpack/runtime/publicPath	18
+webpack://seismic-profile-view/src/index.js	4
+[EOLs]	2

@@ -1,0 +1,419 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-readiness-web.main.f907b01e.js",
+      "totalBytes": 392135,
+      "mappedBytes": 391962,
+      "unmappedBytes": 108,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 63,
+      "files": {
+        "webpack://@seismic/readiness-web/webpack/runtime/chunk loaded": {
+          "size": 394
+        },
+        "webpack://node_modules/@seismic/readiness-learn-component/node_modules/classnames/index.js": {
+          "size": 442
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/dom-serializer/lib/foreignNames.js": {
+          "size": 1671
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/dom-serializer/lib/index.js": {
+          "size": 3092
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/domhandler/lib/index.js": {
+          "size": 2839
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/domhandler/lib/node.js": {
+          "size": 6149
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/domutils/lib/feeds.js": {
+          "size": 2145
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/domutils/lib/helpers.js": {
+          "size": 1230
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/domutils/lib/index.js": {
+          "size": 1212
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/domutils/lib/legacy.js": {
+          "size": 1498
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/domutils/lib/manipulation.js": {
+          "size": 1208
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/domutils/lib/querying.js": {
+          "size": 1111
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/domutils/lib/stringify.js": {
+          "size": 952
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/domutils/lib/traversal.js": {
+          "size": 959
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/entities/lib/decode.js": {
+          "size": 6817
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/entities/lib/decode_codepoint.js": {
+          "size": 814
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/entities/lib/encode.js": {
+          "size": 824
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/entities/lib/escape.js": {
+          "size": 1242
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/entities/lib/generated/decode-data-html.js": {
+          "size": 26798
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/entities/lib/generated/decode-data-xml.js": {
+          "size": 212
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/entities/lib/generated/encode-html.js": {
+          "size": 23506
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/entities/lib/index.js": {
+          "size": 3352
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/htmlparser2/lib/Parser.js": {
+          "size": 9133
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/htmlparser2/lib/Tokenizer.js": {
+          "size": 14539
+        },
+        "webpack://node_modules/@seismic/readiness-services/node_modules/htmlparser2/lib/index.js": {
+          "size": 2012
+        },
+        "webpack://node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 136
+        },
+        "webpack://node_modules/domelementtype/lib/index.js": {
+          "size": 620
+        },
+        "webpack://node_modules/lodash/fp.js": {
+          "size": 74
+        },
+        "webpack://node_modules/lodash/fp/_baseConvert.js": {
+          "size": 4281
+        },
+        "webpack://node_modules/lodash/fp/_mapping.js": {
+          "size": 6733
+        },
+        "webpack://node_modules/lodash/fp/placeholder.js": {
+          "size": 35
+        },
+        "webpack://node_modules/lodash/lodash.min.js": {
+          "size": 73314
+        },
+        "webpack://node_modules/@remix-run/router/dist/router.js": {
+          "size": 36580
+        },
+        "webpack://node_modules/react-router/dist/index.js": {
+          "size": 11864
+        },
+        "webpack://node_modules/react-router-dom/dist/index.js": {
+          "size": 11019
+        },
+        "webpack://node_modules/reselect/es/defaultMemoize.js": {
+          "size": 1085
+        },
+        "webpack://node_modules/reselect/es/index.js": {
+          "size": 1808
+        },
+        "webpack://node_modules/@seismic/readiness-content-component/src/ContentPage.component.tsx": {
+          "size": 684
+        },
+        "webpack://node_modules/@seismic/readiness-content-component/src/index.ts": {
+          "size": 200
+        },
+        "webpack://node_modules/@seismic/readiness-events-component/src/EventPage.component.tsx": {
+          "size": 630
+        },
+        "webpack://node_modules/@seismic/readiness-events-component/src/index.ts": {
+          "size": 270
+        },
+        "webpack://node_modules/@seismic/readiness-learn-component/src/assignmentSelectors.ts": {
+          "size": 1168
+        },
+        "webpack://node_modules/@seismic/readiness-learn-component/src/components/ContentGroup/ContentGroup.component.tsx": {
+          "size": 814
+        },
+        "webpack://node_modules/@seismic/readiness-learn-component/src/components/LearnPage/LearnPage.component.tsx": {
+          "size": 1153
+        },
+        "webpack://node_modules/@seismic/readiness-learn-component/src/components/LessonCard/LessonCard.component.tsx": {
+          "size": 1519
+        },
+        "webpack://node_modules/@seismic/readiness-learn-component/src/components/LessonList/LessonList.component.tsx": {
+          "size": 1246
+        },
+        "webpack://node_modules/@seismic/readiness-learn-component/src/index.ts": {
+          "size": 202
+        },
+        "webpack://node_modules/@seismic/readiness-lesson-component/src/components/EmbedElement/EmbedElement.component.tsx": {
+          "size": 1010
+        },
+        "webpack://node_modules/@seismic/readiness-lesson-component/src/components/FreeResponseElement/FreeResponseElement.component.tsx": {
+          "size": 866
+        },
+        "webpack://node_modules/@seismic/readiness-lesson-component/src/components/ImageElement/ImageElement.component.tsx": {
+          "size": 1006
+        },
+        "webpack://node_modules/@seismic/readiness-lesson-component/src/components/Lesson/Lesson.component.tsx": {
+          "size": 2551
+        },
+        "webpack://node_modules/@seismic/readiness-lesson-component/src/components/LessonComplete/LessonComplete.component.tsx": {
+          "size": 606
+        },
+        "webpack://node_modules/@seismic/readiness-lesson-component/src/components/LessonPage/LessonPage.component.tsx": {
+          "size": 601
+        },
+        "webpack://node_modules/@seismic/readiness-lesson-component/src/components/LessonSection/LessonSection.component.tsx": {
+          "size": 1274
+        },
+        "webpack://node_modules/@seismic/readiness-lesson-component/src/components/MultiChoiceSurveyElement/MultiChoiceSurveyElement.component.tsx": {
+          "size": 1351
+        },
+        "webpack://node_modules/@seismic/readiness-lesson-component/src/components/MultipleSelectElement/MultipleSelectElement.component.tsx": {
+          "size": 796
+        },
+        "webpack://node_modules/@seismic/readiness-lesson-component/src/components/TextElement/TextElement.component.tsx": {
+          "size": 258
+        },
+        "webpack://node_modules/@seismic/readiness-lesson-component/src/decorators/DecoratorMetadataStorage.ts": {
+          "size": 552
+        },
+        "webpack://node_modules/@seismic/readiness-lesson-component/src/decorators/SectionElement.decorator.ts": {
+          "size": 647
+        },
+        "webpack://node_modules/@seismic/readiness-lesson-component/src/index.ts": {
+          "size": 274
+        },
+        "webpack://node_modules/@seismic/readiness-path-component/src/components/PathPage/PathPage.component.tsx": {
+          "size": 967
+        },
+        "webpack://node_modules/@seismic/readiness-path-component/src/index.ts": {
+          "size": 532
+        },
+        "webpack://node_modules/@seismic/readiness-services/src/index.ts": {
+          "size": 963
+        },
+        "webpack://node_modules/@seismic/readiness-services/src/services/HttpMock.service.ts": {
+          "size": 3137
+        },
+        "webpack://node_modules/@seismic/readiness-services/src/services/ReadinessApi.service.ts": {
+          "size": 3043
+        },
+        "webpack://node_modules/@seismic/readiness-services/src/utils/ensureStringBeginsWithSlash.ts": {
+          "size": 196
+        },
+        "webpack://node_modules/@seismic/readiness-services/src/utils/ensureStringEndsWith.ts": {
+          "size": 269
+        },
+        "webpack://node_modules/@seismic/readiness-shared-components/src/components/NavLink.tsx": {
+          "size": 729
+        },
+        "webpack://node_modules/@seismic/readiness-shared-components/src/components/index.ts": {
+          "size": 46
+        },
+        "webpack://node_modules/@seismic/readiness-shared-components/src/enums/ELearnType.ts": {
+          "size": 242
+        },
+        "webpack://node_modules/@seismic/readiness-shared-components/src/enums/ESectionElements.enum.ts": {
+          "size": 951
+        },
+        "webpack://node_modules/@seismic/readiness-shared-components/src/index.ts": {
+          "size": 1271
+        },
+        "webpack://node_modules/@seismic/readiness-skills-component/src/SkillsPage.component.tsx": {
+          "size": 658
+        },
+        "webpack://node_modules/@seismic/readiness-skills-component/src/components/SkillLibrary/SkillLibrary.component.tsx": {
+          "size": 330
+        },
+        "webpack://node_modules/@seismic/readiness-skills-component/src/components/SkillProfiles/AddProfileContainer.component.tsx": {
+          "size": 301
+        },
+        "webpack://node_modules/@seismic/readiness-skills-component/src/components/SkillProfiles/SkillProfiles.component.tsx": {
+          "size": 841
+        },
+        "webpack://node_modules/@seismic/readiness-skills-component/src/components/SkillsLayout.component.tsx": {
+          "size": 1163
+        },
+        "webpack://node_modules/@seismic/readiness-skills-component/src/index.ts": {
+          "size": 2184
+        },
+        "webpack://@seismic/readiness-web/src/components/NavbarComponent/Navbar.component.tsx": {
+          "size": 1124
+        },
+        "webpack://@seismic/readiness-web/src/components/RootComponent/index.tsx": {
+          "size": 1607
+        },
+        "webpack://@seismic/readiness-web/src/index.ts": {
+          "size": 367
+        },
+        "webpack://@seismic/readiness-web/src/mock-api-data.ts": {
+          "size": 723
+        },
+        "webpack://@seismic/readiness-web/src/mock-data/CONTENT_ROOT_INDEX_API.ts": {
+          "size": 46035
+        },
+        "webpack://@seismic/readiness-web/src/mock-data/LEARN_API.ts": {
+          "size": 1834
+        },
+        "webpack://@seismic/readiness-web/src/mock-data/LESSON_API.ts": {
+          "size": 972
+        },
+        "webpack://@seismic/readiness-web/src/mock-data/LESSON_SECTIONS_API.ts": {
+          "size": 1012
+        },
+        "webpack://@seismic/readiness-web/src/mock-data/NAVBAR_API.ts": {
+          "size": 15199
+        },
+        "webpack://node_modules/void-elements/index.js": {
+          "size": 154
+        },
+        "webpack://@seismic/readiness-web/external window \"MantleUI\"": {
+          "size": 57
+        },
+        "webpack://@seismic/readiness-web/external window \"React\"": {
+          "size": 54
+        },
+        "webpack://@seismic/readiness-web/external window \"ReactDOM\"": {
+          "size": 57
+        },
+        "webpack://@seismic/readiness-web/external window \"SeismicCommon\"": {
+          "size": 66
+        },
+        "webpack://node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/typeof.js": {
+          "size": 230
+        },
+        "webpack://node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/toPropertyKey.js": {
+          "size": 58
+        },
+        "webpack://node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/toPrimitive.js": {
+          "size": 233
+        },
+        "webpack://node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/defineProperty.js": {
+          "size": 125
+        },
+        "webpack://node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js": {
+          "size": 1014
+        },
+        "webpack://node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js": {
+          "size": 132
+        },
+        "webpack://node_modules/html-parse-stringify/dist/html-parse-stringify.module.js": {
+          "size": 2046
+        },
+        "webpack://node_modules/react-i18next/dist/es/utils.js": {
+          "size": 1883
+        },
+        "webpack://node_modules/react-i18next/dist/es/unescape.js": {
+          "size": 432
+        },
+        "webpack://node_modules/react-i18next/dist/es/defaults.js": {
+          "size": 890
+        },
+        "webpack://node_modules/react-i18next/dist/es/i18nInstance.js": {
+          "size": 42
+        },
+        "webpack://node_modules/react-i18next/dist/es/TransWithoutContext.js": {
+          "size": 5478
+        },
+        "webpack://node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/createClass.js": {
+          "size": 249
+        },
+        "webpack://node_modules/react-i18next/dist/es/initReactI18next.js": {
+          "size": 66
+        },
+        "webpack://node_modules/react-i18next/dist/es/context.js": {
+          "size": 1315
+        },
+        "webpack://node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/classCallCheck.js": {
+          "size": 92
+        },
+        "webpack://node_modules/react-i18next/dist/es/Trans.js": {
+          "size": 1175
+        },
+        "webpack://node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js": {
+          "size": 107
+        },
+        "webpack://node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/slicedToArray.js": {
+          "size": 46
+        },
+        "webpack://node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js": {
+          "size": 41
+        },
+        "webpack://node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js": {
+          "size": 394
+        },
+        "webpack://node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js": {
+          "size": 286
+        },
+        "webpack://node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js": {
+          "size": 172
+        },
+        "webpack://node_modules/react-i18next/dist/es/useTranslation.js": {
+          "size": 2571
+        },
+        "webpack://node_modules/react-i18next/dist/es/withTranslation.js": {
+          "size": 1147
+        },
+        "webpack://node_modules/react-i18next/dist/es/Translation.js": {
+          "size": 145
+        },
+        "webpack://node_modules/react-i18next/dist/es/I18nextProvider.js": {
+          "size": 169
+        },
+        "webpack://node_modules/react-i18next/dist/es/useSSR.js": {
+          "size": 496
+        },
+        "webpack://node_modules/react-i18next/dist/es/withSSR.js": {
+          "size": 872
+        },
+        "webpack://node_modules/react-i18next/dist/es/index.js": {
+          "size": 150
+        },
+        "webpack://@seismic/readiness-web/webpack/bootstrap": {
+          "size": 170
+        },
+        "webpack://@seismic/readiness-web/webpack/runtime/compat get default export": {
+          "size": 111
+        },
+        "webpack://@seismic/readiness-web/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://@seismic/readiness-web/webpack/runtime/global": {
+          "size": 165
+        },
+        "webpack://@seismic/readiness-web/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://@seismic/readiness-web/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://@seismic/readiness-web/webpack/runtime/node module decorator": {
+          "size": 67
+        },
+        "webpack://@seismic/readiness-web/webpack/runtime/publicPath": {
+          "size": 18
+        },
+        "webpack://@seismic/readiness-web/webpack/runtime/jsonp chunk loading": {
+          "size": 434
+        },
+        "webpack://@seismic/readiness-web/webpack/startup": {
+          "size": 129
+        },
+        "[sourceMappingURL]": {
+          "size": 63
+        },
+        "[unmapped]": {
+          "size": 108
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

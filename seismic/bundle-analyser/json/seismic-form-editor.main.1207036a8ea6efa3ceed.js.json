@@ -1,0 +1,644 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-form-editor.main.1207036a8ea6efa3ceed.js",
+      "totalBytes": 826756,
+      "mappedBytes": 826544,
+      "unmappedBytes": 137,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 73,
+      "files": {
+        "webpack://seismic-form-editor/src/services/microservice/swagger/bss-upload-v1.json": {
+          "size": 10264
+        },
+        "webpack://seismic-form-editor/src/services/microservice/swagger/form-service-v1.json": {
+          "size": 43228
+        },
+        "webpack://seismic-form-editor/node_modules/react-datetime/dist/react-datetime.cjs.js": {
+          "size": 37156
+        },
+        "webpack://seismic-form-editor/external assign \"Moment\"": {
+          "size": 47
+        },
+        "webpack://seismic-form-editor/external assign \"React\"": {
+          "size": 46
+        },
+        "webpack://seismic-form-editor/external assign \"ReactDOM\"": {
+          "size": 21
+        },
+        "webpack://seismic-form-editor/webpack/bootstrap": {
+          "size": 122
+        },
+        "webpack://seismic-form-editor/webpack/runtime/compat get default export": {
+          "size": 111
+        },
+        "webpack://seismic-form-editor/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://seismic-form-editor/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://seismic-form-editor/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://seismic-form-editor/webpack/runtime/publicPath": {
+          "size": 16
+        },
+        "webpack://seismic-form-editor/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 195
+        },
+        "webpack://seismic-form-editor/external assign \"PropTypes\"": {
+          "size": 21
+        },
+        "webpack://seismic-form-editor/external assign \"__global_module_registers__[\\\"seismic-common\\\"]\"": {
+          "size": 48
+        },
+        "webpack://seismic-form-editor/external assign \"__global_module_registers__[\\\"seismic-toolkit\\\"]\"": {
+          "size": 887
+        },
+        "webpack://seismic-form-editor/src/services/data-cache-pool.js": {
+          "size": 1406
+        },
+        "webpack://seismic-form-editor/src/services/form-definition-data-manager.js": {
+          "size": 1474
+        },
+        "webpack://seismic-form-editor/src/services/delivery-options-data-manager.js": {
+          "size": 168
+        },
+        "webpack://seismic-form-editor/src/constants/enums.js": {
+          "size": 4747
+        },
+        "webpack://seismic-form-editor/src/services/data-adjust/form-settings-processor.js": {
+          "size": 1771
+        },
+        "webpack://seismic-form-editor/src/services/variables-data-manager.js": {
+          "size": 2253
+        },
+        "webpack://seismic-form-editor/src/models/form-elements/setting/basic-setting.js": {
+          "size": 1132
+        },
+        "webpack://seismic-form-editor/src/models/form-elements/setting/data-setting.js": {
+          "size": 1134
+        },
+        "webpack://seismic-form-editor/src/models/form-elements/setting/type-specific-setting.js": {
+          "size": 1524
+        },
+        "webpack://seismic-form-editor/src/models/form-elements/setting/validation-setting.js": {
+          "size": 1083
+        },
+        "webpack://seismic-form-editor/src/models/form-elements/setting/visibility-setting.js": {
+          "size": 1000
+        },
+        "webpack://seismic-form-editor/src/models/form-elements/cell-model.js": {
+          "size": 1278
+        },
+        "webpack://seismic-form-editor/src/models/form-elements/setting/grid-property.js": {
+          "size": 1012
+        },
+        "webpack://seismic-form-editor/src/models/form-elements/grid-model.js": {
+          "size": 1309
+        },
+        "webpack://seismic-form-editor/src/models/form-elements/page-model.js": {
+          "size": 1288
+        },
+        "webpack://seismic-form-editor/src/models/form-elements/section-model.js": {
+          "size": 1196
+        },
+        "webpack://seismic-form-editor/src/components/navigation/top-nav-bar.controller.js": {
+          "size": 2756
+        },
+        "webpack://seismic-form-editor/src/constants/message.js": {
+          "size": 825
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/typeof.js": {
+          "size": 233
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/classCallCheck.js": {
+          "size": 95
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/toPropertyKey.js": {
+          "size": 69
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/toPrimitive.js": {
+          "size": 260
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/createClass.js": {
+          "size": 282
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js": {
+          "size": 124
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js": {
+          "size": 124
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/inherits.js": {
+          "size": 281
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js": {
+          "size": 180
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js": {
+          "size": 140
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/defineProperty.js": {
+          "size": 127
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js": {
+          "size": 107
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/toArray.js": {
+          "size": 40
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js": {
+          "size": 41
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/iterableToArray.js": {
+          "size": 112
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js": {
+          "size": 286
+        },
+        "webpack://seismic-form-editor/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js": {
+          "size": 172
+        },
+        "webpack://seismic-form-editor/node_modules/i18next/dist/esm/i18next.js": {
+          "size": 53937
+        },
+        "webpack://seismic-form-editor/node_modules/react-i18next/dist/es/unescape.js": {
+          "size": 245
+        },
+        "webpack://seismic-form-editor/node_modules/react-i18next/dist/es/context.js": {
+          "size": 1259
+        },
+        "webpack://seismic-form-editor/node_modules/i18next-xhr-backend/dist/esm/i18nextXHRBackend.js": {
+          "size": 4800
+        },
+        "webpack://seismic-form-editor/src/utils/i18n/i18n-plugin/getSeismicCDN-plugin.js": {
+          "size": 853
+        },
+        "webpack://seismic-form-editor/src/utils/i18n/locale-data/en-US/en-US2.js": {
+          "size": 6924
+        },
+        "webpack://seismic-form-editor/src/utils/i18n/locale-data/en-US/index.js": {
+          "size": 751
+        },
+        "webpack://seismic-form-editor/src/utils/i18n/locale-data/en-US/en-US1.js": {
+          "size": 4377
+        },
+        "webpack://seismic-form-editor/src/utils/i18n/lang.js": {
+          "size": 15
+        },
+        "webpack://seismic-form-editor/src/utils/i18n/translate.js": {
+          "size": 2695
+        },
+        "webpack://seismic-form-editor/src/components/navigation/top-nav-bar.jsx": {
+          "size": 8641
+        },
+        "webpack://seismic-form-editor/src/components/common/resizable-widget/resize-block.jsx": {
+          "size": 3181
+        },
+        "webpack://seismic-form-editor/src/components/common/resizable-widget/resizable-widget.jsx": {
+          "size": 2074
+        },
+        "webpack://seismic-form-editor/src/components/common/layout-grid/grid-style-utility.js": {
+          "size": 1712
+        },
+        "webpack://seismic-form-editor/src/components/common/layout-grid/layout-grid-model.js": {
+          "size": 1050
+        },
+        "webpack://seismic-form-editor/src/utils/ui-util.js": {
+          "size": 2560
+        },
+        "webpack://seismic-form-editor/src/components/common/layout-grid/layout-grid-item-locator.js": {
+          "size": 7209
+        },
+        "webpack://seismic-form-editor/src/components/common/layout-grid/layout-grid-item.jsx": {
+          "size": 6544
+        },
+        "webpack://seismic-form-editor/src/components/common/layout-grid/layout-grid-cell.jsx": {
+          "size": 1415
+        },
+        "webpack://seismic-form-editor/src/components/common/layout-grid/grid-position-calculator.js": {
+          "size": 2895
+        },
+        "webpack://seismic-form-editor/src/components/common/layout-grid/layout-grid-session.js": {
+          "size": 1768
+        },
+        "webpack://seismic-form-editor/src/components/common/layout-grid/layout-grid.jsx": {
+          "size": 4999
+        },
+        "webpack://seismic-form-editor/src/models/form-elements/setting/cell-property.js": {
+          "size": 2188
+        },
+        "webpack://seismic-form-editor/src/components/common/portal/portal.jsx": {
+          "size": 3338
+        },
+        "webpack://seismic-form-editor/src/components/common/pop-panel/pop-panel.jsx": {
+          "size": 4025
+        },
+        "webpack://seismic-form-editor/src/components/common/configurable-widget/configurable-widget.jsx": {
+          "size": 2607
+        },
+        "webpack://seismic-form-editor/src/constants/const-business-data.js": {
+          "size": 770
+        },
+        "webpack://seismic-form-editor/src/utils/date-util.js": {
+          "size": 2753
+        },
+        "webpack://seismic-form-editor/src/services/data-adjust/widget-option-provider.js": {
+          "size": 611
+        },
+        "webpack://seismic-form-editor/src/constants/const-ui-data.js": {
+          "size": 1017
+        },
+        "webpack://seismic-form-editor/src/services/data-adjust/form-element-processor.js": {
+          "size": 4718
+        },
+        "webpack://seismic-form-editor/src/components/widget/widget.controller.js": {
+          "size": 2454
+        },
+        "webpack://seismic-form-editor/src/components/widget/widget-base.jsx": {
+          "size": 3303
+        },
+        "webpack://seismic-form-editor/src/components/widget/label-text-block.jsx": {
+          "size": 2592
+        },
+        "webpack://seismic-form-editor/src/components/widget/Textbox.jsx": {
+          "size": 3714
+        },
+        "webpack://seismic-form-editor/src/components/widget/text-block.jsx": {
+          "size": 2422
+        },
+        "webpack://seismic-form-editor/src/components/widget/password-box.jsx": {
+          "size": 1277
+        },
+        "webpack://seismic-form-editor/src/components/common/select-option/hidden-empty-option.jsx": {
+          "size": 1941
+        },
+        "webpack://seismic-form-editor/src/components/widget/dropdown-list.jsx": {
+          "size": 3849
+        },
+        "webpack://seismic-form-editor/src/components/widget/check-box.jsx": {
+          "size": 3369
+        },
+        "webpack://seismic-form-editor/src/components/widget/datetime-piker.jsx": {
+          "size": 5779
+        },
+        "webpack://seismic-form-editor/src/components/widget/radio-button.jsx": {
+          "size": 4535
+        },
+        "webpack://seismic-form-editor/src/components/widget/list-box.jsx": {
+          "size": 3638
+        },
+        "webpack://seismic-form-editor/src/components/common/tab-control/tab-pane.jsx": {
+          "size": 2401
+        },
+        "webpack://seismic-form-editor/src/components/common/tab-control/tab-panel.jsx": {
+          "size": 1675
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/label-text-block-config.js": {
+          "size": 91
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/ad-hoc-variable-base-config.js": {
+          "size": 1400
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/text-box-config.js": {
+          "size": 1411
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/date-picker-config.js": {
+          "size": 1396
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/check-box-config.js": {
+          "size": 1418
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/combo-box-config.js": {
+          "size": 1442
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/list-box-config.js": {
+          "size": 1388
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/password-box-config.js": {
+          "size": 1399
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/radio-button-config.js": {
+          "size": 1402
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/text-block-config.js": {
+          "size": 94
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/data-grid-config.js": {
+          "size": 289
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/choice-list-config.js": {
+          "size": 144
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/table-column-config/table-column-base-config.js": {
+          "size": 1361
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/table-column-config/table-column-check-box-config.js": {
+          "size": 1405
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/table-column-config/table-column-combo-box-config.js": {
+          "size": 1429
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/table-column-config/table-column-date-picker-config.js": {
+          "size": 1383
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/table-column-config/table-column-text-block-config.js": {
+          "size": 1346
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/table-column-config/table-column-text-box-config.js": {
+          "size": 103
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/content-selection-config.js": {
+          "size": 1104
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/datasource-uploader-config.js": {
+          "size": 479
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-config/image-uploader-config.js": {
+          "size": 116
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-property-mapping.js": {
+          "size": 2150
+        },
+        "webpack://seismic-form-editor/src/models/common-model.js": {
+          "size": 1812
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/widget-setting-controller.js": {
+          "size": 7096
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/data-setting-controller.js": {
+          "size": 6839
+        },
+        "webpack://seismic-form-editor/src/components/common/number-input/number-input.jsx": {
+          "size": 4650
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/basic-setting.jsx": {
+          "size": 15036
+        },
+        "webpack://seismic-form-editor/src/components/common/table/resizable-table/resizable-column-table.jsx": {
+          "size": 3241
+        },
+        "webpack://seismic-form-editor/src/components/common/visibility-rule/visibility-rule-controller.js": {
+          "size": 1338
+        },
+        "webpack://seismic-form-editor/src/utils/validate-util.js": {
+          "size": 2111
+        },
+        "webpack://seismic-form-editor/src/components/common/visibility-rule/visibility-rule.jsx": {
+          "size": 8651
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/display-setting.jsx": {
+          "size": 4081
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/required-config-section.jsx": {
+          "size": 1328
+        },
+        "webpack://seismic-form-editor/external assign \"lodash\"": {
+          "size": 10
+        },
+        "webpack://seismic-form-editor/src/constants/bss-keys.js": {
+          "size": 1405
+        },
+        "webpack://seismic-form-editor/src/services/microservice/init-ms-api-client.js": {
+          "size": 2539
+        },
+        "webpack://seismic-form-editor/src/services/microservice/form-service.js": {
+          "size": 2246
+        },
+        "webpack://seismic-form-editor/src/services/data-provider/common-form-data-provider.js": {
+          "size": 1712
+        },
+        "webpack://seismic-form-editor/src/services/data-adapter/live-form-adapter.js": {
+          "size": 581
+        },
+        "webpack://seismic-form-editor/src/services/data-provider/live-form-data-provider.js": {
+          "size": 13241
+        },
+        "webpack://seismic-form-editor/src/models/delivery-form/variable-model.js": {
+          "size": 2193
+        },
+        "webpack://seismic-form-editor/src/models/delivery-form/form-definition-model.js": {
+          "size": 2824
+        },
+        "webpack://seismic-form-editor/src/services/data-adapter/delivery-form-adapter.js": {
+          "size": 4241
+        },
+        "webpack://seismic-form-editor/src/services/data-provider/delivery-form-data-provider.js": {
+          "size": 813
+        },
+        "webpack://seismic-form-editor/src/services/data-provider-manager.js": {
+          "size": 2743
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/default-value-section.jsx": {
+          "size": 5649
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/datepicker-value-section.jsx": {
+          "size": 4694
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/checkbox-value-section.jsx": {
+          "size": 3642
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/default-check-section.jsx": {
+          "size": 1228
+        },
+        "webpack://seismic-form-editor/src/components/common/table/flex-table/flex-table-column.jsx": {
+          "size": 2441
+        },
+        "webpack://seismic-form-editor/src/components/common/table/flex-table/flex-table.jsx": {
+          "size": 7029
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/validation-rule-section.jsx": {
+          "size": 10976
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/default-option-section.jsx": {
+          "size": 3637
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/dynamic-domain-of-values/data-source-list.jsx": {
+          "size": 3176
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/dynamic-domain-of-values/data-source-table-list.jsx": {
+          "size": 3192
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/dynamic-domain-of-values/display-value-field.jsx": {
+          "size": 3914
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/dynamic-domain-of-values/input-mappings.jsx": {
+          "size": 4081
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/dynamic-domain-of-values/table-dov-mappings.jsx": {
+          "size": 4324
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/dynamic-domain-of-values/default-option.jsx": {
+          "size": 5295
+        },
+        "webpack://seismic-form-editor/src/utils/xml-helper.js": {
+          "size": 1669
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/dynamic-domain-of-values/add-source-dialog-controller.js": {
+          "size": 4686
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/dynamic-domain-of-values/add-source-dialog.jsx": {
+          "size": 17870
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/domain-of-value-section.jsx": {
+          "size": 9336
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/data-setting/data-setting.jsx": {
+          "size": 14403
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/misc-setting.jsx": {
+          "size": 10160
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/columns-setting.jsx": {
+          "size": 2845
+        },
+        "webpack://seismic-form-editor/src/context/index.jsx": {
+          "size": 1821
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/contents-setting.jsx": {
+          "size": 5796
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/setting-tab-content/external-setting.jsx": {
+          "size": 3832
+        },
+        "webpack://seismic-form-editor/src/components/widget-setting/widget-setting.jsx": {
+          "size": 7943
+        },
+        "webpack://seismic-form-editor/src/components/common/table/widget-table/table-view.jsx": {
+          "size": 6280
+        },
+        "webpack://seismic-form-editor/src/components/common/table/widget-table/choice-view.jsx": {
+          "size": 3291
+        },
+        "webpack://seismic-form-editor/src/components/widget/table-widget.jsx": {
+          "size": 2533
+        },
+        "webpack://seismic-form-editor/src/components/widget/content-select-dialog.jsx": {
+          "size": 5862
+        },
+        "webpack://seismic-form-editor/src/utils/string-util.js": {
+          "size": 79
+        },
+        "webpack://seismic-form-editor/src/services/image-object-url-list.js": {
+          "size": 253
+        },
+        "webpack://seismic-form-editor/src/services/microservice/bss-upload-service.js": {
+          "size": 14506
+        },
+        "webpack://seismic-form-editor/src/components/widget/content-group-dialog.jsx": {
+          "size": 20792
+        },
+        "webpack://seismic-form-editor/src/components/widget/content-selector-widget.jsx": {
+          "size": 5380
+        },
+        "webpack://seismic-form-editor/src/components/widget/datasource-uploader.jsx": {
+          "size": 2979
+        },
+        "webpack://seismic-form-editor/src/components/widget/image-uploader.jsx": {
+          "size": 3100
+        },
+        "webpack://seismic-form-editor/src/components/widget/form-widget.jsx": {
+          "size": 7553
+        },
+        "webpack://seismic-form-editor/src/components/page/page-part.jsx": {
+          "size": 6774
+        },
+        "webpack://seismic-form-editor/src/components/page/page-part-layout-nav.jsx": {
+          "size": 4430
+        },
+        "webpack://seismic-form-editor/src/components/page/page-layout-switcher.jsx": {
+          "size": 3704
+        },
+        "webpack://seismic-form-editor/src/components/page/page-part.controller.js": {
+          "size": 4699
+        },
+        "webpack://seismic-form-editor/src/components/page/Page.jsx": {
+          "size": 4603
+        },
+        "webpack://seismic-form-editor/src/components/page/page-list.controller.js": {
+          "size": 2142
+        },
+        "webpack://seismic-form-editor/src/components/add-field/variable-list-panel-controller.js": {
+          "size": 4996
+        },
+        "webpack://seismic-form-editor/src/components/add-field/variable-list-panel.jsx": {
+          "size": 7893
+        },
+        "webpack://seismic-form-editor/src/models/form-elements/label-text-block-model.js": {
+          "size": 1231
+        },
+        "webpack://seismic-form-editor/src/components/add-field/add-field-dialog-controller.js": {
+          "size": 7483
+        },
+        "webpack://seismic-form-editor/src/components/add-field/add-field-dialog.jsx": {
+          "size": 6622
+        },
+        "webpack://seismic-form-editor/src/components/settings/settings-dialog.controller.js": {
+          "size": 7378
+        },
+        "webpack://seismic-form-editor/src/components/settings/misc-setting.jsx": {
+          "size": 7949
+        },
+        "webpack://seismic-form-editor/src/components/settings/finish-setting/format-setting/ppt-distribution-dialog.jsx": {
+          "size": 4918
+        },
+        "webpack://seismic-form-editor/src/components/common/context-menu/context-menu.jsx": {
+          "size": 5613
+        },
+        "webpack://seismic-form-editor/src/components/settings/finish-setting/format-setting/pdf-distribution-dialog.jsx": {
+          "size": 16951
+        },
+        "webpack://seismic-form-editor/src/components/settings/finish-setting/format-setting/excel-distribution-dialog.jsx": {
+          "size": 5023
+        },
+        "webpack://seismic-form-editor/src/components/settings/finish-setting/format-setting.jsx": {
+          "size": 7954
+        },
+        "webpack://seismic-form-editor/src/components/settings/finish-setting/delivery-setting.jsx": {
+          "size": 8238
+        },
+        "webpack://seismic-form-editor/src/models/data-sources/data-source-mapping-model.js": {
+          "size": 905
+        },
+        "webpack://seismic-form-editor/src/models/data-sources/data-source-mapping-manager.js": {
+          "size": 4380
+        },
+        "webpack://seismic-form-editor/src/components/settings/finish-setting/data-archive-setting.jsx": {
+          "size": 13139
+        },
+        "webpack://seismic-form-editor/src/components/settings/settings-dialog.jsx": {
+          "size": 7541
+        },
+        "webpack://seismic-form-editor/src/components/page/page-list.jsx": {
+          "size": 4705
+        },
+        "webpack://seismic-form-editor/src/components/common/message-dialog/common-message-dialog.jsx": {
+          "size": 6470
+        },
+        "webpack://seismic-form-editor/src/components/command/bottom-button-bar.jsx": {
+          "size": 12133
+        },
+        "webpack://seismic-form-editor/src/components/pure-form-editor.jsx": {
+          "size": 8747
+        },
+        "webpack://seismic-form-editor/src/components/form-editor.jsx": {
+          "size": 12771
+        },
+        "webpack://seismic-form-editor/src/entry.js": {
+          "size": 3
+        },
+        "[sourceMappingURL]": {
+          "size": 73
+        },
+        "[unmapped]": {
+          "size": 137
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+Source	Size
+webpack://seismic-content-discovery/src/common/constants/constants.js	298606
+webpack://seismic-content-discovery/node_modules/i18next/dist/esm/i18next.js	40506
+webpack://seismic-content-discovery/node_modules/react-responsive/dist/react-responsive.js	17329
+webpack://seismic-content-discovery/src/common/commonService/homepageProviders.jsx	14620
+webpack://seismic-content-discovery/src/common/commonService/serviceHandler.js	13108
+webpack://seismic-content-discovery/src/service/content-discovery-service/index.js	8966
+webpack://seismic-content-discovery/src/business/app/index.js	8556
+webpack://seismic-content-discovery/src/utils/commonHelper.js	6078
+webpack://seismic-content-discovery/src/pages/ContentDiscoveryContainer/wrapper.jsx	5387
+webpack://seismic-content-discovery/src/pages/ContentDiscoveryContainer/HomePageBuilder/index.jsx	4213
+webpack://seismic-content-discovery/node_modules/i18next-xhr-backend/dist/esm/i18nextXHRBackend.js	3844
+webpack://seismic-content-discovery/src/components/HomePageBuilder/Viewer/index.jsx	3696
+webpack://seismic-content-discovery/src/components/LazyLoadContainer/index.jsx	2757
+webpack://seismic-content-discovery/src/components/HomePageBuilder/Editor/index.jsx	2755
+webpack://seismic-content-discovery/src/components/QuickQueries/index.jsx	2586
+webpack://seismic-content-discovery/src/pages/ContentDiscoveryContainer/index.jsx	2548
+webpack://seismic-content-discovery/node_modules/react-i18next/dist/es/useTranslation.js	2287
+webpack://seismic-content-discovery/node_modules/react-i18next/dist/es/utils.js	1677
+webpack://seismic-content-discovery/src/components/QuickQueries/facetsContainer.jsx	1528
+webpack://seismic-content-discovery/node_modules/react-i18next/dist/es/context.js	1268
+webpack://seismic-content-discovery/external assign "__global_module_registers__[\"seismic-common\"]"	1266
+webpack://seismic-content-discovery/node_modules/react-i18next/dist/es/withTranslation.js	1130
+webpack://seismic-content-discovery/external assign "ReactDOM"	1093
+webpack://seismic-content-discovery/src/utils/cache.js	921
+webpack://seismic-content-discovery/src/common/apiClient/index.js	913
+webpack://seismic-content-discovery/src/service/content-manager-service/getProperties.js	761
+webpack://seismic-content-discovery/src/common/i18n/index.js	742
+webpack://seismic-content-discovery/src/common/commonErrorHandler/index.js	684
+webpack://seismic-content-discovery/node_modules/classnames/index.js	595
+webpack://seismic-content-discovery/src/components/HomePageEditButton/index.jsx	509
+webpack://seismic-content-discovery/webpack/runtime/jsonp chunk loading	440
+webpack://seismic-content-discovery/node_modules/react-i18next/dist/es/unescape.js	432
+webpack://seismic-content-discovery/webpack/runtime/chunk loaded	395
+webpack://seismic-content-discovery/src/components/TopFacets/index.jsx	395
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/objectSpread.js	339
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js	310
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js	284
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js	238
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/typeof.js	233
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/inherits.js	230
+webpack://seismic-content-discovery/src/utils/commonService/index.js	228
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/createClass.js	223
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js	180
+webpack://seismic-content-discovery/webpack/runtime/make namespace object	175
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js	172
+webpack://seismic-content-discovery/src/common/i18n/locale-data/en-US/index.js	143
+webpack://seismic-content-discovery/webpack/bootstrap	143
+webpack://seismic-content-discovery/node_modules/@seismic/toolchain-scripts/webpack/setPublicPath.js	137
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js	133
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js	132
+webpack://seismic-content-discovery/webpack/startup	127
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js	124
+[unmapped]	124
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/defineProperty.js	120
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/slicedToArray.js	113
+webpack://seismic-content-discovery/webpack/runtime/compat get default export	111
+webpack://seismic-content-discovery/webpack/runtime/define property getters	107
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js	106
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js	96
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/classCallCheck.js	94
+[sourceMappingURL]	79
+webpack://seismic-content-discovery/webpack/runtime/hasOwnProperty shorthand	68
+webpack://seismic-content-discovery/src/components/Responsive/index.jsx	63
+webpack://seismic-content-discovery/external assign "__global_module_registers__[\"seismic-toolkit\"]"	58
+webpack://seismic-content-discovery/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js	41
+webpack://seismic-content-discovery/external assign "PropTypes"	25
+webpack://seismic-content-discovery/external assign "React"	18
+webpack://seismic-content-discovery/webpack/runtime/publicPath	18
+webpack://seismic-content-discovery/external assign "Moment"	7
+webpack://seismic-content-discovery/src/entry.js	4
+[EOLs]	2

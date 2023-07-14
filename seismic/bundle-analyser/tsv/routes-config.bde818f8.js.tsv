@@ -1,0 +1,52 @@
+Source	Size
+[no source]	34738
+webpack://seismic-routes-config/src/routes/RootStates.tsx	6819
+webpack://seismic-routes-config/src/routes/NewsCenterStates.tsx	6029
+webpack://seismic-routes-config/src/routes/DocCenterStates.tsx	5888
+webpack://seismic-routes-config/src/routes/UniversalLinkStates.tsx	5322
+webpack://seismic-routes-config/src/routes/DynamicDocStates.tsx	4135
+webpack://seismic-routes-config/src/routes/CollectionStates.tsx	3106
+webpack://seismic-routes-config/src/routes/WorkSpaceStates.tsx	3031
+webpack://seismic-routes-config/src/routes/PredictiveStates.tsx	2991
+webpack://seismic-routes-config/src/SeismicBaseStates.tsx	2990
+webpack://seismic-routes-config/src/utils.ts	2867
+webpack://seismic-routes-config/src/routes/ExtensionsHostStates.tsx	2419
+webpack://seismic-routes-config/src/routes/WorkflowPagesStates.tsx	2283
+webpack://seismic-routes-config/src/routes/UserCentralStates.tsx	2071
+webpack://seismic-routes-config/src/routes/AdminSettingStates.tsx	1982
+webpack://seismic-routes-config/src/routes/LiveSendActivity.tsx	1781
+webpack://seismic-routes-config/src/routes/ProfileViewStates.tsx	1757
+webpack://seismic-routes-config/src/routes/DocCenterViewStates.tsx	1663
+webpack://seismic-routes-config/src/router-config.ts	1587
+webpack://seismic-routes-config/src/routes/GlobalSearchStates.tsx	1449
+webpack://seismic-routes-config/src/routes/ContentManagerStates.tsx	1446
+webpack://seismic-routes-config/src/routes/EngagementCenterStates.tsx	1376
+webpack://seismic-routes-config/src/routes/ProfileBuilderStates.tsx	1202
+webpack://seismic-routes-config/src/routes/DataReportsStates.tsx	1099
+webpack://seismic-routes-config/src/routes/AnalyticsStates.tsx	1088
+webpack://seismic-routes-config/src/routes/GlabalErrorStates.tsx	999
+webpack://seismic-routes-config/src/business/doccenter.ts	660
+webpack://seismic-routes-config/src/routes/EmailBlastStates.tsx	649
+webpack://seismic-routes-config/src/routes/AnalyticsHubStates.tsx	634
+webpack://seismic-routes-config/src/routes/ContentPlanning.tsx	601
+webpack://seismic-routes-config/src/routes/SpeedTestStates.tsx	572
+webpack://seismic-routes-config/src/routes/UCBPortableStates.tsx	496
+webpack://seismic-routes-config/src/business/workspaceService.ts	466
+webpack://seismic-routes-config/src/states.ts	285
+webpack://seismic-routes-config/src/business/contentprofileService.ts	189
+webpack://seismic-routes-config/webpack/runtime/make namespace object	173
+webpack://seismic-routes-config/src/routes/Components.tsx	170
+webpack://seismic-routes-config/webpack/runtime/compat get default export	109
+webpack://seismic-routes-config/webpack/runtime/define property getters	105
+webpack://seismic-routes-config/node_modules/@seismic/toolchain-scripts/webpack/setPublicPath.js	103
+webpack://seismic-routes-config/webpack/runtime/hasOwnProperty shorthand	66
+webpack://seismic-routes-config/external assign "__global_module_registers__[\"@seismic/browser-utils\"]"	56
+[sourceMappingURL]	50
+webpack://seismic-routes-config/external assign "__global_module_registers__[\"seismic-common\"]"	48
+webpack://seismic-routes-config/external window "uirouterCore"	26
+webpack://seismic-routes-config/external window "uirouterReact"	23
+[unmapped]	12
+webpack://seismic-routes-config/external assign "React"	8
+webpack://seismic-routes-config/webpack/bootstrap	7
+webpack://seismic-routes-config/webpack/runtime/publicPath	6
+[EOLs]	1

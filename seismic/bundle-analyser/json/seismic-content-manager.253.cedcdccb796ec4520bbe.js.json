@@ -1,0 +1,62 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-content-manager.253.cedcdccb796ec4520bbe.js",
+      "totalBytes": 22184,
+      "mappedBytes": 21878,
+      "unmappedBytes": 228,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 76,
+      "files": {
+        "webpack://seismic-content-manager/node_modules/exenv/index.js": {
+          "size": 383
+        },
+        "webpack://seismic-content-manager/node_modules/react-modal/lib/components/Modal.js": {
+          "size": 5822
+        },
+        "webpack://seismic-content-manager/node_modules/react-modal/lib/components/ModalPortal.js": {
+          "size": 7793
+        },
+        "webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/ariaAppHider.js": {
+          "size": 1634
+        },
+        "webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/bodyTrap.js": {
+          "size": 1087
+        },
+        "webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/classList.js": {
+          "size": 685
+        },
+        "webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/focusManager.js": {
+          "size": 1180
+        },
+        "webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/portalOpenInstances.js": {
+          "size": 898
+        },
+        "webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/safeHTMLElement.js": {
+          "size": 375
+        },
+        "webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/scopeTab.js": {
+          "size": 838
+        },
+        "webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/tabbable.js": {
+          "size": 986
+        },
+        "webpack://seismic-content-manager/node_modules/react-modal/lib/index.js": {
+          "size": 170
+        },
+        "webpack://seismic-content-manager/node_modules/warning/warning.js": {
+          "size": 27
+        },
+        "[sourceMappingURL]": {
+          "size": 76
+        },
+        "[unmapped]": {
+          "size": 228
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-articlev2.landingpageMobileViewer.2a0d71de532fefd71788.js",
+      "totalBytes": 10518,
+      "mappedBytes": 10426,
+      "unmappedBytes": 1,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 90,
+      "files": {
+        "webpack://SeismicArticlev2/webpack/universalModuleDefinition": {
+          "size": 236
+        },
+        "[no source]": {
+          "size": 215
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/chunk loaded": {
+          "size": 372
+        },
+        "webpack://SeismicArticlev2/node_modules/babel-polyfill/lib/index.js": {
+          "size": 579
+        },
+        "webpack://SeismicArticlev2/landingPageBuilder/common/constants.js": {
+          "size": 43
+        },
+        "webpack://SeismicArticlev2/landingPageBuilder/viewers/landingpageMobileViewer/index.jsx": {
+          "size": 145
+        },
+        "webpack://SeismicArticlev2/webpack/bootstrap": {
+          "size": 170
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/amd options": {
+          "size": 10
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/compat get default export": {
+          "size": 111
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/global": {
+          "size": 165
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/node module decorator": {
+          "size": 67
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/publicPath": {
+          "size": 7
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/jsonp chunk loading": {
+          "size": 432
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/nonce": {
+          "size": 12
+        },
+        "webpack://SeismicArticlev2/webpack/startup": {
+          "size": 7512
+        },
+        "[sourceMappingURL]": {
+          "size": 90
+        },
+        "[unmapped]": {
+          "size": 1
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

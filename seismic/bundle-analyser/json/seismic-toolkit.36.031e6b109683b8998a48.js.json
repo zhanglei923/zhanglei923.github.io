@@ -1,0 +1,203 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-toolkit.36.031e6b109683b8998a48.js",
+      "totalBytes": 218511,
+      "mappedBytes": 218226,
+      "unmappedBytes": 217,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 67,
+      "files": {
+        "webpack://seismic-toolkit/src/components/content-list2/blank/Blank.jsx": {
+          "size": 19806
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/common/constant.js": {
+          "size": 439
+        },
+        "[no source]": {
+          "size": 100766
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/tint-color.jsx": {
+          "size": 1919
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/common/OptionComponent.js": {
+          "size": 206
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Header/switch/button.js": {
+          "size": 571
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Header/switch/index.js": {
+          "size": 381
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Header/index.js": {
+          "size": 2413
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/InfoDialog.js": {
+          "size": 446
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/ContentView.js": {
+          "size": 1120
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/TileView/base.jsx": {
+          "size": 1345
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/SpecificDeliveryOption/DeliveryOptionButton.jsx": {
+          "size": 767
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/common/specificDeliveryOptionsHandler.js": {
+          "size": 1649
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/SpecificDeliveryOption/SpecificDeliveryOps.jsx": {
+          "size": 2503
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/TileView/FolderTile.jsx": {
+          "size": 5561
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/common/util.js": {
+          "size": 742
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/TileView/DocTile.jsx": {
+          "size": 6759
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/TileView/ProfileTile.jsx": {
+          "size": 1595
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/TileView/index.jsx": {
+          "size": 1631
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/Content.js": {
+          "size": 2802
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/ListView/group/Group.jsx": {
+          "size": 841
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/ListView/grid/Checkbox.jsx": {
+          "size": 1042
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/ListView/grid/ConfigMenu.jsx": {
+          "size": 5388
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/ListView/grid/DropdownList.jsx": {
+          "size": 2046
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/ListView/utils/getValueAsCssWidth.js": {
+          "size": 51
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/ListView/grid/HeaderCell.jsx": {
+          "size": 5384
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/ListView/grid/Header.jsx": {
+          "size": 3514
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/common/htmlFilter.js": {
+          "size": 342
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/ListView/grid/Cell.jsx": {
+          "size": 5147
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/common/html_util.js": {
+          "size": 132
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/ListView/grid/ContextualMenu.jsx": {
+          "size": 5775
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/ListView/grid/Row.jsx": {
+          "size": 3166
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/ListView/index.js": {
+          "size": 2547
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Content/Thumbanil/base.js": {
+          "size": 291
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/checkbox/checkbox.jsx": {
+          "size": 452
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Content/Thumbanil/shortcutFlag.js": {
+          "size": 192
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Content/Thumbanil/content.jsx": {
+          "size": 460
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Content/Thumbanil/folder.jsx": {
+          "size": 456
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Content/Thumbanil/index.js": {
+          "size": 26
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Content/Info/base.js": {
+          "size": 936
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Content/Info/fullpath.jsx": {
+          "size": 1989
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Content/Info/content.jsx": {
+          "size": 2775
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Content/Info/folder.jsx": {
+          "size": 1374
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Content/Info/index.js": {
+          "size": 26
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Content/Delivery/index.jsx": {
+          "size": 1174
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Content/index.jsx": {
+          "size": 190
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Drawer/rightBar.jsx": {
+          "size": 148
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Drawer/tabContent.jsx": {
+          "size": 1131
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Drawer/tabPanel.jsx": {
+          "size": 240
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/Drawer/index.jsx": {
+          "size": 250
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/DetailPanel/instanceitem/instanceitem.jsx": {
+          "size": 1401
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/DetailPanel/description.jsx": {
+          "size": 2016
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/DetailPanel/propertyviewer/propertyviewer.jsx": {
+          "size": 2334
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/DetailPanel/index.jsx": {
+          "size": 662
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/CardItem/index.jsx": {
+          "size": 3727
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/CardView/index.jsx": {
+          "size": 1074
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Content/index.js": {
+          "size": 55
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/components/Pagination.js": {
+          "size": 2071
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/common/createOption.js": {
+          "size": 813
+        },
+        "webpack://seismic-toolkit/src/components/content-list2/ContentList2.js": {
+          "size": 3167
+        },
+        "[sourceMappingURL]": {
+          "size": 67
+        },
+        "[unmapped]": {
+          "size": 217
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

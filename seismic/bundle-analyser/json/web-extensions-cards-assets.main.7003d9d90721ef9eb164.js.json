@@ -1,0 +1,1910 @@
+{
+  "results": [
+    {
+      "bundleName": "web-extensions-cards-assets.main.7003d9d90721ef9eb164.js",
+      "totalBytes": 1412479,
+      "mappedBytes": 1412246,
+      "unmappedBytes": 150,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 81,
+      "files": {
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/regenerator/index.js": {
+          "size": 53
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/node_modules/prop-types/factoryWithThrowingShims.js": {
+          "size": 645
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/node_modules/prop-types/index.js": {
+          "size": 51
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/node_modules/prop-types/lib/ReactPropTypesSecret.js": {
+          "size": 90
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/add-dom-event-listener/lib/EventBaseObject.js": {
+          "size": 667
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/add-dom-event-listener/lib/EventObject.js": {
+          "size": 2918
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/add-dom-event-listener/lib/index.js": {
+          "size": 532
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/add-px-to-style/index.js": {
+          "size": 480
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/core-js/object/assign.js": {
+          "size": 64
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/core-js/object/create.js": {
+          "size": 64
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/core-js/object/define-property.js": {
+          "size": 64
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/core-js/object/set-prototype-of.js": {
+          "size": 64
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/core-js/symbol.js": {
+          "size": 64
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/core-js/symbol/iterator.js": {
+          "size": 75
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/helpers/classCallCheck.js": {
+          "size": 132
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/helpers/createClass.js": {
+          "size": 322
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/helpers/defineProperty.js": {
+          "size": 198
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/helpers/extends.js": {
+          "size": 245
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/helpers/inherits.js": {
+          "size": 458
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/helpers/objectWithoutProperties.js": {
+          "size": 159
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/helpers/possibleConstructorReturn.js": {
+          "size": 283
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/helpers/typeof.js": {
+          "size": 582
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/fn/object/assign.js": {
+          "size": 62
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/fn/object/create.js": {
+          "size": 97
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/fn/object/define-property.js": {
+          "size": 109
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/fn/object/set-prototype-of.js": {
+          "size": 69
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/fn/symbol/index.js": {
+          "size": 78
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/fn/symbol/iterator.js": {
+          "size": 66
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_a-function.js": {
+          "size": 115
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_add-to-unscopables.js": {
+          "size": 45
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_an-object.js": {
+          "size": 117
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_array-includes.js": {
+          "size": 254
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_cof.js": {
+          "size": 88
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js": {
+          "size": 87
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_ctx.js": {
+          "size": 294
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_defined.js": {
+          "size": 109
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_descriptors.js": {
+          "size": 125
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_dom-create.js": {
+          "size": 132
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_enum-bug-keys.js": {
+          "size": 139
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_enum-keys.js": {
+          "size": 179
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js": {
+          "size": 747
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_fails.js": {
+          "size": 76
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js": {
+          "size": 190
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_has.js": {
+          "size": 90
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_hide.js": {
+          "size": 136
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_html.js": {
+          "size": 76
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_ie8-dom-define.js": {
+          "size": 147
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_iobject.js": {
+          "size": 145
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_is-array.js": {
+          "size": 90
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_is-object.js": {
+          "size": 113
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-create.js": {
+          "size": 207
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-define.js": {
+          "size": 865
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-step.js": {
+          "size": 68
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_iterators.js": {
+          "size": 31
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_library.js": {
+          "size": 35
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_meta.js": {
+          "size": 582
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-assign.js": {
+          "size": 490
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-create.js": {
+          "size": 484
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dp.js": {
+          "size": 289
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dps.js": {
+          "size": 185
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gopd.js": {
+          "size": 239
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gopn-ext.js": {
+          "size": 293
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gopn.js": {
+          "size": 132
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gops.js": {
+          "size": 55
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gpo.js": {
+          "size": 271
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-keys-internal.js": {
+          "size": 226
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-keys.js": {
+          "size": 94
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-pie.js": {
+          "size": 46
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_property-desc.js": {
+          "size": 117
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_redefine.js": {
+          "size": 40
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_set-proto.js": {
+          "size": 411
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_set-to-string-tag.js": {
+          "size": 161
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_shared-key.js": {
+          "size": 102
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_shared.js": {
+          "size": 270
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_string-at.js": {
+          "size": 304
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_to-absolute-index.js": {
+          "size": 112
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_to-integer.js": {
+          "size": 108
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_to-iobject.js": {
+          "size": 84
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_to-length.js": {
+          "size": 108
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_to-object.js": {
+          "size": 79
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_to-primitive.js": {
+          "size": 334
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_uid.js": {
+          "size": 135
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_wks-define.js": {
+          "size": 194
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_wks-ext.js": {
+          "size": 34
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js": {
+          "size": 189
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/es6.array.iterator.js": {
+          "size": 350
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.assign.js": {
+          "size": 72
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.create.js": {
+          "size": 69
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.define-property.js": {
+          "size": 91
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.set-prototype-of.js": {
+          "size": 111
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/es6.string.iterator.js": {
+          "size": 250
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/es6.symbol.js": {
+          "size": 3349
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/es7.symbol.async-iterator.js": {
+          "size": 47
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/es7.symbol.observable.js": {
+          "size": 44
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/babel-runtime/node_modules/core-js/library/modules/web.dom.iterable.js": {
+          "size": 643
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/bail/index.js": {
+          "size": 56
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/classnames/index.js": {
+          "size": 539
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/component-classes/index.js": {
+          "size": 1223
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/component-indexof/index.js": {
+          "size": 137
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/dom-css/index.js": {
+          "size": 622
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/enquire.js/src/MediaQuery.js": {
+          "size": 781
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/enquire.js/src/MediaQueryDispatch.js": {
+          "size": 634
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/enquire.js/src/QueryHandler.js": {
+          "size": 486
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/enquire.js/src/Util.js": {
+          "size": 235
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/enquire.js/src/index.js": {
+          "size": 61
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/extend/index.js": {
+          "size": 1162
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js": {
+          "size": 975
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/hoist-non-react-statics/node_modules/react-is/cjs/react-is.production.min.js": {
+          "size": 2145
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/hoist-non-react-statics/node_modules/react-is/index.js": {
+          "size": 49
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/is-plain-obj/index.js": {
+          "size": 173
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/json2mq/index.js": {
+          "size": 430
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/lodash.debounce/index.js": {
+          "size": 1661
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/lodash.isempty/index.js": {
+          "size": 2526
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/lodash/lodash.js": {
+          "size": 70708
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/mdast-add-list-metadata/index.js": {
+          "size": 286
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/mdast-add-list-metadata/node_modules/unist-util-visit-parents/index.js": {
+          "size": 315
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/mdast-util-from-markdown/dist/index.js": {
+          "size": 9616
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/mdast-util-from-markdown/index.js": {
+          "size": 49
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/mdast-util-to-string/index.js": {
+          "size": 229
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/character/ascii-alpha.js": {
+          "size": 73
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/character/ascii-alphanumeric.js": {
+          "size": 75
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/character/ascii-atext.js": {
+          "size": 80
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/character/ascii-control.js": {
+          "size": 79
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/character/ascii-digit.js": {
+          "size": 67
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/character/ascii-hex-digit.js": {
+          "size": 75
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/character/ascii-punctuation.js": {
+          "size": 75
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/character/markdown-line-ending-or-space.js": {
+          "size": 73
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/character/markdown-line-ending.js": {
+          "size": 66
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/character/markdown-space.js": {
+          "size": 87
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/character/unicode-punctuation.js": {
+          "size": 73
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/character/unicode-whitespace.js": {
+          "size": 63
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/constant/assign.js": {
+          "size": 63
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/constant/from-char-code.js": {
+          "size": 69
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/constant/has-own-property.js": {
+          "size": 67
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/constant/html-block-names.js": {
+          "size": 523
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/constant/html-raw-names.js": {
+          "size": 77
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/constant/splice.js": {
+          "size": 59
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/constant/unicode-punctuation-regex.js": {
+          "size": 1312
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/constructs.js": {
+          "size": 677
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/initialize/content.js": {
+          "size": 622
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/initialize/document.js": {
+          "size": 2209
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/initialize/flow.js": {
+          "size": 571
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/initialize/text.js": {
+          "size": 1555
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/parse.js": {
+          "size": 340
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/postprocess.js": {
+          "size": 89
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/preprocess.js": {
+          "size": 616
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/attention.js": {
+          "size": 1910
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/autolink.js": {
+          "size": 1024
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/block-quote.js": {
+          "size": 731
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/character-escape.js": {
+          "size": 368
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/character-reference.js": {
+          "size": 1083
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/code-fenced.js": {
+          "size": 1763
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/code-indented.js": {
+          "size": 726
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/code-text.js": {
+          "size": 1351
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/content.js": {
+          "size": 891
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/definition.js": {
+          "size": 1115
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/factory-destination.js": {
+          "size": 987
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/factory-label.js": {
+          "size": 697
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/factory-space.js": {
+          "size": 221
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/factory-title.js": {
+          "size": 629
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/factory-whitespace.js": {
+          "size": 247
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/hard-break-escape.js": {
+          "size": 295
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/heading-atx.js": {
+          "size": 1169
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/html-flow.js": {
+          "size": 3242
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/html-text.js": {
+          "size": 2591
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/label-end.js": {
+          "size": 2964
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/label-start-image.js": {
+          "size": 466
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/label-start-link.js": {
+          "size": 359
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/line-ending.js": {
+          "size": 210
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/list.js": {
+          "size": 2484
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/partial-blank-line.js": {
+          "size": 184
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/setext-underline.js": {
+          "size": 1119
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/tokenize/thematic-break.js": {
+          "size": 443
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/chunked-push.js": {
+          "size": 114
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/chunked-splice.js": {
+          "size": 296
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/classify-character.js": {
+          "size": 135
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/combine-extensions.js": {
+          "size": 365
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/create-tokenizer.js": {
+          "size": 2307
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/miniflat.js": {
+          "size": 91
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/move-point.js": {
+          "size": 107
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/normalize-identifier.js": {
+          "size": 143
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/prefix-size.js": {
+          "size": 146
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/regex-check.js": {
+          "size": 108
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/resolve-all.js": {
+          "size": 162
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/safe-from-int.js": {
+          "size": 233
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/serialize-chunks.js": {
+          "size": 318
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/shallow.js": {
+          "size": 83
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/size-chunks.js": {
+          "size": 133
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/slice-chunks.js": {
+          "size": 250
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/micromark/dist/util/subtokenize.js": {
+          "size": 1648
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/object-assign/index.js": {
+          "size": 938
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/parse-entities/decode-entity.browser.js": {
+          "size": 189
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/performance-now/lib/performance-now.js": {
+          "size": 517
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/prefix-style/index.js": {
+          "size": 276
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/prop-types/factoryWithThrowingShims.js": {
+          "size": 653
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/prop-types/index.js": {
+          "size": 50
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/prop-types/lib/ReactPropTypesSecret.js": {
+          "size": 79
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/raf/index.js": {
+          "size": 890
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-custom-scrollbars/lib/Scrollbars/defaultRenderElements.js": {
+          "size": 1274
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js": {
+          "size": 15718
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-custom-scrollbars/lib/Scrollbars/styles.js": {
+          "size": 873
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-custom-scrollbars/lib/index.js": {
+          "size": 106
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-custom-scrollbars/lib/utils/getInnerHeight.js": {
+          "size": 218
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-custom-scrollbars/lib/utils/getInnerWidth.js": {
+          "size": 219
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-custom-scrollbars/lib/utils/getScrollbarWidth.js": {
+          "size": 470
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-custom-scrollbars/lib/utils/isString.js": {
+          "size": 130
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-custom-scrollbars/lib/utils/returnFalse.js": {
+          "size": 115
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-dom/cjs/react-dom.production.min.js": {
+          "size": 116595
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-dom/index.js": {
+          "size": 240
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-fast-compare/index.js": {
+          "size": 1645
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-id-generator/lib/index.js": {
+          "size": 485
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-is/cjs/react-is.production.min.js": {
+          "size": 1166
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-is/index.js": {
+          "size": 40
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-jsx-parser/dist/umd/react-jsx-parser.min.js": {
+          "size": 227459
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-markdown/lib/ast-to-react.js": {
+          "size": 3848
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-markdown/lib/get-definitions.js": {
+          "size": 253
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-markdown/lib/plugins/disallow-node.js": {
+          "size": 339
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-markdown/lib/plugins/naive-html.js": {
+          "size": 908
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-markdown/lib/react-markdown.js": {
+          "size": 1546
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-markdown/lib/renderers.js": {
+          "size": 1860
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-markdown/lib/symbols.js": {
+          "size": 111
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-markdown/lib/uri-transformer.js": {
+          "size": 395
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-markdown/lib/wrap-table-rows.js": {
+          "size": 360
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-markdown/node_modules/react-is/cjs/react-is.production.min.js": {
+          "size": 2145
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-markdown/node_modules/react-is/index.js": {
+          "size": 53
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-markdown/node_modules/remark-parse/index.js": {
+          "size": 246
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-responsive/dist/react-responsive.js": {
+          "size": 19299
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-slick/lib/arrows.js": {
+          "size": 4510
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-slick/lib/default-props.js": {
+          "size": 1030
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-slick/lib/dots.js": {
+          "size": 3745
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-slick/lib/index.js": {
+          "size": 108
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-slick/lib/initial-state.js": {
+          "size": 482
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-slick/lib/inner-slider.js": {
+          "size": 16606
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-slick/lib/slider.js": {
+          "size": 5853
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-slick/lib/track.js": {
+          "size": 5886
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-slick/lib/utils/innerSliderUtils.js": {
+          "size": 11806
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react/cjs/react-jsx-runtime.production.min.js": {
+          "size": 667
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react/jsx-runtime.js": {
+          "size": 36
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/regenerator-runtime/runtime.js": {
+          "size": 6677
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/resize-observer-polyfill/dist/ResizeObserver.es.js": {
+          "size": 7622
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/scheduler/cjs/scheduler.production.min.js": {
+          "size": 4612
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/scheduler/index.js": {
+          "size": 34
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/shallowequal/index.js": {
+          "size": 438
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/string-convert/camel2hyphen.js": {
+          "size": 127
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/to-camel-case/index.js": {
+          "size": 126
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/to-no-case/index.js": {
+          "size": 410
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/to-space-case/index.js": {
+          "size": 150
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/trough/index.js": {
+          "size": 635
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/trough/wrap.js": {
+          "size": 367
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/unified/index.js": {
+          "size": 3312
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/unified/node_modules/is-buffer/index.js": {
+          "size": 160
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/unist-util-is/convert.js": {
+          "size": 572
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/unist-util-stringify-position/index.js": {
+          "size": 434
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/unist-util-visit-parents/color.browser.js": {
+          "size": 67
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/unist-util-visit-parents/index.js": {
+          "size": 841
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/unist-util-visit/index.js": {
+          "size": 296
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/vfile-message/index.js": {
+          "size": 761
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/vfile/index.js": {
+          "size": 53
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/vfile/lib/core.js": {
+          "size": 2034
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/vfile/lib/index.js": {
+          "size": 405
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/vfile/lib/minpath.browser.js": {
+          "size": 2019
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/vfile/lib/minproc.browser.js": {
+          "size": 45
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/vfile/node_modules/is-buffer/index.js": {
+          "size": 147
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/xtend/immutable.js": {
+          "size": 200
+        },
+        "webpack://seismic-web-extensions-cards-assets/external assign \"React\"": {
+          "size": 18
+        },
+        "webpack://seismic-web-extensions-cards-assets/webpack/bootstrap": {
+          "size": 164
+        },
+        "webpack://seismic-web-extensions-cards-assets/webpack/runtime/compat get default export": {
+          "size": 111
+        },
+        "webpack://seismic-web-extensions-cards-assets/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://seismic-web-extensions-cards-assets/webpack/runtime/global": {
+          "size": 165
+        },
+        "webpack://seismic-web-extensions-cards-assets/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://seismic-web-extensions-cards-assets/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://seismic-web-extensions-cards-assets/webpack/runtime/node module decorator": {
+          "size": 67
+        },
+        "webpack://seismic-web-extensions-cards-assets/webpack/runtime/publicPath": {
+          "size": 7
+        },
+        "webpack://seismic-web-extensions-cards-assets/webpack/runtime/nonce": {
+          "size": 21
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 127
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js": {
+          "size": 106
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js": {
+          "size": 286
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/slicedToArray.js": {
+          "size": 134
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js": {
+          "size": 41
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js": {
+          "size": 310
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js": {
+          "size": 172
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/polished/node_modules/@babel/runtime/helpers/esm/extends.js": {
+          "size": 228
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/polished/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js": {
+          "size": 121
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/polished/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js": {
+          "size": 137
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/polished/node_modules/@babel/runtime/helpers/esm/construct.js": {
+          "size": 192
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/polished/node_modules/@babel/runtime/helpers/esm/isNativeReflectConstruct.js": {
+          "size": 253
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/polished/node_modules/@babel/runtime/helpers/esm/wrapNativeSuper.js": {
+          "size": 437
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/polished/node_modules/@babel/runtime/helpers/esm/isNativeFunction.js": {
+          "size": 64
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/polished/dist/polished.esm.js": {
+          "size": 8959
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/polished/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js": {
+          "size": 82
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/polished/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js": {
+          "size": 121
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@emotion/memoize/dist/memoize.browser.esm.js": {
+          "size": 80
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@emotion/stylis/dist/stylis.browser.esm.js": {
+          "size": 8154
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@emotion/unitless/dist/unitless.browser.esm.js": {
+          "size": 642
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@emotion/is-prop-valid/dist/is-prop-valid.browser.esm.js": {
+          "size": 4089
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/styled-components/dist/styled-components.browser.esm.js": {
+          "size": 18260
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/utils/color.js": {
+          "size": 36
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/styles/colors/colors.js": {
+          "size": 291
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Spinner/Spinner.js": {
+          "size": 1093
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/date-fns/esm/locale/en-US/_lib/formatDistance/index.js": {
+          "size": 1096
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/date-fns/esm/locale/_lib/buildFormatLongFn/index.js": {
+          "size": 186
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/date-fns/esm/locale/en-US/_lib/formatLong/index.js": {
+          "size": 405
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/date-fns/esm/locale/en-US/_lib/formatRelative/index.js": {
+          "size": 177
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/date-fns/esm/locale/_lib/buildLocalizeFn/index.js": {
+          "size": 402
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/date-fns/esm/locale/en-US/_lib/localize/index.js": {
+          "size": 1975
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/date-fns/esm/locale/_lib/buildMatchFn/index.js": {
+          "size": 561
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/date-fns/esm/locale/en-US/_lib/match/index.js": {
+          "size": 1828
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/date-fns/esm/locale/_lib/buildMatchPatternFn/index.js": {
+          "size": 312
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/locale/locale.js": {
+          "size": 3170
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/date-fns/esm/locale/en-US/index.js": {
+          "size": 126
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/styles/themes/seismic/colors.js": {
+          "size": 43
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/styles/themes/seismic/global.js": {
+          "size": 13583
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/styles/themes/seismic/seismic.js": {
+          "size": 740
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/defineProperty.js": {
+          "size": 121
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/objectSpread2.js": {
+          "size": 580
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/constants/error_messages.js": {
+          "size": 44
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/VisuallyHidden/VisuallyHidden.js": {
+          "size": 291
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Theme/AriaLiveRegions.js": {
+          "size": 577
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Theme/Theme.js": {
+          "size": 507
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/extends.js": {
+          "size": 211
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/toConsumableArray.js": {
+          "size": 56
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js": {
+          "size": 44
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/iterableToArray.js": {
+          "size": 112
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/nonIterableSpread.js": {
+          "size": 167
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/typeof.js": {
+          "size": 233
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js": {
+          "size": 135
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js": {
+          "size": 243
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icon/Base.js": {
+          "size": 699
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconActivity.js": {
+          "size": 509
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconAdd.js": {
+          "size": 286
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconCalendar.js": {
+          "size": 813
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconCheck.js": {
+          "size": 353
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconClose.js": {
+          "size": 292
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconCollection.js": {
+          "size": 565
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconDelete.js": {
+          "size": 761
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconExpire.js": {
+          "size": 628
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconExternal.js": {
+          "size": 434
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconFavoriteSelected.js": {
+          "size": 560
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconFile.js": {
+          "size": 595
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconFolder.js": {
+          "size": 440
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconInsights.js": {
+          "size": 584
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconLike.js": {
+          "size": 453
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconLock.js": {
+          "size": 675
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconMore.js": {
+          "size": 440
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconPublishing.js": {
+          "size": 500
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconStatusCheck.js": {
+          "size": 538
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconStatusCheckFilled.js": {
+          "size": 575
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconStatusClose.js": {
+          "size": 516
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconStatusCloseFilled.js": {
+          "size": 553
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconStatusDot.js": {
+          "size": 261
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconStatusHelp.js": {
+          "size": 552
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconStatusInformation.js": {
+          "size": 597
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconStatusInformationFilled.js": {
+          "size": 634
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconStatusUrgent.js": {
+          "size": 548
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconStatusUrgentFilled.js": {
+          "size": 590
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconUnlock.js": {
+          "size": 676
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/markdownHtmlParser/MantleIconMap.js": {
+          "size": 359
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/markdownHtmlParser/MantleIconWrapper.js": {
+          "size": 999
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/markdownHtmlParser/ParseMarkdownForColors.jsx": {
+          "size": 1976
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/markdownHtmlParser/MarkdownHtmlParser.jsx": {
+          "size": 751
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/classCallCheck.js": {
+          "size": 95
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/createClass.js": {
+          "size": 227
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js": {
+          "size": 96
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/inherits.js": {
+          "size": 230
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js": {
+          "size": 124
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js": {
+          "size": 180
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js": {
+          "size": 133
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/ErrorComponent/index.jsx": {
+          "size": 211
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/ErrorBoundary/index.jsx": {
+          "size": 1374
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/markdown/MarkdownV2.jsx": {
+          "size": 2170
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/ImageError/ImageError.jsx": {
+          "size": 242
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/utilities/cardUtilities.js": {
+          "size": 1144
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/ThumbnailLabel/ThumbnailLabel.jsx": {
+          "size": 623
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js": {
+          "size": 2333
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-util/es/Dom/contains.js": {
+          "size": 75
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-util/es/Dom/addEventListener.js": {
+          "size": 122
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-util/es/ContainerRender.js": {
+          "size": 2871
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-util/es/Portal.js": {
+          "size": 2338
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-trigger/es/utils.js": {
+          "size": 272
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/dom-align/dist-web/index.js": {
+          "size": 13214
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-align/es/util.js": {
+          "size": 475
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-align/es/Align.js": {
+          "size": 2367
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-align/es/index.js": {
+          "size": 3
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-animate/es/ChildrenUtils.js": {
+          "size": 739
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/css-animation/es/Event.js": {
+          "size": 1457
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/css-animation/es/index.js": {
+          "size": 1869
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-animate/es/util/animate.js": {
+          "size": 418
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-animate/es/AnimateChild.js": {
+          "size": 1187
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-animate/es/Animate.js": {
+          "size": 4234
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-util/es/unsafeLifecyclesPolyfill.js": {
+          "size": 283
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-trigger/es/LazyRenderBox.js": {
+          "size": 574
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-trigger/es/PopupInner.js": {
+          "size": 688
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-trigger/es/Popup.js": {
+          "size": 4154
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-trigger/es/index.js": {
+          "size": 11597
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-tooltip/es/placements.js": {
+          "size": 891
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-tooltip/es/Content.js": {
+          "size": 538
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-tooltip/es/Tooltip.js": {
+          "size": 2383
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/rc-tooltip/es/index.js": {
+          "size": 3
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/utilities/componentUtils.js": {
+          "size": 913
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/TooltipWithEllipses/TooltipWithEllipses.jsx": {
+          "size": 3783
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/utilities/debounce.js": {
+          "size": 160
+        },
+        "webpack://seismic-web-extensions-cards-assets/external assign {\"root\":\"SeismicToolkit\",\"commonjs2\":\"seismic-toolkit\",\"commonjs\":\"seismic-toolkit\",\"amd\":\"seismic-toolkit\"}": {
+          "size": 4
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/constants/keys.js": {
+          "size": 227
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/styles/spacing.js": {
+          "size": 208
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/utils/adornment.js": {
+          "size": 195
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/A11YLabel/A11YLabel.js": {
+          "size": 975
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Badge/Badge.js": {
+          "size": 3043
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/styles/elevation.js": {
+          "size": 209
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Button/StyledButton.js": {
+          "size": 5104
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Button/Button.js": {
+          "size": 3603
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/utils/lang.js": {
+          "size": 122
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/utils/util.js": {
+          "size": 16
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getBoundingClientRect.js": {
+          "size": 154
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/enums.js": {
+          "size": 413
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getWindow.js": {
+          "size": 140
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/instanceOf.js": {
+          "size": 260
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getDocumentElement.js": {
+          "size": 91
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getWindowScroll.js": {
+          "size": 84
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getWindowScrollBarX.js": {
+          "size": 54
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getComputedStyle.js": {
+          "size": 48
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/math.js": {
+          "size": 42
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getNodeName.js": {
+          "size": 60
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getParentNode.js": {
+          "size": 95
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/isScrollParent.js": {
+          "size": 115
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getScrollParent.js": {
+          "size": 113
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/listScrollParents.js": {
+          "size": 205
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/isTableElement.js": {
+          "size": 59
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getOffsetParent.js": {
+          "size": 603
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/contains.js": {
+          "size": 176
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/rectToClientRect.js": {
+          "size": 99
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getClippingRect.js": {
+          "size": 773
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getViewportRect.js": {
+          "size": 249
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getDocumentRect.js": {
+          "size": 361
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/getBasePlacement.js": {
+          "size": 38
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/getVariation.js": {
+          "size": 38
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/getMainAxisFromPlacement.js": {
+          "size": 60
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/computeOffsets.js": {
+          "size": 481
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/mergePaddingObject.js": {
+          "size": 42
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/getFreshSideObject.js": {
+          "size": 64
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/expandToHashMap.js": {
+          "size": 70
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/detectOverflow.js": {
+          "size": 813
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getCompositeRect.js": {
+          "size": 310
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getNodeScroll.js": {
+          "size": 27
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getHTMLElementScroll.js": {
+          "size": 51
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/dom-utils/getLayoutRect.js": {
+          "size": 189
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/orderModifiers.js": {
+          "size": 413
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/createPopper.js": {
+          "size": 1843
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/debounce.js": {
+          "size": 117
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/mergeByName.js": {
+          "size": 233
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/modifiers/eventListeners.js": {
+          "size": 544
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/modifiers/popperOffsets.js": {
+          "size": 215
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/modifiers/computeStyles.js": {
+          "size": 1743
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/modifiers/applyStyles.js": {
+          "size": 944
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/modifiers/offset.js": {
+          "size": 573
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/getOppositePlacement.js": {
+          "size": 143
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/getOppositeVariationPlacement.js": {
+          "size": 107
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/modifiers/flip.js": {
+          "size": 1326
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/computeAutoPlacement.js": {
+          "size": 468
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/within.js": {
+          "size": 40
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/modifiers/preventOverflow.js": {
+          "size": 1344
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/utils/getAltAxis.js": {
+          "size": 14
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/modifiers/arrow.js": {
+          "size": 955
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/modifiers/hide.js": {
+          "size": 745
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@popperjs/core/lib/popper.js": {
+          "size": 77
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-popper/lib/esm/utils.js": {
+          "size": 195
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-popper/lib/esm/usePopper.js": {
+          "size": 1287
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/styles/themes/themes.js": {
+          "size": 39
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/styles/zIndex.js": {
+          "size": 19
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Resizer/Resizer.js": {
+          "size": 439
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js": {
+          "size": 90
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-transition-group/esm/config.js": {
+          "size": 4
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-transition-group/esm/TransitionGroupContext.js": {
+          "size": 27
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-transition-group/esm/Transition.js": {
+          "size": 3621
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Transition/Transition.js": {
+          "size": 3587
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Popper/ArrowPositioner.js": {
+          "size": 682
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Popper/Popper.js": {
+          "size": 5959
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/hooks/use_is_mounted.js": {
+          "size": 114
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/ButtonMenuContainer/ButtonMenuContainer.js": {
+          "size": 1762
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/hooks/use_controlled_dropdown.js": {
+          "size": 186
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/utils/react.js": {
+          "size": 812
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/createForOfIteratorHelper.js": {
+          "size": 607
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/ListItem/ListItem.js": {
+          "size": 4113
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Menu/MenuContext.js": {
+          "size": 256
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/MenuItem/MenuItem.js": {
+          "size": 898
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/ButtonMenuItem/ButtonMenuItem.js": {
+          "size": 638
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/ButtonMenuItemGroup/ButtonMenuItemGroup.js": {
+          "size": 1485
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/styles/mode.js": {
+          "size": 147
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Box/Box.js": {
+          "size": 345
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/List/List.js": {
+          "size": 213
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Menu/utils.js": {
+          "size": 1070
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Menu/Menu.js": {
+          "size": 1166
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/ButtonMenuMenu/ButtonMenuMenu.js": {
+          "size": 1103
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/ButtonMenuTrigger/ButtonMenuTrigger.js": {
+          "size": 680
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Tooltip/TooltipArrow.js": {
+          "size": 1371
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Tooltip/Tooltip.js": {
+          "size": 2050
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/hooks/use_tooltip_hover.js": {
+          "size": 1038
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/ButtonMenu/ButtonMenu.js": {
+          "size": 1098
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/node_modules/@babel/runtime/helpers/esm/typeof.js": {
+          "size": 233
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/node_modules/@babel/runtime/helpers/esm/classCallCheck.js": {
+          "size": 95
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/node_modules/@babel/runtime/helpers/esm/createClass.js": {
+          "size": 278
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js": {
+          "size": 124
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js": {
+          "size": 124
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/node_modules/@babel/runtime/helpers/esm/inherits.js": {
+          "size": 281
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js": {
+          "size": 180
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js": {
+          "size": 140
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/node_modules/@babel/runtime/helpers/esm/defineProperty.js": {
+          "size": 121
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js": {
+          "size": 107
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/dist/esm/i18next.js": {
+          "size": 53840
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/node_modules/@babel/runtime/helpers/esm/toArray.js": {
+          "size": 37
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js": {
+          "size": 41
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/node_modules/@babel/runtime/helpers/esm/iterableToArray.js": {
+          "size": 112
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js": {
+          "size": 286
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js": {
+          "size": 172
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/i18next-xhr-backend/dist/esm/i18nextXHRBackend.js": {
+          "size": 2617
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-i18next/dist/es/unescape.js": {
+          "size": 401
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-i18next/dist/es/context.js": {
+          "size": 1227
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/i18n/i18n.js": {
+          "size": 240
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/i18n/translate.js": {
+          "size": 260
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/actionsMenu/action/Action.jsx": {
+          "size": 938
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-on/node_modules/tslib/tslib.es6.js": {
+          "size": 756
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-remove-scroll/node_modules/tslib/tslib.es6.js": {
+          "size": 763
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-remove-scroll-bar/dist/es2015/constants.js": {
+          "size": 123
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/use-callback-ref/dist/es2015/useMergeRef.js": {
+          "size": 93
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/use-callback-ref/dist/es2015/useRef.js": {
+          "size": 200
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/use-callback-ref/dist/es2015/assignRef.js": {
+          "size": 65
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/use-sidecar/node_modules/tslib/tslib.es6.js": {
+          "size": 572
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/use-sidecar/dist/es2015/medium.js": {
+          "size": 900
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-remove-scroll/dist/es2015/medium.js": {
+          "size": 12
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-remove-scroll/dist/es2015/UI.js": {
+          "size": 877
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/constants.js": {
+          "size": 121
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/dist/es2015/FocusGuard.js": {
+          "size": 427
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/dist/es2015/medium.js": {
+          "size": 113
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/dist/es2015/Lock.js": {
+          "size": 2102
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/dist/es2015/UI.js": {
+          "size": 3
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-on/dist/es2015/medium.js": {
+          "size": 34
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-on/dist/es2015/UI.js": {
+          "size": 929
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/use-sidecar/dist/es2015/exports.js": {
+          "size": 306
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-clientside-effect/lib/index.es.js": {
+          "size": 579
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/utils/array.js": {
+          "size": 173
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/utils/is.js": {
+          "size": 1163
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/utils/tabOrder.js": {
+          "size": 335
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/utils/tabUtils.js": {
+          "size": 707
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/utils/tabbables.js": {
+          "size": 213
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/utils/DOMutils.js": {
+          "size": 643
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/utils/getActiveElement.js": {
+          "size": 214
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/utils/safe.js": {
+          "size": 41
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/utils/all-affected.js": {
+          "size": 551
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/focusInside.js": {
+          "size": 278
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/utils/correctFocus.js": {
+          "size": 279
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/utils/firstFocus.js": {
+          "size": 116
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/solver.js": {
+          "size": 436
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/utils/parenting.js": {
+          "size": 497
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/focusMerge.js": {
+          "size": 575
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/utils/auto-focus.js": {
+          "size": 237
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/setFocus.js": {
+          "size": 422
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/index.js": {
+          "size": 3
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/dist/es2015/util.js": {
+          "size": 77
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/dist/es2015/Trap.js": {
+          "size": 2374
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/focusables.js": {
+          "size": 262
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/node_modules/focus-lock/dist/es2015/focusIsHidden.js": {
+          "size": 136
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-lock/dist/es2015/sidecar.js": {
+          "size": 10
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-style-singleton/dist/es2015/singleton.js": {
+          "size": 475
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/get-nonce/dist/es2015/index.js": {
+          "size": 5
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-style-singleton/dist/es2015/component.js": {
+          "size": 88
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-style-singleton/dist/es2015/hook.js": {
+          "size": 98
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-remove-scroll-bar/dist/es2015/utils.js": {
+          "size": 512
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-remove-scroll-bar/dist/es2015/component.js": {
+          "size": 1226
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-remove-scroll/dist/es2015/aggresiveCapture.js": {
+          "size": 237
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-remove-scroll/dist/es2015/handleScroll.js": {
+          "size": 983
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-remove-scroll/dist/es2015/SideEffect.js": {
+          "size": 3030
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-remove-scroll/dist/es2015/sidecar.js": {
+          "size": 11
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/aria-hidden/dist/es2015/index.js": {
+          "size": 1399
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-on/dist/es2015/InteractivityDisabler.js": {
+          "size": 124
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-on/dist/es2015/Effect.js": {
+          "size": 1474
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-on/dist/es2015/sidecar.js": {
+          "size": 10
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/react-focus-on/dist/es2015/Combination.js": {
+          "size": 141
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Backdrop/Backdrop.js": {
+          "size": 558
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/LinkButton/LinkButton.js": {
+          "size": 3280
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Modal/constants.js": {
+          "size": 25
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Modal/Modal.js": {
+          "size": 6898
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js": {
+          "size": 346
+        },
+        "webpack://seismic-web-extensions-cards-assets/external assign \"SeismicCommon\"": {
+          "size": 17
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/utilities/getServiceAddresses.js": {
+          "size": 1136
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/cardDialog/utils.js": {
+          "size": 619
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/cardDialog/index.jsx": {
+          "size": 2507
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/cardDialog/IFrameHelper.jsx": {
+          "size": 1436
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/searchCards/CardActions.jsx": {
+          "size": 968
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/searchCards/SearchCardNarrow.jsx": {
+          "size": 3193
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/Icon/Icon.jsx": {
+          "size": 349229
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/Responsive/index.jsx": {
+          "size": 372
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/Responsive/ResponsiveMap.jsx": {
+          "size": 164
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/highlight/HighlightPro.jsx": {
+          "size": 1681
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/utilities/useDimensions.js": {
+          "size": 353
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/utilities/useEventListener.js": {
+          "size": 260
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/utilities/EnvUtils.js": {
+          "size": 164
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/highlight/HighlightNarrowPro.jsx": {
+          "size": 2410
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/highlight/HighlightNarrow.jsx": {
+          "size": 2068
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/highlight/Highlight.jsx": {
+          "size": 2108
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/tiles/TilesNarrow.jsx": {
+          "size": 1024
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/tiles/Tiles.jsx": {
+          "size": 1152
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/carousel/CarouselProTenant.jsx": {
+          "size": 1201
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/carousel/CarouselWithDescProTenant.jsx": {
+          "size": 1590
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/carousel/CarouselWithDescription.jsx": {
+          "size": 1516
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/carousel/Carousel.jsx": {
+          "size": 1634
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/error/highlight/HighlightProError.jsx": {
+          "size": 4582
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Icons/IconDash.js": {
+          "size": 283
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Checkbox/CheckboxIcons.js": {
+          "size": 2272
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Checkbox/Checkbox.js": {
+          "size": 1887
+        },
+        "webpack://seismic-web-extensions-cards-assets/node_modules/@seismic/mantle/dist/components/Radio/Radio.js": {
+          "size": 3371
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/XCPItems/SelectionControl/index.jsx": {
+          "size": 1314
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/BusyIndicator/index.jsx": {
+          "size": 340
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/XCPItems/ListItem/ListItem.jsx": {
+          "size": 2338
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/XCPItems/ErrorComponent/index.jsx": {
+          "size": 540
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/XCPItems/NoContent/index.jsx": {
+          "size": 472
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/headerCard/Header.jsx": {
+          "size": 1062
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/descriptionCard/Description.jsx": {
+          "size": 1958
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/lists/slider/Slider.jsx": {
+          "size": 1880
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/lists/cardList/CardListItem.jsx": {
+          "size": 2864
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/cardButton/index.jsx": {
+          "size": 1188
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/utilities/messaging.js": {
+          "size": 124
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/lists/cardList/NewsListItem.jsx": {
+          "size": 3383
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/common/lists/cardList/CardList.jsx": {
+          "size": 2164
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/entry.jsx": {
+          "size": 188
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/searchCards/SearchCardWide.jsx": {
+          "size": 3459
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/searchCards/Noauth.jsx": {
+          "size": 1009
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/error/highlight/HighlightError.jsx": {
+          "size": 4958
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/error/tiles/TilesError.jsx": {
+          "size": 4574
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/cards/error/carousel/CarouselError.jsx": {
+          "size": 7192
+        },
+        "webpack://seismic-web-extensions-cards-assets/src/components/XCPItems/XcpItems.jsx": {
+          "size": 1471
+        },
+        "[sourceMappingURL]": {
+          "size": 81
+        },
+        "[unmapped]": {
+          "size": 150
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

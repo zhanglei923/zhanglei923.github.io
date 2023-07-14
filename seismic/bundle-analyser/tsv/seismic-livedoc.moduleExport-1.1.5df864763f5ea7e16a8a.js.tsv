@@ -1,0 +1,68 @@
+Source	Size
+webpack://seismic-livedoc/node_modules/seismic-form-component/lib/moduleExport-1.1.js	2527299
+[no source]	85103
+webpack://seismic-livedoc/node_modules/i18next/dist/esm/i18next.js	54033
+webpack://seismic-livedoc/src/service/swagger/live-doc-v1.json	20151
+webpack://seismic-livedoc/src/app/app.jsx	12600
+webpack://seismic-livedoc/src/service/swagger/bss-upload-v1.json	10247
+webpack://seismic-livedoc/src/app/expire-external-contents/expire-external-contents.jsx	4962
+webpack://seismic-livedoc/src/app/progress/progress.jsx	4604
+webpack://seismic-livedoc/src/parallel-task-panel/parallel-task-panel.jsx	4018
+webpack://seismic-livedoc/src/service/live-doc-service.js	3709
+webpack://seismic-livedoc/src/service/bss-upload-service.js	3679
+webpack://seismic-livedoc/src/parallel-task-panel/task-info.jsx	2842
+webpack://seismic-livedoc/node_modules/i18next-xhr-backend/dist/esm/i18nextXHRBackend.js	2646
+webpack://seismic-livedoc/src/util/model-converter.js	2583
+webpack://seismic-livedoc/src/app/message-dialog/index.jsx	1839
+webpack://seismic-livedoc/src/i18n/locale-data/en-US.json	1400
+webpack://seismic-livedoc/src/service/http-helper.js	1346
+webpack://seismic-livedoc/src/app/progress/progress-bar/progress-bar.jsx	1297
+webpack://seismic-livedoc/node_modules/react-i18next/dist/es/context.js	1256
+webpack://seismic-livedoc/src/app/format-selector/format-selector.jsx	1190
+webpack://seismic-livedoc/src/i18n/translate.js	820
+webpack://seismic-livedoc/src/util/progress-simulator.js	781
+webpack://seismic-livedoc/src/service/init-ms-api-client.js	688
+webpack://seismic-livedoc/src/i18n/i18n-plugin/getSeismicCDN-plugin.js	485
+webpack://seismic-livedoc/src/constant/step-status.js	413
+webpack://seismic-livedoc/node_modules/react-i18next/dist/es/unescape.js	401
+webpack://seismic-livedoc/src/parallel-task-panel/wrapper.js	368
+webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js	284
+webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/inherits.js	279
+webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/createClass.js	274
+webpack://seismic-livedoc/webpack/bootstrap	245
+webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/typeof.js	230
+webpack://seismic-livedoc/webpack/runtime/make namespace object	193
+[unmapped]	181
+webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js	177
+webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js	172
+webpack://seismic-livedoc/webpack/runtime/define property getters	161
+webpack://seismic-livedoc/src/entry-1.1.js	157
+webpack://seismic-livedoc/webpack/runtime/compat get default export	147
+webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js	137
+webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js	123
+webpack://seismic-livedoc/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js	121
+webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js	121
+webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/defineProperty.js	120
+webpack://seismic-livedoc/src/constant/bss-keys.js	117
+webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/iterableToArray.js	112
+webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js	106
+webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/classCallCheck.js	94
+webpack://seismic-livedoc/webpack/runtime/hasOwnProperty shorthand	86
+[sourceMappingURL]	81
+webpack://seismic-livedoc/external assign "__global_module_registers__[\"seismic-toolkit\"]"	49
+webpack://seismic-livedoc/external assign "__global_module_registers__[\"seismic-common\"]"	48
+webpack://seismic-livedoc/src/constant/job-status.js	48
+webpack://seismic-livedoc/src/constant/formats.js	48
+webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js	41
+webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/toArray.js	39
+webpack://seismic-livedoc/src/constant/image-sizes.js	27
+webpack://seismic-livedoc/webpack/runtime/publicPath	25
+webpack://seismic-livedoc/node_modules/seismic-form-component/index-1.1.js	23
+webpack://seismic-livedoc/external assign "PropTypes"	19
+webpack://seismic-livedoc/external assign "ReactDOM"	18
+webpack://seismic-livedoc/external assign "React"	15
+webpack://seismic-livedoc/src/constant/conversion-result-status.js	12
+webpack://seismic-livedoc/src/constant/request-location.js	10
+webpack://seismic-livedoc/src/constant/ws-version-types.js	10
+webpack://seismic-livedoc/src/constant/history-task-status.js	9
+[EOLs]	1

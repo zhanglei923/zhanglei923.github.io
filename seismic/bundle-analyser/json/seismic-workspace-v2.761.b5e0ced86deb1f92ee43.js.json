@@ -1,0 +1,527 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-workspace-v2.761.b5e0ced86deb1f92ee43.js",
+      "totalBytes": 908004,
+      "mappedBytes": 907690,
+      "unmappedBytes": 239,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 73,
+      "files": {
+        "webpack://seismic-workspace-v2/src/Icons/svgicons/addContent/computer.svg": {
+          "size": 113
+        },
+        "webpack://seismic-workspace-v2/src/Icons/svgicons/addContent/createFolder.svg": {
+          "size": 116
+        },
+        "webpack://seismic-workspace-v2/src/Icons/svgicons/addContent/createLink.svg": {
+          "size": 115
+        },
+        "webpack://seismic-workspace-v2/src/Icons/svgicons/addContent/externalSource.svg": {
+          "size": 119
+        },
+        "webpack://seismic-workspace-v2/src/Icons/svgicons/addContent/plus.svg": {
+          "size": 108
+        },
+        "webpack://seismic-workspace-v2/src/Icons/svgicons/addContent/uploadFile.svg": {
+          "size": 114
+        },
+        "webpack://seismic-workspace-v2/src/components/EmptyView/images/empty-folder.png": {
+          "size": 575
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUIAddContent/ActionListOption.jsx": {
+          "size": 4500
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUIAddContent/index.jsx": {
+          "size": 15606
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUIDeliveryOptionsBarForListPage/ActionsMenu/ActionButton/index.jsx": {
+          "size": 5279
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUIDeliveryOptionsBarForListPage/ActionsMenu/ActionMenuForDataGrid.jsx": {
+          "size": 5569
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUIDeliveryOptionsBarForListPage/ActionsMenu/ActionsDropdownMenu/index.jsx": {
+          "size": 4144
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUIDeliveryOptionsBarForListPage/ActionsMenu/ActionsDropdownMenuItem/index.jsx": {
+          "size": 4930
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUIDeliveryOptionsBarForListPage/ActionsMenu/Common/util.js": {
+          "size": 4814
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUIDeliveryOptionsBarForListPage/ActionsMenu/dataHandler.js": {
+          "size": 5297
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUIDeliveryOptionsBarForListPage/ActionsMenu/index.jsx": {
+          "size": 11129
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUIDeliveryOptionsBarForListPage/DeliveryOptionsBarForDataGrid.jsx": {
+          "size": 4938
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUIDeliveryOptionsBarForListPage/index.jsx": {
+          "size": 8673
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUIDialog/Modal.jsx": {
+          "size": 3264
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUIDialog/index.jsx": {
+          "size": 8717
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUIDropDown/Option.jsx": {
+          "size": 5000
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUIDropDown/index.jsx": {
+          "size": 3051
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/NextUISortBarForListPage/index.jsx": {
+          "size": 611
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/SecNavForList/dataHandler.js": {
+          "size": 1833
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/SecNavForList/index.jsx": {
+          "size": 9256
+        },
+        "webpack://seismic-workspace-v2/src/NextUI/components/Toast/index.jsx": {
+          "size": 3622
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentDataGridView/dataAdapter.ts": {
+          "size": 3305
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentDataGridView/dataGridRefreshSubject.ts": {
+          "size": 1566
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentDataGridView/dataGridStateSubject.ts": {
+          "size": 1974
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentDataGridView/index.tsx": {
+          "size": 9153
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentDataGridView/loader.ts": {
+          "size": 584
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/components/ContentName/ContentNameForDataGrid.jsx": {
+          "size": 3855
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/components/ContentName/EllipsisText/index.jsx": {
+          "size": 4561
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/components/ContentName/index.jsx": {
+          "size": 3772
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/components/CustomHeader/index.jsx": {
+          "size": 4647
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/components/DetailNavigateWrapper/index.jsx": {
+          "size": 4596
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/components/EditableContentName/index.jsx": {
+          "size": 6142
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/components/ListCountInfo/index.jsx": {
+          "size": 926
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/components/ListViewFormatIcon/index.jsx": {
+          "size": 5465
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/components/ResponsiveIcon/index.jsx": {
+          "size": 973
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/components/RowQuickActionBar/index.jsx": {
+          "size": 4524
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/components/ViewSwitch/icons/List.jsx": {
+          "size": 487
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/components/ViewSwitch/icons/Tile.jsx": {
+          "size": 469
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/components/ViewSwitch/icons/index.js": {
+          "size": 240
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/components/ViewSwitch/index.jsx": {
+          "size": 2074
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/dataHandler/columns.jsx": {
+          "size": 13437
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/dataHandler/index.js": {
+          "size": 3980
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/dataHandler/previewInfo.js": {
+          "size": 2321
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/dataHandler/staticConfig.jsx": {
+          "size": 1233
+        },
+        "webpack://seismic-workspace-v2/src/components/ContentList/index.jsx": {
+          "size": 18198
+        },
+        "webpack://seismic-workspace-v2/src/components/Dialog/Modal.jsx": {
+          "size": 2978
+        },
+        "webpack://seismic-workspace-v2/src/components/Dialog/index.jsx": {
+          "size": 8338
+        },
+        "webpack://seismic-workspace-v2/src/components/EmptyStates/index.jsx": {
+          "size": 1399
+        },
+        "webpack://seismic-workspace-v2/src/components/EmptyView/index.jsx": {
+          "size": 995
+        },
+        "webpack://seismic-workspace-v2/src/components/LightContentListForAction/components/Body/Item.jsx": {
+          "size": 5196
+        },
+        "webpack://seismic-workspace-v2/src/components/LightContentListForAction/components/Body/index.jsx": {
+          "size": 6295
+        },
+        "webpack://seismic-workspace-v2/src/components/LightContentListForAction/components/Footer/index.jsx": {
+          "size": 5231
+        },
+        "webpack://seismic-workspace-v2/src/components/LightContentListForAction/components/Header/index.jsx": {
+          "size": 6700
+        },
+        "webpack://seismic-workspace-v2/src/components/LightContentListForAction/components/Loading/index.jsx": {
+          "size": 886
+        },
+        "webpack://seismic-workspace-v2/src/components/LightContentListForAction/index.jsx": {
+          "size": 11890
+        },
+        "webpack://seismic-workspace-v2/src/components/LightContentListForAction/utils/const.js": {
+          "size": 156
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/index.js": {
+          "size": 258
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/lang.js": {
+          "size": 692
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/locale-data/de-DE.js": {
+          "size": 6406
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/locale-data/en-GB.js": {
+          "size": 5969
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/locale-data/en-US.js": {
+          "size": 6998
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/locale-data/es-ES.js": {
+          "size": 6390
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/locale-data/fr-CA.js": {
+          "size": 6529
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/locale-data/fr-FR.js": {
+          "size": 6526
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/locale-data/id-ID.js": {
+          "size": 6560
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/locale-data/it-IT.js": {
+          "size": 6305
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/locale-data/ja-JP.js": {
+          "size": 6868
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/locale-data/ko-KR.js": {
+          "size": 6415
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/locale-data/pt-BR.js": {
+          "size": 6314
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/locale-data/ru-RU.js": {
+          "size": 8493
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/locale-data/tr-TR.js": {
+          "size": 6865
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/locale-data/zh-CN.js": {
+          "size": 6079
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/common/i18n/locale-data/zh-TW.js": {
+          "size": 6299
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/components/DeliveryOptionsBar/Common/constants.jsx": {
+          "size": 5557
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/components/DeliveryOptionsBar/Common/util.js": {
+          "size": 6890
+        },
+        "webpack://seismic-workspace-v2/src/core/kitTool/components/DeliveryOptionsBar/index.jsx": {
+          "size": 4149
+        },
+        "webpack://seismic-workspace-v2/src/core/utils/keyBoardHandler.js": {
+          "size": 848
+        },
+        "webpack://seismic-workspace-v2/src/core/utils/lookupElementByRecursive.ts": {
+          "size": 791
+        },
+        "webpack://seismic-workspace-v2/src/pages/ListPage/dataFlow.js": {
+          "size": 7559
+        },
+        "webpack://seismic-workspace-v2/src/pages/ListPage/dataHandler.js": {
+          "size": 1221
+        },
+        "webpack://seismic-workspace-v2/src/pages/ListPage/index.jsx": {
+          "size": 43408
+        },
+        "webpack://seismic-workspace-v2/src/widgets/AddContentTip/AddContentV1/index.jsx": {
+          "size": 11409
+        },
+        "webpack://seismic-workspace-v2/src/widgets/AddContentTip/AddContentV2/ActionListOption.jsx": {
+          "size": 4353
+        },
+        "webpack://seismic-workspace-v2/src/widgets/AddContentTip/AddContentV2/index.jsx": {
+          "size": 11623
+        },
+        "webpack://seismic-workspace-v2/src/widgets/AddContentTip/AddExternalContent/dataHandler.js": {
+          "size": 2064
+        },
+        "webpack://seismic-workspace-v2/src/widgets/AddContentTip/AddExternalContent/index.jsx": {
+          "size": 17323
+        },
+        "webpack://seismic-workspace-v2/src/widgets/AddContentTip/AddFolderDialog/index.jsx": {
+          "size": 11564
+        },
+        "webpack://seismic-workspace-v2/src/widgets/AddContentTip/AddUrlDialog/Component/ActiveInput/index.jsx": {
+          "size": 5260
+        },
+        "webpack://seismic-workspace-v2/src/widgets/AddContentTip/AddUrlDialog/Component/Content/index.jsx": {
+          "size": 20726
+        },
+        "webpack://seismic-workspace-v2/src/widgets/AddContentTip/AddUrlDialog/Component/Header/index.jsx": {
+          "size": 818
+        },
+        "webpack://seismic-workspace-v2/src/widgets/AddContentTip/AddUrlDialog/Component/Radio/index.jsx": {
+          "size": 1525
+        },
+        "webpack://seismic-workspace-v2/src/widgets/AddContentTip/AddUrlDialog/index.jsx": {
+          "size": 5118
+        },
+        "webpack://seismic-workspace-v2/src/widgets/AddContentTip/AddVideoDialog/index.jsx": {
+          "size": 12992
+        },
+        "webpack://seismic-workspace-v2/src/widgets/AddContentTip/dataHandler.js": {
+          "size": 1164
+        },
+        "webpack://seismic-workspace-v2/src/widgets/AddContentTip/index.jsx": {
+          "size": 789
+        },
+        "webpack://seismic-workspace-v2/src/widgets/AddContentTip/utils.js": {
+          "size": 3096
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentActions/Copy/FailedDialog/index.jsx": {
+          "size": 3050
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentActions/Copy/dataHandle.js": {
+          "size": 3861
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentActions/Copy/index.js": {
+          "size": 12284
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentActions/CopyLinkContainer/index.jsx": {
+          "size": 3487
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentActions/Delete/dataHandler.js": {
+          "size": 1198
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentActions/Delete/index.js": {
+          "size": 1786
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentActions/Move/dataHandle.js": {
+          "size": 5045
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentActions/Move/index.js": {
+          "size": 12252
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/LoadMoreContainer/LoadMoreDataLogic.js": {
+          "size": 2913
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/LoadMoreContainer/LoadMoreDataLogicForDataGrid.js": {
+          "size": 5366
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/LoadMoreContainer/index.jsx": {
+          "size": 5335
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/LoadMoreContainer/loadMoreCheckLogic.js": {
+          "size": 279
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/actionsUtils.js": {
+          "size": 4938
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/components/AddToMyFiles/AddToMyFilesLauncher.js": {
+          "size": 5077
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/components/AddToMyFiles/dataHandler.js": {
+          "size": 2196
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/components/AddToMyFiles/dataManager.js": {
+          "size": 3570
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/components/AddToMyFiles/index.jsx": {
+          "size": 7411
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/components/ClickButton/index.jsx": {
+          "size": 1027
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/components/DropDown/Option.jsx": {
+          "size": 4841
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/components/DropDown/index.jsx": {
+          "size": 1660
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/components/InviteUser/InviteUserInList/index.jsx": {
+          "size": 4460
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/components/InviteUser/dataHandler.js": {
+          "size": 490
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/components/InviteUser/index.jsx": {
+          "size": 6038
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/components/Rename/index.jsx": {
+          "size": 6390
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/dataHandler.js": {
+          "size": 3370
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/index.jsx": {
+          "size": 31713
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContentListForListPage/model.js": {
+          "size": 13251
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContextualFolderList/components/DropDownOption/index.jsx": {
+          "size": 5429
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContextualFolderList/components/FolderList/Item.jsx": {
+          "size": 16199
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContextualFolderList/components/FolderList/index.jsx": {
+          "size": 5327
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContextualFolderList/components/Loading/index.jsx": {
+          "size": 3052
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContextualFolderList/dataHandler.js": {
+          "size": 3021
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContextualFolderList/index.jsx": {
+          "size": 20444
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ContextualFolderList/pagenation.js": {
+          "size": 5051
+        },
+        "webpack://seismic-workspace-v2/src/widgets/DeliveryOptionsBarForListPage/ActionsMenu/ActionButton/index.jsx": {
+          "size": 4831
+        },
+        "webpack://seismic-workspace-v2/src/widgets/DeliveryOptionsBarForListPage/ActionsMenu/ActionsDropdownMenu/index.jsx": {
+          "size": 4117
+        },
+        "webpack://seismic-workspace-v2/src/widgets/DeliveryOptionsBarForListPage/ActionsMenu/ActionsDropdownMenuItem/index.jsx": {
+          "size": 4057
+        },
+        "webpack://seismic-workspace-v2/src/widgets/DeliveryOptionsBarForListPage/ActionsMenu/Common/constants.js": {
+          "size": 4909
+        },
+        "webpack://seismic-workspace-v2/src/widgets/DeliveryOptionsBarForListPage/ActionsMenu/Common/util.js": {
+          "size": 4752
+        },
+        "webpack://seismic-workspace-v2/src/widgets/DeliveryOptionsBarForListPage/ActionsMenu/dataHandler.js": {
+          "size": 4044
+        },
+        "webpack://seismic-workspace-v2/src/widgets/DeliveryOptionsBarForListPage/ActionsMenu/index.jsx": {
+          "size": 8530
+        },
+        "webpack://seismic-workspace-v2/src/widgets/DeliveryOptionsBarForListPage/index.jsx": {
+          "size": 7483
+        },
+        "webpack://seismic-workspace-v2/src/widgets/DropUpload/dataHandler.js": {
+          "size": 839
+        },
+        "webpack://seismic-workspace-v2/src/widgets/DropUpload/index.jsx": {
+          "size": 8859
+        },
+        "webpack://seismic-workspace-v2/src/widgets/GrantPermission/ModalForGrantPermission/index.jsx": {
+          "size": 3180
+        },
+        "webpack://seismic-workspace-v2/src/widgets/InfoDialog/dataHandler.js": {
+          "size": 902
+        },
+        "webpack://seismic-workspace-v2/src/widgets/InfoDialog/index.jsx": {
+          "size": 3646
+        },
+        "webpack://seismic-workspace-v2/src/widgets/LightContentList/Constant.js": {
+          "size": 696
+        },
+        "webpack://seismic-workspace-v2/src/widgets/LightContentList/dataCache.js": {
+          "size": 3027
+        },
+        "webpack://seismic-workspace-v2/src/widgets/LightContentList/dataHandler.js": {
+          "size": 1247
+        },
+        "webpack://seismic-workspace-v2/src/widgets/LightContentList/dataManager.js": {
+          "size": 6244
+        },
+        "webpack://seismic-workspace-v2/src/widgets/RightPanelForListPage/ActivityListForListPage/ActivityItem.jsx": {
+          "size": 11192
+        },
+        "webpack://seismic-workspace-v2/src/widgets/RightPanelForListPage/ActivityListForListPage/EmptyView.jsx": {
+          "size": 1206
+        },
+        "webpack://seismic-workspace-v2/src/widgets/RightPanelForListPage/ActivityListForListPage/index.jsx": {
+          "size": 6049
+        },
+        "webpack://seismic-workspace-v2/src/widgets/RightPanelForListPage/CommentListForListPage/EmptyView.jsx": {
+          "size": 1199
+        },
+        "webpack://seismic-workspace-v2/src/widgets/RightPanelForListPage/CommentListForListPage/index.jsx": {
+          "size": 4041
+        },
+        "webpack://seismic-workspace-v2/src/widgets/RightPanelForListPage/ResponsiveActivity/Activity.jsx": {
+          "size": 1002
+        },
+        "webpack://seismic-workspace-v2/src/widgets/RightPanelForListPage/ResponsiveActivity/Item.jsx": {
+          "size": 10331
+        },
+        "webpack://seismic-workspace-v2/src/widgets/RightPanelForListPage/ResponsiveActivity/index.jsx": {
+          "size": 1218
+        },
+        "webpack://seismic-workspace-v2/src/widgets/RightPanelForListPage/ResponsiveComments/AddComment.jsx": {
+          "size": 6033
+        },
+        "webpack://seismic-workspace-v2/src/widgets/RightPanelForListPage/ResponsiveComments/index.jsx": {
+          "size": 5009
+        },
+        "webpack://seismic-workspace-v2/src/widgets/RightPanelForListPage/ResponsivePanel/index.jsx": {
+          "size": 5795
+        },
+        "webpack://seismic-workspace-v2/src/widgets/RightPanelForListPage/index.jsx": {
+          "size": 14221
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ScrollContainerForWKS/ScrollWrapper/index.jsx": {
+          "size": 757
+        },
+        "webpack://seismic-workspace-v2/src/widgets/ScrollToTop/index.jsx": {
+          "size": 4864
+        },
+        "webpack://seismic-workspace-v2/src/widgets/SecNavBar/dataHandler.js": {
+          "size": 1690
+        },
+        "webpack://seismic-workspace-v2/src/widgets/SecNavBar/index.jsx": {
+          "size": 9657
+        },
+        "[sourceMappingURL]": {
+          "size": 73
+        },
+        "[unmapped]": {
+          "size": 239
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

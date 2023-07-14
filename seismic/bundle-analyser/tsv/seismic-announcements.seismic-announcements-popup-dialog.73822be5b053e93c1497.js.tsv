@@ -1,0 +1,76 @@
+Source	Size
+webpack://seismic-announcements/node_modules/i18next/dist/esm/i18next.js	42832
+webpack://seismic-announcements/node_modules/react-responsive/dist/react-responsive.js	19297
+webpack://seismic-announcements/src/i18n/index.ts	9171
+webpack://seismic-announcements/src/business/index.ts	8896
+webpack://seismic-announcements/node_modules/color-convert/conversions.js	8433
+webpack://seismic-announcements/node_modules/react-modal/lib/components/ModalPortal.js	7960
+webpack://seismic-announcements/node_modules/color/index.js	6048
+webpack://seismic-announcements/node_modules/react-modal/lib/components/Modal.js	5805
+webpack://seismic-announcements/src/components/announcement-dialog-inner-detail/index.tsx	5709
+webpack://seismic-announcements/src/components/global-style/index.tsx	5463
+webpack://seismic-announcements/src/components/announcement-dialog/index.tsx	4956
+webpack://seismic-announcements/src/page/announcements-dialog-main-page/index.tsx	4500
+webpack://seismic-announcements/src/components/announcement-popup-row-item/index.tsx	3565
+webpack://seismic-announcements/node_modules/color-name/index.js	3427
+webpack://seismic-announcements/node_modules/color-string/index.js	3192
+webpack://seismic-announcements/src/components/announcement-dialog-inner-empty/index.tsx	2799
+webpack://seismic-announcements/node_modules/create-react-context/lib/implementation.js	2646
+webpack://seismic-announcements/node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js	2388
+webpack://seismic-announcements/src/components/announcement-richtext-display-area/index.tsx	1865
+webpack://seismic-announcements/src/components/mobile-app-wrapper/index.tsx	1672
+webpack://seismic-announcements/node_modules/react-modal/lib/helpers/ariaAppHider.js	1627
+webpack://seismic-announcements/src/page/announcements-dialog-entry-page/index.tsx	1546
+webpack://seismic-announcements/node_modules/react-modal/lib/helpers/focusManager.js	1176
+webpack://seismic-announcements/external assign "__global_module_registers__[\"seismic-toolkit\"]"	1137
+webpack://seismic-announcements/node_modules/react-modal/lib/helpers/bodyTrap.js	1083
+webpack://seismic-announcements/node_modules/react-modal/lib/helpers/tabbable.js	1046
+webpack://seismic-announcements/node_modules/react-modal/lib/helpers/portalOpenInstances.js	896
+webpack://seismic-announcements/node_modules/react-modal/lib/helpers/scopeTab.js	834
+webpack://seismic-announcements/node_modules/color-convert/index.js	747
+webpack://seismic-announcements/node_modules/color-convert/route.js	729
+webpack://seismic-announcements/src/constants/index.ts	724
+webpack://seismic-announcements/node_modules/react-modal/lib/helpers/classList.js	683
+webpack://seismic-announcements/src/components/mantle-wrapper/index.tsx	568
+webpack://seismic-announcements/node_modules/classnames/index.js	538
+webpack://seismic-announcements/src/util/index.tsx	520
+webpack://seismic-announcements/node_modules/exenv/index.js	381
+webpack://seismic-announcements/node_modules/react-modal/lib/helpers/safeHTMLElement.js	371
+webpack://seismic-announcements/src/business/store/index.ts	357
+webpack://seismic-announcements/node_modules/@babel/runtime/helpers/esm/objectSpread.js	340
+webpack://seismic-announcements/node_modules/simple-swizzle/index.js	260
+webpack://seismic-announcements/node_modules/simple-swizzle/node_modules/is-arrayish/index.js	248
+webpack://seismic-announcements/src/business/common-service/index.ts	244
+webpack://seismic-announcements/node_modules/@babel/runtime/helpers/esm/typeof.js	233
+webpack://seismic-announcements/node_modules/@babel/runtime/helpers/esm/inherits.js	230
+webpack://seismic-announcements/node_modules/@babel/runtime/helpers/esm/createClass.js	227
+webpack://seismic-announcements/node_modules/create-react-context/lib/index.js	181
+webpack://seismic-announcements/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js	180
+webpack://seismic-announcements/webpack/runtime/make namespace object	175
+webpack://seismic-announcements/dist/assets/setPublicPathForStandaloneLoader.js	175
+[unmapped]	171
+webpack://seismic-announcements/webpack/runtime/global	165
+webpack://seismic-announcements/node_modules/react-modal/lib/index.js	157
+webpack://seismic-announcements/src/components/responsive-wrapper/index.tsx	147
+webpack://seismic-announcements/webpack/bootstrap	137
+webpack://seismic-announcements/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js	133
+webpack://seismic-announcements/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js	124
+webpack://seismic-announcements/node_modules/@babel/runtime/helpers/esm/defineProperty.js	121
+webpack://seismic-announcements/node_modules/gud/index.js	113
+webpack://seismic-announcements/webpack/runtime/compat get default export	111
+webpack://seismic-announcements/webpack/runtime/define property getters	107
+[sourceMappingURL]	105
+webpack://seismic-announcements/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js	96
+webpack://seismic-announcements/node_modules/@babel/runtime/helpers/esm/classCallCheck.js	95
+webpack://seismic-announcements/external assign "__global_module_registers__[\"styled-components\"]"	78
+webpack://seismic-announcements/webpack/runtime/hasOwnProperty shorthand	68
+webpack://seismic-announcements/external assign "__global_module_registers__[\"@seismic/mantle\"]"	67
+webpack://seismic-announcements/node_modules/warning/warning.js	53
+webpack://seismic-announcements/external assign "__global_module_registers__[\"seismic-common\"]"	53
+webpack://seismic-announcements/external assign "__global_module_registers__[\"seismic-svg-images\"]"	53
+webpack://seismic-announcements/external assign "PropTypes"	50
+webpack://seismic-announcements/external assign "React"	46
+webpack://seismic-announcements/external assign "ReactDOM"	21
+webpack://seismic-announcements/external assign "Moment"	21
+webpack://seismic-announcements/webpack/runtime/publicPath	16
+[EOLs]	2

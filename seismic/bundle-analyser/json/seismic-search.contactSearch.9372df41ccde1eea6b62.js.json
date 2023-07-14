@@ -1,0 +1,2660 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-search.contactSearch.9372df41ccde1eea6b62.js",
+      "totalBytes": 419995,
+      "mappedBytes": 419794,
+      "unmappedBytes": 122,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 77,
+      "files": {
+        "webpack://seismic-search/webpack/runtime/create fake namespace object": {
+          "size": 563
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/instance/bind.js": {
+          "size": 41
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/instance/concat.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/instance/filter.js": {
+          "size": 32
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/instance/find-index.js": {
+          "size": 32
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/instance/find.js": {
+          "size": 32
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/instance/for-each.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/instance/includes.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/instance/index-of.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/instance/keys.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/instance/map.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/instance/reduce.js": {
+          "size": 31
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/instance/sort.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/instance/values.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/json/stringify.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/map.js": {
+          "size": 41
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/object/assign.js": {
+          "size": 32
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/object/keys.js": {
+          "size": 31
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js-stable/promise.js": {
+          "size": 32
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js/array/from.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js/array/is-array.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js/get-iterator-method.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js/instance/filter.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js/instance/for-each.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js/instance/slice.js": {
+          "size": 41
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js/object/define-properties.js": {
+          "size": 41
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js/object/define-property.js": {
+          "size": 41
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js/object/get-own-property-descriptor.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js/object/get-own-property-descriptors.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js/object/get-own-property-symbols.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js/object/keys.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js/promise.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js/symbol.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/core-js/symbol/iterator.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/regenerator/index.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 265
+        },
+        "webpack://seismic-search/external assign \"React\"": {
+          "size": 17
+        },
+        "webpack://seismic-search/external assign \"ReactDOM\"": {
+          "size": 20
+        },
+        "webpack://seismic-search/external assign \"__global_module_registers__[\\\"@seismic/mantle\\\"]\"": {
+          "size": 69
+        },
+        "webpack://seismic-search/src/common/constant.ts": {
+          "size": 261
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/defineProperty.js": {
+          "size": 115
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/asyncToGenerator.js": {
+          "size": 429
+        },
+        "webpack://seismic-search/external assign \"__global_module_registers__[\\\"seismic-common\\\"]\"": {
+          "size": 48
+        },
+        "webpack://seismic-search/src/utility/serviceHelper.ts": {
+          "size": 1049
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/typeof.js": {
+          "size": 230
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/classCallCheck.js": {
+          "size": 94
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/createClass.js": {
+          "size": 274
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js": {
+          "size": 123
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js": {
+          "size": 93
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/inherits.js": {
+          "size": 279
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js": {
+          "size": 177
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js": {
+          "size": 130
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/defineProperty.js": {
+          "size": 120
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js": {
+          "size": 106
+        },
+        "webpack://seismic-search/node_modules/i18next/dist/esm/i18next.js": {
+          "size": 52324
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/slicedToArray.js": {
+          "size": 43
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js": {
+          "size": 41
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js": {
+          "size": 310
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js": {
+          "size": 284
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js": {
+          "size": 172
+        },
+        "webpack://seismic-search/node_modules/i18next-icu/dist/es/utils.js": {
+          "size": 569
+        },
+        "webpack://seismic-search/node_modules/i18next-icu/dist/es/index.js": {
+          "size": 2229
+        },
+        "webpack://seismic-search/node_modules/i18next-http-backend/esm/utils.js": {
+          "size": 599
+        },
+        "webpack://seismic-search/node_modules/i18next-http-backend/esm/request.js": {
+          "size": 2696
+        },
+        "webpack://seismic-search/node_modules/i18next-http-backend/esm/index.js": {
+          "size": 4361
+        },
+        "webpack://seismic-search/src/common/i18n/en-US.ts": {
+          "size": 6803
+        },
+        "webpack://seismic-search/src/common/i18n/index.ts": {
+          "size": 1391
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/arrayLikeToArray.js": {
+          "size": 107
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/unsupportedIterableToArray.js": {
+          "size": 294
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/slicedToArray.js": {
+          "size": 48
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/arrayWithHoles.js": {
+          "size": 30
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/iterableToArrayLimit.js": {
+          "size": 282
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/nonIterableRest.js": {
+          "size": 172
+        },
+        "webpack://seismic-search/external assign \"__global_module_registers__[\\\"seismic-toolkit\\\"]\"": {
+          "size": 153
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/objectSpread2.js": {
+          "size": 511
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/classCallCheck.js": {
+          "size": 95
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/createClass.js": {
+          "size": 246
+        },
+        "webpack://seismic-search/src/common/apiClient/searchAPIClientInitializer.ts": {
+          "size": 55
+        },
+        "webpack://seismic-search/src/service/storageService.ts": {
+          "size": 877
+        },
+        "webpack://seismic-search/src/utility/commonUtility.ts": {
+          "size": 16
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/typeof.js": {
+          "size": 222
+        },
+        "webpack://seismic-search/src/service/uiRenderTimespanService.ts": {
+          "size": 1587
+        },
+        "webpack://seismic-search/src/service/newRelicEventService.ts": {
+          "size": 51
+        },
+        "webpack://seismic-search/src/service/memoryCache.ts": {
+          "size": 528
+        },
+        "webpack://seismic-search/src/service/seismicSearchService.ts": {
+          "size": 433
+        },
+        "webpack://seismic-search/src/service/customParams.ts": {
+          "size": 349
+        },
+        "webpack://seismic-search/src/helpers/serviceHelper.ts": {
+          "size": 711
+        },
+        "webpack://seismic-search/src/business/contactSearchBusiness.ts": {
+          "size": 968
+        },
+        "webpack://seismic-search/src/resources/no-contact.svg": {
+          "size": 76
+        },
+        "webpack://seismic-search/src/components/contact-search/components/contact-output/ContactOutput.module.scss?2dbc": {
+          "size": 423
+        },
+        "webpack://seismic-search/src/components/contact-search/components/contact-output/ContactOutputItem.tsx": {
+          "size": 459
+        },
+        "webpack://seismic-search/src/components/contact-search/components/contact-output/ContactOutput.tsx": {
+          "size": 462
+        },
+        "webpack://seismic-search/src/components/contact-search/components/search-bar/SearchBar.tsx": {
+          "size": 1098
+        },
+        "webpack://seismic-search/src/components/contact-search/components/search-bar/SearchBar.module.scss?a759": {
+          "size": 164
+        },
+        "webpack://seismic-search/src/components/contact-search/components/text-within-keyword/TextWithinkeyword.tsx": {
+          "size": 452
+        },
+        "webpack://seismic-search/src/components/contact-search/components/contact-item/ContactItem.module.scss?431c": {
+          "size": 804
+        },
+        "webpack://seismic-search/src/components/contact-search/components/contact-item/ContactItem.tsx": {
+          "size": 2715
+        },
+        "webpack://seismic-search/src/components/contact-search/components/contact-list/ContactList.module.scss?6e0e": {
+          "size": 395
+        },
+        "webpack://seismic-search/src/components/contact-search/components/contact-list/ContactListItem.tsx": {
+          "size": 727
+        },
+        "webpack://seismic-search/src/components/contact-search/components/contact-list/ContactList.tsx": {
+          "size": 695
+        },
+        "webpack://seismic-search/src/components/contact-search/components/contact-searcher/ContactSearcher.tsx": {
+          "size": 1458
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/toConsumableArray.js": {
+          "size": 39
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/arrayWithoutHoles.js": {
+          "size": 34
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/iterableToArray.js": {
+          "size": 76
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime-corejs3/helpers/esm/nonIterableSpread.js": {
+          "size": 167
+        },
+        "webpack://seismic-search/src/components/contact-search/components/contact-searcher/ContactSearcher.module.scss?8cab": {
+          "size": 297
+        },
+        "webpack://seismic-search/src/components/contact-search/components/contact-dialog/ContactDialog.tsx": {
+          "size": 778
+        },
+        "webpack://seismic-search/src/components/contact-search/ContactSearch.tsx": {
+          "size": 613
+        },
+        "webpack://seismic-search/src/components/contact-search/ContactSearch.module.scss?6f5e": {
+          "size": 56
+        },
+        "webpack://seismic-search/src/contactSearchEntry.ts": {
+          "size": 29
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/actual/array/from.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/actual/array/is-array.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/actual/get-iterator-method.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/actual/instance/filter.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/actual/instance/for-each.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/actual/instance/slice.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/actual/object/define-properties.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/actual/object/define-property.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/actual/object/get-own-property-descriptor.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/actual/object/get-own-property-descriptors.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/actual/object/get-own-property-symbols.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/actual/object/keys.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/actual/promise/index.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/actual/symbol/index.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/actual/symbol/iterator.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/array/from.js": {
+          "size": 79
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/array/is-array.js": {
+          "size": 73
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/array/virtual/concat.js": {
+          "size": 75
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/array/virtual/filter.js": {
+          "size": 75
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/array/virtual/find-index.js": {
+          "size": 78
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/array/virtual/find.js": {
+          "size": 73
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/array/virtual/for-each.js": {
+          "size": 75
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/array/virtual/includes.js": {
+          "size": 76
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/array/virtual/index-of.js": {
+          "size": 76
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/array/virtual/keys.js": {
+          "size": 81
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/array/virtual/map.js": {
+          "size": 72
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/array/virtual/reduce.js": {
+          "size": 75
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/array/virtual/slice.js": {
+          "size": 73
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/array/virtual/sort.js": {
+          "size": 73
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/array/virtual/values.js": {
+          "size": 83
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/function/virtual/bind.js": {
+          "size": 76
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/get-iterator-method.js": {
+          "size": 67
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/instance/bind.js": {
+          "size": 143
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/instance/concat.js": {
+          "size": 144
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/instance/filter.js": {
+          "size": 144
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/instance/find-index.js": {
+          "size": 150
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/instance/find.js": {
+          "size": 140
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/instance/includes.js": {
+          "size": 228
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/instance/index-of.js": {
+          "size": 145
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/instance/map.js": {
+          "size": 138
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/instance/reduce.js": {
+          "size": 144
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/instance/slice.js": {
+          "size": 142
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/instance/sort.js": {
+          "size": 140
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/json/stringify.js": {
+          "size": 170
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/map/index.js": {
+          "size": 89
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/object/assign.js": {
+          "size": 73
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/object/define-properties.js": {
+          "size": 148
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/object/define-property.js": {
+          "size": 149
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/object/get-own-property-descriptor.js": {
+          "size": 165
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/object/get-own-property-descriptors.js": {
+          "size": 91
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/object/get-own-property-symbols.js": {
+          "size": 86
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/object/keys.js": {
+          "size": 71
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/promise/index.js": {
+          "size": 127
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/string/virtual/includes.js": {
+          "size": 78
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/symbol/index.js": {
+          "size": 233
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/es/symbol/iterator.js": {
+          "size": 99
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/features/array/from.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/features/array/is-array.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/features/get-iterator-method.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/features/instance/filter.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/features/instance/for-each.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/features/instance/slice.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/features/object/define-properties.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/features/object/define-property.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/features/object/get-own-property-descriptor.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/features/object/get-own-property-descriptors.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/features/object/get-own-property-symbols.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/features/object/keys.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/features/promise/index.js": {
+          "size": 86
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/features/symbol/index.js": {
+          "size": 112
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/features/symbol/iterator.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/a-callable.js": {
+          "size": 148
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/a-constructor.js": {
+          "size": 151
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/a-possible-prototype.js": {
+          "size": 174
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/add-to-unscopables.js": {
+          "size": 46
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/an-instance.js": {
+          "size": 138
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/an-object.js": {
+          "size": 145
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/array-buffer-non-extensible.js": {
+          "size": 201
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/array-for-each.js": {
+          "size": 173
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/array-from.js": {
+          "size": 536
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/array-includes.js": {
+          "size": 288
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/array-iteration.js": {
+          "size": 598
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/array-method-has-species-support.js": {
+          "size": 225
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/array-method-is-strict.js": {
+          "size": 140
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/array-reduce.js": {
+          "size": 393
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/array-slice-simple.js": {
+          "size": 226
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/array-slice.js": {
+          "size": 60
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/array-sort.js": {
+          "size": 419
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/array-species-constructor.js": {
+          "size": 239
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/array-species-create.js": {
+          "size": 91
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/call-with-safe-iteration-closing.js": {
+          "size": 137
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/check-correctness-of-iteration.js": {
+          "size": 355
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/classof-raw.js": {
+          "size": 112
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/classof.js": {
+          "size": 365
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/clear-error-stack.js": {
+          "size": 213
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/collection-strong.js": {
+          "size": 2022
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/collection.js": {
+          "size": 1009
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/copy-constructor-properties.js": {
+          "size": 190
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/correct-is-regexp-logic.js": {
+          "size": 155
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/correct-prototype-getter.js": {
+          "size": 172
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/create-iterator-constructor.js": {
+          "size": 236
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/create-non-enumerable-property.js": {
+          "size": 141
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/create-property-descriptor.js": {
+          "size": 131
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/create-property.js": {
+          "size": 141
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/define-iterator.js": {
+          "size": 1057
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/define-well-known-symbol.js": {
+          "size": 156
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/descriptors.js": {
+          "size": 134
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/document-create-element.js": {
+          "size": 137
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/dom-iterables.js": {
+          "size": 535
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/engine-ff-version.js": {
+          "size": 80
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/engine-is-browser.js": {
+          "size": 57
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/engine-is-ie-or-edge.js": {
+          "size": 71
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/engine-is-ios-pebble.js": {
+          "size": 105
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/engine-is-ios.js": {
+          "size": 92
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/engine-is-node.js": {
+          "size": 82
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/engine-is-webos-webkit.js": {
+          "size": 77
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/engine-user-agent.js": {
+          "size": 77
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/engine-v8-version.js": {
+          "size": 265
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/engine-webkit-version.js": {
+          "size": 89
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/entry-virtual.js": {
+          "size": 81
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/enum-bug-keys.js": {
+          "size": 143
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/error-stack-installable.js": {
+          "size": 183
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/export.js": {
+          "size": 855
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/fails.js": {
+          "size": 80
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/freezing.js": {
+          "size": 118
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/function-apply.js": {
+          "size": 181
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/function-bind-context.js": {
+          "size": 172
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/function-bind.js": {
+          "size": 463
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/function-call.js": {
+          "size": 120
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/function-name.js": {
+          "size": 238
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/function-uncurry-this.js": {
+          "size": 186
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/get-built-in.js": {
+          "size": 191
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/get-iterator-method.js": {
+          "size": 157
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/get-iterator.js": {
+          "size": 219
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/get-method.js": {
+          "size": 99
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/global.js": {
+          "size": 273
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/has-own-property.js": {
+          "size": 125
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/hidden-keys.js": {
+          "size": 36
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/host-report-errors.js": {
+          "size": 136
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/html.js": {
+          "size": 80
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/ie8-dom-define.js": {
+          "size": 167
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/indexed-object.js": {
+          "size": 209
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/inspect-source.js": {
+          "size": 172
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/install-error-cause.js": {
+          "size": 113
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/internal-metadata.js": {
+          "size": 825
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/internal-state.js": {
+          "size": 777
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/is-array-iterator-method.js": {
+          "size": 147
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/is-array.js": {
+          "size": 92
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/is-callable.js": {
+          "size": 73
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/is-constructor.js": {
+          "size": 549
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/is-forced.js": {
+          "size": 263
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/is-object.js": {
+          "size": 96
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/is-pure.js": {
+          "size": 35
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/is-regexp.js": {
+          "size": 148
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/is-symbol.js": {
+          "size": 205
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/iterate.js": {
+          "size": 766
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/iterator-close.js": {
+          "size": 249
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/iterators-core.js": {
+          "size": 377
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/iterators.js": {
+          "size": 36
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/length-of-array-like.js": {
+          "size": 80
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/microtask.js": {
+          "size": 737
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/native-promise-constructor.js": {
+          "size": 57
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/native-symbol.js": {
+          "size": 193
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/native-weak-map.js": {
+          "size": 125
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/new-promise-capability.js": {
+          "size": 250
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/normalize-string-argument.js": {
+          "size": 109
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/not-a-regexp.js": {
+          "size": 171
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-assign.js": {
+          "size": 662
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-create.js": {
+          "size": 767
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-define-properties.js": {
+          "size": 221
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-define-property.js": {
+          "size": 647
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-get-own-property-descriptor.js": {
+          "size": 256
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-get-own-property-names-external.js": {
+          "size": 285
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-get-own-property-names.js": {
+          "size": 135
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-get-own-property-symbols.js": {
+          "size": 56
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-get-prototype-of.js": {
+          "size": 290
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-is-extensible.js": {
+          "size": 197
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-is-prototype-of.js": {
+          "size": 68
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-keys-internal.js": {
+          "size": 244
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-keys.js": {
+          "size": 110
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-property-is-enumerable.js": {
+          "size": 170
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-set-prototype-of.js": {
+          "size": 339
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/object-to-string.js": {
+          "size": 114
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/ordinary-to-primitive.js": {
+          "size": 320
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/own-keys.js": {
+          "size": 183
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/path.js": {
+          "size": 32
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/perform.js": {
+          "size": 112
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/promise-resolve.js": {
+          "size": 167
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/queue.js": {
+          "size": 290
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/redefine-all.js": {
+          "size": 131
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/redefine.js": {
+          "size": 99
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/require-object-coercible.js": {
+          "size": 125
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/set-global.js": {
+          "size": 173
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/set-species.js": {
+          "size": 190
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/set-to-string-tag.js": {
+          "size": 233
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/shared-key.js": {
+          "size": 109
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/shared-store.js": {
+          "size": 99
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/shared.js": {
+          "size": 225
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/species-constructor.js": {
+          "size": 164
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/string-multibyte.js": {
+          "size": 374
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/task.js": {
+          "size": 1057
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/to-absolute-index.js": {
+          "size": 123
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/to-indexed-object.js": {
+          "size": 83
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/to-integer-or-infinity.js": {
+          "size": 118
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/to-length.js": {
+          "size": 110
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/to-object.js": {
+          "size": 97
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/to-primitive.js": {
+          "size": 355
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/to-property-key.js": {
+          "size": 111
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/to-string-tag-support.js": {
+          "size": 96
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/to-string.js": {
+          "size": 174
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/try-to-string.js": {
+          "size": 108
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/uid.js": {
+          "size": 149
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/use-symbol-as-uid.js": {
+          "size": 98
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/v8-prototype-define-bug.js": {
+          "size": 173
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/well-known-symbol-wrapped.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/internals/well-known-symbol.js": {
+          "size": 298
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.aggregate-error.js": {
+          "size": 647
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.array.concat.js": {
+          "size": 703
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.array.filter.js": {
+          "size": 203
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.array.find-index.js": {
+          "size": 273
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.array.find.js": {
+          "size": 252
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.array.for-each.js": {
+          "size": 110
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.array.from.js": {
+          "size": 146
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.array.includes.js": {
+          "size": 205
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.array.index-of.js": {
+          "size": 279
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.array.is-array.js": {
+          "size": 89
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.array.iterator.js": {
+          "size": 613
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.array.map.js": {
+          "size": 194
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.array.reduce.js": {
+          "size": 248
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.array.slice.js": {
+          "size": 557
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.array.sort.js": {
+          "size": 1057
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.function.bind.js": {
+          "size": 78
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.json.stringify.js": {
+          "size": 653
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.json.to-string-tag.js": {
+          "size": 76
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.map.js": {
+          "size": 153
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.object.assign.js": {
+          "size": 113
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.object.define-properties.js": {
+          "size": 155
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.object.define-property.js": {
+          "size": 151
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.object.get-own-property-descriptor.js": {
+          "size": 216
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.object.get-own-property-descriptors.js": {
+          "size": 270
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.object.keys.js": {
+          "size": 191
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.promise.all-settled.js": {
+          "size": 493
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.promise.any.js": {
+          "size": 510
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.promise.finally.js": {
+          "size": 580
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.promise.js": {
+          "size": 4065
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.string.includes.js": {
+          "size": 267
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.string.iterator.js": {
+          "size": 333
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.symbol.async-iterator.js": {
+          "size": 68
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.symbol.has-instance.js": {
+          "size": 47
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.symbol.is-concat-spreadable.js": {
+          "size": 54
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.symbol.iterator.js": {
+          "size": 56
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.symbol.js": {
+          "size": 3672
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.symbol.match-all.js": {
+          "size": 44
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.symbol.match.js": {
+          "size": 40
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.symbol.replace.js": {
+          "size": 43
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.symbol.search.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.symbol.species.js": {
+          "size": 43
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.symbol.split.js": {
+          "size": 41
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.symbol.to-primitive.js": {
+          "size": 47
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.symbol.to-string-tag.js": {
+          "size": 47
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/es.symbol.unscopables.js": {
+          "size": 47
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/esnext.aggregate-error.js": {
+          "size": 32
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/esnext.promise.all-settled.js": {
+          "size": 32
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/esnext.promise.any.js": {
+          "size": 45
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/esnext.promise.try.js": {
+          "size": 186
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/esnext.symbol.async-dispose.js": {
+          "size": 48
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/esnext.symbol.dispose.js": {
+          "size": 43
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/esnext.symbol.matcher.js": {
+          "size": 43
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/esnext.symbol.metadata.js": {
+          "size": 44
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/esnext.symbol.observable.js": {
+          "size": 46
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/esnext.symbol.pattern-match.js": {
+          "size": 48
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/esnext.symbol.replace-all.js": {
+          "size": 46
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/modules/web.dom-collections.iterator.js": {
+          "size": 195
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/array/from.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/array/is-array.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/array/virtual/for-each.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/array/virtual/keys.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/array/virtual/values.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/get-iterator-method.js": {
+          "size": 58
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/instance/bind.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/instance/concat.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/instance/filter.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/instance/find-index.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/instance/find.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/instance/for-each.js": {
+          "size": 219
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/instance/includes.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/instance/index-of.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/instance/keys.js": {
+          "size": 213
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/instance/map.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/instance/reduce.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/instance/slice.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/instance/sort.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/instance/values.js": {
+          "size": 218
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/json/stringify.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/map/index.js": {
+          "size": 59
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/object/assign.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/object/define-properties.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/object/define-property.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/object/get-own-property-descriptor.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/object/get-own-property-descriptors.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/object/get-own-property-symbols.js": {
+          "size": 50
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/object/keys.js": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/promise/index.js": {
+          "size": 59
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/symbol/index.js": {
+          "size": 59
+        },
+        "webpack://seismic-search/node_modules/core-js-pure/stable/symbol/iterator.js": {
+          "size": 59
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/a-callable.js": {
+          "size": 148
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/a-constructor.js": {
+          "size": 151
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/a-possible-prototype.js": {
+          "size": 179
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/add-to-unscopables.js": {
+          "size": 197
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/advance-string-index.js": {
+          "size": 101
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/an-instance.js": {
+          "size": 139
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/an-object.js": {
+          "size": 144
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-buffer-native.js": {
+          "size": 95
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-buffer-non-extensible.js": {
+          "size": 202
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-buffer-view-core.js": {
+          "size": 1963
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-buffer.js": {
+          "size": 3400
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-copy-within.js": {
+          "size": 334
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-fill.js": {
+          "size": 242
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-for-each.js": {
+          "size": 160
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-from-constructor-and-list.js": {
+          "size": 132
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-from.js": {
+          "size": 537
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-includes.js": {
+          "size": 288
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-iteration.js": {
+          "size": 613
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-last-index-of.js": {
+          "size": 371
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-method-has-species-support.js": {
+          "size": 228
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-method-is-strict.js": {
+          "size": 141
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-reduce.js": {
+          "size": 395
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-slice-simple.js": {
+          "size": 227
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-slice.js": {
+          "size": 60
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-sort.js": {
+          "size": 419
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-species-constructor.js": {
+          "size": 245
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/array-species-create.js": {
+          "size": 91
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/call-with-safe-iteration-closing.js": {
+          "size": 136
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/check-correctness-of-iteration.js": {
+          "size": 355
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/classof-raw.js": {
+          "size": 112
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/classof.js": {
+          "size": 366
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/clear-error-stack.js": {
+          "size": 213
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/collection-strong.js": {
+          "size": 2023
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/collection-weak.js": {
+          "size": 1321
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/collection.js": {
+          "size": 1214
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/copy-constructor-properties.js": {
+          "size": 189
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/correct-is-regexp-logic.js": {
+          "size": 156
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/correct-prototype-getter.js": {
+          "size": 159
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/create-html.js": {
+          "size": 219
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/create-iterator-constructor.js": {
+          "size": 235
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/create-non-enumerable-property.js": {
+          "size": 139
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/create-property-descriptor.js": {
+          "size": 131
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/create-property.js": {
+          "size": 140
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/date-to-iso-string.js": {
+          "size": 685
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/date-to-primitive.js": {
+          "size": 224
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/define-iterator.js": {
+          "size": 1056
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/define-well-known-symbol.js": {
+          "size": 156
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/descriptors.js": {
+          "size": 134
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/document-create-element.js": {
+          "size": 138
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/dom-exception-constants.js": {
+          "size": 1275
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/dom-iterables.js": {
+          "size": 535
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/dom-token-list-prototype.js": {
+          "size": 140
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/engine-ff-version.js": {
+          "size": 80
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/engine-is-browser.js": {
+          "size": 57
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/engine-is-ie-or-edge.js": {
+          "size": 71
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/engine-is-ios-pebble.js": {
+          "size": 106
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/engine-is-ios.js": {
+          "size": 93
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/engine-is-node.js": {
+          "size": 82
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/engine-is-webos-webkit.js": {
+          "size": 77
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/engine-user-agent.js": {
+          "size": 78
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/engine-v8-version.js": {
+          "size": 266
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/engine-webkit-version.js": {
+          "size": 85
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/enum-bug-keys.js": {
+          "size": 143
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/error-stack-installable.js": {
+          "size": 181
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/error-to-string.js": {
+          "size": 404
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/export.js": {
+          "size": 412
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/fails.js": {
+          "size": 94
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/fix-regexp-well-known-symbol-logic.js": {
+          "size": 690
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/flatten-into-array.js": {
+          "size": 337
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/freezing.js": {
+          "size": 119
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/function-apply.js": {
+          "size": 181
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/function-bind-context.js": {
+          "size": 173
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/function-bind.js": {
+          "size": 465
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/function-call.js": {
+          "size": 120
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/function-name.js": {
+          "size": 238
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/function-uncurry-this.js": {
+          "size": 185
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/get-built-in.js": {
+          "size": 158
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/get-iterator-method.js": {
+          "size": 159
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/get-iterator.js": {
+          "size": 220
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/get-method.js": {
+          "size": 100
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/get-substitution.js": {
+          "size": 563
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/global.js": {
+          "size": 273
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/has-own-property.js": {
+          "size": 125
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/hidden-keys.js": {
+          "size": 36
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/host-report-errors.js": {
+          "size": 137
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/html.js": {
+          "size": 79
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/ie8-dom-define.js": {
+          "size": 167
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/ieee754.js": {
+          "size": 821
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/indexed-object.js": {
+          "size": 209
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/inherit-if-required.js": {
+          "size": 176
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/inspect-source.js": {
+          "size": 172
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/install-error-cause.js": {
+          "size": 114
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/internal-metadata.js": {
+          "size": 827
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/internal-state.js": {
+          "size": 778
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/is-array-iterator-method.js": {
+          "size": 149
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/is-array.js": {
+          "size": 91
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/is-callable.js": {
+          "size": 73
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/is-constructor.js": {
+          "size": 547
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/is-data-descriptor.js": {
+          "size": 112
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/is-forced.js": {
+          "size": 263
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/is-integral-number.js": {
+          "size": 127
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/is-object.js": {
+          "size": 96
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/is-pure.js": {
+          "size": 36
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/is-regexp.js": {
+          "size": 149
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/is-symbol.js": {
+          "size": 206
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/iterate.js": {
+          "size": 764
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/iterator-close.js": {
+          "size": 248
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/iterators-core.js": {
+          "size": 377
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/iterators.js": {
+          "size": 36
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/length-of-array-like.js": {
+          "size": 76
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/math-expm1.js": {
+          "size": 200
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/math-fround.js": {
+          "size": 242
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/math-log10.js": {
+          "size": 97
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/math-log1p.js": {
+          "size": 111
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/math-sign.js": {
+          "size": 91
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/microtask.js": {
+          "size": 739
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/native-promise-constructor.js": {
+          "size": 58
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/native-symbol.js": {
+          "size": 195
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/native-url.js": {
+          "size": 613
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/native-weak-map.js": {
+          "size": 126
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/new-promise-capability.js": {
+          "size": 251
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/normalize-string-argument.js": {
+          "size": 110
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/not-a-regexp.js": {
+          "size": 160
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/number-is-finite.js": {
+          "size": 118
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/number-parse-float.js": {
+          "size": 289
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/number-parse-int.js": {
+          "size": 322
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-assign.js": {
+          "size": 660
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-create.js": {
+          "size": 767
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-define-properties.js": {
+          "size": 220
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-define-property.js": {
+          "size": 648
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-get-own-property-descriptor.js": {
+          "size": 254
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-get-own-property-names-external.js": {
+          "size": 284
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-get-own-property-names.js": {
+          "size": 135
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-get-own-property-symbols.js": {
+          "size": 55
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-get-prototype-of.js": {
+          "size": 291
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-is-extensible.js": {
+          "size": 198
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-is-prototype-of.js": {
+          "size": 68
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-keys-internal.js": {
+          "size": 243
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-keys.js": {
+          "size": 110
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-property-is-enumerable.js": {
+          "size": 182
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-prototype-accessors-forced.js": {
+          "size": 196
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-set-prototype-of.js": {
+          "size": 326
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-to-array.js": {
+          "size": 286
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/object-to-string.js": {
+          "size": 114
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/ordinary-to-primitive.js": {
+          "size": 320
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/own-keys.js": {
+          "size": 186
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/path.js": {
+          "size": 46
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/perform.js": {
+          "size": 112
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/promise-resolve.js": {
+          "size": 168
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/queue.js": {
+          "size": 290
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/redefine-all.js": {
+          "size": 103
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/redefine.js": {
+          "size": 672
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/regexp-exec-abstract.js": {
+          "size": 294
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/regexp-exec.js": {
+          "size": 1252
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/regexp-flags.js": {
+          "size": 210
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/regexp-sticky-helpers.js": {
+          "size": 322
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/regexp-unsupported-dot-all.js": {
+          "size": 147
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/regexp-unsupported-ncg.js": {
+          "size": 170
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/require-object-coercible.js": {
+          "size": 122
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/same-value.js": {
+          "size": 98
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/set-global.js": {
+          "size": 174
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/set-species.js": {
+          "size": 190
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/set-to-string-tag.js": {
+          "size": 172
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/shared-key.js": {
+          "size": 109
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/shared-store.js": {
+          "size": 99
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/shared.js": {
+          "size": 225
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/species-constructor.js": {
+          "size": 165
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/string-html-forced.js": {
+          "size": 152
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/string-multibyte.js": {
+          "size": 375
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/string-pad-webkit-bug.js": {
+          "size": 123
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/string-pad.js": {
+          "size": 344
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/string-punycode-to-ascii.js": {
+          "size": 1287
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/string-repeat.js": {
+          "size": 239
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/string-trim-forced.js": {
+          "size": 177
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/string-trim.js": {
+          "size": 278
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/task.js": {
+          "size": 1060
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/this-number-value.js": {
+          "size": 62
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/to-absolute-index.js": {
+          "size": 123
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/to-index.js": {
+          "size": 190
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/to-indexed-object.js": {
+          "size": 83
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/to-integer-or-infinity.js": {
+          "size": 118
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/to-length.js": {
+          "size": 110
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/to-object.js": {
+          "size": 98
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/to-offset.js": {
+          "size": 140
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/to-positive-integer.js": {
+          "size": 159
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/to-primitive.js": {
+          "size": 357
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/to-property-key.js": {
+          "size": 111
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/to-string-tag-support.js": {
+          "size": 98
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/to-string.js": {
+          "size": 174
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/try-node-require.js": {
+          "size": 125
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/try-to-string.js": {
+          "size": 122
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/typed-array-constructor.js": {
+          "size": 2537
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/typed-array-constructors-require-wrappers.js": {
+          "size": 315
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/typed-array-from-species-and-list.js": {
+          "size": 90
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/typed-array-from.js": {
+          "size": 440
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/typed-array-species-constructor.js": {
+          "size": 147
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/uid.js": {
+          "size": 149
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/use-symbol-as-uid.js": {
+          "size": 98
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/v8-prototype-define-bug.js": {
+          "size": 173
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/well-known-symbol-wrapped.js": {
+          "size": 44
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/well-known-symbol.js": {
+          "size": 282
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/whitespaces.js": {
+          "size": 125
+        },
+        "webpack://seismic-search/node_modules/core-js/internals/wrap-error-constructor-with-cause.js": {
+          "size": 668
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.aggregate-error.cause.js": {
+          "size": 337
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.aggregate-error.js": {
+          "size": 649
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array-buffer.constructor.js": {
+          "size": 160
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array-buffer.is-view.js": {
+          "size": 150
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array-buffer.slice.js": {
+          "size": 543
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.at.js": {
+          "size": 220
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.concat.js": {
+          "size": 698
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.copy-within.js": {
+          "size": 133
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.every.js": {
+          "size": 187
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.fill.js": {
+          "size": 120
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.filter.js": {
+          "size": 203
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.find-index.js": {
+          "size": 273
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.find.js": {
+          "size": 253
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.flat-map.js": {
+          "size": 269
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.flat.js": {
+          "size": 272
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.for-each.js": {
+          "size": 111
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.from.js": {
+          "size": 146
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.includes.js": {
+          "size": 205
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.index-of.js": {
+          "size": 279
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.is-array.js": {
+          "size": 90
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.iterator.js": {
+          "size": 612
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.join.js": {
+          "size": 220
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.last-index-of.js": {
+          "size": 133
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.map.js": {
+          "size": 193
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.of.js": {
+          "size": 325
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.reduce-right.js": {
+          "size": 271
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.reduce.js": {
+          "size": 253
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.reverse.js": {
+          "size": 237
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.slice.js": {
+          "size": 561
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.some.js": {
+          "size": 197
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.sort.js": {
+          "size": 1061
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.species.js": {
+          "size": 53
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.splice.js": {
+          "size": 727
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.unscopables.flat-map.js": {
+          "size": 43
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.array.unscopables.flat.js": {
+          "size": 40
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.data-view.js": {
+          "size": 116
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.date.get-year.js": {
+          "size": 225
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.date.now.js": {
+          "size": 168
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.date.set-year.js": {
+          "size": 217
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.date.to-gmt-string.js": {
+          "size": 99
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.date.to-iso-string.js": {
+          "size": 144
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.date.to-json.js": {
+          "size": 339
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.date.to-primitive.js": {
+          "size": 120
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.date.to-string.js": {
+          "size": 206
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.error.cause.js": {
+          "size": 1078
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.error.to-string.js": {
+          "size": 112
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.escape.js": {
+          "size": 382
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.function.bind.js": {
+          "size": 90
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.function.has-instance.js": {
+          "size": 278
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.function.name.js": {
+          "size": 297
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.global-this.js": {
+          "size": 67
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.json.stringify.js": {
+          "size": 655
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.json.to-string-tag.js": {
+          "size": 77
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.map.js": {
+          "size": 134
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.acosh.js": {
+          "size": 272
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.asinh.js": {
+          "size": 201
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.atanh.js": {
+          "size": 169
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.cbrt.js": {
+          "size": 145
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.clz32.js": {
+          "size": 157
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.cosh.js": {
+          "size": 196
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.expm1.js": {
+          "size": 107
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.fround.js": {
+          "size": 74
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.hypot.js": {
+          "size": 292
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.imul.js": {
+          "size": 256
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.log10.js": {
+          "size": 74
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.log1p.js": {
+          "size": 74
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.log2.js": {
+          "size": 121
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.sign.js": {
+          "size": 72
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.sinh.js": {
+          "size": 248
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.tanh.js": {
+          "size": 174
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.to-string-tag.js": {
+          "size": 47
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.math.trunc.js": {
+          "size": 143
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.number.constructor.js": {
+          "size": 1254
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.number.epsilon.js": {
+          "size": 85
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.number.is-finite.js": {
+          "size": 79
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.number.is-integer.js": {
+          "size": 78
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.number.is-nan.js": {
+          "size": 92
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.number.is-safe-integer.js": {
+          "size": 153
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.number.max-safe-integer.js": {
+          "size": 95
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.number.min-safe-integer.js": {
+          "size": 96
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.number.parse-float.js": {
+          "size": 121
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.number.parse-int.js": {
+          "size": 130
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.number.to-exponential.js": {
+          "size": 970
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.number.to-fixed.js": {
+          "size": 1337
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.number.to-precision.js": {
+          "size": 263
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.assign.js": {
+          "size": 113
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.create.js": {
+          "size": 105
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.define-getter.js": {
+          "size": 224
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.define-properties.js": {
+          "size": 155
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.define-property.js": {
+          "size": 164
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.define-setter.js": {
+          "size": 224
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.entries.js": {
+          "size": 121
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.freeze.js": {
+          "size": 220
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.from-entries.js": {
+          "size": 181
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.get-own-property-descriptor.js": {
+          "size": 217
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.get-own-property-descriptors.js": {
+          "size": 269
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.get-own-property-names.js": {
+          "size": 176
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.get-prototype-of.js": {
+          "size": 192
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.has-own.js": {
+          "size": 77
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.is-extensible.js": {
+          "size": 125
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.is-frozen.js": {
+          "size": 235
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.is-sealed.js": {
+          "size": 234
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.is.js": {
+          "size": 73
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.keys.js": {
+          "size": 172
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.lookup-getter.js": {
+          "size": 256
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.lookup-setter.js": {
+          "size": 243
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.prevent-extensions.js": {
+          "size": 242
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.seal.js": {
+          "size": 216
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.set-prototype-of.js": {
+          "size": 85
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.to-string.js": {
+          "size": 108
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.object.values.js": {
+          "size": 119
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.parse-float.js": {
+          "size": 100
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.parse-int.js": {
+          "size": 109
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.promise.all-settled.js": {
+          "size": 493
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.promise.any.js": {
+          "size": 510
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.promise.finally.js": {
+          "size": 580
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.promise.js": {
+          "size": 4039
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.reflect.apply.js": {
+          "size": 210
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.reflect.construct.js": {
+          "size": 736
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.reflect.define-property.js": {
+          "size": 306
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.reflect.delete-property.js": {
+          "size": 181
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.reflect.get-own-property-descriptor.js": {
+          "size": 170
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.reflect.get-prototype-of.js": {
+          "size": 149
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.reflect.get.js": {
+          "size": 304
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.reflect.has.js": {
+          "size": 95
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.reflect.is-extensible.js": {
+          "size": 135
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.reflect.own-keys.js": {
+          "size": 78
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.reflect.prevent-extensions.js": {
+          "size": 221
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.reflect.set-prototype-of.js": {
+          "size": 186
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.reflect.set.js": {
+          "size": 612
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.reflect.to-string-tag.js": {
+          "size": 113
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.regexp.constructor.js": {
+          "size": 1899
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.regexp.dot-all.js": {
+          "size": 307
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.regexp.exec.js": {
+          "size": 108
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.regexp.flags.js": {
+          "size": 238
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.regexp.sticky.js": {
+          "size": 321
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.regexp.test.js": {
+          "size": 475
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.regexp.to-string.js": {
+          "size": 421
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.set.js": {
+          "size": 147
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.anchor.js": {
+          "size": 168
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.at-alternative.js": {
+          "size": 303
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.big.js": {
+          "size": 160
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.blink.js": {
+          "size": 166
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.bold.js": {
+          "size": 160
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.code-point-at.js": {
+          "size": 143
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.ends-with.js": {
+          "size": 476
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.fixed.js": {
+          "size": 163
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.fontcolor.js": {
+          "size": 178
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.fontsize.js": {
+          "size": 161
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.from-code-point.js": {
+          "size": 433
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.includes.js": {
+          "size": 268
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.italics.js": {
+          "size": 166
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.iterator.js": {
+          "size": 347
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.link.js": {
+          "size": 164
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.match-all.js": {
+          "size": 1466
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.match.js": {
+          "size": 523
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.pad-end.js": {
+          "size": 190
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.pad-start.js": {
+          "size": 181
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.raw.js": {
+          "size": 296
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.repeat.js": {
+          "size": 91
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.replace-all.js": {
+          "size": 820
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.replace.js": {
+          "size": 1265
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.search.js": {
+          "size": 444
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.small.js": {
+          "size": 166
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.split.js": {
+          "size": 1960
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.starts-with.js": {
+          "size": 463
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.strike.js": {
+          "size": 169
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.sub.js": {
+          "size": 160
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.substr.js": {
+          "size": 368
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.sup.js": {
+          "size": 160
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.trim-end.js": {
+          "size": 208
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.trim-start.js": {
+          "size": 217
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.string.trim.js": {
+          "size": 142
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.symbol.async-iterator.js": {
+          "size": 61
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.symbol.description.js": {
+          "size": 735
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.symbol.has-instance.js": {
+          "size": 47
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.symbol.is-concat-spreadable.js": {
+          "size": 54
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.symbol.iterator.js": {
+          "size": 57
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.symbol.js": {
+          "size": 3674
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.symbol.match-all.js": {
+          "size": 44
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.symbol.match.js": {
+          "size": 41
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.symbol.replace.js": {
+          "size": 43
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.symbol.search.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.symbol.species.js": {
+          "size": 43
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.symbol.split.js": {
+          "size": 41
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.symbol.to-primitive.js": {
+          "size": 47
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.symbol.to-string-tag.js": {
+          "size": 47
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.symbol.unscopables.js": {
+          "size": 60
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.at.js": {
+          "size": 209
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.copy-within.js": {
+          "size": 213
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.every.js": {
+          "size": 196
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.fill.js": {
+          "size": 233
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.filter.js": {
+          "size": 225
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.find-index.js": {
+          "size": 203
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.find.js": {
+          "size": 181
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.float32-array.js": {
+          "size": 103
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.float64-array.js": {
+          "size": 116
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.for-each.js": {
+          "size": 193
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.from.js": {
+          "size": 111
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.includes.js": {
+          "size": 202
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.index-of.js": {
+          "size": 187
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.int16-array.js": {
+          "size": 101
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.int32-array.js": {
+          "size": 100
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.int8-array.js": {
+          "size": 113
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.iterator.js": {
+          "size": 516
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.join.js": {
+          "size": 163
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.last-index-of.js": {
+          "size": 216
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.map.js": {
+          "size": 240
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.of.js": {
+          "size": 229
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.reduce-right.js": {
+          "size": 211
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.reduce.js": {
+          "size": 206
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.reverse.js": {
+          "size": 220
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.set.js": {
+          "size": 631
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.slice.js": {
+          "size": 284
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.some.js": {
+          "size": 194
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.sort.js": {
+          "size": 770
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.subarray.js": {
+          "size": 281
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.to-locale-string.js": {
+          "size": 428
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.to-string.js": {
+          "size": 255
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.uint16-array.js": {
+          "size": 102
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.uint32-array.js": {
+          "size": 101
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.uint8-array.js": {
+          "size": 101
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.typed-array.uint8-clamped-array.js": {
+          "size": 117
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.unescape.js": {
+          "size": 437
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.weak-map.js": {
+          "size": 968
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/es.weak-set.js": {
+          "size": 138
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/web.dom-collections.for-each.js": {
+          "size": 209
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/web.dom-collections.iterator.js": {
+          "size": 366
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/web.dom-exception.constructor.js": {
+          "size": 1586
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/web.dom-exception.stack.js": {
+          "size": 643
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/web.dom-exception.to-string-tag.js": {
+          "size": 70
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/web.immediate.js": {
+          "size": 183
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/web.queue-microtask.js": {
+          "size": 192
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/web.structured-clone.js": {
+          "size": 5506
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/web.timers.js": {
+          "size": 368
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/web.url-search-params.js": {
+          "size": 4437
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/web.url.js": {
+          "size": 12029
+        },
+        "webpack://seismic-search/node_modules/core-js/modules/web.url.to-json.js": {
+          "size": 148
+        },
+        "webpack://seismic-search/node_modules/core-js/stable/index.js": {
+          "size": 2148
+        },
+        "webpack://seismic-search/node_modules/cross-fetch/dist/browser-ponyfill.js": {
+          "size": 8104
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat-parser/index.js": {
+          "size": 74
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat-parser/lib/parser.js": {
+          "size": 10109
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat/index.js": {
+          "size": 86
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat/lib/compiler.js": {
+          "size": 2636
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat/lib/core.js": {
+          "size": 2935
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat/lib/en.js": {
+          "size": 280
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat/lib/es5.js": {
+          "size": 478
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat/lib/main.js": {
+          "size": 140
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat/lib/utils.js": {
+          "size": 228
+        },
+        "webpack://seismic-search/node_modules/lodash/lodash.js": {
+          "size": 70724
+        },
+        "webpack://seismic-search/node_modules/regenerator-runtime/runtime.js": {
+          "size": 6516
+        },
+        "webpack://seismic-search/node_modules/i18next-http-backend/esm/getFetch.cjs": {
+          "size": 265
+        },
+        "webpack://seismic-search/webpack/bootstrap": {
+          "size": 164
+        },
+        "webpack://seismic-search/webpack/runtime/compat get default export": {
+          "size": 111
+        },
+        "webpack://seismic-search/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://seismic-search/webpack/runtime/global": {
+          "size": 165
+        },
+        "webpack://seismic-search/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://seismic-search/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://seismic-search/webpack/runtime/node module decorator": {
+          "size": 67
+        },
+        "webpack://seismic-search/webpack/runtime/publicPath": {
+          "size": 7
+        },
+        "webpack://seismic-search/webpack/startup": {
+          "size": 44
+        },
+        "[sourceMappingURL]": {
+          "size": 77
+        },
+        "[unmapped]": {
+          "size": 122
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

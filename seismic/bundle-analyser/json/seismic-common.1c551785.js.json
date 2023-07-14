@@ -1,0 +1,1247 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-common.1c551785.js",
+      "totalBytes": 834820,
+      "mappedBytes": 834311,
+      "unmappedBytes": 456,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 51,
+      "files": {
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/SeismicCommonCore.js": {
+          "size": 810
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/decorators/CommonService.decorator.js": {
+          "size": 914
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/decorators/DecoratorMetadataStorage.js": {
+          "size": 735
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/decorators/ICommonServiceOptions.js": {
+          "size": 83
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/entrypoint.js": {
+          "size": 1218
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/index.js": {
+          "size": 1901
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/interfaces/ISeismicCommonCore.js": {
+          "size": 82
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/interfaces/IStorageService.js": {
+          "size": 82
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/interfaces/IUserPayload.js": {
+          "size": 82
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/interfaces/ServiceAddress.js": {
+          "size": 82
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/interfaces/ServiceAddressesResponse.js": {
+          "size": 84
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/Auth.service.js": {
+          "size": 6235
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/Base64.service.js": {
+          "size": 1321
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/BaseGlobalHeaders.service.js": {
+          "size": 156
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/BaseUserService.js": {
+          "size": 140
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/CoreGlobalHeaders.service.js": {
+          "size": 2107
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/CoreUser.service.js": {
+          "size": 1569
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/Crypto.service.js": {
+          "size": 4760
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/Deprecation.service.js": {
+          "size": 1472
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/NewRelicPageAction.service.js": {
+          "size": 1201
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/ServiceAddress.service.js": {
+          "size": 3313
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/Tenant.service.js": {
+          "size": 3269
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/Url.service.js": {
+          "size": 1771
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/WindowMessage.service.js": {
+          "size": 1390
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/http/Http.service.js": {
+          "size": 8814
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/http/HttpErrorResponse.js": {
+          "size": 691
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/http/HttpInterceptorHandler.js": {
+          "size": 346
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/http/HttpServiceEnhancedPromise.js": {
+          "size": 2745
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/http/HttpServiceRequest.js": {
+          "size": 1771
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/http/HttpServiceResponse.js": {
+          "size": 977
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/http/IGlobalErrorHandler.js": {
+          "size": 82
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/http/IHttpHandler.js": {
+          "size": 82
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/http/IHttpInterceptor.js": {
+          "size": 82
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/http/IHttpOptions.js": {
+          "size": 81
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/http/IHttpResponseInterceptor.js": {
+          "size": 84
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/http/XhrHttpHandler.js": {
+          "size": 1946
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/storage/Cache.service.js": {
+          "size": 4489
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/storage/LocalStorage.service.js": {
+          "size": 1301
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/storage/SessionStorage.service.js": {
+          "size": 1311
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/storage/StorageService.js": {
+          "size": 924
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/services/storage/VariableStorage.service.js": {
+          "size": 952
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/types/ObjectType.js": {
+          "size": 82
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/util/base64UrlEncode.js": {
+          "size": 225
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/util/bufferToBase64UrlEncoded.js": {
+          "size": 821
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/util/cloneHttpOptions.js": {
+          "size": 1031
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/util/colorUtil.js": {
+          "size": 1158
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/util/createWatchable.js": {
+          "size": 1239
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/util/getCookie.js": {
+          "size": 319
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/util/getParsedJwt.js": {
+          "size": 196
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/util/getService.js": {
+          "size": 1189
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/util/hasOwnProperty.js": {
+          "size": 187
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/util/isObject.js": {
+          "size": 174
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/util/locationParams.js": {
+          "size": 885
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/util/lowerCaseFirstChar.js": {
+          "size": 1113
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/util/objectUtil.js": {
+          "size": 1045
+        },
+        "webpack://seismic-common/node_modules/@seismic/browser-services/lib/util/valueof.js": {
+          "size": 71
+        },
+        "webpack://seismic-common/node_modules/@seismic/toolchain-scripts/webpack/importmap/setPublicPathTemplate.js": {
+          "size": 45
+        },
+        "webpack://seismic-common/node_modules/crypto-js/core.js": {
+          "size": 3861
+        },
+        "webpack://seismic-common/node_modules/crypto-js/enc-base64.js": {
+          "size": 883
+        },
+        "webpack://seismic-common/node_modules/crypto-js/hmac-sha1.js": {
+          "size": 77
+        },
+        "webpack://seismic-common/node_modules/crypto-js/hmac.js": {
+          "size": 651
+        },
+        "webpack://seismic-common/node_modules/crypto-js/sha1.js": {
+          "size": 1042
+        },
+        "webpack://seismic-common/node_modules/intl-messageformat-parser/index.js": {
+          "size": 72
+        },
+        "webpack://seismic-common/node_modules/intl-messageformat-parser/lib/parser.js": {
+          "size": 10108
+        },
+        "webpack://seismic-common/node_modules/intl-messageformat/index.js": {
+          "size": 83
+        },
+        "webpack://seismic-common/node_modules/intl-messageformat/lib/compiler.js": {
+          "size": 2635
+        },
+        "webpack://seismic-common/node_modules/intl-messageformat/lib/core.js": {
+          "size": 2929
+        },
+        "webpack://seismic-common/node_modules/intl-messageformat/lib/en.js": {
+          "size": 279
+        },
+        "webpack://seismic-common/node_modules/intl-messageformat/lib/es5.js": {
+          "size": 476
+        },
+        "webpack://seismic-common/node_modules/intl-messageformat/lib/main.js": {
+          "size": 137
+        },
+        "webpack://seismic-common/node_modules/intl-messageformat/lib/utils.js": {
+          "size": 223
+        },
+        "webpack://seismic-common/node_modules/oidc-client/lib/oidc-client.min.js": {
+          "size": 283466
+        },
+        "webpack://seismic-common/node_modules/reflect-metadata/Reflect.js": {
+          "size": 9471
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/AsyncSubject.js": {
+          "size": 1212
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/BehaviorSubject.js": {
+          "size": 1150
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/Notification.js": {
+          "size": 1467
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/NotificationFactories.js": {
+          "size": 403
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/Observable.js": {
+          "size": 1572
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/ReplaySubject.js": {
+          "size": 1705
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/Scheduler.js": {
+          "size": 380
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/Subject.js": {
+          "size": 3768
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/Subscriber.js": {
+          "size": 2812
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/Subscription.js": {
+          "size": 2799
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/config.js": {
+          "size": 244
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/observable/ConnectableObservable.js": {
+          "size": 1656
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/observable/combineLatest.js": {
+          "size": 976
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/observable/concat.js": {
+          "size": 262
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/observable/empty.js": {
+          "size": 329
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/observable/from.js": {
+          "size": 185
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/observable/fromSubscribable.js": {
+          "size": 218
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/observable/innerFrom.js": {
+          "size": 4549
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/observable/interval.js": {
+          "size": 236
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/observable/of.js": {
+          "size": 238
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/observable/onErrorResumeNext.js": {
+          "size": 523
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/observable/race.js": {
+          "size": 582
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/observable/throwError.js": {
+          "size": 303
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/observable/timer.js": {
+          "size": 451
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/observable/zip.js": {
+          "size": 1268
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/OperatorSubscriber.js": {
+          "size": 1357
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/audit.js": {
+          "size": 539
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/auditTime.js": {
+          "size": 247
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/buffer.js": {
+          "size": 448
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/bufferCount.js": {
+          "size": 1308
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/bufferTime.js": {
+          "size": 1483
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/bufferToggle.js": {
+          "size": 1112
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/bufferWhen.js": {
+          "size": 532
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/catchError.js": {
+          "size": 410
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/combineAll.js": {
+          "size": 150
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/combineLatest.js": {
+          "size": 848
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/combineLatestAll.js": {
+          "size": 210
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/combineLatestWith.js": {
+          "size": 676
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/concat.js": {
+          "size": 743
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/concatAll.js": {
+          "size": 161
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/concatMap.js": {
+          "size": 211
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/concatMapTo.js": {
+          "size": 255
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/concatWith.js": {
+          "size": 655
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/connect.js": {
+          "size": 371
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/count.js": {
+          "size": 195
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/debounce.js": {
+          "size": 536
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/debounceTime.js": {
+          "size": 590
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/defaultIfEmpty.js": {
+          "size": 319
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/delay.js": {
+          "size": 249
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/delayWhen.js": {
+          "size": 368
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/dematerialize.js": {
+          "size": 296
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/distinct.js": {
+          "size": 422
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/distinctUntilChanged.js": {
+          "size": 404
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/distinctUntilKeyChanged.js": {
+          "size": 254
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/elementAt.js": {
+          "size": 427
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/endWith.js": {
+          "size": 687
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/every.js": {
+          "size": 330
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/exhaust.js": {
+          "size": 138
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/exhaustAll.js": {
+          "size": 185
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/exhaustMap.js": {
+          "size": 568
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/expand.js": {
+          "size": 267
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/filter.js": {
+          "size": 283
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/finalize.js": {
+          "size": 212
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/find.js": {
+          "size": 432
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/findIndex.js": {
+          "size": 198
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/first.js": {
+          "size": 389
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/flatMap.js": {
+          "size": 136
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/groupBy.js": {
+          "size": 1035
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/ignoreElements.js": {
+          "size": 256
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/isEmpty.js": {
+          "size": 301
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/joinAllInternals.js": {
+          "size": 299
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/last.js": {
+          "size": 391
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/map.js": {
+          "size": 267
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/mapTo.js": {
+          "size": 171
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/materialize.js": {
+          "size": 428
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/max.js": {
+          "size": 238
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/merge.js": {
+          "size": 794
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/mergeAll.js": {
+          "size": 202
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/mergeInternals.js": {
+          "size": 734
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/mergeMap.js": {
+          "size": 410
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/mergeMapTo.js": {
+          "size": 305
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/mergeScan.js": {
+          "size": 340
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/mergeWith.js": {
+          "size": 651
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/min.js": {
+          "size": 238
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/multicast.js": {
+          "size": 312
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/observeOn.js": {
+          "size": 497
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/onErrorResumeNextWith.js": {
+          "size": 790
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/pairwise.js": {
+          "size": 287
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/partition.js": {
+          "size": 223
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/pluck.js": {
+          "size": 387
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/publish.js": {
+          "size": 253
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/publishBehavior.js": {
+          "size": 276
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/publishLast.js": {
+          "size": 261
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/publishReplay.js": {
+          "size": 306
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/race.js": {
+          "size": 673
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/raceWith.js": {
+          "size": 712
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/reduce.js": {
+          "size": 213
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/refCount.js": {
+          "size": 450
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/repeat.js": {
+          "size": 674
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/repeatWhen.js": {
+          "size": 553
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/retry.js": {
+          "size": 800
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/retryWhen.js": {
+          "size": 473
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/sample.js": {
+          "size": 398
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/sampleTime.js": {
+          "size": 231
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/scan.js": {
+          "size": 206
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/scanInternals.js": {
+          "size": 340
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/sequenceEqual.js": {
+          "size": 664
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/share.js": {
+          "size": 1522
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/shareReplay.js": {
+          "size": 459
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/single.js": {
+          "size": 492
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/skip.js": {
+          "size": 178
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/skipLast.js": {
+          "size": 382
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/skipUntil.js": {
+          "size": 405
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/skipWhile.js": {
+          "size": 294
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/startWith.js": {
+          "size": 325
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/subscribeOn.js": {
+          "size": 258
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/switchAll.js": {
+          "size": 182
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/switchMap.js": {
+          "size": 515
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/switchMapTo.js": {
+          "size": 255
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/switchScan.js": {
+          "size": 317
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/take.js": {
+          "size": 324
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/takeLast.js": {
+          "size": 886
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/takeUntil.js": {
+          "size": 330
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/takeWhile.js": {
+          "size": 324
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/tap.js": {
+          "size": 732
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/throttle.js": {
+          "size": 769
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/throttleTime.js": {
+          "size": 308
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/throwIfEmpty.js": {
+          "size": 389
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/timeInterval.js": {
+          "size": 433
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/timeout.js": {
+          "size": 1141
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/timeoutWith.js": {
+          "size": 453
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/timestamp.js": {
+          "size": 255
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/toArray.js": {
+          "size": 249
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/window.js": {
+          "size": 596
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/windowCount.js": {
+          "size": 1106
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/windowTime.js": {
+          "size": 1158
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/windowToggle.js": {
+          "size": 1333
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/windowWhen.js": {
+          "size": 629
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/withLatestFrom.js": {
+          "size": 1101
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/zip.js": {
+          "size": 690
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/zipAll.js": {
+          "size": 181
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/operators/zipWith.js": {
+          "size": 645
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/scheduled/scheduleArray.js": {
+          "size": 302
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/scheduled/scheduleAsyncIterable.js": {
+          "size": 444
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/scheduled/scheduleIterable.js": {
+          "size": 508
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/scheduled/scheduleObservable.js": {
+          "size": 242
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/scheduled/schedulePromise.js": {
+          "size": 236
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/scheduled/scheduleReadableStreamLike.js": {
+          "size": 262
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/scheduled/scheduled.js": {
+          "size": 657
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/scheduler/Action.js": {
+          "size": 755
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/scheduler/AsyncAction.js": {
+          "size": 2028
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/scheduler/AsyncScheduler.js": {
+          "size": 1005
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/scheduler/async.js": {
+          "size": 216
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/scheduler/dateTimestampProvider.js": {
+          "size": 224
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/scheduler/intervalProvider.js": {
+          "size": 913
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/scheduler/timeoutProvider.js": {
+          "size": 902
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/symbol/iterator.js": {
+          "size": 248
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/symbol/observable.js": {
+          "size": 178
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/ArgumentOutOfRangeError.js": {
+          "size": 292
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/EmptyError.js": {
+          "size": 255
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/NotFoundError.js": {
+          "size": 241
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/ObjectUnsubscribedError.js": {
+          "size": 290
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/SequenceError.js": {
+          "size": 241
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/UnsubscriptionError.js": {
+          "size": 395
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/args.js": {
+          "size": 404
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/argsArgArrayOrObject.js": {
+          "size": 423
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/argsOrArgArray.js": {
+          "size": 192
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/arrRemove.js": {
+          "size": 174
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/createErrorClass.js": {
+          "size": 282
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/createObject.js": {
+          "size": 193
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/errorContext.js": {
+          "size": 445
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/executeSchedule.js": {
+          "size": 295
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/identity.js": {
+          "size": 133
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/isArrayLike.js": {
+          "size": 190
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/isAsyncIterable.js": {
+          "size": 234
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/isDate.js": {
+          "size": 166
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/isFunction.js": {
+          "size": 157
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/isInteropObservable.js": {
+          "size": 209
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/isIterable.js": {
+          "size": 204
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/isPromise.js": {
+          "size": 185
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/isReadableStreamLike.js": {
+          "size": 2516
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/isScheduler.js": {
+          "size": 181
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/lift.js": {
+          "size": 382
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/mapOneOrManyArgs.js": {
+          "size": 683
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/noop.js": {
+          "size": 116
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/not.js": {
+          "size": 161
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/pipe.js": {
+          "size": 359
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/reportUnhandledError.js": {
+          "size": 267
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/internal/util/throwUnobservableError.js": {
+          "size": 396
+        },
+        "webpack://seismic-common/node_modules/rxjs/dist/cjs/operators/index.js": {
+          "size": 13094
+        },
+        "webpack://seismic-common/src/SeismicCommon.ts": {
+          "size": 2441
+        },
+        "webpack://seismic-common/src/constants/CollaborationContentPermission.ts": {
+          "size": 603
+        },
+        "webpack://seismic-common/src/constants/CollaborationContentType.ts": {
+          "size": 604
+        },
+        "webpack://seismic-common/src/constants/CollaborationContentVersionType.ts": {
+          "size": 473
+        },
+        "webpack://seismic-common/src/constants/CollaborationRole.ts": {
+          "size": 482
+        },
+        "webpack://seismic-common/src/constants/DateFormat.ts": {
+          "size": 2954
+        },
+        "webpack://seismic-common/src/constants/DeliveryOptionsTypeToI18NKey.ts": {
+          "size": 1178
+        },
+        "webpack://seismic-common/src/constants/ErrorLogType.ts": {
+          "size": 332
+        },
+        "webpack://seismic-common/src/constants/EventContentType.ts": {
+          "size": 519
+        },
+        "webpack://seismic-common/src/constants/FeatureSettingIds.ts": {
+          "size": 464
+        },
+        "webpack://seismic-common/src/constants/FormatsToName.ts": {
+          "size": 683
+        },
+        "webpack://seismic-common/src/constants/NotificationMessages.ts": {
+          "size": 1521
+        },
+        "webpack://seismic-common/src/constants/ObjectTypes.ts": {
+          "size": 1263
+        },
+        "webpack://seismic-common/src/constants/PreviewUrls.ts": {
+          "size": 381
+        },
+        "webpack://seismic-common/src/constants/SeismicAppTypes.ts": {
+          "size": 351
+        },
+        "webpack://seismic-common/src/constants/SeismicClientType.ts": {
+          "size": 450
+        },
+        "webpack://seismic-common/src/constants/SeismicFormats.ts": {
+          "size": 588
+        },
+        "webpack://seismic-common/src/constants/SeismicStyleConstants.ts": {
+          "size": 210
+        },
+        "webpack://seismic-common/src/constants/SeismicUrlConstants.ts": {
+          "size": 2476
+        },
+        "webpack://seismic-common/src/constants/index.ts": {
+          "size": 713
+        },
+        "webpack://seismic-common/src/entrypoint.ts": {
+          "size": 2125
+        },
+        "webpack://seismic-common/src/helper/SeismicHelper.ts": {
+          "size": 2395
+        },
+        "webpack://seismic-common/src/index.ts": {
+          "size": 2330
+        },
+        "webpack://seismic-common/src/services/ArticleV2.service.ts": {
+          "size": 5575
+        },
+        "webpack://seismic-common/src/services/BlobStorageApi.service.ts": {
+          "size": 4474
+        },
+        "webpack://seismic-common/src/services/Branding.service.ts": {
+          "size": 3935
+        },
+        "webpack://seismic-common/src/services/Browser.service.ts": {
+          "size": 2944
+        },
+        "webpack://seismic-common/src/services/CDN.service.ts": {
+          "size": 2901
+        },
+        "webpack://seismic-common/src/services/CommonHelper.service.ts": {
+          "size": 7639
+        },
+        "webpack://seismic-common/src/services/DateService.ts": {
+          "size": 3859
+        },
+        "webpack://seismic-common/src/services/DateTimeUtil.service.ts": {
+          "size": 5418
+        },
+        "webpack://seismic-common/src/services/DeliveryOptions.service.ts": {
+          "size": 2073
+        },
+        "webpack://seismic-common/src/services/DynamicsCRM.service.ts": {
+          "size": 885
+        },
+        "webpack://seismic-common/src/services/EmbeddedApp.service.ts": {
+          "size": 2775
+        },
+        "webpack://seismic-common/src/services/Event.service.ts": {
+          "size": 1409
+        },
+        "webpack://seismic-common/src/services/FMS.service.ts": {
+          "size": 4550
+        },
+        "webpack://seismic-common/src/services/FeatureSetting.service.ts": {
+          "size": 1872
+        },
+        "webpack://seismic-common/src/services/GlobalSessionTimeoutCallbackService.ts": {
+          "size": 1336
+        },
+        "webpack://seismic-common/src/services/Guid.service.ts": {
+          "size": 3740
+        },
+        "webpack://seismic-common/src/services/Impersonation.service.ts": {
+          "size": 5232
+        },
+        "webpack://seismic-common/src/services/Language.service.ts": {
+          "size": 4281
+        },
+        "webpack://seismic-common/src/services/LaunchDarkly.service.ts": {
+          "size": 2334
+        },
+        "webpack://seismic-common/src/services/LegacyProfileTeamSite.service.ts": {
+          "size": 2201
+        },
+        "webpack://seismic-common/src/services/LiveDocGenerateTaskBusiness.service.ts": {
+          "size": 1062
+        },
+        "webpack://seismic-common/src/services/LiveDocGenerateTaskModel.service.ts": {
+          "size": 3797
+        },
+        "webpack://seismic-common/src/services/MonolithGlobalHeaders.service.ts": {
+          "size": 4047
+        },
+        "webpack://seismic-common/src/services/MonolithServiceAddress.service.ts": {
+          "size": 3175
+        },
+        "webpack://seismic-common/src/services/MonolithUser.service.ts": {
+          "size": 3059
+        },
+        "webpack://seismic-common/src/services/NewRelicNoticeError.service.ts": {
+          "size": 1063
+        },
+        "webpack://seismic-common/src/services/Notification.service.ts": {
+          "size": 6193
+        },
+        "webpack://seismic-common/src/services/NotificationBusiness.service.ts": {
+          "size": 2227
+        },
+        "webpack://seismic-common/src/services/Permission.service.ts": {
+          "size": 2860
+        },
+        "webpack://seismic-common/src/services/PreloadData.service.ts": {
+          "size": 1374
+        },
+        "webpack://seismic-common/src/services/Profile.service.ts": {
+          "size": 2940
+        },
+        "webpack://seismic-common/src/services/Salesforce.service.ts": {
+          "size": 3087
+        },
+        "webpack://seismic-common/src/services/SeismicBase.service.ts": {
+          "size": 991
+        },
+        "webpack://seismic-common/src/services/SeismicFromat.service.ts": {
+          "size": 4268
+        },
+        "webpack://seismic-common/src/services/SystemOptions.service.ts": {
+          "size": 1313
+        },
+        "webpack://seismic-common/src/services/TopHeader.service.ts": {
+          "size": 2464
+        },
+        "webpack://seismic-common/src/services/UserBehaviorTrack.service.ts": {
+          "size": 3588
+        },
+        "webpack://seismic-common/src/services/api/BlobDownloadUrl.service.ts": {
+          "size": 3746
+        },
+        "webpack://seismic-common/src/services/api/CollaborationContentObject.service.ts": {
+          "size": 5790
+        },
+        "webpack://seismic-common/src/services/api/File.service.ts": {
+          "size": 3128
+        },
+        "webpack://seismic-common/src/services/api/Form.service.ts": {
+          "size": 7940
+        },
+        "webpack://seismic-common/src/services/api/Library.service.ts": {
+          "size": 12882
+        },
+        "webpack://seismic-common/src/services/api/SystemSettingsApi.service.ts": {
+          "size": 1830
+        },
+        "webpack://seismic-common/src/services/apiSDK/APISDK.factory.ts": {
+          "size": 355
+        },
+        "webpack://seismic-common/src/services/apiSDK/BSSRetry.ts": {
+          "size": 822
+        },
+        "webpack://seismic-common/src/services/apiSDK/FullResponseModeInterceptor.ts": {
+          "size": 2616
+        },
+        "webpack://seismic-common/src/services/apiSDK/createAPISDKV2.ts": {
+          "size": 8883
+        },
+        "webpack://seismic-common/src/services/apiSDK/defaultHeadersResolver.ts": {
+          "size": 610
+        },
+        "webpack://seismic-common/src/services/apiSDK/fakeApiServiceFactory.ts": {
+          "size": 2182
+        },
+        "webpack://seismic-common/src/services/apiSDK/resolvers.ts": {
+          "size": 1423
+        },
+        "webpack://seismic-common/src/services/authentication/AuthClient.ts": {
+          "size": 2055
+        },
+        "webpack://seismic-common/src/services/authentication/Authentication.service.ts": {
+          "size": 622
+        },
+        "webpack://seismic-common/src/services/authentication/UserManagerClient.ts": {
+          "size": 4911
+        },
+        "webpack://seismic-common/src/services/authentication/UserManagerExternal.ts": {
+          "size": 1730
+        },
+        "webpack://seismic-common/src/services/authentication/authHelper.ts": {
+          "size": 1689
+        },
+        "webpack://seismic-common/src/services/centralEvents/CentralEvents.service.ts": {
+          "size": 2705
+        },
+        "webpack://seismic-common/src/services/centralEvents/EventStore.ts": {
+          "size": 1251
+        },
+        "webpack://seismic-common/src/services/centralEvents/EventsManager.ts": {
+          "size": 1304
+        },
+        "webpack://seismic-common/src/services/centralEvents/centralEventsClient.ts": {
+          "size": 1256
+        },
+        "webpack://seismic-common/src/services/centralEvents/createContentViewEventData.ts": {
+          "size": 655
+        },
+        "webpack://seismic-common/src/services/centralEvents/createContext.ts": {
+          "size": 187
+        },
+        "webpack://seismic-common/src/services/centralEvents/createTrace.ts": {
+          "size": 338
+        },
+        "webpack://seismic-common/src/services/centralEvents/enums.ts": {
+          "size": 2087
+        },
+        "webpack://seismic-common/src/services/eventCollector/EventCollector.service.ts": {
+          "size": 2476
+        },
+        "webpack://seismic-common/src/services/eventCollector/ReferenceEvent.service.ts": {
+          "size": 1999
+        },
+        "webpack://seismic-common/src/services/eventCollector/core/APIService/index.ts": {
+          "size": 1690
+        },
+        "webpack://seismic-common/src/services/eventCollector/core/EventCollector/EventContext.ts": {
+          "size": 210
+        },
+        "webpack://seismic-common/src/services/eventCollector/core/EventCollector/EventErrorReport.ts": {
+          "size": 512
+        },
+        "webpack://seismic-common/src/services/eventCollector/core/EventCollector/EventFlow.ts": {
+          "size": 1356
+        },
+        "webpack://seismic-common/src/services/eventCollector/core/EventCollector/EventQueue.ts": {
+          "size": 390
+        },
+        "webpack://seismic-common/src/services/eventCollector/core/EventCollector/EventStruct.ts": {
+          "size": 1796
+        },
+        "webpack://seismic-common/src/services/eventCollector/core/EventCollector/index.ts": {
+          "size": 1640
+        },
+        "webpack://seismic-common/src/services/eventCollector/core/constants/index.ts": {
+          "size": 474
+        },
+        "webpack://seismic-common/src/services/eventCollector/core/eventTypes/EventEnums.ts": {
+          "size": 2764
+        },
+        "webpack://seismic-common/src/services/eventCollector/core/eventTypes/EventTypes.ts": {
+          "size": 4963
+        },
+        "webpack://seismic-common/src/services/eventCollector/core/eventTypes/EventValidator.ts": {
+          "size": 3552
+        },
+        "webpack://seismic-common/src/services/eventCollector/core/utils/index.ts": {
+          "size": 156
+        },
+        "webpack://seismic-common/src/services/eventCollector/events/ContentDownloadV2.ts": {
+          "size": 721
+        },
+        "webpack://seismic-common/src/services/eventCollector/events/ContentViewV2.ts": {
+          "size": 714
+        },
+        "webpack://seismic-common/src/services/eventCollector/model/doccenter.ts": {
+          "size": 681
+        },
+        "webpack://seismic-common/src/services/eventCollector/model/library.ts": {
+          "size": 541
+        },
+        "webpack://seismic-common/src/services/eventCollector/model/newscenter.ts": {
+          "size": 365
+        },
+        "webpack://seismic-common/src/services/eventCollector/model/workspace.ts": {
+          "size": 2697
+        },
+        "webpack://seismic-common/src/services/jsonServiceApi/ApplicationApi.service.ts": {
+          "size": 4609
+        },
+        "webpack://seismic-common/src/services/jsonServiceApi/CollaborationContentManagement.service.ts": {
+          "size": 4622
+        },
+        "webpack://seismic-common/src/services/jsonServiceApi/Credential.service.ts": {
+          "size": 836
+        },
+        "webpack://seismic-common/src/services/jsonServiceApi/IApplicationInfoResponse.ts": {
+          "size": 2989
+        },
+        "webpack://seismic-common/src/services/jsonServiceApi/JsonApi.service.ts": {
+          "size": 4312
+        },
+        "webpack://seismic-common/src/services/jsonServiceApi/NotificationHttp.service.ts": {
+          "size": 1332
+        },
+        "webpack://seismic-common/src/services/jsonServiceApi/ProfileVersionsApi.service.ts": {
+          "size": 1333
+        },
+        "webpack://seismic-common/src/services/legacyI18n/LegacyI18n.factory.ts": {
+          "size": 665
+        },
+        "webpack://seismic-common/src/services/legacyI18n/LegacyI18nService.ts": {
+          "size": 752
+        },
+        "webpack://seismic-common/src/services/legacyI18n/LegacyTranslate.ts": {
+          "size": 3288
+        },
+        "webpack://seismic-common/src/services/navigation/DocCenterNavigation.service.ts": {
+          "size": 3577
+        },
+        "webpack://seismic-common/src/services/navigation/WorkspaceNavigation.service.ts": {
+          "size": 3176
+        },
+        "webpack://seismic-common/src/services/navigator/SeismicNavigator.ts": {
+          "size": 6543
+        },
+        "webpack://seismic-common/src/services/seismicBase/SeismicBaseNavigation.service.ts": {
+          "size": 2639
+        },
+        "webpack://seismic-common/src/services/uxEvent/UxEventLogger.service.ts": {
+          "size": 3216
+        },
+        "webpack://seismic-common/src/util/angular/angular-utils.ts": {
+          "size": 2294
+        },
+        "webpack://seismic-common/src/util/detectors.ts": {
+          "size": 1162
+        },
+        "webpack://seismic-common/node_modules/typedi/Container.js": {
+          "size": 1126
+        },
+        "webpack://seismic-common/node_modules/typedi/ContainerInstance.js": {
+          "size": 3332
+        },
+        "webpack://seismic-common/node_modules/typedi/Token.js": {
+          "size": 116
+        },
+        "webpack://seismic-common/node_modules/typedi/decorators/Inject.js": {
+          "size": 430
+        },
+        "webpack://seismic-common/node_modules/typedi/decorators/InjectMany.js": {
+          "size": 438
+        },
+        "webpack://seismic-common/node_modules/typedi/decorators/Service.js": {
+          "size": 667
+        },
+        "webpack://seismic-common/node_modules/typedi/error/CannotInjectError.js": {
+          "size": 753
+        },
+        "webpack://seismic-common/node_modules/typedi/error/MissingProvidedServiceTypeError.js": {
+          "size": 644
+        },
+        "webpack://seismic-common/node_modules/typedi/error/ServiceNotFoundError.js": {
+          "size": 1142
+        },
+        "webpack://seismic-common/node_modules/typedi/index.js": {
+          "size": 323
+        },
+        "webpack://seismic-common/node_modules/ua-parser-js/src/ua-parser.js": {
+          "size": 15521
+        },
+        "webpack://seismic-common/external system \"moment\"": {
+          "size": 43
+        },
+        "webpack://seismic-common/external system \"rxjs\"": {
+          "size": 1340
+        },
+        "webpack://seismic-common/node_modules/object-observer/dist/object-observer.min.js": {
+          "size": 9172
+        },
+        "webpack://seismic-common/webpack/bootstrap": {
+          "size": 144
+        },
+        "webpack://seismic-common/webpack/runtime/amd options": {
+          "size": 10
+        },
+        "webpack://seismic-common/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://seismic-common/webpack/runtime/global": {
+          "size": 165
+        },
+        "webpack://seismic-common/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://seismic-common/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://seismic-common/webpack/runtime/publicPath": {
+          "size": 7
+        },
+        "webpack://seismic-common/webpack/startup": {
+          "size": 25
+        },
+        "[sourceMappingURL]": {
+          "size": 51
+        },
+        "[unmapped]": {
+          "size": 456
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+Source	Size
+webpack://seismic-external-connections/src/components/Common/IconStore/index.tsx	7971
+webpack://seismic-external-connections/src/components/System/System.tsx	3996
+[no source]	3382
+webpack://seismic-external-connections/src/components/System/SystemOneDrive.tsx	2773
+webpack://seismic-external-connections/src/Constants.ts	2522
+webpack://seismic-external-connections/src/services/Auth.service.ts	1663
+webpack://seismic-external-connections/src/components/System/Systems.tsx	1447
+webpack://seismic-external-connections/src/components/System/Settings.tsx	1365
+webpack://seismic-external-connections/src/components/SystemType/index.tsx	1289
+webpack://seismic-external-connections/src/reducers/DataSourceReducer.ts	1132
+webpack://seismic-external-connections/src/app/App.tsx	1099
+webpack://seismic-external-connections/src/services/System.service.ts	1027
+webpack://seismic-external-connections/src/app/SeismicEmbedWrapper/index.tsx	962
+webpack://seismic-external-connections/src/utils/dataSourceShaper.ts	956
+webpack://seismic-external-connections/src/utils/systemValidator.ts	937
+webpack://seismic-external-connections/src/components/DataSourceType/index.tsx	890
+webpack://seismic-external-connections/src/app/System/SystemManagement.ts	867
+webpack://seismic-external-connections/src/Enums.ts	558
+webpack://seismic-external-connections/src/services/ConnectedApp.Service.ts	499
+webpack://seismic-external-connections/src/components/System/Helper/ActionPanel.tsx	493
+webpack://seismic-external-connections/src/components/System/Helper/DeletePopup.tsx	467
+webpack://seismic-external-connections/src/components/System/SystemState.tsx	446
+webpack://seismic-external-connections/src/components/System/Helper/Progress.tsx	414
+webpack://seismic-external-connections/src/components/System/Helper/Delete.tsx	413
+webpack://seismic-external-connections/src/Urls.ts	387
+webpack://seismic-external-connections/src/contexts/DataSource.tsx	372
+webpack://seismic-external-connections/src/contexts/BackdropContext.tsx	340
+webpack://seismic-external-connections/src/components/System/Helper/Save.tsx	302
+webpack://seismic-external-connections/src/components/System/Helper/Verify.tsx	292
+webpack://seismic-external-connections/src/components/Common/Icon/index.tsx	286
+webpack://seismic-external-connections/src/contexts/LaunchDarklyContext.tsx	264
+webpack://seismic-external-connections/src/contexts/LanguageContext.tsx	244
+webpack://seismic-external-connections/src/authCallback/index.tsx	231
+webpack://seismic-external-connections/src/utils/http.ts	203
+webpack://seismic-external-connections/webpack/runtime/make namespace object	173
+webpack://seismic-external-connections/src/components/Common/FormField/index.tsx	168
+webpack://seismic-external-connections/src/utils/urlUtil.ts	161
+webpack://seismic-external-connections/src/components/Common/UIBlocker/index.tsx	141
+webpack://seismic-external-connections/src/utils/uuid.ts	138
+webpack://seismic-external-connections/src/components/SystemTypes/index.tsx	135
+webpack://seismic-external-connections/src/components/DataSourceTypes/index.tsx	129
+webpack://seismic-external-connections/src/contexts/FMSContext.tsx	127
+webpack://seismic-external-connections/src/contexts/ServiceAddressContext.tsx	121
+webpack://seismic-external-connections/webpack/runtime/compat get default export	109
+webpack://seismic-external-connections/src/components/DataSourceSettings/index.tsx	109
+webpack://seismic-external-connections/webpack/runtime/define property getters	105
+webpack://seismic-external-connections/node_modules/@seismic/toolchain-scripts/webpack/setPublicPath.js	103
+webpack://seismic-external-connections/src/utils/string.ts	92
+webpack://seismic-external-connections/webpack/runtime/hasOwnProperty shorthand	66
+webpack://seismic-external-connections/src/app/System/SystemType.ts	55
+webpack://seismic-external-connections/external assign "__global_module_registers__[\"@seismic/mantle\"]"	50
+webpack://seismic-external-connections/external assign "__global_module_registers__[\"seismic-common\"]"	48
+[sourceMappingURL]	41
+webpack://seismic-external-connections/src/reducers/BackdropReducer.ts	30
+webpack://seismic-external-connections/external assign "React"	12
+[unmapped]	12
+webpack://seismic-external-connections/webpack/bootstrap	7
+webpack://seismic-external-connections/webpack/runtime/publicPath	6
+[EOLs]	1

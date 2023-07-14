@@ -1,0 +1,100 @@
+Source	Size
+webpack://seismic-admin-settings/src/i18n/locale-data/en.js	202144
+webpack://seismic-admin-settings/node_modules/i18next/dist/esm/i18next.js	41765
+webpack://seismic-admin-settings/src/pages/GDPRManagement/subPages/UserManagement.jsx	10515
+webpack://seismic-admin-settings/src/component/gridview/GridView.jsx	10430
+webpack://seismic-admin-settings/src/component/gridview/GridRow.jsx	9727
+webpack://seismic-admin-settings/src/pages/GDPRManagement/subPages/SearchManagement.jsx	7764
+webpack://seismic-admin-settings/node_modules/regenerator-runtime/runtime.js	6654
+webpack://seismic-admin-settings/src/component/listselector/ListSelector.jsx	5615
+webpack://seismic-admin-settings/node_modules/react-i18next/dist/es/Trans.js	5574
+webpack://seismic-admin-settings/src/component/userList/UserList.jsx	4748
+webpack://seismic-admin-settings/src/component/inlineEditor/InlineEditor.jsx	4577
+webpack://seismic-admin-settings/src/component/listselector/ListItem.jsx	4448
+webpack://seismic-admin-settings/src/pages/GDPRManagement/subPages/ContactMangement.jsx	4381
+webpack://seismic-admin-settings/src/component/editableDropdown/EditableDropdown.jsx	3401
+webpack://seismic-admin-settings/src/component/pagination/pagination.jsx	3234
+webpack://seismic-admin-settings/src/component/searchBox/SearchBox.jsx	2881
+webpack://seismic-admin-settings/src/component/groupList/GroupList.jsx	2664
+webpack://seismic-admin-settings/node_modules/i18next-xhr-backend/dist/esm/i18nextXHRBackend.js	2616
+webpack://seismic-admin-settings/src/common/ASUtils.js	2533
+webpack://seismic-admin-settings/src/component/form/form-items/Upload.jsx	2447
+webpack://seismic-admin-settings/src/pages/GDPRManagement/subPages/UserData.jsx	2281
+webpack://seismic-admin-settings/node_modules/html-parse-stringify/dist/html-parse-stringify.module.js	2064
+webpack://seismic-admin-settings/src/component/form/form-items/NewUpload.jsx	1536
+webpack://seismic-admin-settings/src/component/DropdownWithInput/index.jsx	1522
+webpack://seismic-admin-settings/src/common/defaultMessageConfig.js	1479
+webpack://seismic-admin-settings/src/component/dropdown/DropdownList.jsx	1471
+webpack://seismic-admin-settings/src/component/globalstyle/notification/BaseNotification.jsx	1415
+webpack://seismic-admin-settings/node_modules/react-i18next/dist/es/context.js	1259
+webpack://seismic-admin-settings/src/i18n/translate.js	1180
+webpack://seismic-admin-settings/src/component/gridview/GridEditableDropdown.jsx	1175
+webpack://seismic-admin-settings/src/component/globalstyle/notification/AutoPromptNotification.jsx	1163
+webpack://seismic-admin-settings/src/component/gridview/Checkbox.jsx	1103
+webpack://seismic-admin-settings/src/pages/GDPRManagement/GDPRManagementContainer.jsx	1088
+webpack://seismic-admin-settings/src/component/gridview/GridToggle.jsx	1077
+webpack://seismic-admin-settings/src/component/gridview/GridDate.jsx	1062
+webpack://seismic-admin-settings/src/component/editableDropdown/EditableDropdownListItem.jsx	1018
+webpack://seismic-admin-settings/src/common/constant.js	944
+webpack://seismic-admin-settings/src/i18n/i18n-plugin/getSeismicCDN-plugin.js	887
+webpack://seismic-admin-settings/src/component/button/addTertiaryButton/index.jsx	882
+webpack://seismic-admin-settings/src/component/dropdown/removeableDropdown/index.jsx	841
+webpack://seismic-admin-settings/src/common/DateUtils.js	828
+webpack://seismic-admin-settings/src/component/gridview/Sort.js	784
+webpack://seismic-admin-settings/src/common/keyBoardHandlers.js	605
+webpack://seismic-admin-settings/src/component/globalstyle/index.js	604
+webpack://seismic-admin-settings/src/common/generateIdUtil.js	446
+webpack://seismic-admin-settings/node_modules/react-i18next/dist/es/unescape.js	434
+webpack://seismic-admin-settings/node_modules/classnames/index.js	428
+webpack://seismic-admin-settings/node_modules/react-i18next/dist/es/utils.js	395
+webpack://seismic-admin-settings/src/common/setDialogProps.js	387
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js	340
+webpack://seismic-admin-settings/src/common/validateUtil.js	339
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/objectSpread.js	338
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js	286
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js	268
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/typeof.js	230
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/inherits.js	228
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/createClass.js	223
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/extends.js	211
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/get.js	209
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js	177
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js	176
+webpack://seismic-admin-settings/webpack/runtime/make namespace object	175
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/nonIterableSpread.js	167
+[unmapped]	162
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js	132
+webpack://seismic-admin-settings/node_modules/@seismic/toolchain-scripts/webpack/setPublicPath.js	127
+webpack://seismic-admin-settings/node_modules/void-elements/index.js	125
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js	123
+webpack://seismic-admin-settings/webpack/bootstrap	122
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/defineProperty.js	120
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/iterableToArray.js	112
+webpack://seismic-admin-settings/webpack/runtime/compat get default export	111
+webpack://seismic-admin-settings/webpack/runtime/define property getters	107
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js	107
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/classCallCheck.js	94
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js	93
+[sourceMappingURL]	92
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/superPropBase.js	90
+webpack://seismic-admin-settings/src/resource/search.svg	80
+webpack://seismic-admin-settings/src/resource/clear-text.svg	80
+webpack://seismic-admin-settings/src/resource/add.svg	77
+webpack://seismic-admin-settings/src/resource/delete.svg	76
+webpack://seismic-admin-settings/webpack/runtime/hasOwnProperty shorthand	68
+webpack://seismic-admin-settings/external assign "__global_module_registers__[\"seismic-toolkit\"]"	58
+webpack://seismic-admin-settings/external assign "__global_module_registers__[\"@seismic/mantle\"]"	54
+webpack://seismic-admin-settings/external assign "__global_module_registers__[\"@seismic/skeletons\"]"	50
+webpack://seismic-admin-settings/external assign "__global_module_registers__[\"seismic-common\"]"	48
+webpack://seismic-admin-settings/src/component/globalstyle/constant.js	48
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js	45
+webpack://seismic-admin-settings/node_modules/@babel/runtime/regenerator/index.js	40
+webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/toConsumableArray.js	40
+webpack://seismic-admin-settings/external assign "ReactCustomScrollbars"	40
+webpack://seismic-admin-settings/src/apps/gdprManagementEntry.js	33
+webpack://seismic-admin-settings/src/component/form/index.js	32
+webpack://seismic-admin-settings/src/context/TrimValueContext.js	29
+webpack://seismic-admin-settings/external assign "PropTypes"	25
+webpack://seismic-admin-settings/external assign "React"	17
+webpack://seismic-admin-settings/webpack/runtime/publicPath	16
+[EOLs]	2

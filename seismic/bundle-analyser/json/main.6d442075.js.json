@@ -1,0 +1,191 @@
+{
+  "results": [
+    {
+      "bundleName": "main.6d442075.js",
+      "totalBytes": 42628,
+      "mappedBytes": 42574,
+      "unmappedBytes": 12,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 41,
+      "files": {
+        "webpack://seismic-external-connections/webpack/bootstrap": {
+          "size": 7
+        },
+        "webpack://seismic-external-connections/webpack/runtime/compat get default export": {
+          "size": 109
+        },
+        "webpack://seismic-external-connections/webpack/runtime/define property getters": {
+          "size": 105
+        },
+        "webpack://seismic-external-connections/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 66
+        },
+        "webpack://seismic-external-connections/webpack/runtime/make namespace object": {
+          "size": 173
+        },
+        "webpack://seismic-external-connections/webpack/runtime/publicPath": {
+          "size": 6
+        },
+        "[no source]": {
+          "size": 3382
+        },
+        "webpack://seismic-external-connections/node_modules/@seismic/toolchain-scripts/webpack/setPublicPath.js": {
+          "size": 103
+        },
+        "webpack://seismic-external-connections/external assign \"React\"": {
+          "size": 12
+        },
+        "webpack://seismic-external-connections/src/Enums.ts": {
+          "size": 558
+        },
+        "webpack://seismic-external-connections/external assign \"__global_module_registers__[\\\"seismic-common\\\"]\"": {
+          "size": 48
+        },
+        "webpack://seismic-external-connections/src/authCallback/index.tsx": {
+          "size": 231
+        },
+        "webpack://seismic-external-connections/src/utils/urlUtil.ts": {
+          "size": 161
+        },
+        "webpack://seismic-external-connections/external assign \"__global_module_registers__[\\\"@seismic/mantle\\\"]\"": {
+          "size": 50
+        },
+        "webpack://seismic-external-connections/src/reducers/BackdropReducer.ts": {
+          "size": 30
+        },
+        "webpack://seismic-external-connections/src/contexts/BackdropContext.tsx": {
+          "size": 340
+        },
+        "webpack://seismic-external-connections/src/components/Common/UIBlocker/index.tsx": {
+          "size": 141
+        },
+        "webpack://seismic-external-connections/src/Constants.ts": {
+          "size": 2522
+        },
+        "webpack://seismic-external-connections/src/utils/uuid.ts": {
+          "size": 138
+        },
+        "webpack://seismic-external-connections/src/reducers/DataSourceReducer.ts": {
+          "size": 1132
+        },
+        "webpack://seismic-external-connections/src/app/System/SystemType.ts": {
+          "size": 55
+        },
+        "webpack://seismic-external-connections/src/contexts/DataSource.tsx": {
+          "size": 372
+        },
+        "webpack://seismic-external-connections/src/contexts/LanguageContext.tsx": {
+          "size": 244
+        },
+        "webpack://seismic-external-connections/src/contexts/LaunchDarklyContext.tsx": {
+          "size": 264
+        },
+        "webpack://seismic-external-connections/src/components/Common/IconStore/index.tsx": {
+          "size": 7971
+        },
+        "webpack://seismic-external-connections/src/components/Common/Icon/index.tsx": {
+          "size": 286
+        },
+        "webpack://seismic-external-connections/src/Urls.ts": {
+          "size": 387
+        },
+        "webpack://seismic-external-connections/src/services/Auth.service.ts": {
+          "size": 1663
+        },
+        "webpack://seismic-external-connections/src/utils/http.ts": {
+          "size": 203
+        },
+        "webpack://seismic-external-connections/src/utils/string.ts": {
+          "size": 92
+        },
+        "webpack://seismic-external-connections/src/app/System/SystemManagement.ts": {
+          "size": 867
+        },
+        "webpack://seismic-external-connections/src/services/ConnectedApp.Service.ts": {
+          "size": 499
+        },
+        "webpack://seismic-external-connections/src/services/System.service.ts": {
+          "size": 1027
+        },
+        "webpack://seismic-external-connections/src/utils/systemValidator.ts": {
+          "size": 937
+        },
+        "webpack://seismic-external-connections/src/components/Common/FormField/index.tsx": {
+          "size": 168
+        },
+        "webpack://seismic-external-connections/src/components/System/Helper/Progress.tsx": {
+          "size": 414
+        },
+        "webpack://seismic-external-connections/src/components/System/Helper/Delete.tsx": {
+          "size": 413
+        },
+        "webpack://seismic-external-connections/src/components/System/Helper/Save.tsx": {
+          "size": 302
+        },
+        "webpack://seismic-external-connections/src/components/System/SystemState.tsx": {
+          "size": 446
+        },
+        "webpack://seismic-external-connections/src/components/System/Helper/Verify.tsx": {
+          "size": 292
+        },
+        "webpack://seismic-external-connections/src/components/System/Helper/ActionPanel.tsx": {
+          "size": 493
+        },
+        "webpack://seismic-external-connections/src/components/System/Helper/DeletePopup.tsx": {
+          "size": 467
+        },
+        "webpack://seismic-external-connections/src/components/System/Settings.tsx": {
+          "size": 1365
+        },
+        "webpack://seismic-external-connections/src/components/System/System.tsx": {
+          "size": 3996
+        },
+        "webpack://seismic-external-connections/src/components/System/SystemOneDrive.tsx": {
+          "size": 2773
+        },
+        "webpack://seismic-external-connections/src/components/System/Systems.tsx": {
+          "size": 1447
+        },
+        "webpack://seismic-external-connections/src/components/SystemType/index.tsx": {
+          "size": 1289
+        },
+        "webpack://seismic-external-connections/src/components/SystemTypes/index.tsx": {
+          "size": 135
+        },
+        "webpack://seismic-external-connections/src/components/DataSourceType/index.tsx": {
+          "size": 890
+        },
+        "webpack://seismic-external-connections/src/components/DataSourceTypes/index.tsx": {
+          "size": 129
+        },
+        "webpack://seismic-external-connections/src/components/DataSourceSettings/index.tsx": {
+          "size": 109
+        },
+        "webpack://seismic-external-connections/src/contexts/FMSContext.tsx": {
+          "size": 127
+        },
+        "webpack://seismic-external-connections/src/contexts/ServiceAddressContext.tsx": {
+          "size": 121
+        },
+        "webpack://seismic-external-connections/src/utils/dataSourceShaper.ts": {
+          "size": 956
+        },
+        "webpack://seismic-external-connections/src/app/App.tsx": {
+          "size": 1099
+        },
+        "webpack://seismic-external-connections/src/app/SeismicEmbedWrapper/index.tsx": {
+          "size": 962
+        },
+        "[sourceMappingURL]": {
+          "size": 41
+        },
+        "[unmapped]": {
+          "size": 12
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

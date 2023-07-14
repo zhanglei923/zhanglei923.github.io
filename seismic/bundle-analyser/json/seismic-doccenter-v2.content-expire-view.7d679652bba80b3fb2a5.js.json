@@ -1,0 +1,323 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-doccenter-v2.content-expire-view.7d679652bba80b3fb2a5.js",
+      "totalBytes": 323095,
+      "mappedBytes": 322282,
+      "unmappedBytes": 722,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 89,
+      "files": {
+        "webpack://seismic-doccenter-v2/src/DocCenter/Wrapper/index.jsx": {
+          "size": 10965
+        },
+        "webpack://seismic-doccenter-v2/src/NextUI/common/constants.js": {
+          "size": 1093
+        },
+        "webpack://seismic-doccenter-v2/src/NextUI/components/BusySpinner/index.jsx": {
+          "size": 1699
+        },
+        "webpack://seismic-doccenter-v2/src/NextUI/components/MantleTimestamp/index.jsx": {
+          "size": 493
+        },
+        "webpack://seismic-doccenter-v2/src/NextUI/components/MantleWrapper/index.jsx": {
+          "size": 2276
+        },
+        "webpack://seismic-doccenter-v2/src/common/commonService/doccenterV2AppOptions/index.js": {
+          "size": 29647
+        },
+        "webpack://seismic-doccenter-v2/src/common/commonService/doccenterV2AppOptions/migrateImplementation.js": {
+          "size": 11559
+        },
+        "webpack://seismic-doccenter-v2/src/common/commonService/doccenterV2AppOptions/postInitOptions.js": {
+          "size": 10530
+        },
+        "webpack://seismic-doccenter-v2/src/common/commonService/globalContext/index.js": {
+          "size": 1588
+        },
+        "webpack://seismic-doccenter-v2/src/common/commonService/serviceHandler/index.js": {
+          "size": 10909
+        },
+        "webpack://seismic-doccenter-v2/src/common/constants.js": {
+          "size": 1794
+        },
+        "webpack://seismic-doccenter-v2/src/core/adapter/contentList.js": {
+          "size": 5411
+        },
+        "webpack://seismic-doccenter-v2/src/core/adapter/file.js": {
+          "size": 701
+        },
+        "webpack://seismic-doccenter-v2/src/core/adapter/folderInfo.js": {
+          "size": 426
+        },
+        "webpack://seismic-doccenter-v2/src/core/adapter/folderTree.js": {
+          "size": 527
+        },
+        "webpack://seismic-doccenter-v2/src/core/adapter/index.js": {
+          "size": 116
+        },
+        "webpack://seismic-doccenter-v2/src/core/adapter/infoDialog.js": {
+          "size": 423
+        },
+        "webpack://seismic-doccenter-v2/src/core/adapter/profile.js": {
+          "size": 414
+        },
+        "webpack://seismic-doccenter-v2/src/core/adapter/profileInfo.js": {
+          "size": 2390
+        },
+        "webpack://seismic-doccenter-v2/src/core/adapter/store.js": {
+          "size": 973
+        },
+        "webpack://seismic-doccenter-v2/src/core/apiClient/index.js": {
+          "size": 117
+        },
+        "webpack://seismic-doccenter-v2/src/core/bundleMethods/index.js": {
+          "size": 65
+        },
+        "webpack://seismic-doccenter-v2/src/core/dialogHelper/index.js": {
+          "size": 191
+        },
+        "webpack://seismic-doccenter-v2/src/core/errorHandler/index.js": {
+          "size": 746
+        },
+        "webpack://seismic-doccenter-v2/src/services/index.js": {
+          "size": 9811
+        },
+        "webpack://seismic-doccenter-v2/src/services/setting.ts": {
+          "size": 13596
+        },
+        "webpack://seismic-doccenter-v2/src/services/utils.js": {
+          "size": 353
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/_lib/getTimezoneOffsetInMilliseconds/index.js": {
+          "size": 277
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/_lib/requiredArgs/index.js": {
+          "size": 221
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/_lib/roundingMethods/index.js": {
+          "size": 194
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/_lib/toInteger/index.js": {
+          "size": 277
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/add/index.js": {
+          "size": 751
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/addDays/index.js": {
+          "size": 236
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/addMonths/index.js": {
+          "size": 357
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/compareAsc/index.js": {
+          "size": 209
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/constants/index.js": {
+          "size": 137
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInCalendarDays/index.js": {
+          "size": 247
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInCalendarMonths/index.js": {
+          "size": 234
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInCalendarYears/index.js": {
+          "size": 212
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInDays/index.js": {
+          "size": 552
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInHours/index.js": {
+          "size": 208
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInMilliseconds/index.js": {
+          "size": 202
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInMinutes/index.js": {
+          "size": 241
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInMonths/index.js": {
+          "size": 420
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInSeconds/index.js": {
+          "size": 228
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInYears/index.js": {
+          "size": 301
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/endOfDay/index.js": {
+          "size": 180
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/endOfMonth/index.js": {
+          "size": 320
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/intervalToDuration/index.js": {
+          "size": 727
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/isLastDayOfMonth/index.js": {
+          "size": 197
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/startOfDay/index.js": {
+          "size": 165
+        },
+        "webpack://seismic-doccenter-v2/node_modules/date-fns/esm/toDate/index.js": {
+          "size": 830
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/index.js": {
+          "size": 2553
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/arrays.js": {
+          "size": 8422
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/async.js": {
+          "size": 14708
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/cancellation.js": {
+          "size": 1981
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/charCode.js": {
+          "size": 14493
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/color.js": {
+          "size": 8320
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/date.js": {
+          "size": 2590
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/decorators.js": {
+          "size": 2495
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/errors.js": {
+          "size": 3115
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/event.js": {
+          "size": 13662
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/filters.js": {
+          "size": 7123
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/functional.js": {
+          "size": 195
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/iterator.js": {
+          "size": 4047
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/keyCodes.js": {
+          "size": 7649
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/lifecycle.js": {
+          "size": 4571
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/linkedList.js": {
+          "size": 2968
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/map.js": {
+          "size": 17652
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/network.js": {
+          "size": 2663
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/numbers.js": {
+          "size": 633
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/objects.js": {
+          "size": 2773
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/path.js": {
+          "size": 11667
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/platform.js": {
+          "size": 2935
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/process.js": {
+          "size": 823
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/sequence.js": {
+          "size": 1561
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/strings.js": {
+          "size": 35739
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/types.js": {
+          "size": 3695
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/uri.js": {
+          "size": 6948
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/uuid.js": {
+          "size": 707
+        },
+        "webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/nls.js": {
+          "size": 314
+        },
+        "webpack://seismic-doccenter-v2/external assign \"Moment\"": {
+          "size": 48
+        },
+        "webpack://seismic-doccenter-v2/external assign \"PropTypes\"": {
+          "size": 52
+        },
+        "webpack://seismic-doccenter-v2/external assign \"React\"": {
+          "size": 48
+        },
+        "webpack://seismic-doccenter-v2/external assign \"__global_module_registers__[\\\"@seismic/mantle\\\"]\"": {
+          "size": 89
+        },
+        "webpack://seismic-doccenter-v2/external assign \"__global_module_registers__[\\\"seismic-common\\\"]\"": {
+          "size": 88
+        },
+        "webpack://seismic-doccenter-v2/external assign \"__global_module_registers__[\\\"seismic-content-discovery-toolkit\\\"]\"": {
+          "size": 107
+        },
+        "webpack://seismic-doccenter-v2/external assign \"__global_module_registers__[\\\"seismic-content-list\\\"]\"": {
+          "size": 94
+        },
+        "webpack://seismic-doccenter-v2/external assign \"__global_module_registers__[\\\"seismic-svg-images\\\"]\"": {
+          "size": 92
+        },
+        "webpack://seismic-doccenter-v2/external assign \"__global_module_registers__[\\\"seismic-toolkit\\\"]\"": {
+          "size": 89
+        },
+        "webpack://seismic-doccenter-v2/external assign \"__global_module_registers__[\\\"styled-components\\\"]\"": {
+          "size": 420
+        },
+        "webpack://seismic-doccenter-v2/webpack/bootstrap": {
+          "size": 137
+        },
+        "webpack://seismic-doccenter-v2/webpack/runtime/compat get default export": {
+          "size": 111
+        },
+        "webpack://seismic-doccenter-v2/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://seismic-doccenter-v2/webpack/runtime/global": {
+          "size": 165
+        },
+        "webpack://seismic-doccenter-v2/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://seismic-doccenter-v2/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://seismic-doccenter-v2/webpack/runtime/publicPath": {
+          "size": 16
+        },
+        "webpack://seismic-doccenter-v2/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 1428
+        },
+        "webpack://seismic-doccenter-v2/src/pages/ContentExpirationView/index.jsx": {
+          "size": 5210
+        },
+        "[sourceMappingURL]": {
+          "size": 89
+        },
+        "[unmapped]": {
+          "size": 722
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

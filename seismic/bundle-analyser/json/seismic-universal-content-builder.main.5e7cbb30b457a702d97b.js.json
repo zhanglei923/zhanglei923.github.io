@@ -1,0 +1,1115 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-universal-content-builder.main.5e7cbb30b457a702d97b.js",
+      "totalBytes": 882776,
+      "mappedBytes": 882533,
+      "unmappedBytes": 154,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 87,
+      "files": {
+        "webpack://seismic-universal-content-builder/node_modules/classnames/index.js": {
+          "size": 476
+        },
+        "webpack://seismic-universal-content-builder/node_modules/invariant/browser.js": {
+          "size": 364
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/i18n/local-data/en-US.json": {
+          "size": 16846
+        },
+        "webpack://seismic-universal-content-builder/src/i18n/locale-data/en-US.json": {
+          "size": 6484
+        },
+        "webpack://seismic-universal-content-builder/src/service/swaggers/bss-upload-v1.json": {
+          "size": 10265
+        },
+        "webpack://seismic-universal-content-builder/src/service/swaggers/doccenter-v1.json": {
+          "size": 20444
+        },
+        "webpack://seismic-universal-content-builder/src/service/swaggers/form-service-v1.json": {
+          "size": 7803
+        },
+        "webpack://seismic-universal-content-builder/src/service/swaggers/guided-assembly-v1.json": {
+          "size": 30441
+        },
+        "webpack://seismic-universal-content-builder/src/service/swaggers/lifecycle-service-v1.json": {
+          "size": 9497
+        },
+        "webpack://seismic-universal-content-builder/src/service/swaggers/livedoc-service-v2.json": {
+          "size": 31766
+        },
+        "webpack://seismic-universal-content-builder/src/service/swaggers/workspace-v1.json": {
+          "size": 61963
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_DataView.js": {
+          "size": 67
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_Hash.js": {
+          "size": 283
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_ListCache.js": {
+          "size": 284
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_Map.js": {
+          "size": 62
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_MapCache.js": {
+          "size": 283
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_Promise.js": {
+          "size": 66
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_Set.js": {
+          "size": 62
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_SetCache.js": {
+          "size": 210
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_Stack.js": {
+          "size": 253
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_Symbol.js": {
+          "size": 55
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_Uint8Array.js": {
+          "size": 58
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_WeakMap.js": {
+          "size": 62
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_arrayFilter.js": {
+          "size": 139
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_arrayLikeKeys.js": {
+          "size": 408
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_arrayMap.js": {
+          "size": 121
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_arrayPush.js": {
+          "size": 106
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_arraySome.js": {
+          "size": 121
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_assocIndexOf.js": {
+          "size": 119
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseAssignValue.js": {
+          "size": 147
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseFor.js": {
+          "size": 50
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseForOwn.js": {
+          "size": 90
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseGet.js": {
+          "size": 155
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseGetAllKeys.js": {
+          "size": 108
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseGetTag.js": {
+          "size": 189
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseHasIn.js": {
+          "size": 78
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseIsArguments.js": {
+          "size": 108
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseIsEqual.js": {
+          "size": 152
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseIsEqualDeep.js": {
+          "size": 620
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseIsMatch.js": {
+          "size": 383
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseIsNative.js": {
+          "size": 376
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseIsTypedArray.js": {
+          "size": 682
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseIteratee.js": {
+          "size": 184
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseKeys.js": {
+          "size": 206
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseMatches.js": {
+          "size": 173
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseMatchesProperty.js": {
+          "size": 209
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseProperty.js": {
+          "size": 92
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_basePropertyDeep.js": {
+          "size": 89
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseSlice.js": {
+          "size": 177
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseTimes.js": {
+          "size": 96
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseToString.js": {
+          "size": 265
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_baseUnary.js": {
+          "size": 73
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_cacheHas.js": {
+          "size": 63
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_castPath.js": {
+          "size": 124
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_coreJsData.js": {
+          "size": 66
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_createBaseFor.js": {
+          "size": 170
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_defineProperty.js": {
+          "size": 132
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_equalArrays.js": {
+          "size": 540
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_equalByTag.js": {
+          "size": 835
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_equalObjects.js": {
+          "size": 683
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_freeGlobal.js": {
+          "size": 92
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_getAllKeys.js": {
+          "size": 95
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_getMapData.js": {
+          "size": 134
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_getMatchData.js": {
+          "size": 143
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_getNative.js": {
+          "size": 105
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_getRawTag.js": {
+          "size": 246
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_getSymbols.js": {
+          "size": 221
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_getTag.js": {
+          "size": 535
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_getValue.js": {
+          "size": 73
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_hasPath.js": {
+          "size": 281
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_hashClear.js": {
+          "size": 92
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_hashDelete.js": {
+          "size": 114
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_hashGet.js": {
+          "size": 208
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_hashHas.js": {
+          "size": 148
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_hashSet.js": {
+          "size": 165
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_isIndex.js": {
+          "size": 184
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_isKey.js": {
+          "size": 276
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_isKeyable.js": {
+          "size": 143
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_isMasked.js": {
+          "size": 149
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_isPrototype.js": {
+          "size": 141
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_isStrictComparable.js": {
+          "size": 74
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_listCacheClear.js": {
+          "size": 73
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_listCacheDelete.js": {
+          "size": 180
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_listCacheGet.js": {
+          "size": 114
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_listCacheHas.js": {
+          "size": 88
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_listCacheSet.js": {
+          "size": 144
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_mapCacheClear.js": {
+          "size": 144
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_mapCacheDelete.js": {
+          "size": 110
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_mapCacheGet.js": {
+          "size": 83
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_mapCacheHas.js": {
+          "size": 83
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_mapCacheSet.js": {
+          "size": 130
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_mapToArray.js": {
+          "size": 116
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_matchesStrictComparable.js": {
+          "size": 124
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_memoizeCapped.js": {
+          "size": 137
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_nativeCreate.js": {
+          "size": 64
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_nativeKeys.js": {
+          "size": 79
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_nodeUtil.js": {
+          "size": 234
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_objectToString.js": {
+          "size": 90
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_overArg.js": {
+          "size": 82
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_root.js": {
+          "size": 135
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_setCacheAdd.js": {
+          "size": 102
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_setCacheHas.js": {
+          "size": 69
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_setToArray.js": {
+          "size": 114
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_stackClear.js": {
+          "size": 86
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_stackDelete.js": {
+          "size": 101
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_stackGet.js": {
+          "size": 69
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_stackHas.js": {
+          "size": 73
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_stackSet.js": {
+          "size": 267
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_stringToPath.js": {
+          "size": 299
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_toKey.js": {
+          "size": 138
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/_toSource.js": {
+          "size": 154
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/eq.js": {
+          "size": 72
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/get.js": {
+          "size": 113
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/hasIn.js": {
+          "size": 89
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/identity.js": {
+          "size": 54
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/initial.js": {
+          "size": 99
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/isArguments.js": {
+          "size": 221
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/isArray.js": {
+          "size": 54
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/isArrayLike.js": {
+          "size": 115
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/isBuffer.js": {
+          "size": 163
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/isFunction.js": {
+          "size": 206
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/isLength.js": {
+          "size": 101
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/isObject.js": {
+          "size": 101
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/isObjectLike.js": {
+          "size": 80
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/isSymbol.js": {
+          "size": 125
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/isTypedArray.js": {
+          "size": 99
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/keys.js": {
+          "size": 100
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/lodash.js": {
+          "size": 70860
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/mapValues.js": {
+          "size": 148
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/memoize.js": {
+          "size": 355
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/property.js": {
+          "size": 107
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/stubArray.js": {
+          "size": 49
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/stubFalse.js": {
+          "size": 53
+        },
+        "webpack://seismic-universal-content-builder/node_modules/lodash/toString.js": {
+          "size": 61
+        },
+        "webpack://seismic-universal-content-builder/webpack/bootstrap": {
+          "size": 164
+        },
+        "webpack://seismic-universal-content-builder/webpack/runtime/compat get default export": {
+          "size": 111
+        },
+        "webpack://seismic-universal-content-builder/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://seismic-universal-content-builder/webpack/runtime/global": {
+          "size": 165
+        },
+        "webpack://seismic-universal-content-builder/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://seismic-universal-content-builder/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://seismic-universal-content-builder/webpack/runtime/node module decorator": {
+          "size": 67
+        },
+        "webpack://seismic-universal-content-builder/webpack/runtime/publicPath": {
+          "size": 16
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 1250
+        },
+        "webpack://seismic-universal-content-builder/external assign \"React\"": {
+          "size": 21
+        },
+        "webpack://seismic-universal-content-builder/external assign \"__global_module_registers__[\\\"@seismic/mantle\\\"]\"": {
+          "size": 49
+        },
+        "webpack://seismic-universal-content-builder/src/contexts/LanguageContext.tsx": {
+          "size": 246
+        },
+        "webpack://seismic-universal-content-builder/src/contexts/UserContext.tsx": {
+          "size": 254
+        },
+        "webpack://seismic-universal-content-builder/src/contexts/ServiceAddressContext.tsx": {
+          "size": 276
+        },
+        "webpack://seismic-universal-content-builder/src/contexts/ApplicationInfoContext.tsx": {
+          "size": 277
+        },
+        "webpack://seismic-universal-content-builder/src/contexts/LaunchDarklyContext.tsx": {
+          "size": 275
+        },
+        "webpack://seismic-universal-content-builder/src/contexts/PropsDataContext.tsx": {
+          "size": 247
+        },
+        "webpack://seismic-universal-content-builder/src/contexts/InternalDataStoreContext.tsx": {
+          "size": 260
+        },
+        "webpack://seismic-universal-content-builder/src/contexts/OriginalContentContext.tsx": {
+          "size": 28
+        },
+        "webpack://seismic-universal-content-builder/external assign \"__global_module_registers__[\\\"seismic-common\\\"]\"": {
+          "size": 48
+        },
+        "webpack://seismic-universal-content-builder/src/common/SeismicBrowserService.ts": {
+          "size": 1450
+        },
+        "webpack://seismic-universal-content-builder/src/common/utils.ts": {
+          "size": 2602
+        },
+        "webpack://seismic-universal-content-builder/src/service/apiClient/index.ts": {
+          "size": 2178
+        },
+        "webpack://seismic-universal-content-builder/src/service/LifecycleServiceV1.ts": {
+          "size": 1795
+        },
+        "webpack://seismic-universal-content-builder/src/common/featureToggleService.ts": {
+          "size": 7835
+        },
+        "webpack://seismic-universal-content-builder/src/service/upload/BssKeys.ts": {
+          "size": 1421
+        },
+        "webpack://seismic-universal-content-builder/src/service/upload/BssUploadApiClient.ts": {
+          "size": 1314
+        },
+        "webpack://seismic-universal-content-builder/src/service/upload/FileUploadService.ts": {
+          "size": 3773
+        },
+        "webpack://seismic-universal-content-builder/src/layouts/HeadlessLayout/index.tsx": {
+          "size": 143
+        },
+        "webpack://seismic-universal-content-builder/src/layouts/FullSizeLayout/index.tsx": {
+          "size": 629
+        },
+        "webpack://seismic-universal-content-builder/src/constants/ViewMode.ts": {
+          "size": 75
+        },
+        "webpack://seismic-universal-content-builder/src/layouts/index.tsx": {
+          "size": 182
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/typeof.js": {
+          "size": 233
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/defineProperty.js": {
+          "size": 121
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/objectSpread.js": {
+          "size": 338
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/classCallCheck.js": {
+          "size": 95
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/createClass.js": {
+          "size": 227
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js": {
+          "size": 124
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js": {
+          "size": 74
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js": {
+          "size": 133
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js": {
+          "size": 96
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/inherits.js": {
+          "size": 230
+        },
+        "webpack://seismic-universal-content-builder/node_modules/i18next/dist/esm/i18next.js": {
+          "size": 42003
+        },
+        "webpack://seismic-universal-content-builder/node_modules/i18next-xhr-backend/dist/esm/i18nextXHRBackend.js": {
+          "size": 4661
+        },
+        "webpack://seismic-universal-content-builder/src/i18n/i18n-plugin/getSeismicCDN-plugin.ts": {
+          "size": 943
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/typeof.js": {
+          "size": 233
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/toPropertyKey.js": {
+          "size": 69
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/toPrimitive.js": {
+          "size": 260
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/createClass.js": {
+          "size": 264
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/defineProperty.js": {
+          "size": 127
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-i18next/dist/es/unescape.js": {
+          "size": 439
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-i18next/dist/es/context.js": {
+          "size": 2008
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-i18next/node_modules/@babel/runtime/helpers/esm/classCallCheck.js": {
+          "size": 92
+        },
+        "webpack://seismic-universal-content-builder/src/i18n/translate.ts": {
+          "size": 806
+        },
+        "webpack://seismic-universal-content-builder/src/constants/EditActions.ts": {
+          "size": 167
+        },
+        "webpack://seismic-universal-content-builder/src/constants/ErrorCodes.ts": {
+          "size": 1670
+        },
+        "webpack://seismic-universal-content-builder/src/service/FormServiceV1.ts": {
+          "size": 1323
+        },
+        "webpack://seismic-universal-content-builder/src/service/LivedocServiceV2.ts": {
+          "size": 1823
+        },
+        "webpack://seismic-universal-content-builder/src/components/LiveForm/HttpHelper.ts": {
+          "size": 2109
+        },
+        "webpack://seismic-universal-content-builder/src/components/LiveForm/hooks.ts": {
+          "size": 13584
+        },
+        "webpack://seismic-universal-content-builder/external assign \"__global_module_registers__[\\\"seismic-toolkit\\\"]\"": {
+          "size": 65
+        },
+        "webpack://seismic-universal-content-builder/src/constants/StageTypes.ts": {
+          "size": 276
+        },
+        "webpack://seismic-universal-content-builder/src/constants/FileFormats.ts": {
+          "size": 42
+        },
+        "webpack://seismic-universal-content-builder/src/components/FormatIcon/index.tsx": {
+          "size": 19561
+        },
+        "webpack://seismic-universal-content-builder/src/components/PromptSetGoogleDriveAccount/index.tsx": {
+          "size": 2095
+        },
+        "webpack://seismic-universal-content-builder/src/components/ConfirmExit/index.tsx": {
+          "size": 570
+        },
+        "webpack://seismic-universal-content-builder/src/components/LiveForm/skeletons/MainArea.tsx": {
+          "size": 1799
+        },
+        "webpack://seismic-universal-content-builder/src/components/LiveForm/skeletons/LeftTopArea.tsx": {
+          "size": 358
+        },
+        "webpack://seismic-universal-content-builder/src/components/LiveForm/skeletons/RightTopArea.tsx": {
+          "size": 313
+        },
+        "webpack://seismic-universal-content-builder/src/utils/dateTimeFormater.ts": {
+          "size": 1512
+        },
+        "webpack://seismic-universal-content-builder/src/common/hooks/disc.tsx": {
+          "size": 497
+        },
+        "webpack://seismic-universal-content-builder/src/utils/guid.ts": {
+          "size": 232
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/toConsumableArray.js": {
+          "size": 35
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js": {
+          "size": 102
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/iterableToArray.js": {
+          "size": 123
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/nonIterableSpread.js": {
+          "size": 82
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/extends.js": {
+          "size": 211
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/createClass.js": {
+          "size": 206
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js": {
+          "size": 124
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js": {
+          "size": 96
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/typeof.js": {
+          "size": 458
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js": {
+          "size": 133
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/defineProperty.js": {
+          "size": 147
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/slicedToArray.js": {
+          "size": 39
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js": {
+          "size": 41
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js": {
+          "size": 236
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js": {
+          "size": 87
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js": {
+          "size": 241
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js": {
+          "size": 132
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js": {
+          "size": 107
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/toConsumableArray.js": {
+          "size": 40
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js": {
+          "size": 45
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/iterableToArray.js": {
+          "size": 112
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js": {
+          "size": 286
+        },
+        "webpack://seismic-universal-content-builder/node_modules/@babel/runtime/helpers/esm/nonIterableSpread.js": {
+          "size": 167
+        },
+        "webpack://seismic-universal-content-builder/node_modules/substyle/es6/utils.js": {
+          "size": 650
+        },
+        "webpack://seismic-universal-content-builder/node_modules/substyle/es6/filterKeys.js": {
+          "size": 62
+        },
+        "webpack://seismic-universal-content-builder/node_modules/substyle/es6/pickStyles.js": {
+          "size": 696
+        },
+        "webpack://seismic-universal-content-builder/node_modules/substyle/es6/defaultPropsDecorator.js": {
+          "size": 708
+        },
+        "webpack://seismic-universal-content-builder/node_modules/substyle/es6/PropsDecoratorProvider.js": {
+          "size": 39
+        },
+        "webpack://seismic-universal-content-builder/node_modules/substyle/es6/coerceSelection.js": {
+          "size": 174
+        },
+        "webpack://seismic-universal-content-builder/node_modules/substyle/es6/memoize.js": {
+          "size": 210
+        },
+        "webpack://seismic-universal-content-builder/node_modules/substyle/es6/createSubstyle.js": {
+          "size": 1917
+        },
+        "webpack://seismic-universal-content-builder/node_modules/substyle/es6/useStyles.js": {
+          "size": 184
+        },
+        "webpack://seismic-universal-content-builder/node_modules/substyle/es6/index.js": {
+          "size": 6
+        },
+        "webpack://seismic-universal-content-builder/node_modules/substyle/es6/inline.js": {
+          "size": 819
+        },
+        "webpack://seismic-universal-content-builder/external assign \"PropTypes\"": {
+          "size": 24
+        },
+        "webpack://seismic-universal-content-builder/external assign \"ReactDOM\"": {
+          "size": 23
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/dist/react-mentions.esm.js": {
+          "size": 39905
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js": {
+          "size": 71
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/inherits.js": {
+          "size": 227
+        },
+        "webpack://seismic-universal-content-builder/node_modules/react-mentions/node_modules/@babel/runtime/helpers/esm/classCallCheck.js": {
+          "size": 92
+        },
+        "webpack://seismic-universal-content-builder/src/components/EditName/inputStyle.js": {
+          "size": 2780
+        },
+        "webpack://seismic-universal-content-builder/src/components/EditName/index.tsx": {
+          "size": 4516
+        },
+        "webpack://seismic-universal-content-builder/src/components/EditLocation/index.tsx": {
+          "size": 342
+        },
+        "webpack://seismic-universal-content-builder/src/components/PreGenEditNameLocation/index.tsx": {
+          "size": 605
+        },
+        "webpack://seismic-universal-content-builder/src/components/Modal/index.tsx": {
+          "size": 3115
+        },
+        "webpack://seismic-universal-content-builder/src/components/EditNameModal/index.tsx": {
+          "size": 2569
+        },
+        "webpack://seismic-universal-content-builder/src/components/LiveForm/index.tsx": {
+          "size": 27597
+        },
+        "webpack://seismic-universal-content-builder/src/components/LiveFormRecord/index.tsx": {
+          "size": 1500
+        },
+        "webpack://seismic-universal-content-builder/src/components/RelaunchFormPrompt/index.tsx": {
+          "size": 2730
+        },
+        "webpack://seismic-universal-content-builder/src/components/WKSLocation/utils.ts": {
+          "size": 1096
+        },
+        "webpack://seismic-universal-content-builder/src/service/WorkspaceServiceV1.ts": {
+          "size": 332
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/index.ts": {
+          "size": 6
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/baseAPI.js": {
+          "size": 2277
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/getDeliveyOptions/index.js": {
+          "size": 255
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/getFormData/index.js": {
+          "size": 203
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/getFormList/index.js": {
+          "size": 203
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/getFileInfo/index.js": {
+          "size": 1317
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/getAllVersionInfo/index.js": {
+          "size": 378
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/getVersionInfo/index.js": {
+          "size": 802
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/getRenditions/index.js": {
+          "size": 799
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/addAnnotations/index.js": {
+          "size": 164
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/createFolder/index.js": {
+          "size": 275
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/deleteAnnotation/index.js": {
+          "size": 151
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/updateFile/index.js": {
+          "size": 192
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/uploadBlob/index.js": {
+          "size": 1101
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/convertToPDF/index.js": {
+          "size": 963
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/revertToPPT/index.js": {
+          "size": 197
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/update/index.js": {
+          "size": 96
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/getComments/index.js": {
+          "size": 1423
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/getActivities/index.js": {
+          "size": 631
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/addComment/index.js": {
+          "size": 1220
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/deleteItems/index.js": {
+          "size": 144
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/addCurrentUserAsMemberIfNoPermission/index.js": {
+          "size": 165
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/createTempVersionOfGdocFormat/index.js": {
+          "size": 176
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/createGoogleNewRevision/index.js": {
+          "size": 80
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/setCurrentVersion/index.js": {
+          "size": 184
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/deleteComment/index.js": {
+          "size": 163
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/move/index.js": {
+          "size": 94
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/copy/index.js": {
+          "size": 94
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/getSiteInfo/index.js": {
+          "size": 151
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/restAPI/index.js": {
+          "size": 6
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/apiClient/apiMapping/index.js": {
+          "size": 1373
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/context/bundleMethods.js": {
+          "size": 70
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/context/draftPresentationFolderContext.js": {
+          "size": 53
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/Move/LightContentListForAction/utils/const.js": {
+          "size": 1291
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/Move/LightContentListForAction/utils/dialog.js": {
+          "size": 2450
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/Move/LightContentListForAction/components/Header/index.jsx": {
+          "size": 5561
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/i18n/i18n-plugin/getSeismicCDN-plugin.js": {
+          "size": 1689
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/i18n/index.js": {
+          "size": 656
+        },
+        "webpack://seismic-universal-content-builder/external assign \"ReactCustomScrollbars\"": {
+          "size": 267
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/Move/ScrollBar/index.jsx": {
+          "size": 2096
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/Move/LightContentListForAction/components/Body/Item.jsx": {
+          "size": 1690
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/Move/LightContentListForAction/components/Loading/index.jsx": {
+          "size": 1944
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/Move/LightContentListForAction/components/Body/index.jsx": {
+          "size": 4900
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/Move/LightContentListForAction/components/Footer/index.jsx": {
+          "size": 4965
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/Move/LightContentListForAction/index.jsx": {
+          "size": 8777
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/business/constants.js": {
+          "size": 100
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/business/utils.js": {
+          "size": 185
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/Move/LightContentList/Constant.js": {
+          "size": 1008
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/Move/LightContentList/FormatIcon/index.jsx": {
+          "size": 3423
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/core/namespace/index.js": {
+          "size": 22
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/Move/LightContentList/dataManager.js": {
+          "size": 3358
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/Move/LightContentList/dataHandler.js": {
+          "size": 2238
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/Move/dataHandle.js": {
+          "size": 3737
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/Move/index.js": {
+          "size": 16901
+        },
+        "webpack://seismic-universal-content-builder/src/components/TrucateText/index.tsx": {
+          "size": 3355
+        },
+        "webpack://seismic-universal-content-builder/src/components/ChangeLocation/index.tsx": {
+          "size": 5222
+        },
+        "webpack://seismic-universal-content-builder/src/components/GuidedAssembly/hooks.ts": {
+          "size": 15448
+        },
+        "webpack://seismic-universal-content-builder/src/components/MantleTooltip/index.tsx": {
+          "size": 2715
+        },
+        "webpack://seismic-universal-content-builder/src/components/GuidedAssembly/Operation.tsx": {
+          "size": 4347
+        },
+        "webpack://seismic-universal-content-builder/src/constants/JobStatus.ts": {
+          "size": 857
+        },
+        "webpack://seismic-universal-content-builder/src/components/Progress/ProgressBar/ProgressSimulator.js": {
+          "size": 2237
+        },
+        "webpack://seismic-universal-content-builder/src/components/Progress/ProgressBar/index.tsx": {
+          "size": 958
+        },
+        "webpack://seismic-universal-content-builder/src/components/Progress/index.tsx": {
+          "size": 66093
+        },
+        "webpack://seismic-universal-content-builder/src/constants/VersionTypes.ts": {
+          "size": 167
+        },
+        "webpack://seismic-universal-content-builder/src/components/WKSLocation/FileIcon/index.jsx": {
+          "size": 955
+        },
+        "webpack://seismic-universal-content-builder/src/components/FileInfo/index.tsx": {
+          "size": 848
+        },
+        "webpack://seismic-universal-content-builder/src/constants/MessageActions.ts": {
+          "size": 1277
+        },
+        "webpack://seismic-universal-content-builder/src/service/DoccenterServiceV1.ts": {
+          "size": 752
+        },
+        "webpack://seismic-universal-content-builder/src/interfaces/IAdapter.ts": {
+          "size": 113
+        },
+        "webpack://seismic-universal-content-builder/src/constants/ActionName.ts": {
+          "size": 1373
+        },
+        "webpack://seismic-universal-content-builder/src/adapter/utils.tsx": {
+          "size": 12448
+        },
+        "webpack://seismic-universal-content-builder/src/components/GuidedAssembly/PromptSetGoogleDriveAccount/index.tsx": {
+          "size": 3089
+        },
+        "webpack://seismic-universal-content-builder/src/components/GuidedAssembly/NameLocationEditor.tsx": {
+          "size": 3270
+        },
+        "webpack://seismic-universal-content-builder/src/components/GuidedAssembly/PreSubmitModal.tsx": {
+          "size": 3480
+        },
+        "webpack://seismic-universal-content-builder/src/components/GuidedAssembly/GAForNormal.tsx": {
+          "size": 6974
+        },
+        "webpack://seismic-universal-content-builder/src/components/GuidedAssembly/GAForFormOnly/index.tsx": {
+          "size": 1568
+        },
+        "webpack://seismic-universal-content-builder/src/constants/GADisplayMode.ts": {
+          "size": 46
+        },
+        "webpack://seismic-universal-content-builder/src/components/GuidedAssembly/index.tsx": {
+          "size": 111
+        },
+        "webpack://seismic-universal-content-builder/src/routers/EditRouter/index.tsx": {
+          "size": 3055
+        },
+        "webpack://seismic-universal-content-builder/src/constants/StepTexts.ts": {
+          "size": 777
+        },
+        "webpack://seismic-universal-content-builder/src/constants/StepStatus.ts": {
+          "size": 28
+        },
+        "webpack://seismic-universal-content-builder/src/constants/StepTypeIds.ts": {
+          "size": 27
+        },
+        "webpack://seismic-universal-content-builder/src/constants/ConversionStatus.ts": {
+          "size": 13
+        },
+        "webpack://seismic-universal-content-builder/external assign \"__global_module_registers__[\\\"@seismic/universal-player\\\"]\"": {
+          "size": 71
+        },
+        "webpack://seismic-universal-content-builder/src/components/UniversalPlayer/util.ts": {
+          "size": 31
+        },
+        "webpack://seismic-universal-content-builder/src/components/UniversalPlayer/index.tsx": {
+          "size": 601
+        },
+        "webpack://seismic-universal-content-builder/src/components/MantleBusy/index.tsx": {
+          "size": 2265
+        },
+        "webpack://seismic-universal-content-builder/src/components/Preview/index.tsx": {
+          "size": 5047
+        },
+        "webpack://seismic-universal-content-builder/src/components/Preview/hooks.ts": {
+          "size": 932
+        },
+        "webpack://seismic-universal-content-builder/src/components/ExpireExternalContents/index.tsx": {
+          "size": 4700
+        },
+        "webpack://seismic-universal-content-builder/src/components/QuickActions/index.tsx": {
+          "size": 3902
+        },
+        "webpack://seismic-universal-content-builder/src/components/LiveDocGeneration/index.tsx": {
+          "size": 12824
+        },
+        "webpack://seismic-universal-content-builder/src/components/RelaunchGuidedAssemblyPrompt/index.tsx": {
+          "size": 1783
+        },
+        "webpack://seismic-universal-content-builder/src/service/GuidedAssemblyServiceV1.ts": {
+          "size": 792
+        },
+        "webpack://seismic-universal-content-builder/src/components/GuidedAssemblyGeneration/hooks.ts": {
+          "size": 75017
+        },
+        "webpack://seismic-universal-content-builder/src/components/GuidedAssemblyGeneration/GAProgress.tsx": {
+          "size": 2639
+        },
+        "webpack://seismic-universal-content-builder/src/components/GuidedAssemblyGeneration/logGeneration.ts": {
+          "size": 2855
+        },
+        "webpack://seismic-universal-content-builder/src/components/GuidedAssemblyGeneration/GAForNormal.tsx": {
+          "size": 4602
+        },
+        "webpack://seismic-universal-content-builder/src/components/GuidedAssemblyGeneration/GAForFormOnly.tsx": {
+          "size": 1651
+        },
+        "webpack://seismic-universal-content-builder/src/components/GuidedAssemblyGeneration/index.tsx": {
+          "size": 111
+        },
+        "webpack://seismic-universal-content-builder/src/routers/StageRouter/index.tsx": {
+          "size": 5618
+        },
+        "webpack://seismic-universal-content-builder/src/routers/Gate/index.tsx": {
+          "size": 7731
+        },
+        "webpack://seismic-universal-content-builder/src/app/App.tsx": {
+          "size": 8154
+        },
+        "webpack://seismic-universal-content-builder/src/components/WKSLocation/index.tsx": {
+          "size": 3785
+        },
+        "webpack://seismic-universal-content-builder/src/adapter/hooks.tsx": {
+          "size": 416
+        },
+        "webpack://seismic-universal-content-builder/src/adapter/Adapter.tsx": {
+          "size": 213
+        },
+        "webpack://seismic-universal-content-builder/src/index.ts": {
+          "size": 65
+        },
+        "[sourceMappingURL]": {
+          "size": 87
+        },
+        "[unmapped]": {
+          "size": 154
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

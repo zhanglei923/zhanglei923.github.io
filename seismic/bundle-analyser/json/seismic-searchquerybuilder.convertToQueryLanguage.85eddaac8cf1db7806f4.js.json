@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-searchquerybuilder.convertToQueryLanguage.85eddaac8cf1db7806f4.js",
+      "totalBytes": 767,
+      "mappedBytes": 656,
+      "unmappedBytes": 12,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 98,
+      "files": {
+        "webpack://seismic-searchquerybuilder/webpack/bootstrap": {
+          "size": 7
+        },
+        "webpack://seismic-searchquerybuilder/webpack/runtime/define property getters": {
+          "size": 105
+        },
+        "webpack://seismic-searchquerybuilder/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 66
+        },
+        "webpack://seismic-searchquerybuilder/webpack/runtime/make namespace object": {
+          "size": 173
+        },
+        "webpack://seismic-searchquerybuilder/webpack/runtime/publicPath": {
+          "size": 6
+        },
+        "[no source]": {
+          "size": 182
+        },
+        "webpack://seismic-searchquerybuilder/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 103
+        },
+        "webpack://seismic-searchquerybuilder/src/convertToQueryLanguage.ts": {
+          "size": 14
+        },
+        "[sourceMappingURL]": {
+          "size": 98
+        },
+        "[unmapped]": {
+          "size": 12
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

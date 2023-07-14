@@ -1,0 +1,21 @@
+Source	Size
+webpack://SeismicArticlev2/webpack/startup	7512
+webpack://SeismicArticlev2/node_modules/babel-polyfill/lib/index.js	579
+webpack://SeismicArticlev2/webpack/runtime/jsonp chunk loading	421
+webpack://SeismicArticlev2/webpack/runtime/chunk loaded	372
+webpack://SeismicArticlev2/webpack/universalModuleDefinition	236
+webpack://SeismicArticlev2/webpack/runtime/make namespace object	175
+webpack://SeismicArticlev2/webpack/bootstrap	170
+webpack://SeismicArticlev2/webpack/runtime/global	165
+webpack://SeismicArticlev2/webpack/runtime/compat get default export	111
+[no source]	109
+webpack://SeismicArticlev2/webpack/runtime/define property getters	107
+webpack://SeismicArticlev2/integrateSDK/viewers/Mobile/index.jsx	82
+[sourceMappingURL]	79
+webpack://SeismicArticlev2/webpack/runtime/hasOwnProperty shorthand	68
+webpack://SeismicArticlev2/webpack/runtime/node module decorator	67
+webpack://SeismicArticlev2/webpack/runtime/nonce	12
+webpack://SeismicArticlev2/webpack/runtime/amd options	10
+webpack://SeismicArticlev2/webpack/runtime/publicPath	7
+[unmapped]	1
+[EOLs]	1

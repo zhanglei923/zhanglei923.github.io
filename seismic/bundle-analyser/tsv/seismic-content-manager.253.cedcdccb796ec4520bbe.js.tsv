@@ -1,0 +1,17 @@
+Source	Size
+webpack://seismic-content-manager/node_modules/react-modal/lib/components/ModalPortal.js	7793
+webpack://seismic-content-manager/node_modules/react-modal/lib/components/Modal.js	5822
+webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/ariaAppHider.js	1634
+webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/focusManager.js	1180
+webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/bodyTrap.js	1087
+webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/tabbable.js	986
+webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/portalOpenInstances.js	898
+webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/scopeTab.js	838
+webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/classList.js	685
+webpack://seismic-content-manager/node_modules/exenv/index.js	383
+webpack://seismic-content-manager/node_modules/react-modal/lib/helpers/safeHTMLElement.js	375
+[unmapped]	228
+webpack://seismic-content-manager/node_modules/react-modal/lib/index.js	170
+[sourceMappingURL]	76
+webpack://seismic-content-manager/node_modules/warning/warning.js	27
+[EOLs]	2

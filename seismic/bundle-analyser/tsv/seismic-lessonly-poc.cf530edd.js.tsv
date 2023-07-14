@@ -1,0 +1,22 @@
+Source	Size
+webpack://SeismicLessonlyPOC/node_modules/@remix-run/router/dist/router.js	36579
+webpack://SeismicLessonlyPOC/node_modules/react-router/dist/index.js	11864
+webpack://SeismicLessonlyPOC/node_modules/react-router-dom/dist/index.js	10962
+webpack://SeismicLessonlyPOC/node_modules/react-dom/client.js	2678
+webpack://SeismicLessonlyPOC/src/index.ts	449
+webpack://SeismicLessonlyPOC/src/components/RootComponent.tsx	345
+webpack://SeismicLessonlyPOC/src/components/LessonlyPOCComponent.tsx	299
+webpack://SeismicLessonlyPOC/webpack/universalModuleDefinition	277
+webpack://SeismicLessonlyPOC/webpack/runtime/make namespace object	175
+webpack://SeismicLessonlyPOC/src/routes.tsx	173
+webpack://SeismicLessonlyPOC/webpack/bootstrap	144
+webpack://SeismicLessonlyPOC/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js	136
+webpack://SeismicLessonlyPOC/webpack/runtime/define property getters	107
+[unmapped]	87
+webpack://SeismicLessonlyPOC/webpack/runtime/hasOwnProperty shorthand	68
+[sourceMappingURL]	57
+webpack://SeismicLessonlyPOC/external assign "React"	46
+webpack://SeismicLessonlyPOC/external assign "ReactDOM"	21
+webpack://SeismicLessonlyPOC/webpack/startup	18
+webpack://SeismicLessonlyPOC/webpack/runtime/publicPath	7
+[EOLs]	2

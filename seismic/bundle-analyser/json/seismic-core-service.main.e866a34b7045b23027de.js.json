@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-core-service.main.e866a34b7045b23027de.js",
+      "totalBytes": 13384,
+      "mappedBytes": 13309,
+      "unmappedBytes": 0,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 74,
+      "files": {
+        "webpack:///seismic-core-service.main.e866a34b7045b23027de.js": {
+          "size": 3318
+        },
+        "webpack:///webpack/bootstrap d38d757bf184c4066062": {
+          "size": 624
+        },
+        "webpack:///external \"SeismicCommon\"": {
+          "size": 25
+        },
+        "webpack:///src/index.js": {
+          "size": 351
+        },
+        "[no source]": {
+          "size": 51
+        },
+        "webpack:///src/DownloadService.js": {
+          "size": 5106
+        },
+        "webpack:///src/DownloadValidation.js": {
+          "size": 3834
+        },
+        "[sourceMappingURL]": {
+          "size": 74
+        },
+        "[unmapped]": {
+          "size": 0
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

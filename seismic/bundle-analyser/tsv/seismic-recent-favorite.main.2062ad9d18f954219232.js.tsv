@@ -1,0 +1,89 @@
+Source	Size
+webpack://seismic-recent-favorite/src/pages/RecentAndFavoriteContainer/NewRecentAndFavorite/EmptyView/empty.jsx	53335
+webpack://seismic-recent-favorite/node_modules/i18next/dist/esm/i18next.js	40452
+webpack://seismic-recent-favorite/external assign "__global_module_registers__[\"seismic-common\"]"	35474
+webpack://seismic-recent-favorite/src/pages/RecentAndFavoriteContainer/FavoriteContainer/index.jsx	14345
+webpack://seismic-recent-favorite/src/pages/RecentAndFavoriteContainer/RecentContainer/index.jsx	13090
+webpack://seismic-recent-favorite/src/common/commonService/recentAndFavoriteproviders.jsx	12334
+webpack://seismic-recent-favorite/src/service/recentAndFavoriteService/index.js	11194
+webpack://seismic-recent-favorite/src/common/commonService/serviceHandler.js	10994
+webpack://seismic-recent-favorite/node_modules/color-convert/conversions.js	8433
+webpack://seismic-recent-favorite/src/utils/commonHelper.js	8021
+webpack://seismic-recent-favorite/src/pages/RecentAndFavoriteContainer/NewRecentAndFavorite/wrapper.jsx	6674
+webpack://seismic-recent-favorite/node_modules/color/index.js	6031
+webpack://seismic-recent-favorite/src/pages/RecentAndFavoriteContainer/SearchableListContainer/index.jsx	4808
+webpack://seismic-recent-favorite/src/components/ContentCard/index.jsx	4647
+webpack://seismic-recent-favorite/src/components/Drawer/index.jsx	4576
+webpack://seismic-recent-favorite/src/components/ScrollBar/index.jsx	4317
+webpack://seismic-recent-favorite/src/components/ContentCard/newContentCard.jsx	3686
+webpack://seismic-recent-favorite/node_modules/color-name/index.js	3427
+webpack://seismic-recent-favorite/src/components/SearchBar/index.jsx	3219
+webpack://seismic-recent-favorite/node_modules/color-string/index.js	3192
+webpack://seismic-recent-favorite/src/pages/RecentAndFavoriteContainer/NewRecentAndFavorite/index.jsx	3128
+webpack://seismic-recent-favorite/src/pages/SidebarContainer/index.jsx	3091
+webpack://seismic-recent-favorite/src/components/Tabs/Tabs.jsx	2830
+webpack://seismic-recent-favorite/src/common/i18n/index.js	2730
+webpack://seismic-recent-favorite/node_modules/i18next-xhr-backend/dist/esm/i18nextXHRBackend.js	2612
+webpack://seismic-recent-favorite/node_modules/react-i18next/dist/es/context.js	2514
+webpack://seismic-recent-favorite/src/components/ContentCardList/index.jsx	2466
+webpack://seismic-recent-favorite/src/components/SearchableList/index.jsx	2343
+webpack://seismic-recent-favorite/node_modules/react-i18next/dist/es/useTranslation.js	2302
+webpack://seismic-recent-favorite/src/pages/SidebarContainer/wrapper.jsx	2132
+webpack://seismic-recent-favorite/external assign "ReactCustomScrollbars"	2078
+webpack://seismic-recent-favorite/src/common/i18n/locale-data/en-US/index.js	1756
+webpack://seismic-recent-favorite/src/pages/SidebarWrapper.jsx	1728
+webpack://seismic-recent-favorite/node_modules/react-i18next/dist/es/utils.js	1685
+webpack://seismic-recent-favorite/src/components/CheckBox/index.jsx	1668
+webpack://seismic-recent-favorite/src/pages/RecentAndFavoriteContainer/index.jsx	1550
+webpack://seismic-recent-favorite/external assign "__global_module_registers__[\"seismic-toolkit\"]"	1152
+webpack://seismic-recent-favorite/node_modules/react-i18next/dist/es/withTranslation.js	1142
+webpack://seismic-recent-favorite/external assign "__global_module_registers__[\"@seismic/mantle\"]"	1141
+webpack://seismic-recent-favorite/src/pages/RecentAndFavoriteContainer/NewRecentAndFavorite/EmptyView/index.jsx	775
+webpack://seismic-recent-favorite/node_modules/color-convert/index.js	747
+webpack://seismic-recent-favorite/node_modules/color-convert/route.js	729
+webpack://seismic-recent-favorite/node_modules/classnames/index.js	595
+webpack://seismic-recent-favorite/src/common/commonErrorHandler/index.js	520
+webpack://seismic-recent-favorite/webpack/runtime/jsonp chunk loading	436
+webpack://seismic-recent-favorite/node_modules/react-i18next/dist/es/unescape.js	434
+webpack://seismic-recent-favorite/webpack/runtime/chunk loaded	395
+webpack://seismic-recent-favorite/src/pages/RecentAndFavoriteContainer/Placeholder/index.jsx	343
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/objectSpread.js	338
+webpack://seismic-recent-favorite/src/common/apiClient/index.js	312
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js	310
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js	286
+webpack://seismic-recent-favorite/src/components/Tabs/TabPane.jsx	278
+webpack://seismic-recent-favorite/external assign "Moment"	261
+webpack://seismic-recent-favorite/src/components/Loading/index.jsx	256
+webpack://seismic-recent-favorite/node_modules/is-arrayish/index.js	252
+webpack://seismic-recent-favorite/node_modules/simple-swizzle/index.js	245
+webpack://seismic-recent-favorite/src/utils/commonService/index.js	238
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js	238
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/typeof.js	230
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/inherits.js	228
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/createClass.js	223
+webpack://seismic-recent-favorite/node_modules/@seismic/toolchain-scripts/webpack/setPublicPath.js	183
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js	177
+webpack://seismic-recent-favorite/webpack/runtime/make namespace object	175
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js	172
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js	132
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js	130
+webpack://seismic-recent-favorite/webpack/bootstrap	128
+webpack://seismic-recent-favorite/webpack/startup	127
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js	123
+[unmapped]	122
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/defineProperty.js	120
+webpack://seismic-recent-favorite/webpack/runtime/compat get default export	111
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js	107
+webpack://seismic-recent-favorite/webpack/runtime/define property getters	107
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/classCallCheck.js	94
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js	93
+[sourceMappingURL]	77
+webpack://seismic-recent-favorite/webpack/runtime/hasOwnProperty shorthand	68
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/slicedToArray.js	46
+webpack://seismic-recent-favorite/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js	41
+webpack://seismic-recent-favorite/src/common/constants/constants.js	32
+webpack://seismic-recent-favorite/external assign "PropTypes"	28
+webpack://seismic-recent-favorite/external assign "React"	21
+webpack://seismic-recent-favorite/webpack/runtime/publicPath	18
+webpack://seismic-recent-favorite/src/entry.js	3
+[EOLs]	2

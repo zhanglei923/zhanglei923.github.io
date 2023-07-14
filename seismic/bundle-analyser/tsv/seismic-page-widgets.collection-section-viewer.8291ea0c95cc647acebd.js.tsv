@@ -1,0 +1,77 @@
+Source	Size
+webpack://seismic-page-widgets/external assign "__global_module_registers__[\"styled-components\"]"	154096
+[unmapped]	95144
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/strings.js	35738
+webpack://seismic-page-widgets/node_modules/react-responsive/dist/react-responsive.js	19299
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/map.js	17649
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/async.js	14704
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/charCode.js	14492
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/event.js	13658
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/path.js	11649
+webpack://seismic-page-widgets/src/widgets/collection.section/components/content-group/index.tsx	11582
+webpack://seismic-page-widgets/src/seismic-init/index.tsx	11515
+webpack://seismic-page-widgets/src/service/collection/custom.ts	9803
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/arrays.js	8420
+webpack://seismic-page-widgets/src/util/index.tsx	8362
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/color.js	8319
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/keyCodes.js	7648
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/filters.js	7121
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/uri.js	6944
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/lifecycle.js	4569
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/iterator.js	4046
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/types.js	3694
+webpack://seismic-page-widgets/src/widgets/collection.section/components/content-group/components/panel-title.tsx	3215
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/errors.js	3114
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/linkedList.js	2967
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/platform.js	2934
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/objects.js	2771
+webpack://seismic-page-widgets/src/service/collection/rulesToServer.js	2669
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/network.js	2660
+webpack://seismic-page-widgets/src/widgets/collection.section/components/placeholder-readonly.tsx	2591
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/date.js	2585
+webpack://seismic-page-widgets/src/widgets/collection.section/components/viewer.tsx	2553
+webpack://seismic-page-widgets/node_modules/util-kit/lib/index.js	2530
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/decorators.js	2494
+webpack://seismic-page-widgets/src/widgets/collection.section/components/content-group/components/panel-des.tsx	2323
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/cancellation.js	1979
+webpack://seismic-page-widgets/src/assets/swagger/index.ts	1928
+webpack://seismic-page-widgets/src/seismic-init/mantle-wrapper.tsx	1640
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/sequence.js	1559
+webpack://seismic-page-widgets/src/widgets/collection.section/components/content-group/components/panel-header.tsx	1455
+webpack://seismic-page-widgets/src/widgets/collection.section/components/content-group/components/container.tsx	1455
+webpack://seismic-page-widgets/src/widgets/collection.section/components/content-group/responsive-item.tsx	1361
+webpack://seismic-page-widgets/src/widgets/collection.section/components/content-group/five-item.tsx	1181
+webpack://seismic-page-widgets/src/widgets/collection.section/components/content-group/four-item.tsx	1178
+webpack://seismic-page-widgets/src/widgets/collection.section/components/content-group/three-item.tsx	1156
+webpack://seismic-page-widgets/src/service/collection/content.js	1087
+webpack://seismic-page-widgets/src/constants/index.ts	1071
+webpack://seismic-page-widgets/src/widgets/collection.section/components/content-group/one-item.tsx	934
+webpack://seismic-page-widgets/src/widgets/collection.section/components/content-group/components/Thumbnail.tsx	909
+webpack://seismic-page-widgets/src/widgets/collection.section/components/content-group/two-item.tsx	821
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/process.js	821
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/uuid.js	704
+webpack://seismic-page-widgets/src/widgets/collection.section/components/utils.ts	690
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/numbers.js	632
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/nls.js	313
+webpack://seismic-page-widgets/external assign "Moment"	258
+webpack://seismic-page-widgets/node_modules/@seismic/toolchain-scripts/webpack/setPublicPath.js	230
+webpack://seismic-page-widgets/node_modules/util-kit/lib/vs/base/common/functional.js	194
+webpack://seismic-page-widgets/webpack/runtime/make namespace object	175
+webpack://seismic-page-widgets/webpack/runtime/global	165
+webpack://seismic-page-widgets/webpack/bootstrap	137
+webpack://seismic-page-widgets/src/widgets/collection.section/context.ts	111
+webpack://seismic-page-widgets/webpack/runtime/compat get default export	111
+webpack://seismic-page-widgets/webpack/runtime/define property getters	107
+webpack://seismic-page-widgets/external assign "__global_module_registers__[\"seismic-content-discovery-toolkit\"]"	106
+webpack://seismic-page-widgets/external assign "__global_module_registers__[\"seismic-searchquerybuilder\"]"	99
+[sourceMappingURL]	95
+webpack://seismic-page-widgets/external assign "__global_module_registers__[\"seismic-svg-images\"]"	91
+webpack://seismic-page-widgets/external assign "__global_module_registers__[\"@seismic/mantle\"]"	88
+webpack://seismic-page-widgets/external assign "__global_module_registers__[\"seismic-toolkit\"]"	88
+webpack://seismic-page-widgets/external assign "__global_module_registers__[\"seismic-common\"]"	87
+webpack://seismic-page-widgets/webpack/runtime/hasOwnProperty shorthand	68
+webpack://seismic-page-widgets/src/widgets/collection.section/viewer.tsx	63
+webpack://seismic-page-widgets/external assign "React"	46
+webpack://seismic-page-widgets/src/constants/responsive.ts	20
+webpack://seismic-page-widgets/webpack/runtime/publicPath	16
+[EOLs]	2

@@ -1,0 +1,293 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-form.moduleExport.1caf1c0d20e08f23b29b.js",
+      "totalBytes": 535765,
+      "mappedBytes": 535585,
+      "unmappedBytes": 104,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 74,
+      "files": {
+        "webpack://seismic-form/webpack/universalModuleDefinition": {
+          "size": 299
+        },
+        "webpack://seismic-form/src/_modules/distribution/distribution-finish.controller.js": {
+          "size": 2846
+        },
+        "webpack://seismic-form/src/_modules/distribution/distribution.factory.js": {
+          "size": 504
+        },
+        "webpack://seismic-form/src/delivery-form/delivery-form.directive.js": {
+          "size": 303
+        },
+        "webpack://seismic-form/src/delivery-form/delivery-form.module.js": {
+          "size": 87
+        },
+        "webpack://seismic-form/src/form.directive.focus.js": {
+          "size": 188
+        },
+        "webpack://seismic-form/src/form.directive.js": {
+          "size": 313
+        },
+        "webpack://seismic-form/src/form.finish.controller.js": {
+          "size": 604
+        },
+        "webpack://seismic-form/src/form.global.js": {
+          "size": 175
+        },
+        "webpack://seismic-form/src/form.helper.js": {
+          "size": 3519
+        },
+        "webpack://seismic-form/src/form.module.js": {
+          "size": 75
+        },
+        "webpack://seismic-form/src/legacy/H5/apps/_external/_helpers/FormServiceHelper.js": {
+          "size": 1663
+        },
+        "webpack://seismic-form/src/legacy/H5/apps/_external/_helpers/LibraryServiceHelper.js": {
+          "size": 1057
+        },
+        "webpack://seismic-form/src/legacy/H5/apps/_external/_helpers/RequesterApiHelper.js": {
+          "size": 381
+        },
+        "webpack://seismic-form/src/legacy/H5/apps/_external/commondeliveryform/_CommonDeliveryFormApp.js": {
+          "size": 234
+        },
+        "webpack://seismic-form/src/legacy/H5/apps/_external/commondeliveryform/_CommonDeliveryFormAppVm.js": {
+          "size": 3104
+        },
+        "webpack://seismic-form/src/legacy/H5/apps/_external/commonform/_CommonFormApp.js": {
+          "size": 268
+        },
+        "webpack://seismic-form/src/legacy/H5/apps/_external/commonform/_CommonFormAppVm.js": {
+          "size": 1406
+        },
+        "webpack://seismic-form/src/legacy/H5/apps/_external/commonform/_Handlers.js": {
+          "size": 2132
+        },
+        "webpack://seismic-form/src/legacy/H5/apps/_external/commonform/common.view.js": {
+          "size": 7222
+        },
+        "webpack://seismic-form/src/legacy/H5/apps/_external/commonform/jquery.ui-2.nuautocomplete.js": {
+          "size": 1632
+        },
+        "webpack://seismic-form/src/legacy/H5/apps/_tools/moment/override.jqueryui.datepicker.js": {
+          "size": 290
+        },
+        "webpack://seismic-form/src/legacy/H5/libraries/jquery-migrate-1.2.1.min.js": {
+          "size": 7292
+        },
+        "webpack://seismic-form/src/legacy/HTML5/Scripts/Common/Libraries/jquery.extend-modified.js": {
+          "size": 917
+        },
+        "webpack://seismic-form/src/legacy/HTML5/Scripts/Common/Libraries/jquery.form.js": {
+          "size": 13765
+        },
+        "webpack://seismic-form/src/legacy/HTML5/Scripts/Common/Libraries/jquery.splitbutton.js": {
+          "size": 2451
+        },
+        "webpack://seismic-form/src/legacy/HTML5/Scripts/Common/RuleEngine.js": {
+          "size": 2881
+        },
+        "webpack://seismic-form/src/legacy/HTML5/Scripts/Common/TemplateLoader.js": {
+          "size": 407
+        },
+        "webpack://seismic-form/src/legacy/HTML5/Scripts/Common/ViewModels/BaseVm.js": {
+          "size": 594
+        },
+        "webpack://seismic-form/src/legacy/HTML5/Scripts/Common/Views/CompatibleViews/CompatibleProcessorManager.js": {
+          "size": 599
+        },
+        "webpack://seismic-form/src/legacy/HTML5/Scripts/Common/Views/CompatibleViews/desktop/compatible.js": {
+          "size": 2400
+        },
+        "webpack://seismic-form/src/legacy/HTML5/Scripts/Common/Views/PlainFormView.js": {
+          "size": 98668
+        },
+        "webpack://seismic-form/src/legacy/HTML5/Scripts/Common/VisibilityRule.js": {
+          "size": 859
+        },
+        "webpack://seismic-form/src/libs/jquery-scrollbar/jquery.scrollbar.js": {
+          "size": 11910
+        },
+        "webpack://seismic-form/src/libs/moment-customed/moment.js": {
+          "size": 34618
+        },
+        "webpack://seismic-form/src/preview-reorder/drag-drop-reorder.directive.js": {
+          "size": 3051
+        },
+        "webpack://seismic-form/src/preview-reorder/previewreorder.business.js": {
+          "size": 3738
+        },
+        "webpack://seismic-form/src/preview-reorder/previewreorder.controller.js": {
+          "size": 639
+        },
+        "webpack://seismic-form/src/preview-reorder/previewreorder.js": {
+          "size": 1666
+        },
+        "webpack://seismic-form/src/service/bss-upload-service.js": {
+          "size": 5501
+        },
+        "webpack://seismic-form/src/service/init-ms-api-client.js": {
+          "size": 797
+        },
+        "webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/typeof.js": {
+          "size": 230
+        },
+        "webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/toPropertyKey.js": {
+          "size": 67
+        },
+        "webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/toPrimitive.js": {
+          "size": 258
+        },
+        "webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/defineProperty.js": {
+          "size": 125
+        },
+        "webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/objectSpread.js": {
+          "size": 338
+        },
+        "webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/classCallCheck.js": {
+          "size": 94
+        },
+        "webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/createClass.js": {
+          "size": 277
+        },
+        "webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js": {
+          "size": 123
+        },
+        "webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js": {
+          "size": 177
+        },
+        "webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js": {
+          "size": 137
+        },
+        "webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js": {
+          "size": 121
+        },
+        "webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/inherits.js": {
+          "size": 312
+        },
+        "webpack://seismic-form/node_modules/i18next/dist/esm/i18next.js": {
+          "size": 40440
+        },
+        "webpack://seismic-form/node_modules/react-i18next/dist/es/unescape.js": {
+          "size": 429
+        },
+        "webpack://seismic-form/node_modules/react-i18next/dist/es/context.js": {
+          "size": 1260
+        },
+        "webpack://seismic-form/node_modules/i18next-xhr-backend/dist/esm/i18nextXHRBackend.js": {
+          "size": 4656
+        },
+        "webpack://seismic-form/src/utilities/i18n/i18n-plugin/getSeismicCDN-plugin.js": {
+          "size": 943
+        },
+        "webpack://seismic-form/src/utilities/i18n/locale-data/en-US/en-us-2.js": {
+          "size": 1992
+        },
+        "webpack://seismic-form/src/utilities/i18n/locale-data/en-US/index.js": {
+          "size": 751
+        },
+        "webpack://seismic-form/src/utilities/i18n/locale-data/en-US/en-us-1.js": {
+          "size": 4689
+        },
+        "webpack://seismic-form/src/utilities/i18n/lang.js": {
+          "size": 15
+        },
+        "webpack://seismic-form/src/utilities/i18n/translate.js": {
+          "size": 1018
+        },
+        "webpack://seismic-form/src/service/swagger/bss-upload-v1.json": {
+          "size": 10279
+        },
+        "webpack://seismic-form/external assign \"React\"": {
+          "size": 47
+        },
+        "webpack://seismic-form/external assign \"__global_module_registers__[\\\"seismic-common\\\"]\"": {
+          "size": 87
+        },
+        "webpack://seismic-form/external assign \"jQuery\"": {
+          "size": 19
+        },
+        "webpack://seismic-form/webpack/bootstrap": {
+          "size": 287
+        },
+        "webpack://seismic-form/webpack/runtime/compat get default export": {
+          "size": 147
+        },
+        "webpack://seismic-form/webpack/runtime/define property getters": {
+          "size": 161
+        },
+        "webpack://seismic-form/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 86
+        },
+        "webpack://seismic-form/webpack/runtime/make namespace object": {
+          "size": 193
+        },
+        "webpack://seismic-form/webpack/runtime/node module decorator": {
+          "size": 85
+        },
+        "webpack://seismic-form/webpack/runtime/publicPath": {
+          "size": 59
+        },
+        "webpack://seismic-form/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 247
+        },
+        "webpack://seismic-form/src/form.runtime.js": {
+          "size": 1533
+        },
+        "webpack://seismic-form/external assign \"__global_module_registers__[\\\"seismic-toolkit\\\"]\"": {
+          "size": 2001
+        },
+        "webpack://seismic-form/src/components/formDialogWrapper/formDialogWrapper.js": {
+          "size": 4279
+        },
+        "webpack://seismic-form/src/legacy/HTML5/Scripts/Common/Models/FormModels.js": {
+          "size": 27593
+        },
+        "webpack://seismic-form/src/legacy/HTML5/Scripts/Common/RuleBase.js": {
+          "size": 1285
+        },
+        "webpack://seismic-form/src/legacy/HTML5/Scripts/Common/ValidationRule.js": {
+          "size": 4043
+        },
+        "webpack://seismic-form/src/utilities/log/log-manager.js": {
+          "size": 2341
+        },
+        "webpack://seismic-form/src/legacy/HTML5/Scripts/Common/ViewModels/FormDataManager.js": {
+          "size": 14280
+        },
+        "webpack://seismic-form/src/legacy/HTML5/Scripts/Common/ViewModels/FormVm.js": {
+          "size": 139411
+        },
+        "webpack://seismic-form/src/form.business.js": {
+          "size": 20497
+        },
+        "webpack://seismic-form/src/form.controller.js": {
+          "size": 19652
+        },
+        "webpack://seismic-form/src/form.selector.controller.js": {
+          "size": 913
+        },
+        "webpack://seismic-form/src/form.format.controller.js": {
+          "size": 511
+        },
+        "webpack://seismic-form/src/delivery-form/delivery-form.helper.js": {
+          "size": 4275
+        },
+        "webpack://seismic-form/src/delivery-form/delivery-form.controller.js": {
+          "size": 1767
+        },
+        "[sourceMappingURL]": {
+          "size": 74
+        },
+        "[unmapped]": {
+          "size": 104
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

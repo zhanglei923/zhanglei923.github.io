@@ -1,0 +1,17 @@
+Source	Size
+webpack://seismic-svg-images/lib/seismic-svg-images/index.esm.js	1659786
+[no source]	3604
+webpack://seismic-svg-images/lib/base/cjs/iconBase.js	1891
+webpack://seismic-svg-images/lib/base/cjs/index.js	508
+webpack://seismic-svg-images/lib/base/cjs/iconContext.js	250
+webpack://seismic-svg-images/webpack/runtime/make namespace object	175
+webpack://seismic-svg-images/webpack/bootstrap	137
+webpack://seismic-svg-images/webpack/runtime/define property getters	107
+webpack://seismic-svg-images/node_modules/@seismic/toolchain-scripts/webpack/setPublicPath.js	103
+[sourceMappingURL]	72
+webpack://seismic-svg-images/webpack/runtime/hasOwnProperty shorthand	68
+[unmapped]	52
+webpack://seismic-svg-images/lib/base/index.js	16
+webpack://seismic-svg-images/external assign "React"	15
+webpack://seismic-svg-images/webpack/runtime/publicPath	7
+[EOLs]	1

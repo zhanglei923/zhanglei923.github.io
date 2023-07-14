@@ -1,0 +1,215 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-workspace-v2.3.0b0083588338d6eb708e.js",
+      "totalBytes": 26025,
+      "mappedBytes": 25842,
+      "unmappedBytes": 111,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 71,
+      "files": {
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/array-buffer-basic-detection.js": {
+          "size": 71
+        },
+        "[no source]": {
+          "size": 2008
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/array-buffer-view-core.js": {
+          "size": 2046
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/array-buffer.js": {
+          "size": 3426
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/array-copy-within.js": {
+          "size": 303
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/array-fill.js": {
+          "size": 205
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/array-from-constructor-and-list.js": {
+          "size": 95
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/array-last-index-of.js": {
+          "size": 346
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/array-reduce.js": {
+          "size": 358
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/ieee754.js": {
+          "size": 788
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/is-big-int-array.js": {
+          "size": 94
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/is-integral-number.js": {
+          "size": 103
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/object-to-array.js": {
+          "size": 249
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/proxy-accessor.js": {
+          "size": 127
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/regexp-get-flags.js": {
+          "size": 166
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/string-repeat.js": {
+          "size": 202
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/string-trim-forced.js": {
+          "size": 153
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/to-big-int.js": {
+          "size": 150
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/to-index.js": {
+          "size": 153
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/to-offset.js": {
+          "size": 103
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/to-positive-integer.js": {
+          "size": 122
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/typed-array-constructor.js": {
+          "size": 2571
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/typed-array-constructors-require-wrappers.js": {
+          "size": 291
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/typed-array-from-species-and-list.js": {
+          "size": 67
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/typed-array-from.js": {
+          "size": 463
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/internals/typed-array-species-constructor.js": {
+          "size": 124
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.array-buffer.constructor.js": {
+          "size": 137
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.array-buffer.slice.js": {
+          "size": 507
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.array.find-index.js": {
+          "size": 229
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.array.last-index-of.js": {
+          "size": 96
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.data-view.constructor.js": {
+          "size": 94
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.data-view.js": {
+          "size": 7
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.number.is-integer.js": {
+          "size": 56
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.number.to-fixed.js": {
+          "size": 1284
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.object.values.js": {
+          "size": 95
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.promise.all-settled.js": {
+          "size": 474
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.regexp.constructor.js": {
+          "size": 1762
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.regexp.to-string.js": {
+          "size": 294
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.string.trim.js": {
+          "size": 118
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.copy-within.js": {
+          "size": 174
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.every.js": {
+          "size": 159
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.fill.js": {
+          "size": 390
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.filter.js": {
+          "size": 188
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.find-index.js": {
+          "size": 167
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.find.js": {
+          "size": 157
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.for-each.js": {
+          "size": 156
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.includes.js": {
+          "size": 165
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.index-of.js": {
+          "size": 163
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.iterator.js": {
+          "size": 477
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.join.js": {
+          "size": 125
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.last-index-of.js": {
+          "size": 179
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.map.js": {
+          "size": 203
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.reduce-right.js": {
+          "size": 175
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.reduce.js": {
+          "size": 169
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.reverse.js": {
+          "size": 183
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.set.js": {
+          "size": 595
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.slice.js": {
+          "size": 247
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.some.js": {
+          "size": 157
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.sort.js": {
+          "size": 726
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.subarray.js": {
+          "size": 244
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.to-locale-string.js": {
+          "size": 391
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.to-string.js": {
+          "size": 230
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/es.typed-array.uint8-array.js": {
+          "size": 77
+        },
+        "webpack://seismic-workspace-v2/node_modules/core-js/modules/esnext.promise.all-settled.js": {
+          "size": 8
+        },
+        "[sourceMappingURL]": {
+          "size": 71
+        },
+        "[unmapped]": {
+          "size": 111
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

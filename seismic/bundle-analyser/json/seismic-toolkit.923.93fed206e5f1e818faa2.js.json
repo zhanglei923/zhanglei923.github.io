@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-toolkit.923.93fed206e5f1e818faa2.js",
+      "totalBytes": 10061,
+      "mappedBytes": 9645,
+      "unmappedBytes": 347,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 68,
+      "files": {
+        "webpack://seismic-toolkit/node_modules/lodash.isequal/index.js": {
+          "size": 9645
+        },
+        "[sourceMappingURL]": {
+          "size": 68
+        },
+        "[unmapped]": {
+          "size": 347
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-workspace.moduleExport.22b7b3b38ba1e103ef95.js",
+      "totalBytes": 183388,
+      "mappedBytes": 183307,
+      "unmappedBytes": 1,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 79,
+      "files": {
+        "webpack:///webpack/universalModuleDefinition": {
+          "size": 285
+        },
+        "[no source]": {
+          "size": 13
+        },
+        "webpack:///webpack/bootstrap b26523ccff23bdd90e22": {
+          "size": 624
+        },
+        "webpack:///seismic-workspace.moduleExport.22b7b3b38ba1e103ef95.js": {
+          "size": 2710
+        },
+        "webpack:///external \"window.__global_module_registers__['seismic-toolkit@3.16.0-release.734']\"": {
+          "size": 84
+        },
+        "webpack:///src/entry.js": {
+          "size": 7
+        },
+        "webpack:///src/workspace/workspace.js": {
+          "size": 523
+        },
+        "webpack:///src/workspace/workspace.module.js": {
+          "size": 183
+        },
+        "webpack:///src/workspace/_modules/tabeeb-session-timeout/tabeeb-session-timeout.directive.js": {
+          "size": 642
+        },
+        "webpack:///src/workspace/_modules/fileuploader/filedrag.directive.js": {
+          "size": 1567
+        },
+        "webpack:///src/workspace/_modules/fileuploader/fileuploader.directive.js": {
+          "size": 758
+        },
+        "webpack:///src/workspace/_modules/fileuploader/fileuploader.service.js": {
+          "size": 6519
+        },
+        "webpack:///src/workspace/_modules/fileuploader/zip.js": {
+          "size": 12357
+        },
+        "webpack:///src/workspace/_modules/fileuploader/BSSFileuploader.service.js": {
+          "size": 3967
+        },
+        "webpack:///src/workspace/_modules/fileuploader/blobstorage-service.json": {
+          "size": 7957
+        },
+        "webpack:///src/workspace/_modules/fileuploader/workspace-v1.json": {
+          "size": 1450
+        },
+        "webpack:///src/workspace/_modules/resize/resize.js": {
+          "size": 578
+        },
+        "webpack:///src/workspace/_modules/mention/jquery.seismic_mention.js": {
+          "size": 2659
+        },
+        "webpack:///external \"jQuery\"": {
+          "size": 13
+        },
+        "webpack:///src/workspace/_modules/mention/mention.js": {
+          "size": 742
+        },
+        "webpack:///src/workspace/_modules/scrollto/scrollto.js": {
+          "size": 804
+        },
+        "webpack:///src/workspace/_modules/collaborators/collaborators.business.js": {
+          "size": 2354
+        },
+        "webpack:///src/workspace/_modules/collaborators/collaborators.controller.js": {
+          "size": 2294
+        },
+        "webpack:///src/workspace/_modules/collaborators/collaborators.directive.js": {
+          "size": 306
+        },
+        "webpack:///src/workspace/_modules/collaborators/_modules/collaboratorcontrol/collaboratorcontrol.controller.js": {
+          "size": 965
+        },
+        "webpack:///src/workspace/_modules/collaborators/_modules/collaboratorcontrol/collaboratorcontrol.directive.js": {
+          "size": 415
+        },
+        "webpack:///src/workspace/_modules/collaborators/_modules/collaborators-info/collaborators-info.controller.js": {
+          "size": 834
+        },
+        "webpack:///src/workspace/_modules/collaborators/_modules/collaborators-invite/collaborators-invite.controller.js": {
+          "size": 2728
+        },
+        "webpack:///src/workspace/_modules/collaborators/_modules/collaborators-manage/collaborators-manage.controller.js": {
+          "size": 7395
+        },
+        "webpack:///src/workspace/_modules/collaborators/_modules/collaborators-manage/collaborators-switch-folder.controller.js": {
+          "size": 710
+        },
+        "webpack:///src/workspace/_modules/user-avator/user-avator.controller.js": {
+          "size": 836
+        },
+        "webpack:///src/workspace/_modules/user-avator/user-avator.directive.js": {
+          "size": 359
+        },
+        "webpack:///src/workspace/_modules/breadcrumb/quick-navigation/horizontal-wheel/horizontal-wheel.js": {
+          "size": 768
+        },
+        "webpack:///src/workspace/_modules/breadcrumb/quick-navigation/quick-navigation.controller.js": {
+          "size": 945
+        },
+        "webpack:///src/workspace/_modules/breadcrumb/breadcrumb.controller.js": {
+          "size": 8270
+        },
+        "webpack:///src/workspace/_modules/breadcrumb/breadcrumb.directive.js": {
+          "size": 454
+        },
+        "webpack:///src/workspace/workspace.controller.js": {
+          "size": 683
+        },
+        "webpack:///src/workspace/workspace.directive.js": {
+          "size": 199
+        },
+        "webpack:///src/workspace/workspace.filter.js": {
+          "size": 665
+        },
+        "webpack:///src/workspace/main-view/main.controller.js": {
+          "size": 20306
+        },
+        "webpack:///src/workspace/main-view/_modules/create-folder/create-folder.controller.js": {
+          "size": 1506
+        },
+        "webpack:///src/workspace/main-view/_modules/create-url/create-url.controller.js": {
+          "size": 2089
+        },
+        "webpack:///src/workspace/main-view/_modules/isform-filter/isform-filter.js": {
+          "size": 205
+        },
+        "webpack:///src/workspace/doc-view/doc-view.controller.js": {
+          "size": 39065
+        },
+        "webpack:///src/workspace/doc-view/_modules/bottom/bottom.directive.js": {
+          "size": 398
+        },
+        "webpack:///src/workspace/doc-view/_modules/bottom/bottom.controller.js": {
+          "size": 14888
+        },
+        "webpack:///src/workspace/doc-view/_modules/search-comments/search.model.js": {
+          "size": 452
+        },
+        "webpack:///src/workspace/doc-view/_modules/comment-list/comment-list.controller.js": {
+          "size": 900
+        },
+        "webpack:///src/workspace/doc-view/_modules/reply-comments/reply-comments.controller.js": {
+          "size": 1881
+        },
+        "webpack:///src/workspace/doc-view/_modules/comment-input/comment-input.controller.js": {
+          "size": 2219
+        },
+        "webpack:///src/workspace/doc-view/_modules/wopi/dialogs/wopi.deliverwhilelocked.controller.js": {
+          "size": 272
+        },
+        "webpack:///src/workspace/doc-view/panel/info/info.directive.js": {
+          "size": 391
+        },
+        "webpack:///src/workspace/doc-view/panel/info/info.controller.js": {
+          "size": 5704
+        },
+        "webpack:///src/workspace/doc-view/panel/history/history.directive.js": {
+          "size": 439
+        },
+        "webpack:///src/workspace/doc-view/panel/history/history.controller.js": {
+          "size": 1892
+        },
+        "webpack:///src/workspace/doc-view/panel/comments/comments.directive.js": {
+          "size": 417
+        },
+        "webpack:///src/workspace/doc-view/panel/comments/comments.controller.js": {
+          "size": 9104
+        },
+        "webpack:///src/workspace/_modules/activities/activities.controller.js": {
+          "size": 1010
+        },
+        "webpack:///src/workspace/_modules/activities/activities.directive.js": {
+          "size": 370
+        },
+        "webpack:///src/workspace/_modules/notes/notes.directive.js": {
+          "size": 344
+        },
+        "webpack:///src/workspace/_modules/notes/notes.controller.js": {
+          "size": 2164
+        },
+        "webpack:///src/workspace/_modules/fileinformation/fileinformation.controller.js": {
+          "size": 1121
+        },
+        "webpack:///src/workspace/_modules/fileinformation/fileinformation.helper.js": {
+          "size": 548
+        },
+        "[sourceMappingURL]": {
+          "size": 79
+        },
+        "[unmapped]": {
+          "size": 1
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

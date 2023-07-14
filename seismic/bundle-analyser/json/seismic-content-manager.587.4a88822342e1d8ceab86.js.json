@@ -1,0 +1,1748 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-content-manager.587.4a88822342e1d8ceab86.js",
+      "totalBytes": 1250362,
+      "mappedBytes": 1250056,
+      "unmappedBytes": 228,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 76,
+      "files": {
+        "webpack://seismic-content-manager/node_modules/core-js/internals/a-callable.js": {
+          "size": 149
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/a-constructor.js": {
+          "size": 151
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/a-possible-prototype.js": {
+          "size": 179
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/add-to-unscopables.js": {
+          "size": 195
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/advance-string-index.js": {
+          "size": 101
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/an-instance.js": {
+          "size": 139
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/an-object.js": {
+          "size": 147
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/array-buffer-non-extensible.js": {
+          "size": 202
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/array-fill.js": {
+          "size": 242
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/array-for-each.js": {
+          "size": 172
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/array-from.js": {
+          "size": 538
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/array-includes.js": {
+          "size": 288
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/array-iteration.js": {
+          "size": 612
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/array-last-index-of.js": {
+          "size": 370
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/array-method-has-species-support.js": {
+          "size": 225
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/array-method-is-strict.js": {
+          "size": 141
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/array-reduce.js": {
+          "size": 395
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/array-slice-simple.js": {
+          "size": 227
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/array-slice.js": {
+          "size": 59
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/array-sort.js": {
+          "size": 419
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/array-species-constructor.js": {
+          "size": 243
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/array-species-create.js": {
+          "size": 91
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/call-with-safe-iteration-closing.js": {
+          "size": 137
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/check-correctness-of-iteration.js": {
+          "size": 355
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/classof-raw.js": {
+          "size": 111
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/classof.js": {
+          "size": 379
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/collection-strong.js": {
+          "size": 2022
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/collection-weak.js": {
+          "size": 1320
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/collection.js": {
+          "size": 1214
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/copy-constructor-properties.js": {
+          "size": 189
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/correct-is-regexp-logic.js": {
+          "size": 155
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/correct-prototype-getter.js": {
+          "size": 159
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/create-html.js": {
+          "size": 218
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/create-iterator-constructor.js": {
+          "size": 237
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/create-non-enumerable-property.js": {
+          "size": 140
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/create-property-descriptor.js": {
+          "size": 131
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/create-property.js": {
+          "size": 140
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/define-iterator.js": {
+          "size": 1058
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/define-well-known-symbol.js": {
+          "size": 154
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/descriptors.js": {
+          "size": 134
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/document-create-element.js": {
+          "size": 139
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/dom-iterables.js": {
+          "size": 535
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/dom-token-list-prototype.js": {
+          "size": 140
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/engine-ff-version.js": {
+          "size": 84
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/engine-is-ie-or-edge.js": {
+          "size": 70
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/engine-is-ios.js": {
+          "size": 93
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/engine-is-node.js": {
+          "size": 83
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/engine-user-agent.js": {
+          "size": 78
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/engine-v8-version.js": {
+          "size": 266
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/engine-webkit-version.js": {
+          "size": 85
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/enum-bug-keys.js": {
+          "size": 143
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/export.js": {
+          "size": 413
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/fails.js": {
+          "size": 94
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/fix-regexp-well-known-symbol-logic.js": {
+          "size": 674
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/freezing.js": {
+          "size": 119
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/function-apply.js": {
+          "size": 181
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/function-bind-context.js": {
+          "size": 172
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/function-bind.js": {
+          "size": 465
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/function-call.js": {
+          "size": 120
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/function-name.js": {
+          "size": 237
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/function-uncurry-this.js": {
+          "size": 186
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/get-built-in.js": {
+          "size": 158
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/get-iterator-method.js": {
+          "size": 158
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/get-iterator.js": {
+          "size": 222
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/get-method.js": {
+          "size": 101
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/get-substitution.js": {
+          "size": 562
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/global.js": {
+          "size": 273
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/has-own-property.js": {
+          "size": 123
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/hidden-keys.js": {
+          "size": 36
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/html.js": {
+          "size": 80
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/ie8-dom-define.js": {
+          "size": 167
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/indexed-object.js": {
+          "size": 209
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/inherit-if-required.js": {
+          "size": 176
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/inspect-source.js": {
+          "size": 170
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/internal-metadata.js": {
+          "size": 822
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/internal-state.js": {
+          "size": 775
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/is-array-iterator-method.js": {
+          "size": 148
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/is-array.js": {
+          "size": 92
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/is-callable.js": {
+          "size": 72
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/is-constructor.js": {
+          "size": 548
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/is-data-descriptor.js": {
+          "size": 112
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/is-forced.js": {
+          "size": 264
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/is-integral-number.js": {
+          "size": 127
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/is-object.js": {
+          "size": 96
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/is-pure.js": {
+          "size": 36
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/is-regexp.js": {
+          "size": 149
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/is-symbol.js": {
+          "size": 207
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/iterate.js": {
+          "size": 769
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/iterator-close.js": {
+          "size": 249
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/iterators-core.js": {
+          "size": 377
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/iterators.js": {
+          "size": 36
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/length-of-array-like.js": {
+          "size": 80
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/native-symbol.js": {
+          "size": 194
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/native-weak-map.js": {
+          "size": 112
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/not-a-regexp.js": {
+          "size": 173
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-assign.js": {
+          "size": 661
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-create.js": {
+          "size": 763
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-define-properties.js": {
+          "size": 210
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-define-property.js": {
+          "size": 292
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-get-own-property-descriptor.js": {
+          "size": 255
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-get-own-property-names-external.js": {
+          "size": 283
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-get-own-property-names.js": {
+          "size": 135
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-get-own-property-symbols.js": {
+          "size": 56
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-get-prototype-of.js": {
+          "size": 290
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-is-extensible.js": {
+          "size": 198
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-is-prototype-of.js": {
+          "size": 67
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-keys-internal.js": {
+          "size": 242
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-keys.js": {
+          "size": 110
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-property-is-enumerable.js": {
+          "size": 170
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-set-prototype-of.js": {
+          "size": 325
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-to-array.js": {
+          "size": 286
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/object-to-string.js": {
+          "size": 114
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/ordinary-to-primitive.js": {
+          "size": 322
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/own-keys.js": {
+          "size": 185
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/path.js": {
+          "size": 50
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/redefine-all.js": {
+          "size": 103
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/redefine.js": {
+          "size": 673
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/regexp-exec-abstract.js": {
+          "size": 294
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/regexp-exec.js": {
+          "size": 1251
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/regexp-flags.js": {
+          "size": 210
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/regexp-sticky-helpers.js": {
+          "size": 321
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/regexp-unsupported-dot-all.js": {
+          "size": 147
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/regexp-unsupported-ncg.js": {
+          "size": 170
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/require-object-coercible.js": {
+          "size": 122
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/same-value.js": {
+          "size": 99
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/set-global.js": {
+          "size": 174
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/set-species.js": {
+          "size": 190
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/set-to-string-tag.js": {
+          "size": 169
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/shared-key.js": {
+          "size": 108
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/shared-store.js": {
+          "size": 100
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/shared.js": {
+          "size": 224
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/species-constructor.js": {
+          "size": 164
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/string-html-forced.js": {
+          "size": 152
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/string-multibyte.js": {
+          "size": 374
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/string-pad-webkit-bug.js": {
+          "size": 123
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/string-pad.js": {
+          "size": 343
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/string-repeat.js": {
+          "size": 239
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/string-trim-forced.js": {
+          "size": 177
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/string-trim.js": {
+          "size": 277
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/task.js": {
+          "size": 1059
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/this-number-value.js": {
+          "size": 61
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/to-absolute-index.js": {
+          "size": 123
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/to-indexed-object.js": {
+          "size": 83
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/to-integer-or-infinity.js": {
+          "size": 118
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/to-length.js": {
+          "size": 110
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/to-object.js": {
+          "size": 98
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/to-primitive.js": {
+          "size": 357
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/to-property-key.js": {
+          "size": 111
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/to-string-tag-support.js": {
+          "size": 97
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/to-string.js": {
+          "size": 175
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/try-to-string.js": {
+          "size": 109
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/uid.js": {
+          "size": 148
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/use-symbol-as-uid.js": {
+          "size": 97
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/well-known-symbol-wrapped.js": {
+          "size": 42
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/well-known-symbol.js": {
+          "size": 282
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/internals/whitespaces.js": {
+          "size": 125
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.concat.js": {
+          "size": 709
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.every.js": {
+          "size": 186
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.fill.js": {
+          "size": 121
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.filter.js": {
+          "size": 203
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.find-index.js": {
+          "size": 273
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.find.js": {
+          "size": 253
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.for-each.js": {
+          "size": 111
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.from.js": {
+          "size": 146
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.includes.js": {
+          "size": 205
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.index-of.js": {
+          "size": 290
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.iterator.js": {
+          "size": 612
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.join.js": {
+          "size": 218
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.last-index-of.js": {
+          "size": 133
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.map.js": {
+          "size": 194
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.reduce.js": {
+          "size": 251
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.reverse.js": {
+          "size": 236
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.slice.js": {
+          "size": 558
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.some.js": {
+          "size": 195
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.sort.js": {
+          "size": 1071
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.array.splice.js": {
+          "size": 727
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.function.name.js": {
+          "size": 308
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.map.js": {
+          "size": 146
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.number.constructor.js": {
+          "size": 1251
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.number.is-integer.js": {
+          "size": 93
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.number.to-fixed.js": {
+          "size": 1323
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.object.assign.js": {
+          "size": 114
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.object.freeze.js": {
+          "size": 220
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.object.get-own-property-descriptor.js": {
+          "size": 217
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.object.get-own-property-descriptors.js": {
+          "size": 270
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.object.get-own-property-names.js": {
+          "size": 175
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.object.get-prototype-of.js": {
+          "size": 193
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.object.keys.js": {
+          "size": 160
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.object.set-prototype-of.js": {
+          "size": 85
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.object.to-string.js": {
+          "size": 108
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.object.values.js": {
+          "size": 119
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.reflect.construct.js": {
+          "size": 737
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.reflect.get.js": {
+          "size": 307
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.regexp.constructor.js": {
+          "size": 1907
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.regexp.exec.js": {
+          "size": 120
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.regexp.to-string.js": {
+          "size": 420
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.set.js": {
+          "size": 147
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.string.code-point-at.js": {
+          "size": 143
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.string.ends-with.js": {
+          "size": 474
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.string.includes.js": {
+          "size": 266
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.string.iterator.js": {
+          "size": 347
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.string.link.js": {
+          "size": 163
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.string.match.js": {
+          "size": 524
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.string.pad-start.js": {
+          "size": 194
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.string.replace.js": {
+          "size": 1266
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.string.search.js": {
+          "size": 445
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.string.split.js": {
+          "size": 1959
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.string.starts-with.js": {
+          "size": 461
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.string.trim.js": {
+          "size": 155
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.symbol.description.js": {
+          "size": 734
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.symbol.iterator.js": {
+          "size": 57
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.symbol.js": {
+          "size": 3662
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.weak-map.js": {
+          "size": 967
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/es.weak-set.js": {
+          "size": 138
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/web.dom-collections.for-each.js": {
+          "size": 210
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/web.dom-collections.iterator.js": {
+          "size": 353
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/web.immediate.js": {
+          "size": 183
+        },
+        "webpack://seismic-content-manager/node_modules/core-js/modules/web.timers.js": {
+          "size": 353
+        },
+        "webpack://seismic-content-manager/node_modules/fetch-jsonp/build/fetch-jsonp.js": {
+          "size": 11715
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/utils/staticRegister.js": {
+          "size": 2123
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/array.js": {
+          "size": 1304
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/object.js": {
+          "size": 2754
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/pluginHooks.js": {
+          "size": 5857
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/calculator/viewportColumns.js": {
+          "size": 3578
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/calculator/constants.js": {
+          "size": 69
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/calculator/viewportRows.js": {
+          "size": 1681
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/cell/coords.js": {
+          "size": 1058
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/cell/range.js": {
+          "size": 8066
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/browser.js": {
+          "size": 1612
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/feature.js": {
+          "size": 2234
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/dom/element.js": {
+          "size": 10588
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/function.js": {
+          "size": 1973
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/filter/column.js": {
+          "size": 1023
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/filter/row.js": {
+          "size": 1002
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/utils/orderView/viewSize.js": {
+          "size": 595
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/utils/orderView/viewSizeSet.js": {
+          "size": 913
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/utils/orderView/constants.js": {
+          "size": 24
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/utils/orderView/view.js": {
+          "size": 1900
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/utils/orderView/sharedView.js": {
+          "size": 1515
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/utils/nodesPool.js": {
+          "size": 530
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/renderer/_base.js": {
+          "size": 650
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/renderer/rowHeaders.js": {
+          "size": 2040
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/renderer/columnHeaders.js": {
+          "size": 2255
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/renderer/colGroup.js": {
+          "size": 2128
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/templateLiteralTag.js": {
+          "size": 200
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/mixed.js": {
+          "size": 6803
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/console.js": {
+          "size": 136
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/renderer/rows.js": {
+          "size": 2254
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/renderer/cells.js": {
+          "size": 2097
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/renderer/table.js": {
+          "size": 2268
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/renderer/index.js": {
+          "size": 1096
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/dom/event.js": {
+          "size": 532
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/eventManager.js": {
+          "size": 3274
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/string.js": {
+          "size": 730
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/event.js": {
+          "size": 5374
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/unicode.js": {
+          "size": 1231
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/overlays.js": {
+          "size": 9882
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/scroll.js": {
+          "size": 3284
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/settings.js": {
+          "size": 2296
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/viewport.js": {
+          "size": 6946
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/core.js": {
+          "size": 3831
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/overlay/_base.js": {
+          "size": 4938
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/utils/column.js": {
+          "size": 1854
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/utils/row.js": {
+          "size": 537
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/table.js": {
+          "size": 13414
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/table/mixin/calculatedRows.js": {
+          "size": 683
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/table/mixin/calculatedColumns.js": {
+          "size": 734
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/table/master.js": {
+          "size": 2564
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/table/mixin/stickyColumnsLeft.js": {
+          "size": 604
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/table/left.js": {
+          "size": 1112
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/overlay/left.js": {
+          "size": 6164
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/table/mixin/stickyRowsTop.js": {
+          "size": 549
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/table/top.js": {
+          "size": 1112
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/overlay/top.js": {
+          "size": 6876
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/table/topLeftCorner.js": {
+          "size": 1112
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/overlay/topLeftCorner.js": {
+          "size": 2897
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/table/mixin/stickyRowsBottom.js": {
+          "size": 605
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/table/bottom.js": {
+          "size": 1112
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/overlay/bottom.js": {
+          "size": 6458
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/table/bottomLeftCorner.js": {
+          "size": 1112
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/overlay/bottomLeftCorner.js": {
+          "size": 3000
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/border.js": {
+          "size": 12646
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/3rdparty/walkontable/src/selection.js": {
+          "size": 4257
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/mixins/hooksRefRegisterer.js": {
+          "size": 486
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/editors/_baseEditor.js": {
+          "size": 5241
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/number.js": {
+          "size": 834
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/editors/textEditor.js": {
+          "size": 8466
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/editors/handsontableEditor.js": {
+          "size": 4371
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/editors/autocompleteEditor.js": {
+          "size": 7689
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/editors/checkboxEditor.js": {
+          "size": 1713
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/editors/dateEditor.js": {
+          "size": 5132
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/editors/dropdownEditor.js": {
+          "size": 1924
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/editors/numericEditor.js": {
+          "size": 1090
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/editors/passwordEditor.js": {
+          "size": 2004
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/editors/selectEditor.js": {
+          "size": 4865
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/editors/index.js": {
+          "size": 979
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/renderers/_cellDecorator.js": {
+          "size": 438
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/renderers/checkboxRenderer.js": {
+          "size": 3566
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/renderers/index.js": {
+          "size": 327
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/validators/autocompleteValidator.js": {
+          "size": 287
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/date.js": {
+          "size": 139
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/renderers/autocompleteRenderer.js": {
+          "size": 731
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/renderers/htmlRenderer.js": {
+          "size": 173
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/renderers/numericRenderer.js": {
+          "size": 542
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/renderers/passwordRenderer.js": {
+          "size": 257
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/renderers/textRenderer.js": {
+          "size": 528
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/validators/timeValidator.js": {
+          "size": 576
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/validators/index.js": {
+          "size": 288
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/validators/dateValidator.js": {
+          "size": 613
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/validators/numericValidator.js": {
+          "size": 88
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/cellTypes/autocompleteType.js": {
+          "size": 74
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/cellTypes/checkboxType.js": {
+          "size": 49
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/cellTypes/dateType.js": {
+          "size": 74
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/cellTypes/dropdownType.js": {
+          "size": 84
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/cellTypes/handsontableType.js": {
+          "size": 59
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/cellTypes/numericType.js": {
+          "size": 83
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/cellTypes/passwordType.js": {
+          "size": 61
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/cellTypes/textType.js": {
+          "size": 45
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/cellTypes/timeType.js": {
+          "size": 64
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/cellTypes/index.js": {
+          "size": 671
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/setting.js": {
+          "size": 103
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/data.js": {
+          "size": 1354
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/utils/interval.js": {
+          "size": 1112
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/dataMap.js": {
+          "size": 10804
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/editorManager.js": {
+          "size": 6692
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/utils/parseTable.js": {
+          "size": 4648
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins.js": {
+          "size": 602
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/selection/mouseEventHandler.js": {
+          "size": 1472
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/tableView.js": {
+          "size": 13103
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/dataSource.js": {
+          "size": 2043
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/utils/recordTranslator.js": {
+          "size": 1277
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/utils/rootInstance.js": {
+          "size": 134
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/defaultSettings.js": {
+          "size": 2985
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/i18n/utils.js": {
+          "size": 634
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/i18n/constants.js": {
+          "size": 2522
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/i18n/languages/en-US.js": {
+          "size": 1931
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/i18n/dictionariesManager.js": {
+          "size": 329
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/i18n/phraseFormatters/index.js": {
+          "size": 82
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/i18n/index.js": {
+          "size": 187
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/i18n/phraseFormatters/pluralize.js": {
+          "size": 90
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/utils/keyStateObserver.js": {
+          "size": 540
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/selection/highlight/types/activeHeader.js": {
+          "size": 93
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/selection/highlight/types/index.js": {
+          "size": 175
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/selection/highlight/highlight.js": {
+          "size": 3399
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/selection/highlight/types/area.js": {
+          "size": 185
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/selection/highlight/types/cell.js": {
+          "size": 127
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/selection/highlight/types/customSelection.js": {
+          "size": 63
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/selection/highlight/types/fill.js": {
+          "size": 81
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/selection/highlight/types/header.js": {
+          "size": 193
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/selection/range.js": {
+          "size": 1158
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/mixins/localHooks.js": {
+          "size": 476
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/selection/transformation.js": {
+          "size": 1814
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/selection/utils.js": {
+          "size": 2718
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/selection/selection.js": {
+          "size": 9097
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/core.js": {
+          "size": 34204
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/utils/ghostTable.js": {
+          "size": 5913
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/_base.js": {
+          "size": 2453
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/persistentState/storage.js": {
+          "size": 1618
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/persistentState/persistentState.js": {
+          "size": 2849
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/utils/samplesGenerator.js": {
+          "size": 1821
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/autoColumnSize/autoColumnSize.js": {
+          "size": 8157
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/autofill/utils.js": {
+          "size": 1243
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/autofill/autofill.js": {
+          "size": 8545
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/autoRowSize/autoRowSize.js": {
+          "size": 8033
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/columnSorting/columnStatesManager.js": {
+          "size": 2104
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/columnSorting/utils.js": {
+          "size": 610
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/columnSorting/domHelpers.js": {
+          "size": 328
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/mixins/arrayMapper.js": {
+          "size": 1743
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/columnSorting/rowsMapper.js": {
+          "size": 571
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/columnSorting/sortFunction/default.js": {
+          "size": 402
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/columnSorting/sortService/registry.js": {
+          "size": 200
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/utils/dataStructures/linkedList.js": {
+          "size": 1883
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/columnSorting/sortFunction/numeric.js": {
+          "size": 288
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/columnSorting/sortFunction/date.js": {
+          "size": 312
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/utils/sortingAlgorithms/mergeSort.js": {
+          "size": 690
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/columnSorting/sortService/engine.js": {
+          "size": 148
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/columnSorting/rootComparator.js": {
+          "size": 516
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/columnSorting/columnSorting.js": {
+          "size": 12457
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/comments/commentEditor.js": {
+          "size": 2616
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/predefinedItems/separator.js": {
+          "size": 56
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/utils.js": {
+          "size": 1886
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/comments/displaySwitch.js": {
+          "size": 1098
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/comments/comments.js": {
+          "size": 10589
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/commandExecutor.js": {
+          "size": 1272
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/predefinedItems/alignment.js": {
+          "size": 4095
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/predefinedItems/clearColumn.js": {
+          "size": 945
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/predefinedItems/columnLeft.js": {
+          "size": 1033
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/predefinedItems/columnRight.js": {
+          "size": 1035
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/predefinedItems/readOnly.js": {
+          "size": 516
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/predefinedItems/redo.js": {
+          "size": 201
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/predefinedItems/removeColumn.js": {
+          "size": 1019
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/predefinedItems/removeRow.js": {
+          "size": 976
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/predefinedItems.js": {
+          "size": 378
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/predefinedItems/rowAbove.js": {
+          "size": 401
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/predefinedItems/rowBelow.js": {
+          "size": 401
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/predefinedItems/noItems.js": {
+          "size": 121
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/predefinedItems/undo.js": {
+          "size": 201
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/itemsFactory.js": {
+          "size": 1503
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/cursor.js": {
+          "size": 1413
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/menu.js": {
+          "size": 10893
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/contextMenu/contextMenu.js": {
+          "size": 5406
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/copyPaste/clipboardData.js": {
+          "size": 477
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/copyPaste/pasteEvent.js": {
+          "size": 145
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/copyPaste/focusableElement.js": {
+          "size": 1870
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/copyPaste/copyPaste.js": {
+          "size": 9974
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/copyPaste/contextMenuItem/copy.js": {
+          "size": 182
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/copyPaste/contextMenuItem/cut.js": {
+          "size": 189
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/customBorders/utils.js": {
+          "size": 1089
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/customBorders/contextMenuItem/bottom.js": {
+          "size": 212
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/customBorders/contextMenuItem/left.js": {
+          "size": 204
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/customBorders/contextMenuItem/noBorders.js": {
+          "size": 193
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/customBorders/contextMenuItem/right.js": {
+          "size": 208
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/customBorders/customBorders.js": {
+          "size": 8474
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/customBorders/contextMenuItem/top.js": {
+          "size": 188
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/dragToScroll/dragToScroll.js": {
+          "size": 3786
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/manualColumnFreeze/manualColumnFreeze.js": {
+          "size": 4391
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/manualColumnFreeze/contextMenuItem/freezeColumn.js": {
+          "size": 869
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/manualColumnFreeze/contextMenuItem/unfreezeColumn.js": {
+          "size": 880
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/manualColumnMove/columnsMapper.js": {
+          "size": 812
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/manualColumnMove/ui/_base.js": {
+          "size": 1784
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/manualColumnMove/ui/backlight.js": {
+          "size": 1722
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/manualColumnMove/ui/guideline.js": {
+          "size": 1722
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/manualColumnMove/manualColumnMove.js": {
+          "size": 11494
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/manualColumnResize/manualColumnResize.js": {
+          "size": 8663
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/manualRowMove/rowsMapper.js": {
+          "size": 806
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/manualRowMove/ui/_base.js": {
+          "size": 1778
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/manualRowMove/ui/backlight.js": {
+          "size": 1719
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/manualRowMove/ui/guideline.js": {
+          "size": 1719
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/manualRowMove/manualRowMove.js": {
+          "size": 10739
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/manualRowResize/manualRowResize.js": {
+          "size": 8020
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/mergeCells/cellCoords.js": {
+          "size": 3726
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/mergeCells/utils.js": {
+          "size": 302
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/mergeCells/cellsCollection.js": {
+          "size": 3603
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/mergeCells/calculations/autofill.js": {
+          "size": 4795
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/mergeCells/calculations/selection.js": {
+          "size": 2582
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/mergeCells/mergeCells.js": {
+          "size": 15172
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/mergeCells/contextMenuItem/toggleMerge.js": {
+          "size": 514
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/multipleSelectionHandles/multipleSelectionHandles.js": {
+          "size": 5114
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/observeChanges/utils.js": {
+          "size": 950
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/observeChanges/dataObserver.js": {
+          "size": 1011
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/observeChanges/observeChanges.js": {
+          "size": 3997
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/search/search.js": {
+          "size": 4505
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/touchScroll/touchScroll.js": {
+          "size": 3568
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/undoRedo/undoRedo.js": {
+          "size": 13174
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/bindRowsWithHeaders/bindStrategies/loose.js": {
+          "size": 613
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/bindRowsWithHeaders/bindStrategies/strict.js": {
+          "size": 614
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/bindRowsWithHeaders/bindStrategy.js": {
+          "size": 1204
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/bindRowsWithHeaders/bindRowsWithHeaders.js": {
+          "size": 3328
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/collapsibleColumns/collapsibleColumns.js": {
+          "size": 8080
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/columnSummary/endpoints.js": {
+          "size": 7718
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/columnSummary/columnSummary.js": {
+          "size": 6470
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/dropdownMenu/dropdownMenu.js": {
+          "size": 5784
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/exportFile/dataProvider.js": {
+          "size": 2316
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/exportFile/types/_base.js": {
+          "size": 1014
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/exportFile/types/csv.js": {
+          "size": 2343
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/exportFile/typeFactory.js": {
+          "size": 202
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/exportFile/exportFile.js": {
+          "size": 2732
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/multiColumnSorting/rootComparator.js": {
+          "size": 579
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/multiColumnSorting/utils.js": {
+          "size": 107
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/multiColumnSorting/domHelpers.js": {
+          "size": 317
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/multiColumnSorting/multiColumnSorting.js": {
+          "size": 3382
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/mixins/stateSaver.js": {
+          "size": 726
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/component/_base.js": {
+          "size": 789
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/conditionRegisterer.js": {
+          "size": 440
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/none.js": {
+          "size": 85
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/empty.js": {
+          "size": 131
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/notEmpty.js": {
+          "size": 103
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/equal.js": {
+          "size": 612
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/notEqual.js": {
+          "size": 97
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/greaterThan.js": {
+          "size": 628
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/greaterThanOrEqual.js": {
+          "size": 631
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/lessThan.js": {
+          "size": 628
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/lessThanOrEqual.js": {
+          "size": 631
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/date/after.js": {
+          "size": 691
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/date/before.js": {
+          "size": 692
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/between.js": {
+          "size": 795
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/notBetween.js": {
+          "size": 105
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/beginsWith.js": {
+          "size": 640
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/endsWith.js": {
+          "size": 627
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/contains.js": {
+          "size": 628
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/notContains.js": {
+          "size": 106
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/date/tomorrow.js": {
+          "size": 184
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/date/today.js": {
+          "size": 161
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/date/yesterday.js": {
+          "size": 184
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/utils.js": {
+          "size": 590
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/byValue.js": {
+          "size": 673
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/true.js": {
+          "size": 48
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/condition/false.js": {
+          "size": 50
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/logicalOperationRegisterer.js": {
+          "size": 211
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/logicalOperations/conjunction.js": {
+          "size": 96
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/logicalOperations/disjunction.js": {
+          "size": 95
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/logicalOperations/disjunctionWithExtraCondition.js": {
+          "size": 239
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/constants.js": {
+          "size": 426
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/ui/_base.js": {
+          "size": 2465
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/ui/input.js": {
+          "size": 2632
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/ui/select.js": {
+          "size": 3762
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/component/condition.js": {
+          "size": 4903
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/ui/radioInput.js": {
+          "size": 2620
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/component/operators.js": {
+          "size": 2989
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/ui/link.js": {
+          "size": 2005
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/ui/multipleSelect.js": {
+          "size": 5744
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/component/value.js": {
+          "size": 4466
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/component/actionBar.js": {
+          "size": 2430
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/conditionCollection.js": {
+          "size": 3967
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/dataFilter.js": {
+          "size": 1069
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/conditionUpdateObserver.js": {
+          "size": 2694
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/filters/filters.js": {
+          "size": 14583
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/utils.js": {
+          "size": 449
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/cell/_base.js": {
+          "size": 1152
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/cell/value.js": {
+          "size": 2604
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/cell/reference.js": {
+          "size": 1416
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/matrix.js": {
+          "size": 1768
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/expressionModifier.js": {
+          "size": 3324
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/alterOperation/columnSorting.js": {
+          "size": 481
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/alterOperation/insertColumn.js": {
+          "size": 657
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/alterOperation/insertRow.js": {
+          "size": 642
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/alterOperation/removeColumn.js": {
+          "size": 1162
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/alterOperation/removeRow.js": {
+          "size": 1135
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/alterManager.js": {
+          "size": 1223
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/sheet.js": {
+          "size": 4125
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/dataProvider.js": {
+          "size": 2765
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/utils/dataStructures/stack.js": {
+          "size": 767
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/undoRedoSnapshot.js": {
+          "size": 1061
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/formulas/formulas.js": {
+          "size": 7033
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/ganttChart/utils.js": {
+          "size": 789
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/ganttChart/dateCalculator.js": {
+          "size": 8013
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/ganttChart/ganttChartDataFeed.js": {
+          "size": 4136
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/ganttChart/ganttChart.js": {
+          "size": 10749
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/headerTooltips/headerTooltips.js": {
+          "size": 3311
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/nestedHeaders/utils/ghostTable.js": {
+          "size": 1685
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/nestedHeaders/nestedHeaders.js": {
+          "size": 10005
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/nestedRows/data/dataManager.js": {
+          "size": 6754
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/nestedRows/ui/_base.js": {
+          "size": 147
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/nestedRows/ui/headers.js": {
+          "size": 2787
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/nestedRows/ui/collapsing.js": {
+          "size": 6959
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/nestedRows/ui/contextMenu.js": {
+          "size": 2668
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/nestedRows/nestedRows.js": {
+          "size": 9660
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/hiddenColumns/hiddenColumns.js": {
+          "size": 7881
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/hiddenColumns/contextMenuItem/hideColumn.js": {
+          "size": 953
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/hiddenColumns/contextMenuItem/showColumn.js": {
+          "size": 1675
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/hiddenRows/hiddenRows.js": {
+          "size": 7637
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/hiddenRows/contextMenuItem/hideRow.js": {
+          "size": 944
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/hiddenRows/contextMenuItem/showRow.js": {
+          "size": 1654
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/trimRows/rowsMapper.js": {
+          "size": 623
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/plugins/trimRows/trimRows.js": {
+          "size": 5334
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/index.js": {
+          "size": 1699
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/es/helpers/wrappers/jquery.js": {
+          "size": 516
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/lib/SheetClip/SheetClip.js": {
+          "size": 885
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/lib/autoResize/autoResize.js": {
+          "size": 2235
+        },
+        "webpack://seismic-content-manager/node_modules/handsontable/lib/jsonpatch/json-patch-duplex.js": {
+          "size": 8164
+        },
+        "webpack://seismic-content-manager/node_modules/hot-formula-parser/dist/formula-parser.js": {
+          "size": 174672
+        },
+        "webpack://seismic-content-manager/node_modules/load-script/index.js": {
+          "size": 785
+        },
+        "webpack://seismic-content-manager/node_modules/lodash.omit/index.js": {
+          "size": 6095
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/capitalize.js": {
+          "size": 97
+        },
+        "webpack://seismic-content-manager/node_modules/numbro/dist/numbro.min.js": {
+          "size": 41374
+        },
+        "webpack://seismic-content-manager/node_modules/pikaday/pikaday.js": {
+          "size": 15540
+        },
+        "webpack://seismic-content-manager/node_modules/react-numeric-input/index.js": {
+          "size": 16836
+        },
+        "webpack://seismic-content-manager/node_modules/react-player/lib/ReactPlayer.js": {
+          "size": 4115
+        },
+        "webpack://seismic-content-manager/node_modules/react-player/lib/players/Base.js": {
+          "size": 2773
+        },
+        "webpack://seismic-content-manager/node_modules/react-player/lib/players/DailyMotion.js": {
+          "size": 4416
+        },
+        "webpack://seismic-content-manager/node_modules/react-player/lib/players/Facebook.js": {
+          "size": 3487
+        },
+        "webpack://seismic-content-manager/node_modules/react-player/lib/players/FilePlayer.js": {
+          "size": 5310
+        },
+        "webpack://seismic-content-manager/node_modules/react-player/lib/players/SoundCloud.js": {
+          "size": 3114
+        },
+        "webpack://seismic-content-manager/node_modules/react-player/lib/players/Streamable.js": {
+          "size": 1684
+        },
+        "webpack://seismic-content-manager/node_modules/react-player/lib/players/Twitch.js": {
+          "size": 3490
+        },
+        "webpack://seismic-content-manager/node_modules/react-player/lib/players/Vidme.js": {
+          "size": 1975
+        },
+        "webpack://seismic-content-manager/node_modules/react-player/lib/players/Vimeo.js": {
+          "size": 4042
+        },
+        "webpack://seismic-content-manager/node_modules/react-player/lib/players/Wistia.js": {
+          "size": 3276
+        },
+        "webpack://seismic-content-manager/node_modules/react-player/lib/players/YouTube.js": {
+          "size": 4592
+        },
+        "webpack://seismic-content-manager/node_modules/react-player/lib/props.js": {
+          "size": 1667
+        },
+        "webpack://seismic-content-manager/node_modules/react-player/lib/utils.js": {
+          "size": 1873
+        },
+        "webpack://seismic-content-manager/node_modules/fast-json-patch/module/helpers.mjs": {
+          "size": 1622
+        },
+        "webpack://seismic-content-manager/node_modules/fast-json-patch/module/core.mjs": {
+          "size": 6073
+        },
+        "webpack://seismic-content-manager/node_modules/fast-json-patch/module/duplex.mjs": {
+          "size": 2118
+        },
+        "webpack://seismic-content-manager/node_modules/fast-json-patch/index.mjs": {
+          "size": 103
+        },
+        "[sourceMappingURL]": {
+          "size": 76
+        },
+        "[unmapped]": {
+          "size": 228
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

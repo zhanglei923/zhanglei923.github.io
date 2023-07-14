@@ -1,0 +1,116 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-announcements.main.2709f6739608ea53d96f.js",
+      "totalBytes": 57321,
+      "mappedBytes": 57101,
+      "unmappedBytes": 143,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 75,
+      "files": {
+        "webpack://seismic-announcements/node_modules/color-convert/conversions.js": {
+          "size": 8433
+        },
+        "webpack://seismic-announcements/node_modules/color-convert/index.js": {
+          "size": 747
+        },
+        "webpack://seismic-announcements/node_modules/color-convert/route.js": {
+          "size": 729
+        },
+        "webpack://seismic-announcements/node_modules/color-name/index.js": {
+          "size": 3427
+        },
+        "webpack://seismic-announcements/node_modules/color-string/index.js": {
+          "size": 3192
+        },
+        "webpack://seismic-announcements/node_modules/color/index.js": {
+          "size": 6048
+        },
+        "webpack://seismic-announcements/node_modules/create-react-context/lib/implementation.js": {
+          "size": 2646
+        },
+        "webpack://seismic-announcements/node_modules/create-react-context/lib/index.js": {
+          "size": 194
+        },
+        "webpack://seismic-announcements/node_modules/gud/index.js": {
+          "size": 100
+        },
+        "webpack://seismic-announcements/node_modules/react-responsive/dist/react-responsive.js": {
+          "size": 19297
+        },
+        "webpack://seismic-announcements/node_modules/simple-swizzle/index.js": {
+          "size": 260
+        },
+        "webpack://seismic-announcements/node_modules/simple-swizzle/node_modules/is-arrayish/index.js": {
+          "size": 248
+        },
+        "webpack://seismic-announcements/node_modules/warning/warning.js": {
+          "size": 53
+        },
+        "webpack://seismic-announcements/external assign \"PropTypes\"": {
+          "size": 50
+        },
+        "webpack://seismic-announcements/external assign \"React\"": {
+          "size": 18
+        },
+        "webpack://seismic-announcements/webpack/bootstrap": {
+          "size": 137
+        },
+        "webpack://seismic-announcements/webpack/runtime/compat get default export": {
+          "size": 111
+        },
+        "webpack://seismic-announcements/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://seismic-announcements/webpack/runtime/global": {
+          "size": 165
+        },
+        "webpack://seismic-announcements/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://seismic-announcements/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://seismic-announcements/webpack/runtime/publicPath": {
+          "size": 16
+        },
+        "webpack://seismic-announcements/dist/assets/setPublicPathForStandaloneLoader.js": {
+          "size": 157
+        },
+        "webpack://seismic-announcements/external assign \"__global_module_registers__[\\\"@seismic/mantle\\\"]\"": {
+          "size": 295
+        },
+        "webpack://seismic-announcements/src/components/responsive-wrapper/index.tsx": {
+          "size": 143
+        },
+        "webpack://seismic-announcements/src/constants/index.ts": {
+          "size": 67
+        },
+        "webpack://seismic-announcements/external assign \"__global_module_registers__[\\\"styled-components\\\"]\"": {
+          "size": 69
+        },
+        "webpack://seismic-announcements/src/components/global-style/index.tsx": {
+          "size": 5457
+        },
+        "webpack://seismic-announcements/src/components/mobile-app-wrapper/index.tsx": {
+          "size": 2597
+        },
+        "webpack://seismic-announcements/src/page/announcements-entry-page/index.tsx": {
+          "size": 1527
+        },
+        "webpack://seismic-announcements/src/components/mantle-wrapper/index.tsx": {
+          "size": 568
+        },
+        "[sourceMappingURL]": {
+          "size": 75
+        },
+        "[unmapped]": {
+          "size": 143
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

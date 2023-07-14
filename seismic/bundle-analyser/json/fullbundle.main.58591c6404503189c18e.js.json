@@ -1,0 +1,314 @@
+{
+  "results": [
+    {
+      "bundleName": "fullbundle.main.58591c6404503189c18e.js",
+      "totalBytes": 522807,
+      "mappedBytes": 522610,
+      "unmappedBytes": 124,
+      "eolBytes": 9,
+      "sourceMapCommentBytes": 64,
+      "files": {
+        "webpack:///fullbundle.main.58591c6404503189c18e.js": {
+          "size": 17306
+        },
+        "webpack:///webpack/bootstrap 3f965aae96611cfa9407": {
+          "size": 625
+        },
+        "webpack:///external \"React\"": {
+          "size": 17
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/readable-stream/lib/_stream_duplex.js": {
+          "size": 1180
+        },
+        "webpack:///(webpack)/buildin/global.js": {
+          "size": 145
+        },
+        "webpack:///node_modules/inherits/inherits_browser.js": {
+          "size": 310
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/buffer/index.js": {
+          "size": 19817
+        },
+        "webpack:///node_modules/core-util-is/lib/util.js": {
+          "size": 974
+        },
+        "webpack:///external \"MantleUI\"": {
+          "size": 20
+        },
+        "webpack:///node_modules/process/browser.js": {
+          "size": 1671
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/process-nextick-args/index.js": {
+          "size": 620
+        },
+        "webpack:///external \"SeismicCommon\"": {
+          "size": 25
+        },
+        "webpack:///external \"ReactDOM\"": {
+          "size": 20
+        },
+        "webpack:///node_modules/events/events.js": {
+          "size": 5639
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/readable-stream/readable-browser.js": {
+          "size": 112
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/safe-buffer/index.js": {
+          "size": 715
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/readable-stream/lib/_stream_writable.js": {
+          "size": 7004
+        },
+        "webpack:///node_modules/string_decoder/lib/string_decoder.js": {
+          "size": 3553
+        },
+        "webpack:///node_modules/xml-js/lib/options-helper.js": {
+          "size": 590
+        },
+        "webpack:///node_modules/xml-js/lib/array-helper.js": {
+          "size": 125
+        },
+        "webpack:///src/apps/new-doccenter/doccenter/errors/NextUI/components/style.jsx": {
+          "size": 282
+        },
+        "webpack:///node_modules/xml-js/lib/xml2js.js": {
+          "size": 5135
+        },
+        "webpack:///node_modules/isarray/index.js": {
+          "size": 91
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/readable-stream/lib/_stream_readable.js": {
+          "size": 10525
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/readable-stream/lib/internal/streams/stream-browser.js": {
+          "size": 30
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/readable-stream/lib/internal/streams/destroy.js": {
+          "size": 908
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/readable-stream/lib/_stream_transform.js": {
+          "size": 1967
+        },
+        "webpack:///node_modules/xml-js/lib/js2xml.js": {
+          "size": 6210
+        },
+        "webpack:///node_modules/i18next/dist/esm/i18next.js": {
+          "size": 53351
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js": {
+          "size": 131
+        },
+        "webpack:///node_modules/i18next-icu/dist/es/index.js": {
+          "size": 2345
+        },
+        "webpack:///node_modules/intl-messageformat/lib/utils.js": {
+          "size": 210
+        },
+        "webpack:///src/full-bundle/newcicd-package-loaders.js": {
+          "size": 17920
+        },
+        "webpack:///external \"window.__global_module_registers__['seismic-navigation@^1.0.0']\"": {
+          "size": 75
+        },
+        "webpack:///src/full-bundle/defaultWrapper/wrapper.js": {
+          "size": 450
+        },
+        "webpack:///src/adaptor/seismic-doccenter-v2/LandingAdapter/index.js": {
+          "size": 341
+        },
+        "webpack:///src/adaptor/seismic-doccenter-v2/LandingAdapter/LandingWrapperDirective.js": {
+          "size": 5619
+        },
+        "webpack:///src/full-bundle/standalone-loader.js": {
+          "size": 4780
+        },
+        "webpack:///src/full-bundle/global-module-index.js": {
+          "size": 358
+        },
+        "webpack:///src/full-bundle/external-loader.js": {
+          "size": 547
+        },
+        "webpack:///src/adaptor/seismic-engagement-ui/seismic-engagement-ui.js": {
+          "size": 439
+        },
+        "webpack:///src/adaptor/seismic-engagement-form-ui/seismic-engagement-form-ui.js": {
+          "size": 1173
+        },
+        "webpack:///node_modules/xml-js/lib/index.js": {
+          "size": 89
+        },
+        "webpack:///node_modules/xml-js/node_modules/sax/lib/sax.js": {
+          "size": 19079
+        },
+        "webpack:///node_modules/base64-js/index.js": {
+          "size": 1411
+        },
+        "webpack:///node_modules/ieee754/index.js": {
+          "size": 868
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/stream-browserify/index.js": {
+          "size": 945
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/readable-stream/lib/internal/streams/BufferList.js": {
+          "size": 1214
+        },
+        "webpack:///node_modules/timers-browserify/main.js": {
+          "size": 1030
+        },
+        "webpack:///node_modules/setimmediate/setImmediate.js": {
+          "size": 1695
+        },
+        "webpack:///node_modules/util-deprecate/browser.js": {
+          "size": 371
+        },
+        "webpack:///node_modules/safe-buffer/index.js": {
+          "size": 838
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/readable-stream/lib/_stream_passthrough.js": {
+          "size": 199
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/readable-stream/writable-browser.js": {
+          "size": 17
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/readable-stream/duplex-browser.js": {
+          "size": 16
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/readable-stream/transform.js": {
+          "size": 27
+        },
+        "webpack:///node_modules/node-libs-browser/node_modules/readable-stream/passthrough.js": {
+          "size": 29
+        },
+        "webpack:///node_modules/xml-js/lib/xml2json.js": {
+          "size": 381
+        },
+        "webpack:///node_modules/xml-js/lib/json2xml.js": {
+          "size": 218
+        },
+        "webpack:///src/apps/new-doccenter/doccenter/errors/NextUI/errors.jsx": {
+          "size": 2043
+        },
+        "[no source]": {
+          "size": 111
+        },
+        "webpack:///src/apps/new-doccenter/doccenter/errors/NextUI/i18n/index.jsx": {
+          "size": 767
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/esm/typeof.js": {
+          "size": 263
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/esm/classCallCheck.js": {
+          "size": 102
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/esm/createClass.js": {
+          "size": 231
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/esm/inherits.js": {
+          "size": 258
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js": {
+          "size": 100
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js": {
+          "size": 226
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/typeof.js": {
+          "size": 450
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js": {
+          "size": 137
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/esm/defineProperty.js": {
+          "size": 128
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/esm/slicedToArray.js": {
+          "size": 133
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js": {
+          "size": 51
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js": {
+          "size": 320
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js": {
+          "size": 326
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js": {
+          "size": 114
+        },
+        "webpack:///node_modules/i18next/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js": {
+          "size": 182
+        },
+        "webpack:///node_modules/i18next-icu/dist/es/utils.js": {
+          "size": 571
+        },
+        "webpack:///node_modules/intl-messageformat/index.js": {
+          "size": 54
+        },
+        "webpack:///node_modules/intl-messageformat/lib/main.js": {
+          "size": 108
+        },
+        "webpack:///node_modules/intl-messageformat/lib/core.js": {
+          "size": 2892
+        },
+        "webpack:///node_modules/intl-messageformat/lib/es5.js": {
+          "size": 441
+        },
+        "webpack:///node_modules/intl-messageformat/lib/compiler.js": {
+          "size": 2606
+        },
+        "webpack:///node_modules/intl-messageformat-parser/index.js": {
+          "size": 40
+        },
+        "webpack:///node_modules/intl-messageformat-parser/lib/parser.js": {
+          "size": 10489
+        },
+        "webpack:///node_modules/intl-messageformat/lib/en.js": {
+          "size": 246
+        },
+        "webpack:///src/apps/new-doccenter/doccenter/errors/NextUI/i18n/local-data/en-US.json": {
+          "size": 521
+        },
+        "webpack:///src/apps/new-doccenter/doccenter/errors/NextUI/components/401/index.jsx": {
+          "size": 550
+        },
+        "webpack:///src/apps/new-doccenter/doccenter/errors/NextUI/components/401/Image-401.jsx": {
+          "size": 106443
+        },
+        "webpack:///external \"StyledComponents\"": {
+          "size": 28
+        },
+        "webpack:///src/apps/new-doccenter/doccenter/errors/NextUI/components/404/index.jsx": {
+          "size": 578
+        },
+        "webpack:///src/apps/new-doccenter/doccenter/errors/NextUI/components/404/Image-404.jsx": {
+          "size": 71091
+        },
+        "webpack:///src/apps/new-doccenter/doccenter/errors/NextUI/components/others/index.jsx": {
+          "size": 550
+        },
+        "webpack:///src/apps/new-doccenter/doccenter/errors/NextUI/components/others/Image-501.jsx": {
+          "size": 63659
+        },
+        "webpack:///src/apps/new-doccenter/doccenter/errors/OldError.jsx": {
+          "size": 1749
+        },
+        "webpack:///src/apps/new-doccenter/doccenter/errors/i18n/index.jsx": {
+          "size": 769
+        },
+        "webpack:///src/core/i18n/tran.en-US.json": {
+          "size": 51501
+        },
+        "[sourceMappingURL]": {
+          "size": 64
+        },
+        "[unmapped]": {
+          "size": 124
+        },
+        "[EOLs]": {
+          "size": 9
+        }
+      }
+    }
+  ]
+}

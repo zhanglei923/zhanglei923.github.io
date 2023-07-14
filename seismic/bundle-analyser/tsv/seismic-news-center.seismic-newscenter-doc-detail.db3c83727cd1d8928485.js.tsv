@@ -1,0 +1,160 @@
+Source	Size
+webpack://seismic-news-center/src/theme2019/common/apiClient/promiseThrottle.js	77741
+webpack://seismic-news-center/node_modules/i18next/dist/esm/i18next.js	49785
+webpack://seismic-news-center/src/theme2019/pages/DocDetail/index.jsx	27964
+webpack://seismic-news-center/src/nextUI/components/SecondNavigationBarNextUI/DocDetailNavNextUI/index.jsx	16534
+webpack://seismic-news-center/node_modules/react-responsive/dist/react-responsive.js	16291
+webpack://seismic-news-center/src/theme2019/commonService/index.js	14851
+webpack://seismic-news-center/src/theme2019/init.js	13343
+webpack://seismic-news-center/src/theme2019/common/apiClient/service.js	11944
+webpack://seismic-news-center/src/theme2019/common/utils/index.js	9134
+webpack://seismic-news-center/src/theme2019/components/UcbPage/TargetWorkSpace/index.jsx	9109
+webpack://seismic-news-center/src/common/i18n/index.js	8686
+webpack://seismic-news-center/src/theme2019/components/UcbPage/TargetWorkSpace/contextualFolder.js	8506
+webpack://seismic-news-center/node_modules/color-convert/conversions.js	8436
+webpack://seismic-news-center/src/nextUI/components/DetailActionMenusNextUI/index.jsx	8050
+webpack://seismic-news-center/src/theme2019/components/FormViewer/index.jsx	7606
+webpack://seismic-news-center/src/nextUI/components/SecondNavigationBarNextUI/DocDetailNavNextUI/MobileThreeDots/index.jsx	7358
+webpack://seismic-news-center/src/nextUI/components/DocDetailNextUI/index.jsx	7275
+webpack://seismic-news-center/src/theme2019/components/SecNavBarDetail/index.jsx	7113
+webpack://seismic-news-center/src/theme2019/components/ContentDeliveryOptions/deliveryOptionsUI/DetailActionMenus/index.jsx	6944
+webpack://seismic-news-center/src/theme2019/components/ContentViewer/index.jsx	6834
+webpack://seismic-news-center/node_modules/react-truncate/lib/Truncate.js	6467
+webpack://seismic-news-center/src/theme2019/components/ContentDetails/index.jsx	6262
+webpack://seismic-news-center/src/theme2019/components/BottomPanel/responsiveReviews.jsx	6148
+webpack://seismic-news-center/node_modules/react-lines-ellipsis/lib/html.js	6143
+webpack://seismic-news-center/node_modules/color/index.js	6052
+webpack://seismic-news-center/src/nextUI/components/NotificationWrapper/FollowIcon.jsx	5296
+webpack://seismic-news-center/src/theme2019/components/DeliveryBarForDetail/index.jsx	5147
+webpack://seismic-news-center/node_modules/url-parse/index.js	4985
+webpack://seismic-news-center/src/theme2019/components/ContentActions/Favorite/index.jsx	4823
+webpack://seismic-news-center/node_modules/history/esm/history.js	4485
+webpack://seismic-news-center/src/theme2019/components/RichTextViewer/RichTextViewer.jsx	4437
+webpack://seismic-news-center/src/theme2019/components/ContentActionsForDetail/index.jsx	4404
+webpack://seismic-news-center/src/theme2019/components/ContentActions/Rating/index.jsx	4286
+webpack://seismic-news-center/src/theme2019/components/ContentProperties/index.jsx	4185
+webpack://seismic-news-center/src/theme2019/components/UcbPage/index.jsx	4043
+webpack://seismic-news-center/src/theme2019/components/FormViewer/model.js	4042
+webpack://seismic-news-center/src/nextUI/components/NotificationWrapper/index.jsx	3985
+webpack://seismic-news-center/src/theme2019/components/ChannelGroup/index.jsx	3943
+webpack://seismic-news-center/src/theme2019/components/BottomPanel/responsiveContentInfo.jsx	3827
+webpack://seismic-news-center/src/theme2019/components/Instructions/index.jsx	3813
+webpack://seismic-news-center/src/theme2019/components/ArticleDesc/index.jsx	3703
+webpack://seismic-news-center/src/nextUI/components/RatingsNextUI/index.jsx	3672
+webpack://seismic-news-center/src/theme2019/components/ContentNotification/index.jsx	3656
+webpack://seismic-news-center/src/theme2019/components/BottomPanel/responsiveInstructions.jsx	3590
+webpack://seismic-news-center/node_modules/color-name/index.js	3428
+webpack://seismic-news-center/src/theme2019/components/ContentActions/PresentationMode/index.jsx	3397
+webpack://seismic-news-center/src/nextUI/components/GlobalStyle/index.jsx	3386
+webpack://seismic-news-center/src/theme2019/components/ContentActions/ViewInContentManager/index.jsx	3386
+webpack://seismic-news-center/node_modules/md5/md5.js	3375
+webpack://seismic-news-center/src/theme2019/components/BottomPanel/index.jsx	3368
+webpack://seismic-news-center/src/theme2019/common/store/ToggleStore.js	3330
+webpack://seismic-news-center/src/nextUI/components/DetailActionMenusNextUI/ShareGenerateActionsMenu/index.jsx	3327
+webpack://seismic-news-center/src/theme2019/components/DeliveryBarForDetail/model.js	3270
+webpack://seismic-news-center/node_modules/color-string/index.js	3195
+webpack://seismic-news-center/src/nextUI/components/DocRightPanelNextUI/index.jsx	3148
+webpack://seismic-news-center/src/nextUI/components/InstructionsContentNextUI/index.jsx	3121
+webpack://seismic-news-center/src/theme2019/components/ContentActions/OpenLink/index.jsx	3038
+webpack://seismic-news-center/src/nextUI/components/UcbBarForDetailNextUI/index.jsx	2955
+webpack://seismic-news-center/src/theme2019/common/store/SystemOptionStore.js	2926
+webpack://seismic-news-center/src/theme2019/pages/DocDetail/addition.js	2919
+webpack://seismic-news-center/src/theme2019/components/ContentViewer/DSRTemplateViewer/index.jsx	2843
+webpack://seismic-news-center/src/theme2019/components/ContentActions/Rating/service.js	2813
+webpack://seismic-news-center/node_modules/create-react-context/lib/implementation.js	2651
+webpack://seismic-news-center/src/theme2019/components/ContentActions/BackToForm/index.jsx	2489
+webpack://seismic-news-center/src/theme2019/common/lazyLoadReact/index.jsx	2461
+webpack://seismic-news-center/src/theme2019/components/Truncate/index.jsx	2435
+webpack://seismic-news-center/node_modules/focus-outside/dist/focus-outside.min.js	2377
+webpack://seismic-news-center/src/theme2019/common/store/CurrentUserStore.js	2342
+webpack://seismic-news-center/src/theme2019/components/UcbBarForDetail/index.jsx	2306
+webpack://seismic-news-center/src/theme2019/components/UcbPage/TargetWorkSpace/rootFolder.js	2279
+webpack://seismic-news-center/src/theme2019/common/store/ServiceAddressStore.js	2193
+webpack://seismic-news-center/src/common/events/contentViewV2.js	2093
+webpack://seismic-news-center/src/theme2019/common/store/FeatureSettingStore.js	2070
+webpack://seismic-news-center/src/theme2019/components/ContentDeliveryOptions/deliveryOptionsBehavior/DetailBehavior/formDelivery.js	2018
+webpack://seismic-news-center/src/nextUI/common/constants.js	1926
+webpack://seismic-news-center/src/theme2019/components/ContentDeliveryOptions/deliveryOptionsBehavior/DetailBehavior/staticDelivery.js	1873
+webpack://seismic-news-center/src/theme2019/components/ContentDeliveryOptions/deliveryOptionsBehavior/DetailBehavior/formInstanceDelivery.js	1836
+webpack://seismic-news-center/src/theme2019/components/Responsive/index.jsx	1786
+webpack://seismic-news-center/src/nextUI/components/BusySpinner/index.jsx	1670
+webpack://seismic-news-center/src/theme2019/components/ContentSpecialView/ContentExpirationView/index.jsx	1595
+webpack://seismic-news-center/src/theme2019/pages/NewsCenterDocDetail/index.jsx	1586
+webpack://seismic-news-center/src/theme2019/components/UniversalPlayer/index.jsx	1577
+webpack://seismic-news-center/src/theme2019/common/apiClient/index.js	1491
+webpack://seismic-news-center/src/theme2019/components/RightPanel/index.jsx	1478
+webpack://seismic-news-center/src/theme2019/components/ContentViewer/Core/Wopi/utlis/index.js	1440
+webpack://seismic-news-center/src/theme2019/components/ContentViewer/constants.js	1313
+webpack://seismic-news-center/node_modules/crypt/crypt.js	1280
+webpack://seismic-news-center/src/theme2019/common/constants.js	1184
+webpack://seismic-news-center/src/theme2019/common/store/Store.js	1134
+webpack://seismic-news-center/src/theme2019/common/errorHandler/index.js	1110
+webpack://seismic-news-center/src/theme2019/components/ContentDeliveryOptions/deliveryOptionsBehavior/common/index.js	1081
+webpack://seismic-news-center/src/theme2019/components/ContentDeliveryOptions/deliveryOptionsBehavior/DetailBehavior/index.js	1054
+webpack://seismic-news-center/external assign "__global_module_registers__[\"@seismic/universal-player\"]"	863
+webpack://seismic-news-center/src/theme2019/common/utils/accessibility.js	762
+webpack://seismic-news-center/node_modules/color-convert/index.js	750
+webpack://seismic-news-center/node_modules/color-convert/route.js	731
+webpack://seismic-news-center/src/theme2019/common/context/TintContext.js	718
+webpack://seismic-news-center/src/theme2019/components/ContentDeliveryOptions/deliveryOptionsBehavior/common/constants.js	696
+webpack://seismic-news-center/src/theme2019/common/utils/copyUrl.js	662
+webpack://seismic-news-center/node_modules/resolve-pathname/esm/resolve-pathname.js	611
+webpack://seismic-news-center/node_modules/querystringify/index.js	604
+webpack://seismic-news-center/node_modules/classnames/index.js	596
+webpack://seismic-news-center/src/nextUI/components/MantleWrapper/index.jsx	475
+webpack://seismic-news-center/src/nextUI/common/index.js	446
+webpack://seismic-news-center/node_modules/charenc/charenc.js	432
+webpack://seismic-news-center/node_modules/react-lines-ellipsis/lib/helpers.js	415
+webpack://seismic-news-center/src/nextUI/components/ResponsiveWrapper/index.jsx	393
+webpack://seismic-news-center/node_modules/react-lines-ellipsis/lib/common.js	362
+webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/objectSpread.js	340
+webpack://seismic-news-center/src/theme2019/components/ContentViewer/utils/isArticleV2.js	328
+webpack://seismic-news-center/src/theme2019/components/ContentViewer/utils/index.js	327
+webpack://seismic-news-center/external assign "__global_module_registers__[\"seismic-common\"]"	291
+webpack://seismic-news-center/node_modules/is-buffer/index.js	290
+webpack://seismic-news-center/node_modules/simple-swizzle/index.js	279
+webpack://seismic-news-center/node_modules/requires-port/index.js	263
+webpack://seismic-news-center/src/theme2019/common/utils/routerUtil.js	241
+webpack://seismic-news-center/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js	238
+webpack://seismic-news-center/node_modules/is-arrayish/index.js	236
+webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/typeof.js	233
+webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/inherits.js	230
+webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/createClass.js	227
+webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/extends.js	211
+webpack://seismic-news-center/src/theme2019/components/ContentViewer/Core/Wopi/adapter.js	204
+webpack://seismic-news-center/node_modules/create-react-context/lib/index.js	180
+webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js	180
+webpack://seismic-news-center/webpack/runtime/make namespace object	175
+webpack://seismic-news-center/webpack/runtime/global	165
+[unmapped]	162
+webpack://seismic-news-center/webpack/bootstrap	137
+webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js	133
+webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js	124
+webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/defineProperty.js	121
+webpack://seismic-news-center/webpack/runtime/compat get default export	111
+webpack://seismic-news-center/webpack/runtime/define property getters	107
+[sourceMappingURL]	98
+webpack://seismic-news-center/node_modules/gud/index.js	97
+webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js	96
+webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/classCallCheck.js	95
+webpack://seismic-news-center/external assign "__global_module_registers__[\"styled-components\"]"	74
+webpack://seismic-news-center/webpack/runtime/hasOwnProperty shorthand	68
+webpack://seismic-news-center/external assign "__global_module_registers__[\"@seismic/mantle\"]"	68
+webpack://seismic-news-center/external assign "__global_module_registers__[\"seismic-toolkit\"]"	61
+webpack://seismic-news-center/node_modules/tiny-invariant/dist/esm/tiny-invariant.js	56
+webpack://seismic-news-center/node_modules/warning/warning.js	54
+webpack://seismic-news-center/src/theme2019/common/dialogHelper/index.js	54
+webpack://seismic-news-center/external assign "PropTypes"	51
+webpack://seismic-news-center/external assign "__global_module_registers__[\"seismic-app-core\"]"	51
+webpack://seismic-news-center/src/theme2019/common/store/index.js	50
+webpack://seismic-news-center/external assign "ReactCustomScrollbars"	36
+webpack://seismic-news-center/external assign "lodash"	32
+webpack://seismic-news-center/src/entry/entryDocDetail.js	29
+webpack://seismic-news-center/src/common/constant.js	28
+webpack://seismic-news-center/external assign "Moment"	21
+webpack://seismic-news-center/external assign "React"	18
+webpack://seismic-news-center/webpack/runtime/publicPath	16
+webpack://seismic-news-center/src/theme2019/components/UniversalPlayer/util.js	14
+webpack://seismic-news-center/src/theme2019/components/ContentViewer/utils/isEmailTemplate.js	5
+webpack://seismic-news-center/src/theme2019/components/RichTextViewer/index.jsx	3
+[EOLs]	2

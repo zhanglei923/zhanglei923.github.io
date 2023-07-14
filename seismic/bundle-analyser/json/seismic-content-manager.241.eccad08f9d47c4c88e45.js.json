@@ -1,0 +1,305 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-content-manager.241.eccad08f9d47c4c88e45.js",
+      "totalBytes": 448832,
+      "mappedBytes": 447711,
+      "unmappedBytes": 1044,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 76,
+      "files": {
+        "webpack://seismic-content-manager/src-v2/business/syncStatusInfoInstance.js": {
+          "size": 3026
+        },
+        "[no source]": {
+          "size": 158311
+        },
+        "webpack://seismic-content-manager/src-v2/events/contentViewV2.js": {
+          "size": 1591
+        },
+        "webpack://seismic-content-manager/src-v2/model/collection.js": {
+          "size": 426
+        },
+        "webpack://seismic-content-manager/src-v2/model/content-item.js": {
+          "size": 9464
+        },
+        "webpack://seismic-content-manager/src-v2/model/expiration-date.js": {
+          "size": 1482
+        },
+        "webpack://seismic-content-manager/src-v2/model/microapp.js": {
+          "size": 1099
+        },
+        "webpack://seismic-content-manager/src-v2/model/workflowItem.js": {
+          "size": 3009
+        },
+        "webpack://seismic-content-manager/src-v2/service/api/content-manager-ms-service.js": {
+          "size": 1739
+        },
+        "webpack://seismic-content-manager/src-v2/service/fileUploadQueue.js": {
+          "size": 1215
+        },
+        "webpack://seismic-content-manager/src-v2/service/fileUploadBusiness.js": {
+          "size": 18608
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/common-components/flat-action-bar/actions-dropdown/index.jsx": {
+          "size": 1607
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/dialog/promote-next-ui/index.jsx": {
+          "size": 3792
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/dialog/properties-checker/properties-checker.jsx": {
+          "size": 3361
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/dialog/properties-checker-next-ui/properties-checker.jsx": {
+          "size": 2184
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/dialog/submit-next-ui/submit-hub.jsx": {
+          "size": 2577
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/dialog/submit/isSubmitterCheck.js": {
+          "size": 1182
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/dialog/submit/workflow.jsx": {
+          "size": 2339
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/dialog/submit/submit.jsx": {
+          "size": 2879
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/dialog/submit/submit-hub.jsx": {
+          "size": 3237
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/editable-component/editable-multivalue-next-ui/selectable-item.jsx": {
+          "size": 884
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/editable-component/editable-multivalue-next-ui/transfer-widget.jsx": {
+          "size": 3428
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/editable-component/editable-multivalue-next-ui/index.jsx": {
+          "size": 5563
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/mantle-icon-converter/svg/promote-svg.jsx": {
+          "size": 942
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/mantleRichEditor/index.jsx": {
+          "size": 2710
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/microapp/utils.js": {
+          "size": 2244
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/profile/profile-path/profile-path.jsx": {
+          "size": 3858
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/profile/profile-list/delete-button.jsx": {
+          "size": 522
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/profile/profile-name/profile-name-bar.jsx": {
+          "size": 506
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/profile/check-box/check-box-wrapper.jsx": {
+          "size": 628
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/profile/profile-edit-list/profile-edit-item.jsx": {
+          "size": 1024
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/profile/profile-edit-list/profile-edit-list.jsx": {
+          "size": 2776
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/datetime/datetime.jsx": {
+          "size": 2244
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/notify-subscriber/index.jsx": {
+          "size": 2417
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/profile/profile-list/profile-list.jsx": {
+          "size": 8893
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/publishDialog/publishDialog.jsx": {
+          "size": 7920
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/publishInfo/profile-item.jsx": {
+          "size": 738
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/publishInfo/profile-collection.jsx": {
+          "size": 4397
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/unpublish-view/unpublish-view.jsx": {
+          "size": 2258
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/uploadImage/Select/Item.jsx": {
+          "size": 1124
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/uploadImage/Select/List.jsx": {
+          "size": 1109
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/uploadImage/Select/index.jsx": {
+          "size": 2577
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/uploadImage/index.jsx": {
+          "size": 1755
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/workflows-next-ui/FullViewSpinner/index.jsx": {
+          "size": 198
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/workflows-next-ui/HOComponnets/withLazyLoad.jsx": {
+          "size": 151
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/workflows-next-ui/widgetsLoader/index.js": {
+          "size": 299
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/contentPlanning/add-to-project/index.jsx": {
+          "size": 2235
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/contentPlanning/meta-components/contentIcon.jsx": {
+          "size": 417
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/contentPlanning/meta-components/status.jsx": {
+          "size": 966
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/contentPlanning/add-to-task/index.jsx": {
+          "size": 2900
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/contentPlanning/subjects/CreateAssociation.js": {
+          "size": 276
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/publish/index.jsx": {
+          "size": 1474
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/collectionBusiness.js": {
+          "size": 15409
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/collectionList/collectionList.jsx": {
+          "size": 1463
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/com-components/notification/messageTemplate.jsx": {
+          "size": 1060
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/com-components/notification/failedTemplate.jsx": {
+          "size": 1825
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/com-components/notification/infoTemplate.jsx": {
+          "size": 732
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/com-components/notification/index.jsx": {
+          "size": 2538
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/common/dialogHelper.js": {
+          "size": 337
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/common/viewHelper.jsx": {
+          "size": 54390
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/create-collection-modal/create-collection-modal.jsx": {
+          "size": 340
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/listItem/itemBase/itemBase.jsx": {
+          "size": 1042
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/listItem/itemWithActionButton/itemWithActionButton.jsx": {
+          "size": 2520
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/listItem/itemWithCheckbox/itemWithCheckbox.jsx": {
+          "size": 1163
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/listItem/itemWithMultipleThumbnail/itemWithMultipleThumbnail.jsx": {
+          "size": 922
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/manage-notification-view/manage-notification-view.jsx": {
+          "size": 686
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/no-collection/no-collection.jsx": {
+          "size": 1294
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/folder-published-collection-view/folder-published-collection-view.jsx": {
+          "size": 3491
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/folderCollectionBusiness.js": {
+          "size": 1865
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/folder-add-collection-view/folder-add-collection-view.jsx": {
+          "size": 5231
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/simplify-publish-folder/simplify-publish-folder.jsx": {
+          "size": 7809
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/required-properties-validator/required-properties-validator.js": {
+          "size": 1484
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/collection-list-view/collection-list-view.jsx": {
+          "size": 2849
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/warning-msg-container/warning-msg-container.jsx": {
+          "size": 1790
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/add-collection-view/add-collection-view.jsx": {
+          "size": 4769
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/simplify-publish/simplify-publish.jsx": {
+          "size": 9246
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/simplifyPublish/simplify-unpublish/simplify-unpublish.jsx": {
+          "size": 4421
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/uniquePermissions/permissionList/permissionList.jsx": {
+          "size": 1578
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/uniquePermissions/listItem/itemBase/itemBase.jsx": {
+          "size": 2053
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/uniquePermissions/listItem/itemWithRestrictions/itemWithRestrictions.jsx": {
+          "size": 1343
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/uniquePermissions/restrictionView/restrictionView.jsx": {
+          "size": 2161
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/uniquePermissions/addUserCandidates/addUserCandidates.jsx": {
+          "size": 2867
+        },
+        "webpack://seismic-content-manager/src-v2/ui/features/uniquePermissions/uniquePermissionDialog/unique-permission-dialog.jsx": {
+          "size": 4793
+        },
+        "webpack://seismic-content-manager/src-v2/ui/sharedComponents/nextui-switch-component/index.jsx": {
+          "size": 252
+        },
+        "webpack://seismic-content-manager/src-v2/ui/sharedComponents/text-over-with-tooltips/index.jsx": {
+          "size": 525
+        },
+        "webpack://seismic-content-manager/src-v2/ui/views/content_new/content-business.js": {
+          "size": 904
+        },
+        "webpack://seismic-content-manager/src-v2/utilities/action-list/actions.js": {
+          "size": 157
+        },
+        "webpack://seismic-content-manager/src-v2/utilities/action-list/check-out.js": {
+          "size": 417
+        },
+        "webpack://seismic-content-manager/src-v2/utilities/action-list/options.js": {
+          "size": 7567
+        },
+        "webpack://seismic-content-manager/src-v2/utilities/action-list/plugin/shared-content.js": {
+          "size": 574
+        },
+        "webpack://seismic-content-manager/src-v2/utilities/common/googleSyncHelper.js": {
+          "size": 235
+        },
+        "webpack://seismic-content-manager/src-v2/utilities/util/custom-error-message.jsx": {
+          "size": 413
+        },
+        "webpack://seismic-content-manager/src-v2/utilities/util/getDSSupportedFormat.js": {
+          "size": 27
+        },
+        "webpack://seismic-content-manager/src-v2/utilities/util/shortGuidConvert.js": {
+          "size": 608
+        },
+        "[sourceMappingURL]": {
+          "size": 76
+        },
+        "[unmapped]": {
+          "size": 1044
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

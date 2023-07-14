@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-workspace-v2.447.9f103a6d747e07283820.js",
+      "totalBytes": 714,
+      "mappedBytes": 214,
+      "unmappedBytes": 426,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 73,
+      "files": {
+        "webpack://seismic-workspace-v2/src/widgets/ContentPlanningWidgets/ContentPlanningPackage/index.tsx": {
+          "size": 192
+        },
+        "[no source]": {
+          "size": 22
+        },
+        "[sourceMappingURL]": {
+          "size": 73
+        },
+        "[unmapped]": {
+          "size": 426
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

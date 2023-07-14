@@ -1,0 +1,215 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-livedoc.moduleExport.ad3412e0741f664ac3f2.js",
+      "totalBytes": 2675290,
+      "mappedBytes": 2675031,
+      "unmappedBytes": 181,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 77,
+      "files": {
+        "webpack://seismic-livedoc/src/i18n/locale-data/en-US.json": {
+          "size": 1400
+        },
+        "[no source]": {
+          "size": 85105
+        },
+        "webpack://seismic-livedoc/src/service/swagger/bss-upload-v1.json": {
+          "size": 10247
+        },
+        "webpack://seismic-livedoc/src/service/swagger/live-doc-v1.json": {
+          "size": 20151
+        },
+        "webpack://seismic-livedoc/node_modules/seismic-form-component/index.js": {
+          "size": 23
+        },
+        "webpack://seismic-livedoc/node_modules/seismic-form-component/lib/moduleExport.js": {
+          "size": 2447671
+        },
+        "webpack://seismic-livedoc/external assign \"PropTypes\"": {
+          "size": 19
+        },
+        "webpack://seismic-livedoc/external assign \"React\"": {
+          "size": 15
+        },
+        "webpack://seismic-livedoc/external assign \"ReactDOM\"": {
+          "size": 18
+        },
+        "webpack://seismic-livedoc/webpack/bootstrap": {
+          "size": 245
+        },
+        "webpack://seismic-livedoc/webpack/runtime/compat get default export": {
+          "size": 147
+        },
+        "webpack://seismic-livedoc/webpack/runtime/define property getters": {
+          "size": 161
+        },
+        "webpack://seismic-livedoc/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 86
+        },
+        "webpack://seismic-livedoc/webpack/runtime/make namespace object": {
+          "size": 193
+        },
+        "webpack://seismic-livedoc/webpack/runtime/publicPath": {
+          "size": 25
+        },
+        "webpack://seismic-livedoc/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 121
+        },
+        "webpack://seismic-livedoc/external assign \"__global_module_registers__[\\\"seismic-common\\\"]\"": {
+          "size": 48
+        },
+        "webpack://seismic-livedoc/src/constant/bss-keys.js": {
+          "size": 117
+        },
+        "webpack://seismic-livedoc/src/service/init-ms-api-client.js": {
+          "size": 688
+        },
+        "webpack://seismic-livedoc/src/service/live-doc-service.js": {
+          "size": 3709
+        },
+        "webpack://seismic-livedoc/src/service/bss-upload-service.js": {
+          "size": 3679
+        },
+        "webpack://seismic-livedoc/src/service/http-helper.js": {
+          "size": 1346
+        },
+        "webpack://seismic-livedoc/external assign \"__global_module_registers__[\\\"seismic-toolkit\\\"]\"": {
+          "size": 49
+        },
+        "webpack://seismic-livedoc/src/constant/job-status.js": {
+          "size": 48
+        },
+        "webpack://seismic-livedoc/src/constant/step-status.js": {
+          "size": 413
+        },
+        "webpack://seismic-livedoc/src/constant/conversion-result-status.js": {
+          "size": 12
+        },
+        "webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/typeof.js": {
+          "size": 230
+        },
+        "webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/classCallCheck.js": {
+          "size": 94
+        },
+        "webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/createClass.js": {
+          "size": 274
+        },
+        "webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js": {
+          "size": 123
+        },
+        "webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js": {
+          "size": 121
+        },
+        "webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/inherits.js": {
+          "size": 279
+        },
+        "webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js": {
+          "size": 177
+        },
+        "webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js": {
+          "size": 137
+        },
+        "webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/defineProperty.js": {
+          "size": 120
+        },
+        "webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js": {
+          "size": 106
+        },
+        "webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/toArray.js": {
+          "size": 39
+        },
+        "webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js": {
+          "size": 41
+        },
+        "webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/iterableToArray.js": {
+          "size": 112
+        },
+        "webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js": {
+          "size": 284
+        },
+        "webpack://seismic-livedoc/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js": {
+          "size": 172
+        },
+        "webpack://seismic-livedoc/node_modules/i18next/dist/esm/i18next.js": {
+          "size": 54033
+        },
+        "webpack://seismic-livedoc/node_modules/react-i18next/dist/es/unescape.js": {
+          "size": 401
+        },
+        "webpack://seismic-livedoc/node_modules/react-i18next/dist/es/context.js": {
+          "size": 1256
+        },
+        "webpack://seismic-livedoc/node_modules/i18next-xhr-backend/dist/esm/i18nextXHRBackend.js": {
+          "size": 2646
+        },
+        "webpack://seismic-livedoc/src/i18n/i18n-plugin/getSeismicCDN-plugin.js": {
+          "size": 485
+        },
+        "webpack://seismic-livedoc/src/i18n/translate.js": {
+          "size": 820
+        },
+        "webpack://seismic-livedoc/src/constant/formats.js": {
+          "size": 48
+        },
+        "webpack://seismic-livedoc/src/util/progress-simulator.js": {
+          "size": 781
+        },
+        "webpack://seismic-livedoc/src/app/progress/progress-bar/progress-bar.jsx": {
+          "size": 1297
+        },
+        "webpack://seismic-livedoc/src/constant/image-sizes.js": {
+          "size": 27
+        },
+        "webpack://seismic-livedoc/src/util/model-converter.js": {
+          "size": 2583
+        },
+        "webpack://seismic-livedoc/src/app/progress/progress.jsx": {
+          "size": 4604
+        },
+        "webpack://seismic-livedoc/src/app/message-dialog/index.jsx": {
+          "size": 1839
+        },
+        "webpack://seismic-livedoc/src/constant/history-task-status.js": {
+          "size": 9
+        },
+        "webpack://seismic-livedoc/src/constant/request-location.js": {
+          "size": 10
+        },
+        "webpack://seismic-livedoc/src/app/format-selector/format-selector.jsx": {
+          "size": 1190
+        },
+        "webpack://seismic-livedoc/src/app/expire-external-contents/expire-external-contents.jsx": {
+          "size": 4962
+        },
+        "webpack://seismic-livedoc/src/constant/ws-version-types.js": {
+          "size": 10
+        },
+        "webpack://seismic-livedoc/src/app/app.jsx": {
+          "size": 12600
+        },
+        "webpack://seismic-livedoc/src/parallel-task-panel/task-info.jsx": {
+          "size": 2842
+        },
+        "webpack://seismic-livedoc/src/parallel-task-panel/parallel-task-panel.jsx": {
+          "size": 4018
+        },
+        "webpack://seismic-livedoc/src/parallel-task-panel/wrapper.js": {
+          "size": 368
+        },
+        "webpack://seismic-livedoc/src/entry.js": {
+          "size": 157
+        },
+        "[sourceMappingURL]": {
+          "size": 77
+        },
+        "[unmapped]": {
+          "size": 181
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

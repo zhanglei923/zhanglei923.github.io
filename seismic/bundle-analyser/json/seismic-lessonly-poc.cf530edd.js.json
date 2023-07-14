@@ -1,0 +1,77 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-lessonly-poc.cf530edd.js",
+      "totalBytes": 64494,
+      "mappedBytes": 64348,
+      "unmappedBytes": 87,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 57,
+      "files": {
+        "webpack://SeismicLessonlyPOC/webpack/universalModuleDefinition": {
+          "size": 277
+        },
+        "webpack://SeismicLessonlyPOC/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 136
+        },
+        "webpack://SeismicLessonlyPOC/node_modules/react-dom/client.js": {
+          "size": 2678
+        },
+        "webpack://SeismicLessonlyPOC/node_modules/@remix-run/router/dist/router.js": {
+          "size": 36579
+        },
+        "webpack://SeismicLessonlyPOC/node_modules/react-router/dist/index.js": {
+          "size": 11864
+        },
+        "webpack://SeismicLessonlyPOC/node_modules/react-router-dom/dist/index.js": {
+          "size": 10962
+        },
+        "webpack://SeismicLessonlyPOC/src/components/LessonlyPOCComponent.tsx": {
+          "size": 299
+        },
+        "webpack://SeismicLessonlyPOC/src/components/RootComponent.tsx": {
+          "size": 345
+        },
+        "webpack://SeismicLessonlyPOC/src/index.ts": {
+          "size": 449
+        },
+        "webpack://SeismicLessonlyPOC/src/routes.tsx": {
+          "size": 173
+        },
+        "webpack://SeismicLessonlyPOC/external assign \"React\"": {
+          "size": 46
+        },
+        "webpack://SeismicLessonlyPOC/external assign \"ReactDOM\"": {
+          "size": 21
+        },
+        "webpack://SeismicLessonlyPOC/webpack/bootstrap": {
+          "size": 144
+        },
+        "webpack://SeismicLessonlyPOC/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://SeismicLessonlyPOC/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://SeismicLessonlyPOC/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://SeismicLessonlyPOC/webpack/runtime/publicPath": {
+          "size": 7
+        },
+        "webpack://SeismicLessonlyPOC/webpack/startup": {
+          "size": 18
+        },
+        "[sourceMappingURL]": {
+          "size": 57
+        },
+        "[unmapped]": {
+          "size": 87
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

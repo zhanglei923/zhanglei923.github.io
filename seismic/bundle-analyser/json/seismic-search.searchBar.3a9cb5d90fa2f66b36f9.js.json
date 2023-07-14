@@ -1,0 +1,893 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-search.searchBar.3a9cb5d90fa2f66b36f9.js",
+      "totalBytes": 505034,
+      "mappedBytes": 504808,
+      "unmappedBytes": 151,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 73,
+      "files": {
+        "webpack://seismic-search/external assign \"PropTypes\"": {
+          "size": 52
+        },
+        "webpack://seismic-search/external assign \"React\"": {
+          "size": 48
+        },
+        "webpack://seismic-search/external assign \"ReactDOM\"": {
+          "size": 155
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/regenerator/index.js": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js?c4f7": {
+          "size": 137
+        },
+        "webpack://seismic-search/node_modules/add-dom-event-listener/lib/EventBaseObject.js?4cda": {
+          "size": 668
+        },
+        "webpack://seismic-search/node_modules/add-dom-event-listener/lib/EventObject.js?d357": {
+          "size": 2917
+        },
+        "webpack://seismic-search/node_modules/add-dom-event-listener/lib/index.js?2f65": {
+          "size": 551
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js?d933": {
+          "size": 106
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js?dc9f": {
+          "size": 286
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/toConsumableArray.js": {
+          "size": 40
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js": {
+          "size": 44
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/iterableToArray.js": {
+          "size": 112
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/nonIterableSpread.js": {
+          "size": 167
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js": {
+          "size": 316
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/defineProperty.js?6181": {
+          "size": 120
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/objectSpread2.js": {
+          "size": 575
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/classCallCheck.js?6727": {
+          "size": 94
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/createClass.js?413a": {
+          "size": 274
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js?bc43": {
+          "size": 123
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js?6388": {
+          "size": 93
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/inherits.js?f5b1": {
+          "size": 279
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js?6e41": {
+          "size": 130
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/typeof.js?77c6": {
+          "size": 230
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js?f23e": {
+          "size": 177
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/createSuper.js": {
+          "size": 248
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/isNativeReflectConstruct.js": {
+          "size": 253
+        },
+        "webpack://seismic-search/external assign \"__global_module_registers__[\\\"@seismic/skeletons\\\"]\"": {
+          "size": 54
+        },
+        "webpack://seismic-search/node_modules/uuid/dist/esm-browser/rng.js?bb8b": {
+          "size": 466
+        },
+        "webpack://seismic-search/node_modules/uuid/dist/esm-browser/stringify.js?de1f": {
+          "size": 406
+        },
+        "webpack://seismic-search/node_modules/uuid/dist/esm-browser/regex.js?9ce5": {
+          "size": 124
+        },
+        "webpack://seismic-search/node_modules/uuid/dist/esm-browser/validate.js?c094": {
+          "size": 51
+        },
+        "webpack://seismic-search/node_modules/uuid/dist/esm-browser/v4.js?9037": {
+          "size": 175
+        },
+        "webpack://seismic-search/external assign \"__global_module_registers__[\\\"seismic-common\\\"]\"": {
+          "size": 68
+        },
+        "webpack://seismic-search/external assign \"__global_module_registers__[\\\"@seismic/mantle\\\"]\"": {
+          "size": 60
+        },
+        "webpack://seismic-search/src/service/storageService.ts": {
+          "size": 866
+        },
+        "webpack://seismic-search/src/service/typeaheadEventService.js": {
+          "size": 733
+        },
+        "webpack://seismic-search/src/components/search-bar/core/constants.js": {
+          "size": 884
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/createForOfIteratorHelper.js": {
+          "size": 643
+        },
+        "webpack://seismic-search/src/components/search-bar/core/helper.js": {
+          "size": 7374
+        },
+        "webpack://seismic-search/src/components/search-bar/core/apiClient/searchAPIClient.js": {
+          "size": 162
+        },
+        "webpack://seismic-search/src/components/search-bar/core/service.js": {
+          "size": 593
+        },
+        "webpack://seismic-search/src/components/search-bar/core/trace/snowflakeTypeaheadEvent.js": {
+          "size": 2569
+        },
+        "webpack://seismic-search/src/components/search-bar/core/trace/deprecatedTypeAheadEvent.js": {
+          "size": 1469
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/slicedToArray.js?206d": {
+          "size": 47
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js?2829": {
+          "size": 41
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js?35ad": {
+          "size": 310
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js?5e75": {
+          "size": 172
+        },
+        "webpack://seismic-search/node_modules/i18next/dist/esm/i18next.js?b78c": {
+          "size": 52361
+        },
+        "webpack://seismic-search/node_modules/i18next-icu/dist/es/utils.js?d767": {
+          "size": 569
+        },
+        "webpack://seismic-search/node_modules/i18next-icu/dist/es/index.js?10ce": {
+          "size": 4732
+        },
+        "webpack://seismic-search/src/components/search-bar/core/i18n/index.js": {
+          "size": 1244
+        },
+        "webpack://seismic-search/external assign \"__global_module_registers__[\\\"seismic-toolkit\\\"]\"": {
+          "size": 61
+        },
+        "webpack://seismic-search/src/components/search-bar/components/icon/TimeIcon.jsx": {
+          "size": 936
+        },
+        "webpack://seismic-search/src/components/search-bar/components/icon/ContentPropertyIcon.jsx": {
+          "size": 758
+        },
+        "webpack://seismic-search/src/components/search-bar/components/SearchItem-Type-Ahead.jsx": {
+          "size": 3807
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/extends.js": {
+          "size": 211
+        },
+        "webpack://seismic-search/external assign \"Moment\"": {
+          "size": 25
+        },
+        "webpack://seismic-search/src/components/search-bar/components/icon/CloseIcon.jsx": {
+          "size": 2094
+        },
+        "webpack://seismic-search/src/components/search-bar/components/icon/NextCloseIcon.jsx": {
+          "size": 410
+        },
+        "webpack://seismic-search/src/components/search-bar/components/TagInput/tag.jsx": {
+          "size": 3074
+        },
+        "webpack://seismic-search/src/components/search-bar/components/TagInput/index.jsx": {
+          "size": 5348
+        },
+        "webpack://seismic-search/src/service/frecencyEventService.js": {
+          "size": 1456
+        },
+        "webpack://seismic-search/src/components/search-bar/components/RecentModal/components/Section/Section.jsx": {
+          "size": 1282
+        },
+        "webpack://seismic-search/src/components/search-bar/components/RecentModal/recentModalHelper.js": {
+          "size": 3219
+        },
+        "webpack://seismic-search/src/components/search-bar/components/RecentModal/components/RecentSearch/RecentSearch.jsx": {
+          "size": 937
+        },
+        "webpack://seismic-search/src/service/blobStorageApiService.js": {
+          "size": 98
+        },
+        "webpack://seismic-search/src/service/dateService.js": {
+          "size": 314
+        },
+        "webpack://seismic-search/node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js?de2c": {
+          "size": 2334
+        },
+        "webpack://seismic-search/node_modules/rc-util/es/Dom/contains.js?609d": {
+          "size": 75
+        },
+        "webpack://seismic-search/node_modules/rc-util/es/Dom/addEventListener.js?f700": {
+          "size": 126
+        },
+        "webpack://seismic-search/node_modules/rc-util/es/ContainerRender.js?5ccc": {
+          "size": 2876
+        },
+        "webpack://seismic-search/node_modules/rc-util/es/Portal.js?4fcd": {
+          "size": 2347
+        },
+        "webpack://seismic-search/node_modules/rc-trigger/es/utils.js?dc47": {
+          "size": 272
+        },
+        "webpack://seismic-search/node_modules/dom-align/dist-web/index.js?cc6b": {
+          "size": 13173
+        },
+        "webpack://seismic-search/node_modules/rc-align/es/util.js?35f7": {
+          "size": 478
+        },
+        "webpack://seismic-search/node_modules/rc-align/es/Align.js?8036": {
+          "size": 2362
+        },
+        "webpack://seismic-search/node_modules/rc-align/es/index.js?f26f": {
+          "size": 3
+        },
+        "webpack://seismic-search/node_modules/rc-animate/es/ChildrenUtils.js?7d83": {
+          "size": 740
+        },
+        "webpack://seismic-search/node_modules/css-animation/es/Event.js?afa3": {
+          "size": 1458
+        },
+        "webpack://seismic-search/node_modules/css-animation/es/index.js?e7d0": {
+          "size": 1869
+        },
+        "webpack://seismic-search/node_modules/rc-animate/es/util/animate.js?525d": {
+          "size": 418
+        },
+        "webpack://seismic-search/node_modules/rc-animate/es/AnimateChild.js?9e31": {
+          "size": 1186
+        },
+        "webpack://seismic-search/node_modules/rc-animate/es/Animate.js?bfc4": {
+          "size": 4216
+        },
+        "webpack://seismic-search/node_modules/rc-util/es/unsafeLifecyclesPolyfill.js?82a8": {
+          "size": 283
+        },
+        "webpack://seismic-search/node_modules/rc-trigger/es/LazyRenderBox.js?25f1": {
+          "size": 570
+        },
+        "webpack://seismic-search/node_modules/rc-trigger/es/PopupInner.js?5033": {
+          "size": 680
+        },
+        "webpack://seismic-search/node_modules/rc-trigger/es/Popup.js?07a5": {
+          "size": 4138
+        },
+        "webpack://seismic-search/node_modules/rc-trigger/es/index.js?61d6": {
+          "size": 11550
+        },
+        "webpack://seismic-search/node_modules/rc-tooltip/es/placements.js?6824": {
+          "size": 891
+        },
+        "webpack://seismic-search/node_modules/rc-tooltip/es/Content.js?d5f7": {
+          "size": 532
+        },
+        "webpack://seismic-search/node_modules/rc-tooltip/es/Tooltip.js?6913": {
+          "size": 2359
+        },
+        "webpack://seismic-search/node_modules/rc-tooltip/es/index.js?8826": {
+          "size": 3
+        },
+        "webpack://seismic-search/src/helpers/iconHelper.js": {
+          "size": 299
+        },
+        "webpack://seismic-search/src/components/search-bar/components/RecentModal/components/RecentView/Thumbnail.jsx": {
+          "size": 594
+        },
+        "webpack://seismic-search/src/components/search-bar/components/RecentModal/components/RecentView/RecentViewItem.jsx": {
+          "size": 2017
+        },
+        "webpack://seismic-search/src/components/search-bar/components/RecentModal/components/RecentView/RecentView.jsx": {
+          "size": 2390
+        },
+        "webpack://seismic-search/src/components/search-bar/components/RecentModal/RecentModal.jsx": {
+          "size": 1453
+        },
+        "webpack://seismic-search/src/components/search-bar/components/icon/TrailingIcon.jsx": {
+          "size": 846
+        },
+        "webpack://seismic-search/src/components/search-bar/components/icon/Search.jsx": {
+          "size": 643
+        },
+        "webpack://seismic-search/src/components/search-bar/components/SearchMenu/components/ContentTypes/ContentTypes.jsx": {
+          "size": 2175
+        },
+        "webpack://seismic-search/src/components/search-bar/components/SearchMenu/SearchMenu.helper.js": {
+          "size": 1512
+        },
+        "webpack://seismic-search/src/components/search-bar/components/SearchMenu/components/RecentSearch/RecentSearch.jsx": {
+          "size": 3573
+        },
+        "webpack://seismic-search/src/components/search-bar/components/SearchMenu/components/RecentView/Thumbnail.jsx": {
+          "size": 616
+        },
+        "webpack://seismic-search/src/components/search-bar/components/SearchMenu/components/RecentView/HostIcon.jsx": {
+          "size": 2454
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js": {
+          "size": 238
+        },
+        "webpack://seismic-search/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js": {
+          "size": 132
+        },
+        "webpack://seismic-search/src/components/search-bar/components/SearchMenu/components/RecentView/RecentViewItem.jsx": {
+          "size": 2789
+        },
+        "webpack://seismic-search/src/components/search-bar/components/SearchMenu/components/RecentView/RecentView.jsx": {
+          "size": 3358
+        },
+        "webpack://seismic-search/src/components/search-bar/components/SearchMenu/contentTypesData.js": {
+          "size": 978
+        },
+        "webpack://seismic-search/src/components/search-bar/components/SearchMenu/SearchMenuAccessibility.helper.js": {
+          "size": 1760
+        },
+        "webpack://seismic-search/src/components/search-bar/components/SearchMenu/SearchMenu.jsx": {
+          "size": 2913
+        },
+        "webpack://seismic-search/src/components/search-bar/components/Search-OmniBar.jsx": {
+          "size": 18655
+        },
+        "webpack://seismic-search/src/searchBarEntry.ts": {
+          "size": 84
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/core-js/object/assign.js?1954": {
+          "size": 65
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/core-js/object/create.js?8037": {
+          "size": 65
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/core-js/object/define-property.js?4d09": {
+          "size": 66
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/core-js/object/set-prototype-of.js?2806": {
+          "size": 66
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/core-js/symbol.js?e176": {
+          "size": 66
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/core-js/symbol/iterator.js?78cf": {
+          "size": 77
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/helpers/classCallCheck.js?b6de": {
+          "size": 133
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/helpers/createClass.js?01cf": {
+          "size": 323
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/helpers/defineProperty.js?e2d6": {
+          "size": 199
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/helpers/extends.js?aa1d": {
+          "size": 247
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/helpers/inherits.js?90a3": {
+          "size": 462
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/helpers/objectWithoutProperties.js?d8d9": {
+          "size": 160
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/helpers/possibleConstructorReturn.js?e4d1": {
+          "size": 285
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/helpers/typeof.js?f3c0": {
+          "size": 584
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/fn/object/assign.js?09fa": {
+          "size": 65
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/fn/object/create.js?d083": {
+          "size": 100
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/fn/object/define-property.js?2af1": {
+          "size": 112
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/fn/object/set-prototype-of.js?ad65": {
+          "size": 73
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/fn/symbol/index.js?0b86": {
+          "size": 85
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/fn/symbol/iterator.js?57a0": {
+          "size": 69
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_a-function.js?252f": {
+          "size": 116
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_add-to-unscopables.js?0673": {
+          "size": 46
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_an-object.js?ac74": {
+          "size": 118
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_array-includes.js?48eb": {
+          "size": 258
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_cof.js?7153": {
+          "size": 89
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js?86b3": {
+          "size": 88
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_ctx.js?3f8f": {
+          "size": 296
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_defined.js?5c81": {
+          "size": 110
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_descriptors.js?799e": {
+          "size": 127
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_dom-create.js?e10d": {
+          "size": 133
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_enum-bug-keys.js?d1bc": {
+          "size": 140
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_enum-keys.js?0b5e": {
+          "size": 183
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js?f128": {
+          "size": 766
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_fails.js?24ff": {
+          "size": 76
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js?1fac": {
+          "size": 191
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_has.js?4fa2": {
+          "size": 91
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_hide.js?3d11": {
+          "size": 141
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_html.js?29e8": {
+          "size": 77
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_ie8-dom-define.js?0d38": {
+          "size": 151
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_iobject.js?ebf1": {
+          "size": 147
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_is-array.js?551e": {
+          "size": 91
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_is-object.js?9698": {
+          "size": 114
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-create.js?8066": {
+          "size": 213
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-define.js?62e3": {
+          "size": 874
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-step.js?365d": {
+          "size": 68
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_iterators.js?386a": {
+          "size": 32
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_library.js?2c31": {
+          "size": 36
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_meta.js?628b": {
+          "size": 588
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-assign.js?407d": {
+          "size": 497
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-create.js?58f8": {
+          "size": 500
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dp.js?e0ed": {
+          "size": 294
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dps.js?437a": {
+          "size": 189
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gopd.js?b257": {
+          "size": 246
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gopn-ext.js?0aa5": {
+          "size": 296
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gopn.js?1475": {
+          "size": 134
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gops.js?95de": {
+          "size": 56
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gpo.js?3a1f": {
+          "size": 274
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-keys-internal.js?bd24": {
+          "size": 231
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-keys.js?f2ab": {
+          "size": 96
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_object-pie.js?d973": {
+          "size": 47
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_property-desc.js?e5af": {
+          "size": 118
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_redefine.js?fff1": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_set-proto.js?4274": {
+          "size": 415
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_set-to-string-tag.js?2241": {
+          "size": 165
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_shared-key.js?2399": {
+          "size": 103
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_shared.js?e675": {
+          "size": 273
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_string-at.js?70c0": {
+          "size": 307
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_to-absolute-index.js?b868": {
+          "size": 114
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_to-integer.js?9682": {
+          "size": 109
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_to-iobject.js?d1c0": {
+          "size": 87
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_to-length.js?6c68": {
+          "size": 110
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_to-object.js?e6c0": {
+          "size": 80
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_to-primitive.js?53e0": {
+          "size": 335
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_uid.js?b186": {
+          "size": 136
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_wks-define.js?5d78": {
+          "size": 199
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_wks-ext.js?16a9": {
+          "size": 36
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js?c7fe": {
+          "size": 191
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/es6.array.iterator.js?36d1": {
+          "size": 354
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.assign.js?513a": {
+          "size": 76
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.create.js?c29e": {
+          "size": 71
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.define-property.js?4076": {
+          "size": 96
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.set-prototype-of.js?492e": {
+          "size": 116
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/es6.string.iterator.js?5702": {
+          "size": 253
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/es6.symbol.js?7f7b": {
+          "size": 3415
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/es7.symbol.async-iterator.js?0c39": {
+          "size": 49
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/es7.symbol.observable.js?2035": {
+          "size": 45
+        },
+        "webpack://seismic-search/node_modules/babel-runtime/node_modules/core-js/library/modules/web.dom.iterable.js?c3af": {
+          "size": 634
+        },
+        "webpack://seismic-search/node_modules/blacklist/index.js?f8db": {
+          "size": 192
+        },
+        "webpack://seismic-search/node_modules/classnames/index.js?15e7": {
+          "size": 540
+        },
+        "webpack://seismic-search/node_modules/component-classes/index.js?df89": {
+          "size": 1226
+        },
+        "webpack://seismic-search/node_modules/component-indexof/index.js?43e6": {
+          "size": 151
+        },
+        "webpack://seismic-search/node_modules/create-react-class/factory.js?82e6": {
+          "size": 5217
+        },
+        "webpack://seismic-search/node_modules/create-react-class/index.js?def8": {
+          "size": 309
+        },
+        "webpack://seismic-search/node_modules/deepmerge/dist/cjs.js?fac3": {
+          "size": 1530
+        },
+        "webpack://seismic-search/node_modules/dom-scroll-into-view/index.js?4fc9": {
+          "size": 42
+        },
+        "webpack://seismic-search/node_modules/dom-scroll-into-view/lib/dom-scroll-into-view.js?4c1e": {
+          "size": 1309
+        },
+        "webpack://seismic-search/node_modules/dom-scroll-into-view/lib/util.js?65ff": {
+          "size": 3993
+        },
+        "webpack://seismic-search/node_modules/dom-serializer/lib/foreignNames.js?44e2": {
+          "size": 3176
+        },
+        "webpack://seismic-search/node_modules/dom-serializer/lib/index.js?fe93": {
+          "size": 2646
+        },
+        "webpack://seismic-search/node_modules/domelementtype/lib/index.js?5d34": {
+          "size": 635
+        },
+        "webpack://seismic-search/node_modules/domhandler/lib/index.js?9ecf": {
+          "size": 2893
+        },
+        "webpack://seismic-search/node_modules/domhandler/lib/node.js?50ec": {
+          "size": 5670
+        },
+        "webpack://seismic-search/node_modules/domutils/lib/feeds.js?2b0c": {
+          "size": 2132
+        },
+        "webpack://seismic-search/node_modules/domutils/lib/helpers.js?67f2": {
+          "size": 898
+        },
+        "webpack://seismic-search/node_modules/domutils/lib/index.js?2dc9": {
+          "size": 1115
+        },
+        "webpack://seismic-search/node_modules/domutils/lib/legacy.js?188a": {
+          "size": 1502
+        },
+        "webpack://seismic-search/node_modules/domutils/lib/manipulation.js?de02": {
+          "size": 1148
+        },
+        "webpack://seismic-search/node_modules/domutils/lib/querying.js?ef79": {
+          "size": 1074
+        },
+        "webpack://seismic-search/node_modules/domutils/lib/stringify.js?d271": {
+          "size": 956
+        },
+        "webpack://seismic-search/node_modules/domutils/lib/traversal.js?b12e": {
+          "size": 976
+        },
+        "webpack://seismic-search/node_modules/entities/lib/decode.js?f323": {
+          "size": 1086
+        },
+        "webpack://seismic-search/node_modules/entities/lib/decode_codepoint.js?e66c": {
+          "size": 406
+        },
+        "webpack://seismic-search/node_modules/entities/lib/encode.js?c5d0": {
+          "size": 1144
+        },
+        "webpack://seismic-search/node_modules/entities/lib/index.js?5c59": {
+          "size": 1600
+        },
+        "webpack://seismic-search/node_modules/escape-string-regexp/index.js?9ff2": {
+          "size": 177
+        },
+        "webpack://seismic-search/node_modules/htmlparser2/lib/FeedHandler.js?ddb0": {
+          "size": 4176
+        },
+        "webpack://seismic-search/node_modules/htmlparser2/lib/Parser.js?eca0": {
+          "size": 6271
+        },
+        "webpack://seismic-search/node_modules/htmlparser2/lib/Tokenizer.js?73d4": {
+          "size": 13574
+        },
+        "webpack://seismic-search/node_modules/htmlparser2/lib/index.js?fd1f": {
+          "size": 1793
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat-parser/index.js?9f40": {
+          "size": 74
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat-parser/lib/parser.js?d4fa": {
+          "size": 10109
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat/index.js?c24f": {
+          "size": 86
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat/lib/compiler.js?90f9": {
+          "size": 2636
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat/lib/core.js?e4e0": {
+          "size": 2933
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat/lib/en.js?ba4c": {
+          "size": 280
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat/lib/es5.js?c385": {
+          "size": 477
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat/lib/main.js?5f02": {
+          "size": 139
+        },
+        "webpack://seismic-search/node_modules/intl-messageformat/lib/utils.js?9d9c": {
+          "size": 239
+        },
+        "webpack://seismic-search/node_modules/is-plain-object/dist/is-plain-object.js?df4e": {
+          "size": 292
+        },
+        "webpack://seismic-search/node_modules/lodash/lodash.js?188c": {
+          "size": 70737
+        },
+        "webpack://seismic-search/node_modules/object-assign/index.js?3bf9": {
+          "size": 931
+        },
+        "webpack://seismic-search/node_modules/parse-srcset/src/parse-srcset.js?8070": {
+          "size": 1461
+        },
+        "webpack://seismic-search/node_modules/picocolors/picocolors.browser.js?fa32": {
+          "size": 356
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/at-rule.js?d28d": {
+          "size": 309
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/comment.js?5d4c": {
+          "size": 138
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/container.js?ec7a": {
+          "size": 5123
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/css-syntax-error.js?dbe6": {
+          "size": 1308
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/declaration.js?228e": {
+          "size": 284
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/document.js?9b1d": {
+          "size": 284
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/fromJSON.js?26cc": {
+          "size": 695
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/input.js?2e33": {
+          "size": 2884
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/lazy-result.js?776e": {
+          "size": 6397
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/list.js?aec9": {
+          "size": 397
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/map-generator.js?6645": {
+          "size": 5060
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/no-work-result.js?71b9": {
+          "size": 1198
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/node.js?674a": {
+          "size": 4156
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/parse.js?6d19": {
+          "size": 205
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/parser.js?fd8d": {
+          "size": 6913
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/postcss.js?2bf0": {
+          "size": 1246
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/previous-map.js?5711": {
+          "size": 2246
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/processor.js?05f3": {
+          "size": 799
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/result.js?18ed": {
+          "size": 474
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/root.js?7849": {
+          "size": 649
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/rule.js?8385": {
+          "size": 374
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/stringifier.js?af52": {
+          "size": 4114
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/stringify.js?b561": {
+          "size": 108
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/symbols.js?552d": {
+          "size": 94
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/tokenize.js?d7b7": {
+          "size": 2376
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/warn-once.js?e866": {
+          "size": 139
+        },
+        "webpack://seismic-search/node_modules/postcss/lib/warning.js?ebdf": {
+          "size": 466
+        },
+        "webpack://seismic-search/node_modules/react-autocomplete/build/lib/Autocomplete.js?731e": {
+          "size": 9861
+        },
+        "webpack://seismic-search/node_modules/react-highlighter/lib/highlighter.js?f25e": {
+          "size": 2362
+        },
+        "webpack://seismic-search/node_modules/react-highlighter/lib/regExpPropType.js?5331": {
+          "size": 194
+        },
+        "webpack://seismic-search/node_modules/regenerator-runtime/runtime.js?5e9d": {
+          "size": 6516
+        },
+        "webpack://seismic-search/node_modules/sanitize-html/index.js?4909": {
+          "size": 8585
+        },
+        "webpack://seismic-search/node_modules/sanitize-html/node_modules/escape-string-regexp/index.js?74ad": {
+          "size": 166
+        },
+        "webpack://seismic-search/node_modules/nanoid/non-secure/index.cjs?9055": {
+          "size": 35164
+        },
+        "webpack://seismic-search/webpack/bootstrap": {
+          "size": 164
+        },
+        "webpack://seismic-search/webpack/runtime/compat get default export": {
+          "size": 111
+        },
+        "webpack://seismic-search/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://seismic-search/webpack/runtime/global": {
+          "size": 165
+        },
+        "webpack://seismic-search/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://seismic-search/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://seismic-search/webpack/runtime/node module decorator": {
+          "size": 67
+        },
+        "webpack://seismic-search/webpack/runtime/publicPath": {
+          "size": 7
+        },
+        "webpack://seismic-search/webpack/startup": {
+          "size": 44
+        },
+        "[sourceMappingURL]": {
+          "size": 73
+        },
+        "[unmapped]": {
+          "size": 151
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

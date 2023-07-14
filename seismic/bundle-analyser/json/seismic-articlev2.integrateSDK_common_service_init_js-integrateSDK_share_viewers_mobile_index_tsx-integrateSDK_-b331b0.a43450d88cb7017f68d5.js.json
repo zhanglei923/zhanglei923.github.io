@@ -1,0 +1,722 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-articlev2.integrateSDK_common_service_init_js-integrateSDK_share_viewers_mobile_index_tsx-integrateSDK_-b331b0.a43450d88cb7017f68d5.js",
+      "totalBytes": 1013702,
+      "mappedBytes": 1012738,
+      "unmappedBytes": 795,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 167,
+      "files": {
+        "webpack://SeismicArticlev2/integrateSDK/common/constant.js": {
+          "size": 759
+        },
+        "webpack://SeismicArticlev2/integrateSDK/common/service/api/index.js": {
+          "size": 1641
+        },
+        "webpack://SeismicArticlev2/integrateSDK/common/service/getArticleSetting.js": {
+          "size": 5590
+        },
+        "webpack://SeismicArticlev2/integrateSDK/common/service/getHHSService.js": {
+          "size": 682
+        },
+        "webpack://SeismicArticlev2/integrateSDK/common/service/index.js": {
+          "size": 3352
+        },
+        "webpack://SeismicArticlev2/integrateSDK/common/service/init.js": {
+          "size": 5442
+        },
+        "webpack://SeismicArticlev2/integrateSDK/common/utils/getFitImageURL.js": {
+          "size": 2768
+        },
+        "webpack://SeismicArticlev2/integrateSDK/pageComponents/Spinner/index.tsx": {
+          "size": 358
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/constants/environmentEnum.ts": {
+          "size": 840
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/constants/index.js": {
+          "size": 1356
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/events/contentDownloadV2.js": {
+          "size": 1074
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/events/contentViewV1.js": {
+          "size": 603
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/events/contentViewV2.js": {
+          "size": 1126
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/events/utils.js": {
+          "size": 1797
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/global/index.js": {
+          "size": 929
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/i18n/constants.ts": {
+          "size": 390
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/i18n/index.ts": {
+          "size": 10728
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/i18n/viewer/helper.js": {
+          "size": 230
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/service/adapter/content.js": {
+          "size": 1838
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/service/api/index.js": {
+          "size": 2010
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/service/getUserManagerInfo.js": {
+          "size": 573
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/service/index.js": {
+          "size": 5582
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/service/init.js": {
+          "size": 5619
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/service/resolverStore.js": {
+          "size": 492
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/styles/constants.js": {
+          "size": 3499
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/styles/seismic-page-icon/index.js": {
+          "size": 111
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/ExternalContentManager/ExtensionHost/ContentPicker.jsx": {
+          "size": 12346
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/ExternalContentManager/ExtensionHost/XCP.js": {
+          "size": 12679
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/ExternalContentManager/ExtensionHost/index.ts": {
+          "size": 11009
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/ExternalContentManager/SeismicBase/BaseExternalContentOnDocList.js": {
+          "size": 11253
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/ExternalContentManager/SeismicBase/FeaturePointContentPicker.jsx": {
+          "size": 12195
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/ExternalContentManager/SeismicBase/index.ts": {
+          "size": 10098
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/ExternalContentManager/index.tsx": {
+          "size": 14625
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/ExternalContentManager/types.ts": {
+          "size": 278
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/FMSHelper.ts": {
+          "size": 564
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/GlobalBranding.ts": {
+          "size": 2300
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/InternalContentManager.ts": {
+          "size": 14901
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/anchorsUtil.jsx": {
+          "size": 2424
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/animateUtil.js": {
+          "size": 2892
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/convertToAssociatedRules.ts": {
+          "size": 3512
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/copyUrl.js": {
+          "size": 1290
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/createEventEmitter.js": {
+          "size": 1883
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/createTag.ts": {
+          "size": 470
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/datagridLicenseManager.js": {
+          "size": 514
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/dateHandler.ts": {
+          "size": 215
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/dateTool.js": {
+          "size": 568
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/deepCopy.js": {
+          "size": 1254
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/deliveryEventDispatcher.ts": {
+          "size": 672
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/dialog.js": {
+          "size": 1960
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/fileToBase64.js": {
+          "size": 2457
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/formatFileSize.js": {
+          "size": 556
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/generateArticleDataWithVisibleRole.ts": {
+          "size": 2704
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/getPopupContainer.ts": {
+          "size": 220
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/getRoot.js": {
+          "size": 200
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/getTOCUrl.js": {
+          "size": 1916
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/hideWidget.jsx": {
+          "size": 1018
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/hostEnvironment.js": {
+          "size": 1510
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/index.js": {
+          "size": 984
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/isEmpty.ts": {
+          "size": 213
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/isEnableCMVersionCreatedDate.js": {
+          "size": 226
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/isEnableDeliveryInDoclist.js": {
+          "size": 227
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/isEnableMultiValueEqualInDoclist.js": {
+          "size": 233
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/isFolder.js": {
+          "size": 163
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/isGif.js": {
+          "size": 269
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/isGreaterThanLines.js": {
+          "size": 510
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/isNextUi.js": {
+          "size": 220
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/keyboardTools.ts": {
+          "size": 322
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/nativeCommand.js": {
+          "size": 1090
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/onPlayerEvent.js": {
+          "size": 347
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/setContainerClassName.js": {
+          "size": 1060
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/taskQueue.js": {
+          "size": 1868
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/common/utils/widgetDataLoadMonitor.ts": {
+          "size": 1191
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/dependencies/react-custom-scrollbars/Scrollbars/defaultRenderElements.js": {
+          "size": 2832
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/dependencies/react-custom-scrollbars/Scrollbars/index.js": {
+          "size": 18688
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/dependencies/react-custom-scrollbars/Scrollbars/styles.js": {
+          "size": 977
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/dependencies/react-custom-scrollbars/index.js": {
+          "size": 165
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/dependencies/react-custom-scrollbars/utils/getInnerHeight.js": {
+          "size": 219
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/dependencies/react-custom-scrollbars/utils/getInnerWidth.js": {
+          "size": 220
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/dependencies/react-custom-scrollbars/utils/getScrollbarWidth.js": {
+          "size": 477
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/dependencies/react-custom-scrollbars/utils/isString.js": {
+          "size": 131
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/dependencies/react-custom-scrollbars/utils/returnFalse.js": {
+          "size": 156
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/mobile/contract.ts": {
+          "size": 4821
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/DeliveryOptionWrapper.tsx": {
+          "size": 1580
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/DetailNavigator/index.jsx": {
+          "size": 4939
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/DetailNavigator/openContent.js": {
+          "size": 2618
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/List/index.jsx": {
+          "size": 4552
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/MantleWrapper/index.jsx": {
+          "size": 1617
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/Modal/components/index.jsx": {
+          "size": 2526
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/ToolTipWithMobile/index.tsx": {
+          "size": 681
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/Tooltip/index.jsx": {
+          "size": 1849
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/Truncate/index.jsx": {
+          "size": 2791
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/TruncateRichText/RichText.tsx": {
+          "size": 1025
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/TruncateRichText/SingleLineRichText.tsx": {
+          "size": 2831
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/TruncateRichText/TruncateRichText.tsx": {
+          "size": 3501
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/TruncateRichText/TruncateSingleLineRichText.tsx": {
+          "size": 595
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/TruncateRichText/hooks.ts": {
+          "size": 3199
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/TruncateRichText/index.ts": {
+          "size": 180
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/TruncateRichText/tools.ts": {
+          "size": 6857
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/pageComponents/TruncateText/index.jsx": {
+          "size": 4597
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/viewers/core/Navigator.ts": {
+          "size": 1316
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/viewers/core/WidgetLink.ts": {
+          "size": 5116
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/viewers/core/extensions/calcMainDataForOneColumn.js": {
+          "size": 574
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/viewers/core/extensions/handleUniversalLink.js": {
+          "size": 524
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/viewers/core/extensions/index.jsx": {
+          "size": 1904
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/viewers/core/internalLinkHandler/index.js": {
+          "size": 3115
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/viewers/core/internalLinkHandler/regexes.js": {
+          "size": 413
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/viewers/core/internalLinkHandler/universalLinkParser.js": {
+          "size": 2031
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/viewers/mobile/index.tsx": {
+          "size": 5212
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/viewers/mobile/init.ts": {
+          "size": 1020
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/viewers/mobile/initSeismicCommon.ts": {
+          "size": 16547
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/viewers/mobile/mobileApi.ts": {
+          "size": 1617
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetEditorComponents/UniversalContentPicker/helper.ts": {
+          "size": 291
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetEditorComponents/UniversalContentPicker/index.jsx": {
+          "size": 6568
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetEditorComponents/UniversalContentPicker/loadUCPCompent.tsx": {
+          "size": 7892
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetEditorComponents/UserAndUserGroup/constants.js": {
+          "size": 431
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/CoverImage/CoverImage.jsx": {
+          "size": 7635
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/CoverImage/ImageLink.jsx": {
+          "size": 1595
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/CoverImage/index.jsx": {
+          "size": 841
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/Dropdown/List.jsx": {
+          "size": 3467
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/Dropdown/Option.jsx": {
+          "size": 4031
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/Dropdown/index.jsx": {
+          "size": 8286
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/Empty/images/NewUIEmpty.tsx": {
+          "size": 54256
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/Empty/index.jsx": {
+          "size": 1211
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/FloatButton/index.tsx": {
+          "size": 2515
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/RichTextView/hooks.tsx": {
+          "size": 5982
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/RichTextView/index.tsx": {
+          "size": 1754
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/table/TableViewer/InnerTable/index.jsx": {
+          "size": 5166
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/table/TableViewer/OuterTable/index.jsx": {
+          "size": 5542
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/table/TableViewer/TableContainer/index.jsx": {
+          "size": 3634
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/table/TableViewer/index.jsx": {
+          "size": 5202
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/table/components/Cell/index.jsx": {
+          "size": 4325
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/table/components/Column/index.jsx": {
+          "size": 4029
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/table/components/Row/index.jsx": {
+          "size": 4565
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/table/core/ZoomCompatible.js": {
+          "size": 1121
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/table/core/config.js": {
+          "size": 938
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/table/core/data.js": {
+          "size": 1489
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/table/core/index.js": {
+          "size": 468
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetViewerComponents/table/core/namespace/index.js": {
+          "size": 349
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.cover/components/Viewer/index.jsx": {
+          "size": 4543
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.cover/viewer.js": {
+          "size": 1032
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Editor/DocListPicker/components/common/DocListTitle/utils.js": {
+          "size": 1363
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/ActionBar/index.jsx": {
+          "size": 3415
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/ActionBar/utils.js": {
+          "size": 232
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/CarouselList/Card.jsx": {
+          "size": 14352
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/CarouselList/index.jsx": {
+          "size": 12847
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/ContentList/ContentName/index.jsx": {
+          "size": 3936
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/ContentList/DateFormat.jsx": {
+          "size": 1709
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/ContentList/EllipsisText/index.jsx": {
+          "size": 4388
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/ContentList/IERenderView.jsx": {
+          "size": 2194
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/ContentList/MNTimeStamp.jsx": {
+          "size": 1244
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/ContentList/MobileCard.jsx": {
+          "size": 7304
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/ContentList/MobileList.jsx": {
+          "size": 3864
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/ContentList/Rating.jsx": {
+          "size": 1682
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/ContentList/getColumns.jsx": {
+          "size": 6813
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/ContentList/getColumnsForDataGrid.jsx": {
+          "size": 8605
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/ContentList/index.jsx": {
+          "size": 9916
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/CustomSingleActionBar/RowActionsMenu/index.jsx": {
+          "size": 8989
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/CustomSingleActionBar/index.jsx": {
+          "size": 4885
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/HighlightList/card.jsx": {
+          "size": 7724
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/HighlightList/constants.js": {
+          "size": 635
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/HighlightList/desk.jsx": {
+          "size": 8682
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/HighlightList/dot.jsx": {
+          "size": 3358
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/HighlightList/highlistSlideItem.jsx": {
+          "size": 13655
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/HighlightList/index.jsx": {
+          "size": 4784
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/TileList/List/Card.jsx": {
+          "size": 11753
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/TileList/List/dot.jsx": {
+          "size": 3452
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/TileList/List/index.jsx": {
+          "size": 9934
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/TileList/List/slideItem.jsx": {
+          "size": 5313
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/TileList/ListMobile/Card.jsx": {
+          "size": 6568
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/TileList/ListMobile/index.jsx": {
+          "size": 4639
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/components/TileList/index.jsx": {
+          "size": 4927
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/Viewer/index.jsx": {
+          "size": 28630
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/core/DataHelper.js": {
+          "size": 3232
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/core/constants.js": {
+          "size": 3525
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/core/delivery.business.js": {
+          "size": 6203
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/core/getProperites.js": {
+          "size": 987
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/core/getSystemPropertiesI18n.js": {
+          "size": 364
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/core/index.js": {
+          "size": 14575
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/core/isEnableDoclistDelivery.js": {
+          "size": 309
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/core/rulesToServer.js": {
+          "size": 10885
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/components/core/specificDeliveryOptions.js": {
+          "size": 11079
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.docList/viewer.js": {
+          "size": 2833
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.doubleParagraph/components/Viewer/index.jsx": {
+          "size": 3127
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.doubleParagraph/viewer.js": {
+          "size": 2473
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.navigation/components/Viewer/components/Buttons/Title.jsx": {
+          "size": 809
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.navigation/components/Viewer/components/Buttons/index.jsx": {
+          "size": 7592
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.navigation/components/Viewer/components/Buttons/utils.js": {
+          "size": 1695
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.navigation/components/Viewer/components/HorizontalIcons/index.jsx": {
+          "size": 4363
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.navigation/components/Viewer/components/VerticalIcons/index.jsx": {
+          "size": 8087
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.navigation/components/Viewer/components/VerticalIcons/utils.js": {
+          "size": 363
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.navigation/components/Viewer/index.jsx": {
+          "size": 8351
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.navigation/components/core/constants.js": {
+          "size": 286
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.navigation/components/core/index.js": {
+          "size": 7319
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.navigation/viewer.js": {
+          "size": 1324
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.paragraph/components/Viewer/index.tsx": {
+          "size": 1401
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.paragraph/viewer.js": {
+          "size": 2366
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/Viewer/components/CardList/List/Card.jsx": {
+          "size": 16586
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/Viewer/components/CardList/List/dot.jsx": {
+          "size": 3372
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/Viewer/components/CardList/List/index.jsx": {
+          "size": 9673
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/Viewer/components/CardList/List/slideItem.jsx": {
+          "size": 4451
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/Viewer/components/CardList/ListMobile/Card.jsx": {
+          "size": 10245
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/Viewer/components/CardList/ListMobile/index.jsx": {
+          "size": 4299
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/Viewer/components/CardList/index.jsx": {
+          "size": 5034
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/Viewer/components/ContentList/IERenderView.jsx": {
+          "size": 1964
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/Viewer/components/ContentList/MobileCard.jsx": {
+          "size": 9658
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/Viewer/components/ContentList/MobileList.jsx": {
+          "size": 4100
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/Viewer/components/ContentList/emaliCell.jsx": {
+          "size": 4366
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/Viewer/components/ContentList/getColumns.jsx": {
+          "size": 7046
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/Viewer/components/ContentList/getColumnsForDataGrid.jsx": {
+          "size": 6442
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/Viewer/components/ContentList/index.jsx": {
+          "size": 9138
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/Viewer/index.jsx": {
+          "size": 10396
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/core/constants.js": {
+          "size": 1091
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/core/getSystemPropertiesI18n.js": {
+          "size": 418
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/core/getUsersInfo.js": {
+          "size": 1281
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/core/index.js": {
+          "size": 4672
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/core/rulesToServer.js": {
+          "size": 5529
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/components/core/toClient.js": {
+          "size": 600
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.people/viewer.js": {
+          "size": 527
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.photoText/components/Viewer/InnerViewer.jsx": {
+          "size": 3725
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.photoText/components/Viewer/index.jsx": {
+          "size": 4701
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.photoText/components/core/constants.js": {
+          "size": 790
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.photoText/viewer.js": {
+          "size": 2395
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.rawHtml/components/Viewer/index.jsx": {
+          "size": 6997
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.rawHtml/components/core/constants.js": {
+          "size": 99
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.rawHtml/viewer.js": {
+          "size": 298
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.table/components/Viewer/TableWidget/index.jsx": {
+          "size": 5243
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.table/components/Viewer/index.jsx": {
+          "size": 3944
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.table/components/componentsForViewer/ContentRichView/index.jsx": {
+          "size": 1806
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.table/components/core/config.js": {
+          "size": 600
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.table/components/core/constants.js": {
+          "size": 198
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.table/components/core/structure.js": {
+          "size": 1733
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.table/viewer.js": {
+          "size": 5148
+        },
+        "webpack://SeismicArticlev2/node_modules/moment/locale/ sync ^\\.\\/.*$": {
+          "size": 76867
+        },
+        "[sourceMappingURL]": {
+          "size": 167
+        },
+        "[unmapped]": {
+          "size": 795
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

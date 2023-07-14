@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-web-analytics.main.0a313a76927fb8db2da8.js",
+      "totalBytes": 118907,
+      "mappedBytes": 118821,
+      "unmappedBytes": 5,
+      "eolBytes": 6,
+      "sourceMapCommentBytes": 75,
+      "files": {
+        "webpack:///seismic-web-analytics.main.0a313a76927fb8db2da8.js": {
+          "size": 2219
+        },
+        "webpack:///webpack/bootstrap 7d897336bfd246020a14": {
+          "size": 624
+        },
+        "webpack:///src/components/bi_report/bi_report.jsx": {
+          "size": 1150
+        },
+        "[no source]": {
+          "size": 25
+        },
+        "webpack:///external \"React\"": {
+          "size": 17
+        },
+        "webpack:///src/entry.js": {
+          "size": 291
+        },
+        "webpack:///external \"PropTypes\"": {
+          "size": 21
+        },
+        "webpack:///node_modules/powerbi-client/dist/powerbi.js": {
+          "size": 114223
+        },
+        "webpack:///src/bi_report.js": {
+          "size": 231
+        },
+        "webpack:///external \"ReactDOM\"": {
+          "size": 20
+        },
+        "[sourceMappingURL]": {
+          "size": 75
+        },
+        "[unmapped]": {
+          "size": 5
+        },
+        "[EOLs]": {
+          "size": 6
+        }
+      }
+    }
+  ]
+}

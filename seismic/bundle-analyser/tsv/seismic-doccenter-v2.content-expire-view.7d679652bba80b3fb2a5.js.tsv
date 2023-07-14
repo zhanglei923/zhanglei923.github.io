@@ -1,0 +1,104 @@
+Source	Size
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/strings.js	35739
+webpack://seismic-doccenter-v2/src/common/commonService/doccenterV2AppOptions/index.js	29647
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/map.js	17652
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/async.js	14708
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/charCode.js	14493
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/event.js	13662
+webpack://seismic-doccenter-v2/src/services/setting.ts	13596
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/path.js	11667
+webpack://seismic-doccenter-v2/src/common/commonService/doccenterV2AppOptions/migrateImplementation.js	11559
+webpack://seismic-doccenter-v2/src/DocCenter/Wrapper/index.jsx	10965
+webpack://seismic-doccenter-v2/src/common/commonService/serviceHandler/index.js	10909
+webpack://seismic-doccenter-v2/src/common/commonService/doccenterV2AppOptions/postInitOptions.js	10530
+webpack://seismic-doccenter-v2/src/services/index.js	9811
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/arrays.js	8422
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/color.js	8320
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/keyCodes.js	7649
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/filters.js	7123
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/uri.js	6948
+webpack://seismic-doccenter-v2/src/core/adapter/contentList.js	5411
+webpack://seismic-doccenter-v2/src/pages/ContentExpirationView/index.jsx	5210
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/lifecycle.js	4571
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/iterator.js	4047
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/types.js	3695
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/errors.js	3115
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/linkedList.js	2968
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/platform.js	2935
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/objects.js	2773
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/network.js	2663
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/date.js	2590
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/index.js	2553
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/decorators.js	2495
+webpack://seismic-doccenter-v2/src/core/adapter/profileInfo.js	2390
+webpack://seismic-doccenter-v2/src/NextUI/components/MantleWrapper/index.jsx	2276
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/cancellation.js	1981
+webpack://seismic-doccenter-v2/src/common/constants.js	1794
+webpack://seismic-doccenter-v2/src/NextUI/components/BusySpinner/index.jsx	1699
+webpack://seismic-doccenter-v2/src/common/commonService/globalContext/index.js	1588
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/sequence.js	1561
+webpack://seismic-doccenter-v2/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js	1428
+webpack://seismic-doccenter-v2/src/NextUI/common/constants.js	1093
+webpack://seismic-doccenter-v2/src/core/adapter/store.js	973
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/toDate/index.js	830
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/process.js	823
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/add/index.js	751
+webpack://seismic-doccenter-v2/src/core/errorHandler/index.js	746
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/intervalToDuration/index.js	727
+[unmapped]	722
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/uuid.js	707
+webpack://seismic-doccenter-v2/src/core/adapter/file.js	701
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/numbers.js	633
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInDays/index.js	552
+webpack://seismic-doccenter-v2/src/core/adapter/folderTree.js	527
+webpack://seismic-doccenter-v2/src/NextUI/components/MantleTimestamp/index.jsx	493
+webpack://seismic-doccenter-v2/src/core/adapter/folderInfo.js	426
+webpack://seismic-doccenter-v2/src/core/adapter/infoDialog.js	423
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInMonths/index.js	420
+webpack://seismic-doccenter-v2/external assign "__global_module_registers__[\"styled-components\"]"	420
+webpack://seismic-doccenter-v2/src/core/adapter/profile.js	414
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/addMonths/index.js	357
+webpack://seismic-doccenter-v2/src/services/utils.js	353
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/endOfMonth/index.js	320
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/nls.js	314
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInYears/index.js	301
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/_lib/getTimezoneOffsetInMilliseconds/index.js	277
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/_lib/toInteger/index.js	277
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInCalendarDays/index.js	247
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInMinutes/index.js	241
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/addDays/index.js	236
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInCalendarMonths/index.js	234
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInSeconds/index.js	228
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/_lib/requiredArgs/index.js	221
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInCalendarYears/index.js	212
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/compareAsc/index.js	209
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInHours/index.js	208
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/differenceInMilliseconds/index.js	202
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/isLastDayOfMonth/index.js	197
+webpack://seismic-doccenter-v2/node_modules/util-kit/lib/vs/base/common/functional.js	195
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/_lib/roundingMethods/index.js	194
+webpack://seismic-doccenter-v2/src/core/dialogHelper/index.js	191
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/endOfDay/index.js	180
+webpack://seismic-doccenter-v2/webpack/runtime/make namespace object	175
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/startOfDay/index.js	165
+webpack://seismic-doccenter-v2/webpack/runtime/global	165
+webpack://seismic-doccenter-v2/node_modules/date-fns/esm/constants/index.js	137
+webpack://seismic-doccenter-v2/webpack/bootstrap	137
+webpack://seismic-doccenter-v2/src/core/apiClient/index.js	117
+webpack://seismic-doccenter-v2/src/core/adapter/index.js	116
+webpack://seismic-doccenter-v2/webpack/runtime/compat get default export	111
+webpack://seismic-doccenter-v2/external assign "__global_module_registers__[\"seismic-content-discovery-toolkit\"]"	107
+webpack://seismic-doccenter-v2/webpack/runtime/define property getters	107
+webpack://seismic-doccenter-v2/external assign "__global_module_registers__[\"seismic-content-list\"]"	94
+webpack://seismic-doccenter-v2/external assign "__global_module_registers__[\"seismic-svg-images\"]"	92
+webpack://seismic-doccenter-v2/external assign "__global_module_registers__[\"@seismic/mantle\"]"	89
+webpack://seismic-doccenter-v2/external assign "__global_module_registers__[\"seismic-toolkit\"]"	89
+[sourceMappingURL]	89
+webpack://seismic-doccenter-v2/external assign "__global_module_registers__[\"seismic-common\"]"	88
+webpack://seismic-doccenter-v2/webpack/runtime/hasOwnProperty shorthand	68
+webpack://seismic-doccenter-v2/src/core/bundleMethods/index.js	65
+webpack://seismic-doccenter-v2/external assign "PropTypes"	52
+webpack://seismic-doccenter-v2/external assign "Moment"	48
+webpack://seismic-doccenter-v2/external assign "React"	48
+webpack://seismic-doccenter-v2/webpack/runtime/publicPath	16
+[EOLs]	2

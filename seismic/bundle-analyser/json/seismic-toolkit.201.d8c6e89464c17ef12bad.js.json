@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-toolkit.201.d8c6e89464c17ef12bad.js",
+      "totalBytes": 18686,
+      "mappedBytes": 18515,
+      "unmappedBytes": 102,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 68,
+      "files": {
+        "webpack://seismic-toolkit/node_modules/@babel/runtime/helpers/interopRequireDefault.js": {
+          "size": 113
+        },
+        "[no source]": {
+          "size": 1158
+        },
+        "webpack://seismic-toolkit/node_modules/chain-function/index.js": {
+          "size": 262
+        },
+        "webpack://seismic-toolkit/node_modules/react-transition-group/CSSTransitionGroup.js": {
+          "size": 1846
+        },
+        "webpack://seismic-toolkit/node_modules/react-transition-group/CSSTransitionGroupChild.js": {
+          "size": 3354
+        },
+        "webpack://seismic-toolkit/node_modules/react-transition-group/TransitionGroup.js": {
+          "size": 4016
+        },
+        "webpack://seismic-toolkit/node_modules/react-transition-group/node_modules/dom-helpers/class/addClass.js": {
+          "size": 274
+        },
+        "webpack://seismic-toolkit/node_modules/react-transition-group/node_modules/dom-helpers/class/hasClass.js": {
+          "size": 179
+        },
+        "webpack://seismic-toolkit/node_modules/react-transition-group/node_modules/dom-helpers/class/removeClass.js": {
+          "size": 308
+        },
+        "webpack://seismic-toolkit/node_modules/react-transition-group/node_modules/dom-helpers/transition/properties.js": {
+          "size": 1595
+        },
+        "webpack://seismic-toolkit/node_modules/react-transition-group/node_modules/dom-helpers/util/inDOM.js": {
+          "size": 152
+        },
+        "webpack://seismic-toolkit/node_modules/react-transition-group/node_modules/dom-helpers/util/requestAnimationFrame.js": {
+          "size": 585
+        },
+        "webpack://seismic-toolkit/node_modules/react-transition-group/node_modules/warning/browser.js": {
+          "size": 24
+        },
+        "webpack://seismic-toolkit/node_modules/react-transition-group/utils/ChildMapping.js": {
+          "size": 530
+        },
+        "webpack://seismic-toolkit/node_modules/react-transition-group/utils/PropTypes.js": {
+          "size": 885
+        },
+        "webpack://seismic-toolkit/node_modules/seismic-react-ellipsis-text/index.js": {
+          "size": 19
+        },
+        "webpack://seismic-toolkit/node_modules/seismic-react-ellipsis-text/lib/components/EllipsisText.js": {
+          "size": 3215
+        },
+        "[sourceMappingURL]": {
+          "size": 68
+        },
+        "[unmapped]": {
+          "size": 102
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1283 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-news-center.main.d95d0a438ae403a5f332.js",
+      "totalBytes": 1447995,
+      "mappedBytes": 1447783,
+      "unmappedBytes": 137,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 73,
+      "files": {
+        "webpack://seismic-news-center/node_modules/charenc/charenc.js": {
+          "size": 432
+        },
+        "webpack://seismic-news-center/node_modules/classnames/index.js": {
+          "size": 596
+        },
+        "webpack://seismic-news-center/node_modules/color-convert/conversions.js": {
+          "size": 8436
+        },
+        "webpack://seismic-news-center/node_modules/color-convert/index.js": {
+          "size": 750
+        },
+        "webpack://seismic-news-center/node_modules/color-convert/route.js": {
+          "size": 731
+        },
+        "webpack://seismic-news-center/node_modules/color-name/index.js": {
+          "size": 3428
+        },
+        "webpack://seismic-news-center/node_modules/color-string/index.js": {
+          "size": 3195
+        },
+        "webpack://seismic-news-center/node_modules/color/index.js": {
+          "size": 6052
+        },
+        "webpack://seismic-news-center/node_modules/create-react-context/lib/implementation.js": {
+          "size": 2651
+        },
+        "webpack://seismic-news-center/node_modules/create-react-context/lib/index.js": {
+          "size": 180
+        },
+        "webpack://seismic-news-center/node_modules/crypt/crypt.js": {
+          "size": 1281
+        },
+        "webpack://seismic-news-center/node_modules/exenv/index.js": {
+          "size": 368
+        },
+        "webpack://seismic-news-center/node_modules/focus-outside/dist/focus-outside.min.js": {
+          "size": 2377
+        },
+        "webpack://seismic-news-center/node_modules/gud/index.js": {
+          "size": 114
+        },
+        "webpack://seismic-news-center/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js": {
+          "size": 975
+        },
+        "webpack://seismic-news-center/node_modules/hoist-non-react-statics/node_modules/react-is/cjs/react-is.production.min.js": {
+          "size": 2145
+        },
+        "webpack://seismic-news-center/node_modules/hoist-non-react-statics/node_modules/react-is/index.js": {
+          "size": 36
+        },
+        "webpack://seismic-news-center/node_modules/is-arrayish/index.js": {
+          "size": 236
+        },
+        "webpack://seismic-news-center/node_modules/is-buffer/index.js": {
+          "size": 286
+        },
+        "webpack://seismic-news-center/node_modules/isarray/index.js": {
+          "size": 118
+        },
+        "webpack://seismic-news-center/node_modules/md5/md5.js": {
+          "size": 3364
+        },
+        "webpack://seismic-news-center/node_modules/path-to-regexp/index.js": {
+          "size": 3181
+        },
+        "webpack://seismic-news-center/node_modules/querystringify/index.js": {
+          "size": 608
+        },
+        "webpack://seismic-news-center/node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js": {
+          "size": 2385
+        },
+        "webpack://seismic-news-center/node_modules/react-lines-ellipsis/lib/common.js": {
+          "size": 362
+        },
+        "webpack://seismic-news-center/node_modules/react-lines-ellipsis/lib/helpers.js": {
+          "size": 415
+        },
+        "webpack://seismic-news-center/node_modules/react-lines-ellipsis/lib/html.js": {
+          "size": 6156
+        },
+        "webpack://seismic-news-center/node_modules/react-modal/lib/components/Modal.js": {
+          "size": 5813
+        },
+        "webpack://seismic-news-center/node_modules/react-modal/lib/components/ModalPortal.js": {
+          "size": 7784
+        },
+        "webpack://seismic-news-center/node_modules/react-modal/lib/helpers/ariaAppHider.js": {
+          "size": 1631
+        },
+        "webpack://seismic-news-center/node_modules/react-modal/lib/helpers/bodyTrap.js": {
+          "size": 1085
+        },
+        "webpack://seismic-news-center/node_modules/react-modal/lib/helpers/classList.js": {
+          "size": 684
+        },
+        "webpack://seismic-news-center/node_modules/react-modal/lib/helpers/focusManager.js": {
+          "size": 1178
+        },
+        "webpack://seismic-news-center/node_modules/react-modal/lib/helpers/portalOpenInstances.js": {
+          "size": 897
+        },
+        "webpack://seismic-news-center/node_modules/react-modal/lib/helpers/safeHTMLElement.js": {
+          "size": 373
+        },
+        "webpack://seismic-news-center/node_modules/react-modal/lib/helpers/scopeTab.js": {
+          "size": 836
+        },
+        "webpack://seismic-news-center/node_modules/react-modal/lib/helpers/tabbable.js": {
+          "size": 992
+        },
+        "webpack://seismic-news-center/node_modules/react-modal/lib/index.js": {
+          "size": 159
+        },
+        "webpack://seismic-news-center/node_modules/react-responsive/dist/react-responsive.js": {
+          "size": 16295
+        },
+        "webpack://seismic-news-center/node_modules/react-router/node_modules/react-is/cjs/react-is.production.min.js": {
+          "size": 656
+        },
+        "webpack://seismic-news-center/node_modules/react-router/node_modules/react-is/index.js": {
+          "size": 37
+        },
+        "webpack://seismic-news-center/node_modules/requires-port/index.js": {
+          "size": 263
+        },
+        "webpack://seismic-news-center/node_modules/simple-swizzle/index.js": {
+          "size": 279
+        },
+        "webpack://seismic-news-center/node_modules/url-parse/index.js": {
+          "size": 4989
+        },
+        "webpack://seismic-news-center/node_modules/validator/index.js": {
+          "size": 4402
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/alpha.js": {
+          "size": 4405
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/blacklist.js": {
+          "size": 277
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/contains.js": {
+          "size": 477
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/equals.js": {
+          "size": 234
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/escape.js": {
+          "size": 408
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isAfter.js": {
+          "size": 393
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isAlpha.js": {
+          "size": 706
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isAlphanumeric.js": {
+          "size": 727
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isAscii.js": {
+          "size": 255
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isBIC.js": {
+          "size": 345
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isBase32.js": {
+          "size": 273
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isBase58.js": {
+          "size": 266
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isBase64.js": {
+          "size": 475
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isBefore.js": {
+          "size": 393
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isBoolean.js": {
+          "size": 407
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isBtcAddress.js": {
+          "size": 332
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isByteLength.js": {
+          "size": 603
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isCreditCard.js": {
+          "size": 657
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isCurrency.js": {
+          "size": 1684
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isDataURI.js": {
+          "size": 662
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isDate.js": {
+          "size": 2672
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isDecimal.js": {
+          "size": 664
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isDivisibleBy.js": {
+          "size": 296
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isEAN.js": {
+          "size": 502
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isEmail.js": {
+          "size": 2325
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isEmpty.js": {
+          "size": 362
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isEthereumAddress.js": {
+          "size": 259
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isFQDN.js": {
+          "size": 936
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isFloat.js": {
+          "size": 618
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isFullWidth.js": {
+          "size": 290
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isHSL.js": {
+          "size": 883
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isHalfWidth.js": {
+          "size": 289
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isHash.js": {
+          "size": 418
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isHexColor.js": {
+          "size": 295
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isHexadecimal.js": {
+          "size": 261
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isIBAN.js": {
+          "size": 3176
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isIMEI.js": {
+          "size": 518
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isIP.js": {
+          "size": 1209
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isIPRange.js": {
+          "size": 626
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isISBN.js": {
+          "size": 690
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isISIN.js": {
+          "size": 593
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isISO31661Alpha2.js": {
+          "size": 1502
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isISO31661Alpha3.js": {
+          "size": 1756
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isISO4217.js": {
+          "size": 1333
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isISO8601.js": {
+          "size": 1359
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isISRC.js": {
+          "size": 272
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isISSN.js": {
+          "size": 549
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isIdentityCard.js": {
+          "size": 4760
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isIn.js": {
+          "size": 743
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isInt.js": {
+          "size": 528
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isJSON.js": {
+          "size": 666
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isJWT.js": {
+          "size": 371
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isLatLong.js": {
+          "size": 781
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isLength.js": {
+          "size": 637
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isLicensePlate.js": {
+          "size": 3531
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isLocale.js": {
+          "size": 353
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isLowercase.js": {
+          "size": 246
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isMACAddress.js": {
+          "size": 430
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isMD5.js": {
+          "size": 255
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isMagnetURI.js": {
+          "size": 371
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isMimeType.js": {
+          "size": 656
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isMobilePhone.js": {
+          "size": 6211
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isMongoId.js": {
+          "size": 291
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isMultibyte.js": {
+          "size": 253
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isNumeric.js": {
+          "size": 372
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isOctal.js": {
+          "size": 255
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isPassportNumber.js": {
+          "size": 1349
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isPort.js": {
+          "size": 243
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isPostalCode.js": {
+          "size": 1566
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isRFC3339.js": {
+          "size": 736
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isRgbColor.js": {
+          "size": 710
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isSemVer.js": {
+          "size": 474
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isSlug.js": {
+          "size": 289
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isStrongPassword.js": {
+          "size": 1569
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isSurrogatePair.js": {
+          "size": 271
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isTaxID.js": {
+          "size": 14542
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isURL.js": {
+          "size": 2962
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isUUID.js": {
+          "size": 717
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isUppercase.js": {
+          "size": 246
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isVAT.js": {
+          "size": 462
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isVariableWidth.js": {
+          "size": 287
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/isWhitelisted.js": {
+          "size": 294
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/ltrim.js": {
+          "size": 334
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/matches.js": {
+          "size": 315
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/normalizeEmail.js": {
+          "size": 3014
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/rtrim.js": {
+          "size": 403
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/stripLow.js": {
+          "size": 346
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/toBoolean.js": {
+          "size": 294
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/toDate.js": {
+          "size": 268
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/toFloat.js": {
+          "size": 244
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/toInt.js": {
+          "size": 246
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/trim.js": {
+          "size": 280
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/unescape.js": {
+          "size": 405
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/util/algorithms.js": {
+          "size": 1142
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/util/assertString.js": {
+          "size": 564
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/util/includes.js": {
+          "size": 215
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/util/merge.js": {
+          "size": 308
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/util/multilineRegex.js": {
+          "size": 195
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/util/toString.js": {
+          "size": 529
+        },
+        "webpack://seismic-news-center/node_modules/validator/lib/whitelist.js": {
+          "size": 274
+        },
+        "webpack://seismic-news-center/node_modules/warning/warning.js": {
+          "size": 54
+        },
+        "webpack://seismic-news-center/external assign \"PropTypes\"": {
+          "size": 51
+        },
+        "webpack://seismic-news-center/external assign \"React\"": {
+          "size": 47
+        },
+        "webpack://seismic-news-center/external assign \"ReactDOM\"": {
+          "size": 21
+        },
+        "webpack://seismic-news-center/webpack/bootstrap": {
+          "size": 137
+        },
+        "webpack://seismic-news-center/webpack/runtime/compat get default export": {
+          "size": 111
+        },
+        "webpack://seismic-news-center/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://seismic-news-center/webpack/runtime/global": {
+          "size": 165
+        },
+        "webpack://seismic-news-center/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://seismic-news-center/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://seismic-news-center/webpack/runtime/publicPath": {
+          "size": 16
+        },
+        "webpack://seismic-news-center/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 229
+        },
+        "webpack://seismic-news-center/external assign \"__global_module_registers__[\\\"@seismic/mantle\\\"]\"": {
+          "size": 68
+        },
+        "webpack://seismic-news-center/src/common/constant.js": {
+          "size": 716
+        },
+        "webpack://seismic-news-center/external assign \"__global_module_registers__[\\\"seismic-common\\\"]\"": {
+          "size": 291
+        },
+        "webpack://seismic-news-center/src/theme2019/commonService/index.js": {
+          "size": 14904
+        },
+        "webpack://seismic-news-center/src/nextUI/components/ResponsiveWrapper/index.jsx": {
+          "size": 1007
+        },
+        "webpack://seismic-news-center/external assign \"__global_module_registers__[\\\"styled-components\\\"]\"": {
+          "size": 74
+        },
+        "webpack://seismic-news-center/src/nextUI/components/GlobalStyle/index.jsx": {
+          "size": 3364
+        },
+        "webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/extends.js": {
+          "size": 211
+        },
+        "webpack://seismic-news-center/node_modules/resolve-pathname/esm/resolve-pathname.js": {
+          "size": 615
+        },
+        "webpack://seismic-news-center/node_modules/tiny-invariant/dist/esm/tiny-invariant.js": {
+          "size": 167
+        },
+        "webpack://seismic-news-center/node_modules/history/esm/history.js": {
+          "size": 4527
+        },
+        "webpack://seismic-news-center/src/theme2019/common/utils/routerUtil.js": {
+          "size": 12
+        },
+        "webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js": {
+          "size": 96
+        },
+        "webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js": {
+          "size": 116
+        },
+        "webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js": {
+          "size": 168
+        },
+        "webpack://seismic-news-center/node_modules/react-router/esm/react-router.js": {
+          "size": 5336
+        },
+        "webpack://seismic-news-center/node_modules/react-router-dom/esm/react-router-dom.js": {
+          "size": 2441
+        },
+        "webpack://seismic-news-center/src/theme2019/common/context/ScreenContext.js": {
+          "size": 12
+        },
+        "webpack://seismic-news-center/src/theme2019/common/constants.js": {
+          "size": 1407
+        },
+        "webpack://seismic-news-center/external assign \"Moment\"": {
+          "size": 21
+        },
+        "webpack://seismic-news-center/external assign \"lodash\"": {
+          "size": 32
+        },
+        "webpack://seismic-news-center/src/theme2019/common/apiClient/promiseThrottle.js": {
+          "size": 77741
+        },
+        "webpack://seismic-news-center/src/theme2019/common/apiClient/index.js": {
+          "size": 1493
+        },
+        "webpack://seismic-news-center/src/theme2019/common/apiClient/service.js": {
+          "size": 12115
+        },
+        "webpack://seismic-news-center/src/theme2019/common/store/Store.js": {
+          "size": 1134
+        },
+        "webpack://seismic-news-center/src/theme2019/common/store/ToggleStore.js": {
+          "size": 3330
+        },
+        "webpack://seismic-news-center/src/theme2019/common/store/ServiceAddressStore.js": {
+          "size": 2193
+        },
+        "webpack://seismic-news-center/src/theme2019/common/store/SystemOptionStore.js": {
+          "size": 2926
+        },
+        "webpack://seismic-news-center/src/theme2019/common/store/FeatureSettingStore.js": {
+          "size": 2070
+        },
+        "webpack://seismic-news-center/src/theme2019/common/store/CurrentUserStore.js": {
+          "size": 2342
+        },
+        "webpack://seismic-news-center/src/theme2019/common/store/index.js": {
+          "size": 50
+        },
+        "webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/typeof.js": {
+          "size": 233
+        },
+        "webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/defineProperty.js": {
+          "size": 121
+        },
+        "webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/objectSpread.js": {
+          "size": 340
+        },
+        "webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/classCallCheck.js": {
+          "size": 95
+        },
+        "webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/createClass.js": {
+          "size": 227
+        },
+        "webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js": {
+          "size": 124
+        },
+        "webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js": {
+          "size": 180
+        },
+        "webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js": {
+          "size": 133
+        },
+        "webpack://seismic-news-center/node_modules/@babel/runtime/helpers/esm/inherits.js": {
+          "size": 230
+        },
+        "webpack://seismic-news-center/node_modules/i18next/dist/esm/i18next.js": {
+          "size": 49796
+        },
+        "webpack://seismic-news-center/src/common/i18n/index.js": {
+          "size": 8686
+        },
+        "webpack://seismic-news-center/external assign \"__global_module_registers__[\\\"seismic-toolkit\\\"]\"": {
+          "size": 61
+        },
+        "webpack://seismic-news-center/src/theme2019/common/utils/copyUrl.js": {
+          "size": 662
+        },
+        "webpack://seismic-news-center/src/nextUI/common/constants.js": {
+          "size": 1926
+        },
+        "webpack://seismic-news-center/src/nextUI/components/DetailActionMenusNextUI/index.jsx": {
+          "size": 8050
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentDeliveryOptions/deliveryOptionsUI/DetailActionMenus/index.jsx": {
+          "size": 6944
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentDeliveryOptions/deliveryOptionsBehavior/common/constants.js": {
+          "size": 696
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentDeliveryOptions/deliveryOptionsBehavior/common/index.js": {
+          "size": 1081
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentDeliveryOptions/deliveryOptionsBehavior/DetailBehavior/staticDelivery.js": {
+          "size": 1873
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentDeliveryOptions/deliveryOptionsBehavior/DetailBehavior/formDelivery.js": {
+          "size": 2018
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentDeliveryOptions/deliveryOptionsBehavior/DetailBehavior/formInstanceDelivery.js": {
+          "size": 1836
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentDeliveryOptions/deliveryOptionsBehavior/DetailBehavior/index.js": {
+          "size": 1054
+        },
+        "webpack://seismic-news-center/src/theme2019/common/utils/index.js": {
+          "size": 10204
+        },
+        "webpack://seismic-news-center/external assign \"__global_module_registers__[\\\"seismic-app-core\\\"]\"": {
+          "size": 282
+        },
+        "webpack://seismic-news-center/src/theme2019/components/Responsive/index.jsx": {
+          "size": 1278
+        },
+        "webpack://seismic-news-center/src/nextUI/components/SecondNavigationBarNextUI/RootNextUI/index.jsx": {
+          "size": 3938
+        },
+        "webpack://seismic-news-center/src/theme2019/components/SecNavBar/Root/index.jsx": {
+          "size": 3790
+        },
+        "webpack://seismic-news-center/src/theme2019/components/Switch/index.jsx": {
+          "size": 2075
+        },
+        "webpack://seismic-news-center/src/theme2019/common/dialogHelper/index.js": {
+          "size": 58
+        },
+        "webpack://seismic-news-center/src/theme2019/common/errorHandler/index.js": {
+          "size": 1147
+        },
+        "webpack://seismic-news-center/src/nextUI/components/UnsubscribeDialogNextUI/index.jsx": {
+          "size": 3881
+        },
+        "webpack://seismic-news-center/src/nextUI/common/index.js": {
+          "size": 446
+        },
+        "webpack://seismic-news-center/src/theme2019/common/utils/accessibility.js": {
+          "size": 1117
+        },
+        "webpack://seismic-news-center/src/nextUI/components/SecondNavigationBarNextUI/ChannelDetailNextUI/index.jsx": {
+          "size": 8853
+        },
+        "webpack://seismic-news-center/src/theme2019/components/SecNavBar/ChannelDetail/index.jsx": {
+          "size": 7489
+        },
+        "webpack://seismic-news-center/src/theme2019/components/SecNavBar/index.jsx": {
+          "size": 536
+        },
+        "webpack://seismic-news-center/external assign \"ReactCustomScrollbars\"": {
+          "size": 40
+        },
+        "webpack://seismic-news-center/src/theme2019/common/utils/createEventEmitter.js": {
+          "size": 491
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ScrollRefresh/emitter.js": {
+          "size": 717
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ScrollRefresh/Receiver.jsx": {
+          "size": 2635
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ScrollRefresh/index.jsx": {
+          "size": 4932
+        },
+        "webpack://seismic-news-center/src/theme2019/components/SignalRNotification/emitter.js": {
+          "size": 1005
+        },
+        "webpack://seismic-news-center/src/theme2019/components/SignalRNotification/Receiver.jsx": {
+          "size": 1905
+        },
+        "webpack://seismic-news-center/src/theme2019/components/SignalRNotification/index.jsx": {
+          "size": 1822
+        },
+        "webpack://seismic-news-center/src/nextUI/components/ErrorPageNextUI/ErrorSvg.jsx": {
+          "size": 345855
+        },
+        "webpack://seismic-news-center/src/nextUI/components/ErrorPageNextUI/index.jsx": {
+          "size": 4927
+        },
+        "webpack://seismic-news-center/src/theme2019/pages/NoPermission/index.jsx": {
+          "size": 2730
+        },
+        "webpack://seismic-news-center/node_modules/react-truncate/lib/Truncate.js": {
+          "size": 6471
+        },
+        "webpack://seismic-news-center/src/theme2019/components/Truncate/index.jsx": {
+          "size": 1438
+        },
+        "webpack://seismic-news-center/src/util/filter.js": {
+          "size": 801
+        },
+        "webpack://seismic-news-center/src/common/events/contentViewV2.js": {
+          "size": 1495
+        },
+        "webpack://seismic-news-center/src/common/deliveryUtils.js": {
+          "size": 936
+        },
+        "webpack://seismic-news-center/src/theme2019/components/StoryCard/Core.jsx": {
+          "size": 5393
+        },
+        "webpack://seismic-news-center/src/theme2019/components/StoryCard/Anchor/index.jsx": {
+          "size": 1368
+        },
+        "webpack://seismic-news-center/src/theme2019/components/StoryCard/Card320/index.jsx": {
+          "size": 5257
+        },
+        "webpack://seismic-news-center/src/theme2019/components/RichTextViewer/RichTextViewer.jsx": {
+          "size": 4437
+        },
+        "webpack://seismic-news-center/src/theme2019/components/RichTextViewer/index.jsx": {
+          "size": 3
+        },
+        "webpack://seismic-news-center/src/theme2019/components/StoryCard/Normal/index.jsx": {
+          "size": 5776
+        },
+        "webpack://seismic-news-center/src/theme2019/components/Loading/index.jsx": {
+          "size": 1571
+        },
+        "webpack://seismic-news-center/src/theme2019/components/animation/Entering.jsx": {
+          "size": 2412
+        },
+        "webpack://seismic-news-center/src/nextUI/components/BusySpinner/index.jsx": {
+          "size": 1922
+        },
+        "webpack://seismic-news-center/src/nextUI/components/IllustrationsNextUI/NothingToReview.jsx": {
+          "size": 54658
+        },
+        "webpack://seismic-news-center/src/nextUI/components/IllustrationsNextUI/index.jsx": {
+          "size": 4159
+        },
+        "webpack://seismic-news-center/src/nextUI/components/StoryCardNextUI/AnchorNextUI/index.jsx": {
+          "size": 5481
+        },
+        "webpack://seismic-news-center/src/nextUI/components/StoryCardNextUI/index.jsx": {
+          "size": 8311
+        },
+        "webpack://seismic-news-center/src/nextUI/components/StoryCartListNextUI/index.jsx": {
+          "size": 5038
+        },
+        "webpack://seismic-news-center/src/theme2019/components/StoryCard/Top3Card320/index.jsx": {
+          "size": 4183
+        },
+        "webpack://seismic-news-center/node_modules/ssr-window/ssr-window.esm.js": {
+          "size": 1738
+        },
+        "webpack://seismic-news-center/node_modules/dom7/dom7.esm.js": {
+          "size": 11451
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/utils/dom.js": {
+          "size": 379
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/utils/get-support.js": {
+          "size": 514
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/utils/get-device.js": {
+          "size": 702
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/utils/get-browser.js": {
+          "size": 301
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/utils/utils.js": {
+          "size": 2170
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/modules/resize/resize.js": {
+          "size": 1228
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/modules/observer/observer.js": {
+          "size": 1337
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/events-emitter.js": {
+          "size": 1626
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/update/index.js": {
+          "size": 157
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/update/updateSize.js": {
+          "size": 510
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/update/updateSlides.js": {
+          "size": 4892
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/update/updateAutoHeight.js": {
+          "size": 697
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/update/updateSlidesOffset.js": {
+          "size": 128
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/update/updateSlidesProgress.js": {
+          "size": 732
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/update/updateProgress.js": {
+          "size": 538
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/update/updateSlidesClasses.js": {
+          "size": 1719
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/update/updateActiveIndex.js": {
+          "size": 837
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/update/updateClickedSlide.js": {
+          "size": 469
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/slide/index.js": {
+          "size": 90
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/slide/slideTo.js": {
+          "size": 2626
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/slide/slideToLoop.js": {
+          "size": 166
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/slide/slideNext.js": {
+          "size": 328
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/slide/slidePrev.js": {
+          "size": 574
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/slide/slideReset.js": {
+          "size": 114
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/slide/slideToClosest.js": {
+          "size": 505
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/slide/slideToClickedSlide.js": {
+          "size": 692
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/loop/index.js": {
+          "size": 35
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/loop/loopCreate.js": {
+          "size": 988
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/loop/loopFix.js": {
+          "size": 508
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/loop/loopDestroy.js": {
+          "size": 205
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/manipulation/index.js": {
+          "size": 66
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/manipulation/appendSlide.js": {
+          "size": 242
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/manipulation/prependSlide.js": {
+          "size": 302
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/manipulation/addSlide.js": {
+          "size": 610
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/manipulation/removeSlide.js": {
+          "size": 493
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/manipulation/removeAllSlides.js": {
+          "size": 86
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/events/onTouchStart.js": {
+          "size": 1845
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/events/onTouchMove.js": {
+          "size": 3816
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/events/onTouchEnd.js": {
+          "size": 4290
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/events/onResize.js": {
+          "size": 585
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/events/onClick.js": {
+          "size": 197
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/events/onScroll.js": {
+          "size": 474
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/events/index.js": {
+          "size": 2422
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/breakpoints/index.js": {
+          "size": 32
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/breakpoints/setBreakpoint.js": {
+          "size": 1471
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/breakpoints/getBreakpoint.js": {
+          "size": 531
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/classes/index.js": {
+          "size": 29
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/classes/addClasses.js": {
+          "size": 653
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/classes/removeClasses.js": {
+          "size": 99
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/images/index.js": {
+          "size": 28
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/images/loadImage.js": {
+          "size": 191
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/images/preloadImages.js": {
+          "size": 439
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/defaults.js": {
+          "size": 2244
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/core-class.js": {
+          "size": 8212
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/modular.js": {
+          "size": 380
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/translate/index.js": {
+          "size": 65
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/translate/getTranslate.js": {
+          "size": 222
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/translate/setTranslate.js": {
+          "size": 532
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/translate/minTranslate.js": {
+          "size": 36
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/translate/maxTranslate.js": {
+          "size": 57
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/translate/translateTo.js": {
+          "size": 1339
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/transition/index.js": {
+          "size": 45
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/transition/setTransition.js": {
+          "size": 99
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/transition/transitionStart.js": {
+          "size": 407
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/transition/transitionEnd.js": {
+          "size": 397
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/grab-cursor/index.js": {
+          "size": 31
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/grab-cursor/setGrabCursor.js": {
+          "size": 290
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/grab-cursor/unsetGrabCursor.js": {
+          "size": 118
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/core/check-overflow/index.js": {
+          "size": 456
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/virtual/virtual.js": {
+          "size": 3846
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/keyboard/keyboard.js": {
+          "size": 2141
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/mousewheel/mousewheel.js": {
+          "size": 5990
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/navigation/navigation.js": {
+          "size": 3170
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/pagination/pagination.js": {
+          "size": 7888
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/scrollbar/scrollbar.js": {
+          "size": 6123
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/parallax/parallax.js": {
+          "size": 2302
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/zoom/zoom.js": {
+          "size": 11789
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/lazy/lazy.js": {
+          "size": 5074
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/controller/controller.js": {
+          "size": 2535
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/a11y/a11y.js": {
+          "size": 5485
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/history/history.js": {
+          "size": 2543
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/hash-navigation/hash-navigation.js": {
+          "size": 2081
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/autoplay/autoplay.js": {
+          "size": 3979
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/effect-fade/effect-fade.js": {
+          "size": 1435
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/effect-cube/effect-cube.js": {
+          "size": 3387
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/effect-flip/effect-flip.js": {
+          "size": 2255
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/effect-coverflow/effect-coverflow.js": {
+          "size": 2238
+        },
+        "webpack://seismic-news-center/node_modules/swiper/esm/components/thumbs/thumbs.js": {
+          "size": 4417
+        },
+        "webpack://seismic-news-center/node_modules/swiper/swiper-bundle.esm.js": {
+          "size": 21
+        },
+        "webpack://seismic-news-center/src/theme2019/components/StoryCardList/Top3List.jsx": {
+          "size": 6428
+        },
+        "webpack://seismic-news-center/src/theme2019/components/StoryCardList/index.jsx": {
+          "size": 7361
+        },
+        "webpack://seismic-news-center/src/theme2019/pages/ChannelDetail/index.jsx": {
+          "size": 3776
+        },
+        "webpack://seismic-news-center/src/theme2019/pages/CoverStories/index.jsx": {
+          "size": 2866
+        },
+        "webpack://seismic-news-center/src/theme2019/components/BottomPanel/responsiveContentInfo.jsx": {
+          "size": 3827
+        },
+        "webpack://seismic-news-center/src/theme2019/components/BottomPanel/responsiveInstructions.jsx": {
+          "size": 3590
+        },
+        "webpack://seismic-news-center/src/theme2019/components/BottomPanel/responsiveReviews.jsx": {
+          "size": 6148
+        },
+        "webpack://seismic-news-center/src/theme2019/components/BottomPanel/index.jsx": {
+          "size": 3353
+        },
+        "webpack://seismic-news-center/src/theme2019/common/context/TintContext.js": {
+          "size": 717
+        },
+        "webpack://seismic-news-center/src/theme2019/components/DeliveryBarForDetail/model.js": {
+          "size": 3270
+        },
+        "webpack://seismic-news-center/src/theme2019/components/DeliveryBarForDetail/index.jsx": {
+          "size": 5147
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentActions/OpenLink/index.jsx": {
+          "size": 3038
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentActions/BackToForm/index.jsx": {
+          "size": 2489
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentActions/PresentationMode/index.jsx": {
+          "size": 3397
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentActions/ViewInContentManager/index.jsx": {
+          "size": 3386
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentActions/Favorite/index.jsx": {
+          "size": 4823
+        },
+        "webpack://seismic-news-center/src/nextUI/components/RatingsNextUI/index.jsx": {
+          "size": 3672
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentActions/Rating/service.js": {
+          "size": 2813
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentActions/Rating/index.jsx": {
+          "size": 4286
+        },
+        "webpack://seismic-news-center/src/nextUI/components/NotificationWrapper/FollowIcon.jsx": {
+          "size": 5296
+        },
+        "webpack://seismic-news-center/src/nextUI/components/NotificationWrapper/index.jsx": {
+          "size": 3985
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentActionsForDetail/index.jsx": {
+          "size": 4404
+        },
+        "webpack://seismic-news-center/src/theme2019/components/SecNavBarDetail/index.jsx": {
+          "size": 7113
+        },
+        "webpack://seismic-news-center/src/theme2019/common/lazyLoadReact/index.jsx": {
+          "size": 2461
+        },
+        "webpack://seismic-news-center/src/theme2019/components/FormViewer/model.js": {
+          "size": 4042
+        },
+        "webpack://seismic-news-center/src/theme2019/components/FormViewer/index.jsx": {
+          "size": 7606
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentSpecialView/ContentExpirationView/index.jsx": {
+          "size": 1595
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentViewer/Core/Wopi/adapter.js": {
+          "size": 204
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentViewer/constants.js": {
+          "size": 1313
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentViewer/DSRTemplateViewer/index.jsx": {
+          "size": 2843
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentViewer/index.jsx": {
+          "size": 7599
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentViewer/utils/index.js": {
+          "size": 327
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentViewer/utils/isEmailTemplate.js": {
+          "size": 5
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentViewer/utils/isArticleV2.js": {
+          "size": 328
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentDetails/index.jsx": {
+          "size": 6262
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentProperties/index.jsx": {
+          "size": 4185
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentNotification/index.jsx": {
+          "size": 3657
+        },
+        "webpack://seismic-news-center/src/nextUI/components/InstructionsContentNextUI/index.jsx": {
+          "size": 3121
+        },
+        "webpack://seismic-news-center/src/theme2019/components/Instructions/index.jsx": {
+          "size": 3813
+        },
+        "webpack://seismic-news-center/src/theme2019/components/RightPanel/index.jsx": {
+          "size": 1478
+        },
+        "webpack://seismic-news-center/external assign \"__global_module_registers__[\\\"@seismic/universal-player\\\"]\"": {
+          "size": 863
+        },
+        "webpack://seismic-news-center/src/theme2019/components/UniversalPlayer/index.jsx": {
+          "size": 3066
+        },
+        "webpack://seismic-news-center/src/theme2019/components/UniversalPlayer/util.js": {
+          "size": 14
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ChannelGroup/index.jsx": {
+          "size": 3943
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ContentViewer/Core/Wopi/utlis/index.js": {
+          "size": 1440
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ArticleDesc/index.jsx": {
+          "size": 3666
+        },
+        "webpack://seismic-news-center/src/nextUI/components/DocRightPanelNextUI/index.jsx": {
+          "size": 3148
+        },
+        "webpack://seismic-news-center/src/nextUI/components/DetailActionMenusNextUI/ShareGenerateActionsMenu/index.jsx": {
+          "size": 3327
+        },
+        "webpack://seismic-news-center/src/nextUI/components/SecondNavigationBarNextUI/DocDetailNavNextUI/MobileThreeDots/index.jsx": {
+          "size": 7358
+        },
+        "webpack://seismic-news-center/src/nextUI/components/SecondNavigationBarNextUI/DocDetailNavNextUI/index.jsx": {
+          "size": 16534
+        },
+        "webpack://seismic-news-center/src/nextUI/components/DocDetailNextUI/index.jsx": {
+          "size": 7275
+        },
+        "webpack://seismic-news-center/src/nextUI/components/UcbBarForDetailNextUI/index.jsx": {
+          "size": 2955
+        },
+        "webpack://seismic-news-center/src/theme2019/components/UcbBarForDetail/index.jsx": {
+          "size": 2306
+        },
+        "webpack://seismic-news-center/src/theme2019/components/UcbPage/TargetWorkSpace/contextualFolder.js": {
+          "size": 8506
+        },
+        "webpack://seismic-news-center/src/theme2019/components/UcbPage/TargetWorkSpace/rootFolder.js": {
+          "size": 2279
+        },
+        "webpack://seismic-news-center/src/theme2019/components/UcbPage/TargetWorkSpace/index.jsx": {
+          "size": 9110
+        },
+        "webpack://seismic-news-center/src/theme2019/components/UcbPage/index.jsx": {
+          "size": 4056
+        },
+        "webpack://seismic-news-center/src/theme2019/pages/DocDetail/addition.js": {
+          "size": 2919
+        },
+        "webpack://seismic-news-center/src/theme2019/pages/DocDetail/index.jsx": {
+          "size": 27826
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ChannelCard/index.jsx": {
+          "size": 4290
+        },
+        "webpack://seismic-news-center/node_modules/uuid/dist/esm-browser/rng.js": {
+          "size": 392
+        },
+        "webpack://seismic-news-center/node_modules/uuid/dist/esm-browser/bytesToUuid.js": {
+          "size": 297
+        },
+        "webpack://seismic-news-center/node_modules/uuid/dist/esm-browser/v4.js": {
+          "size": 220
+        },
+        "webpack://seismic-news-center/node_modules/react-tooltip/dist/index.es.js": {
+          "size": 35774
+        },
+        "webpack://seismic-news-center/src/nextUI/components/ChannelCardNextUI/index.jsx": {
+          "size": 6229
+        },
+        "webpack://seismic-news-center/src/nextUI/components/ChannelCardListNextUI/index.jsx": {
+          "size": 4385
+        },
+        "webpack://seismic-news-center/src/theme2019/components/ChannelCardList/index.jsx": {
+          "size": 5365
+        },
+        "webpack://seismic-news-center/src/theme2019/pages/Explore/index.jsx": {
+          "size": 2157
+        },
+        "webpack://seismic-news-center/src/theme2019/pages/MyChannels/index.jsx": {
+          "size": 2125
+        },
+        "webpack://seismic-news-center/src/theme2019/pages/Main/index.jsx": {
+          "size": 5799
+        },
+        "webpack://seismic-news-center/src/theme2019/init.js": {
+          "size": 12643
+        },
+        "webpack://seismic-news-center/src/theme2019/index.jsx": {
+          "size": 2067
+        },
+        "webpack://seismic-news-center/src/nextUI/components/MantleWrapper/index.jsx": {
+          "size": 475
+        },
+        "webpack://seismic-news-center/src/entry/entry.js": {
+          "size": 29
+        },
+        "[sourceMappingURL]": {
+          "size": 73
+        },
+        "[unmapped]": {
+          "size": 137
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

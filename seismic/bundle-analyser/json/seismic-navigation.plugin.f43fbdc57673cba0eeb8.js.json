@@ -1,0 +1,179 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-navigation.plugin.f43fbdc57673cba0eeb8.js",
+      "totalBytes": 114026,
+      "mappedBytes": 113912,
+      "unmappedBytes": 39,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 74,
+      "files": {
+        "webpack://seismic-navigation/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 104
+        },
+        "[no source]": {
+          "size": 5101
+        },
+        "webpack://seismic-navigation/external assign \"React\"": {
+          "size": 12
+        },
+        "webpack://seismic-navigation/external assign \"__global_module_registers__[\\\"@seismic/mantle\\\"]\"": {
+          "size": 49
+        },
+        "webpack://seismic-navigation/external assign \"__global_module_registers__[\\\"seismic-common\\\"]\"": {
+          "size": 48
+        },
+        "webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/typeof.js": {
+          "size": 230
+        },
+        "webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/classCallCheck.js": {
+          "size": 94
+        },
+        "webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/createClass.js": {
+          "size": 223
+        },
+        "webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js": {
+          "size": 123
+        },
+        "webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js": {
+          "size": 93
+        },
+        "webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/inherits.js": {
+          "size": 228
+        },
+        "webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js": {
+          "size": 177
+        },
+        "webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js": {
+          "size": 130
+        },
+        "webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/defineProperty.js": {
+          "size": 120
+        },
+        "webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js": {
+          "size": 106
+        },
+        "webpack://seismic-navigation/node_modules/i18next/dist/esm/i18next.js": {
+          "size": 52164
+        },
+        "webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/slicedToArray.js": {
+          "size": 43
+        },
+        "webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js": {
+          "size": 41
+        },
+        "webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js": {
+          "size": 310
+        },
+        "webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js": {
+          "size": 284
+        },
+        "webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js": {
+          "size": 172
+        },
+        "webpack://seismic-navigation/node_modules/i18next-icu/dist/es/utils.js": {
+          "size": 545
+        },
+        "webpack://seismic-navigation/node_modules/intl-messageformat/node_modules/tslib/tslib.es6.mjs": {
+          "size": 1271
+        },
+        "webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/node_modules/tslib/tslib.es6.mjs": {
+          "size": 295
+        },
+        "webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/lib/error.js": {
+          "size": 1680
+        },
+        "webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/lib/types.js": {
+          "size": 801
+        },
+        "webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/lib/regex.generated.js": {
+          "size": 54
+        },
+        "webpack://seismic-navigation/node_modules/@formatjs/icu-skeleton-parser/lib/date-time.js": {
+          "size": 2122
+        },
+        "webpack://seismic-navigation/node_modules/@formatjs/icu-skeleton-parser/node_modules/tslib/tslib.es6.mjs": {
+          "size": 299
+        },
+        "webpack://seismic-navigation/node_modules/@formatjs/icu-skeleton-parser/lib/regex.generated.js": {
+          "size": 43
+        },
+        "webpack://seismic-navigation/node_modules/@formatjs/icu-skeleton-parser/lib/number.js": {
+          "size": 4323
+        },
+        "webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/lib/time-data.generated.js": {
+          "size": 5077
+        },
+        "webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/lib/parser.js": {
+          "size": 16484
+        },
+        "webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/lib/date-time-pattern-generator.js": {
+          "size": 623
+        },
+        "webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/lib/index.js": {
+          "size": 536
+        },
+        "webpack://seismic-navigation/node_modules/@formatjs/fast-memoize/lib/index.js": {
+          "size": 950
+        },
+        "webpack://seismic-navigation/node_modules/intl-messageformat/lib/src/error.js": {
+          "size": 923
+        },
+        "webpack://seismic-navigation/node_modules/intl-messageformat/lib/src/formatters.js": {
+          "size": 2183
+        },
+        "webpack://seismic-navigation/node_modules/intl-messageformat/lib/src/core.js": {
+          "size": 3264
+        },
+        "webpack://seismic-navigation/node_modules/intl-messageformat/lib/index.js": {
+          "size": 6
+        },
+        "webpack://seismic-navigation/node_modules/i18next-icu/dist/es/index.js": {
+          "size": 2301
+        },
+        "webpack://seismic-navigation/src/PluginsModal/i18n/translate.js": {
+          "size": 1167
+        },
+        "webpack://seismic-navigation/src/PluginsModal/component/customHover.jsx": {
+          "size": 745
+        },
+        "webpack://seismic-navigation/src/PluginsModal/index.jsx": {
+          "size": 7754
+        },
+        "webpack://seismic-navigation/src/PluginsModal/entry.js": {
+          "size": 3
+        },
+        "webpack://seismic-navigation/webpack/bootstrap": {
+          "size": 122
+        },
+        "webpack://seismic-navigation/webpack/runtime/compat get default export": {
+          "size": 111
+        },
+        "webpack://seismic-navigation/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://seismic-navigation/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://seismic-navigation/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://seismic-navigation/webpack/runtime/publicPath": {
+          "size": 7
+        },
+        "webpack://seismic-navigation/webpack/startup": {
+          "size": 21
+        },
+        "[sourceMappingURL]": {
+          "size": 74
+        },
+        "[unmapped]": {
+          "size": 39
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

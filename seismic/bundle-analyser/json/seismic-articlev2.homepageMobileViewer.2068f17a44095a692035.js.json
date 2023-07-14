@@ -1,0 +1,566 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-articlev2.homepageMobileViewer.2068f17a44095a692035.js",
+      "totalBytes": 1001989,
+      "mappedBytes": 1001783,
+      "unmappedBytes": 117,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 87,
+      "files": {
+        "webpack://SeismicArticlev2/webpack/universalModuleDefinition": {
+          "size": 251
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/chunk loaded": {
+          "size": 706
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Collections/CollectionList/card.jsx": {
+          "size": 5104
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Collections/CollectionList/emptyView.jsx": {
+          "size": 54216
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Collections/CollectionList/index.jsx": {
+          "size": 8709
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Collections/CollectionList/mobileIndex.jsx": {
+          "size": 2010
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Collections/Draw/NewContent/contentCard.jsx": {
+          "size": 3836
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Collections/Draw/NewContent/index.jsx": {
+          "size": 5605
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Collections/Draw/TopContent/HighLiveSendCard.jsx": {
+          "size": 4592
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Collections/Draw/TopContent/PopularCard.jsx": {
+          "size": 4402
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Collections/Draw/TopContent/index.jsx": {
+          "size": 8535
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Collections/Draw/index.jsx": {
+          "size": 5737
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Collections/Draw/utils.jsx": {
+          "size": 805
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Collections/collectionContainer.jsx": {
+          "size": 10846
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Collections/index.jsx": {
+          "size": 2832
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Collections/searchDropDown.jsx": {
+          "size": 856
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Collections/utils.js": {
+          "size": 2309
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/LivesendActivity/card/cardDetail.jsx": {
+          "size": 6168
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/LivesendActivity/card/index.jsx": {
+          "size": 17965
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/LivesendActivity/card/nowViewCard.jsx": {
+          "size": 4813
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/LivesendActivity/emptyView.jsx": {
+          "size": 38629
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/LivesendActivity/index.jsx": {
+          "size": 6737
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/LivesendActivity/slide/index.jsx": {
+          "size": 7761
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/NewTopPerformers/Card/file.jsx": {
+          "size": 4378
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/NewTopPerformers/Card/index.jsx": {
+          "size": 6780
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/NewTopPerformers/empty.jsx": {
+          "size": 47300
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/NewTopPerformers/index.jsx": {
+          "size": 5130
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/News/NewsItemV2/index.jsx": {
+          "size": 2736
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/News/index.jsx": {
+          "size": 3262
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/NextUiNews/NewsSlide/card.jsx": {
+          "size": 9335
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/NextUiNews/NewsSlide/index.jsx": {
+          "size": 6923
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/NextUiNews/index.jsx": {
+          "size": 3988
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Opportunities/DrawContent/DocumentList/DocumentItem.jsx": {
+          "size": 8131
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Opportunities/DrawContent/DocumentList/index.jsx": {
+          "size": 3801
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Opportunities/DrawContent/FolderList/folderItem.jsx": {
+          "size": 4278
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Opportunities/DrawContent/FolderList/index.jsx": {
+          "size": 3570
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Opportunities/DrawContent/index.jsx": {
+          "size": 12258
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Opportunities/DrawContent/mobilePreload.jsx": {
+          "size": 995
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Opportunities/DrawContent/preload.jsx": {
+          "size": 1502
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Opportunities/OpportunitiesCard/documentItem.jsx": {
+          "size": 5721
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Opportunities/OpportunitiesCard/index.jsx": {
+          "size": 7177
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/Opportunities/index.jsx": {
+          "size": 8170
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/Draw/NewContent/contentCard.jsx": {
+          "size": 3836
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/Draw/NewContent/index.jsx": {
+          "size": 5347
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/Draw/TopContent/HighLiveSendCard.jsx": {
+          "size": 6164
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/Draw/TopContent/PopularCard.jsx": {
+          "size": 5875
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/Draw/TopContent/index.jsx": {
+          "size": 8233
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/Draw/index.jsx": {
+          "size": 4514
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/Draw/utils.jsx": {
+          "size": 805
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/Dropdown/index.jsx": {
+          "size": 5776
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/Dropdown/item.jsx": {
+          "size": 1652
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/MobileDropdown/index.jsx": {
+          "size": 6066
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/MobileSlider/index.jsx": {
+          "size": 1385
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/MobileSlider/profileCard.jsx": {
+          "size": 3727
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/ProfileSlide/dotList.jsx": {
+          "size": 3530
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/ProfileSlide/index.jsx": {
+          "size": 6992
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/ProfileSlide/profile.jsx": {
+          "size": 5303
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/SearchableDropdown/index.jsx": {
+          "size": 1123
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/cacheUtils.js": {
+          "size": 1052
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/constants.js": {
+          "size": 605
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/container.jsx": {
+          "size": 3166
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/ProfileBrowser/index.jsx": {
+          "size": 12329
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/TopPerformers/Performer/file.jsx": {
+          "size": 4325
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/TopPerformers/Performer/index.jsx": {
+          "size": 7906
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/TopPerformers/index.jsx": {
+          "size": 5114
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/WarmMessage/index.jsx": {
+          "size": 713
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/YourOpportunities/Draw/DocumentList/DocumentItem.jsx": {
+          "size": 8221
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/YourOpportunities/Draw/DocumentList/index.jsx": {
+          "size": 3803
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/YourOpportunities/Draw/FolderList/folderItem.jsx": {
+          "size": 4278
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/YourOpportunities/Draw/FolderList/index.jsx": {
+          "size": 3571
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/YourOpportunities/Draw/index.jsx": {
+          "size": 9855
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/YourOpportunities/card.jsx": {
+          "size": 3053
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/YourOpportunities/icon/userIcon.jsx": {
+          "size": 2263
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/YourOpportunities/index.jsx": {
+          "size": 4113
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/YourTopHits/YourFrequentlyUsed/index.jsx": {
+          "size": 6147
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/YourTopHits/icons/index.jsx": {
+          "size": 35925
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/blades/YourTopHits/index.jsx": {
+          "size": 20866
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/business/liveSendActivity/index.js": {
+          "size": 7434
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/business/liveSendActivity/model.js": {
+          "size": 3225
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/business/liveSendActivity/service.js": {
+          "size": 12530
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/business/newrelic/NewRelicPageAction.ts": {
+          "size": 1856
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/business/news/index.js": {
+          "size": 2837
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/business/news/newsModel.js": {
+          "size": 515
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/business/news/newsService.js": {
+          "size": 394
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/business/oppotunities/index.js": {
+          "size": 4519
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/business/oppotunities/oppotunitiesModel.js": {
+          "size": 488
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/business/oppotunities/oppotunitiesService.js": {
+          "size": 725
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/business/peerActivity/index.js": {
+          "size": 3627
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/business/peerActivity/timeTool.js": {
+          "size": 1273
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/commonErrorHandler/index.js": {
+          "size": 691
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/commonServiceProvider/index.js": {
+          "size": 1774
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/BladeContainer/index.jsx": {
+          "size": 2309
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/Dialog/commonDialog.jsx": {
+          "size": 4889
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/Error/Image-500.jsx": {
+          "size": 63804
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/Error/index.jsx": {
+          "size": 11585
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/ExpandContainer/index.jsx": {
+          "size": 778
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/FileIcon/index.jsx": {
+          "size": 607
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/FileTypeIcon/index.jsx": {
+          "size": 536
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/Greeting/index.jsx": {
+          "size": 1428
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/NavigatorWrapper/index.jsx": {
+          "size": 2164
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/Responsive/index.jsx": {
+          "size": 1289
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/RichTextViewer/RichTextViewer.jsx": {
+          "size": 5823
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/RichTextViewer/index.jsx": {
+          "size": 243
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/SearchBar/index.jsx": {
+          "size": 5748
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/SectionHeader/DropDown/index.jsx": {
+          "size": 7561
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/SectionHeader/DropDown/option.jsx": {
+          "size": 5363
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/SectionHeader/index.jsx": {
+          "size": 480
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/SpecificDeliveryOptionButton/deliveryI18nKeyMap.js": {
+          "size": 452
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/SpecificDeliveryOptionButton/index.jsx": {
+          "size": 4809
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/WidgetContainer/index.jsx": {
+          "size": 3171
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/components/withErrorBoundary/index.tsx": {
+          "size": 4134
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/constants/constants.js": {
+          "size": 915
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/context/index.js": {
+          "size": 456
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/common/i18n/index.js": {
+          "size": 9407
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/service/apiClient/forNGexit.js": {
+          "size": 9990
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/service/commonService/commonHelper.js": {
+          "size": 1066
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/service/commonService/index.js": {
+          "size": 1643
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/service/index.js": {
+          "size": 1351
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/service/service.js": {
+          "size": 17900
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/service/utils/cache.js": {
+          "size": 880
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/service/utils/index.js": {
+          "size": 247
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/utils/common.js": {
+          "size": 559
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/utils/commonErrorHandler.js": {
+          "size": 674
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/utils/dialogOptions/index.js": {
+          "size": 647
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/utils/index.js": {
+          "size": 784
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/utils/openContents.js": {
+          "size": 3654
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/viewers/homepageMobileViewer/ExtensionLoaders.ts": {
+          "size": 2036
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/viewers/homepageMobileViewer/index.jsx": {
+          "size": 484
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/viewers/homepageMobileViewer/mobBundle.jsx": {
+          "size": 11160
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/viewers/homepageMobileViewer/setupStandalone.js": {
+          "size": 8049
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/viewers/homepageMobileViewer/widgets.js": {
+          "size": 4065
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/viewers/homepageMobileViewer/wrapper.js": {
+          "size": 1475
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/frequentlyUsed/components/Editor/index.jsx": {
+          "size": 1959
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/frequentlyUsed/components/Viewer/index.jsx": {
+          "size": 356
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/frequentlyUsed/editor.js": {
+          "size": 1595
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/frequentlyUsed/viewer.js": {
+          "size": 300
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/livesendActivity/components/Editor/index.jsx": {
+          "size": 1922
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/livesendActivity/components/Viewer/index.jsx": {
+          "size": 387
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/livesendActivity/editor.js": {
+          "size": 1603
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/livesendActivity/viewer.js": {
+          "size": 302
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/news/components/Editor/index.jsx": {
+          "size": 1907
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/news/components/Viewer/index.jsx": {
+          "size": 519
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/news/editor.js": {
+          "size": 1577
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/news/viewer.js": {
+          "size": 290
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/opportunities/components/Editor/index.jsx": {
+          "size": 1917
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/opportunities/components/Viewer/index.jsx": {
+          "size": 528
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/opportunities/editor.js": {
+          "size": 1595
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/opportunities/viewer.js": {
+          "size": 299
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/profileBlade/components/Editor/index.jsx": {
+          "size": 1916
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/profileBlade/components/Viewer/index.jsx": {
+          "size": 522
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/profileBlade/editor.js": {
+          "size": 1592
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/profileBlade/viewer.js": {
+          "size": 298
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/topPerformers/components/Editor/index.jsx": {
+          "size": 1918
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/topPerformers/components/Viewer/index.jsx": {
+          "size": 528
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/topPerformers/editor.js": {
+          "size": 1597
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/topPerformers/viewer.js": {
+          "size": 299
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/warmMessage/components/Editor/index.jsx": {
+          "size": 1916
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/warmMessage/components/Viewer/index.jsx": {
+          "size": 300
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/warmMessage/editor.js": {
+          "size": 1588
+        },
+        "webpack://SeismicArticlev2/homePageBuilder/widgets/warmMessage/viewer.js": {
+          "size": 567
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetEditorComponents/SettingPanel/index.tsx": {
+          "size": 6225
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetEditorComponents/UserAndUserGroup/index.jsx": {
+          "size": 462
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetEditorComponents/UserAndUserGroup/panel.jsx": {
+          "size": 6698
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetEditorComponents/UserAndUserGroup/search.jsx": {
+          "size": 4837
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetEditorComponents/UserAndUserGroup/selectUserType.jsx": {
+          "size": 3222
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetEditorComponents/actionButtons/index.jsx": {
+          "size": 1366
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgetEditorComponents/widgetIndicator/index.jsx": {
+          "size": 1729
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.extensionsHostPageWidgets/components/ExtensionsHostPageWidget.jsx": {
+          "size": 4327
+        },
+        "webpack://SeismicArticlev2/integrateSDK/share/widgets/page.extensionsHostPageWidgets/getExtensionHostPageWidgets.js": {
+          "size": 130963
+        },
+        "webpack://SeismicArticlev2/webpack/bootstrap": {
+          "size": 170
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/amd options": {
+          "size": 10
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/compat get default export": {
+          "size": 111
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/global": {
+          "size": 165
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/node module decorator": {
+          "size": 67
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/publicPath": {
+          "size": 18
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/jsonp chunk loading": {
+          "size": 433
+        },
+        "webpack://SeismicArticlev2/webpack/runtime/nonce": {
+          "size": 12
+        },
+        "webpack://SeismicArticlev2/webpack/startup": {
+          "size": 7526
+        },
+        "[sourceMappingURL]": {
+          "size": 87
+        },
+        "[unmapped]": {
+          "size": 117
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-doccenter-v2.noneprofile.d937b707071ff0d07ad1.js",
+      "totalBytes": 2151,
+      "mappedBytes": 2057,
+      "unmappedBytes": 12,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 81,
+      "files": {
+        "webpack://seismic-doccenter-v2/webpack/bootstrap": {
+          "size": 7
+        },
+        "webpack://seismic-doccenter-v2/webpack/runtime/compat get default export": {
+          "size": 109
+        },
+        "webpack://seismic-doccenter-v2/webpack/runtime/define property getters": {
+          "size": 105
+        },
+        "webpack://seismic-doccenter-v2/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 66
+        },
+        "webpack://seismic-doccenter-v2/webpack/runtime/make namespace object": {
+          "size": 173
+        },
+        "webpack://seismic-doccenter-v2/webpack/runtime/publicPath": {
+          "size": 6
+        },
+        "[no source]": {
+          "size": 240
+        },
+        "webpack://seismic-doccenter-v2/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 103
+        },
+        "webpack://seismic-doccenter-v2/external assign \"React\"": {
+          "size": 12
+        },
+        "webpack://seismic-doccenter-v2/external assign \"__global_module_registers__[\\\"@seismic/mantle\\\"]\"": {
+          "size": 49
+        },
+        "webpack://seismic-doccenter-v2/external assign \"__global_module_registers__[\\\"styled-components\\\"]\"": {
+          "size": 51
+        },
+        "webpack://seismic-doccenter-v2/external assign \"__global_module_registers__[\\\"seismic-content-discovery-toolkit\\\"]\"": {
+          "size": 67
+        },
+        "webpack://seismic-doccenter-v2/src/pages/NoneProfile/index.tsx": {
+          "size": 1069
+        },
+        "[sourceMappingURL]": {
+          "size": 81
+        },
+        "[unmapped]": {
+          "size": 12
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

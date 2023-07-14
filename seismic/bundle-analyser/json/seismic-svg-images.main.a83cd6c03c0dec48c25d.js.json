@@ -1,0 +1,62 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-svg-images.main.a83cd6c03c0dec48c25d.js",
+      "totalBytes": 1666792,
+      "mappedBytes": 1666667,
+      "unmappedBytes": 52,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 72,
+      "files": {
+        "webpack://seismic-svg-images/lib/base/cjs/iconBase.js": {
+          "size": 1891
+        },
+        "[no source]": {
+          "size": 3604
+        },
+        "webpack://seismic-svg-images/lib/base/cjs/iconContext.js": {
+          "size": 250
+        },
+        "webpack://seismic-svg-images/lib/base/cjs/index.js": {
+          "size": 508
+        },
+        "webpack://seismic-svg-images/lib/base/index.js": {
+          "size": 16
+        },
+        "webpack://seismic-svg-images/external assign \"React\"": {
+          "size": 15
+        },
+        "webpack://seismic-svg-images/webpack/bootstrap": {
+          "size": 137
+        },
+        "webpack://seismic-svg-images/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://seismic-svg-images/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://seismic-svg-images/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://seismic-svg-images/webpack/runtime/publicPath": {
+          "size": 7
+        },
+        "webpack://seismic-svg-images/node_modules/@seismic/toolchain-scripts/webpack/setPublicPath.js": {
+          "size": 103
+        },
+        "webpack://seismic-svg-images/lib/seismic-svg-images/index.esm.js": {
+          "size": 1659786
+        },
+        "[sourceMappingURL]": {
+          "size": 72
+        },
+        "[unmapped]": {
+          "size": 52
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+*{
+    font-size:14px;
+    padding:0;
+    margin:0;
+    border:0;
+}
+body, html{            
+    height:100%;
+}
+.body{
+    font-family: monospace;
+    height:100%;
+}
+.error{
+    color:red;
+}
+.right{
+    width:calc(100% - 300px);
+    height:100%;
+    float:left;
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+.list{
+    max-width:290px;
+    float:left;
+    border-right: 1px solid #c0c0e8;
+    text-wrap: unrestricted;
+    background-color: #ddd;
+}
+.list .item{
+    border-bottom:1px solid #e7e7e7;
+    position: relative;
+    min-height: 46px;
+}
+.link{
+    text-decoration: none;
+}
+.iframe{
+    width:100%;
+    height:100%;
+    zoom: 0.99;
+    -moz-transform: scale(0.99);
+    -moz-transform-origin: 0 0;
+    -o-transform: scale(0.99);
+    -o-transform-origin: 0 0;
+    -webkit-transform: scale(0.99);
+    -webkit-transform-origin: 0 0;
+}
+.row1{
+    background-color:#f4f5ff;
+}
+.row2{
+    background-color:#f6fef7;
+}
+.item.selected{
+    background-color:#f0d475;
+}
+.item .is-firstscreen{
+    color: red;
+    font-size: 18px;
+    font-family: fangsong;
+}
+.item .infomation{
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: auto;
+    background: #b0ffe4ad;
+}
+.item .idx-number{
+    color: #858585;
+}
+.item .hash-number{
+    color: #858585;
+}

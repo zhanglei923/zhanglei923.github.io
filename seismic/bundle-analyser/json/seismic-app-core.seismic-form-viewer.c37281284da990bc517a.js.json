@@ -1,0 +1,80 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-app-core.seismic-form-viewer.c37281284da990bc517a.js",
+      "totalBytes": 44316,
+      "mappedBytes": 44077,
+      "unmappedBytes": 152,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 85,
+      "files": {
+        "webpack://seismic-app-core/node_modules/classnames/index.js": {
+          "size": 905
+        },
+        "webpack://seismic-app-core/src/FormViewer/FormActions/index.jsx": {
+          "size": 3709
+        },
+        "webpack://seismic-app-core/src/FormViewer/FormContent/index.jsx": {
+          "size": 7293
+        },
+        "webpack://seismic-app-core/src/FormViewer/FormInstanceActions/index.jsx": {
+          "size": 3853
+        },
+        "webpack://seismic-app-core/src/FormViewer/FormPagination/index.jsx": {
+          "size": 5652
+        },
+        "webpack://seismic-app-core/src/FormViewer/InnerFormViewer/index.jsx": {
+          "size": 9155
+        },
+        "webpack://seismic-app-core/src/FormViewer/core/i18n/index.js": {
+          "size": 1254
+        },
+        "webpack://seismic-app-core/src/FormViewer/core/index.jsx": {
+          "size": 375
+        },
+        "webpack://seismic-app-core/src/FormViewer/index.jsx": {
+          "size": 5738
+        },
+        "webpack://seismic-app-core/src/common/i18n.js": {
+          "size": 388
+        },
+        "webpack://seismic-app-core/external assign \"PropTypes\"": {
+          "size": 51
+        },
+        "webpack://seismic-app-core/external assign \"React\"": {
+          "size": 47
+        },
+        "webpack://seismic-app-core/external assign \"__global_module_registers__[\\\"seismic-common\\\"]\"": {
+          "size": 87
+        },
+        "webpack://seismic-app-core/external assign \"__global_module_registers__[\\\"seismic-toolkit\\\"]\"": {
+          "size": 4963
+        },
+        "webpack://seismic-app-core/webpack/bootstrap": {
+          "size": 122
+        },
+        "webpack://seismic-app-core/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://seismic-app-core/webpack/runtime/publicPath": {
+          "size": 16
+        },
+        "webpack://seismic-app-core/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 131
+        },
+        "webpack://seismic-app-core/src/FormViewer/entry.js": {
+          "size": 163
+        },
+        "[sourceMappingURL]": {
+          "size": 85
+        },
+        "[unmapped]": {
+          "size": 152
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

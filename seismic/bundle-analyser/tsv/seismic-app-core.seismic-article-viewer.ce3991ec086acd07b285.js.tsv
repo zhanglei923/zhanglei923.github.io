@@ -1,0 +1,27 @@
+Source	Size
+[no source]	5966
+webpack://seismic-app-core/src/common/ReactDynamicLoader.jsx	4129
+webpack://seismic-app-core/src/ArticleViewer/index.jsx	4085
+webpack://seismic-app-core/src/common/loadModules/script.js	1208
+webpack://seismic-app-core/src/ArticleViewer/ArticleSDK/index.jsx	1068
+webpack://seismic-app-core/src/ArticleViewer/core/errorHandler/index.js	824
+webpack://seismic-app-core/src/ArticleViewer/core/i18n/index.js	744
+webpack://seismic-app-core/src/common/loadModules/index.js	643
+webpack://seismic-app-core/src/common/loadModules/stylesheet.js	387
+webpack://seismic-app-core/src/common/loadModules/tryModule.js	384
+webpack://seismic-app-core/src/ArticleViewer/core/apiClient/index.js	285
+webpack://seismic-app-core/src/common/i18n.js	230
+webpack://seismic-app-core/src/ArticleViewer/core/i18n/local-data/en-US.js	157
+webpack://seismic-app-core/src/ArticleViewer/core/i18n/local-data/zh-CN.js	157
+[unmapped]	141
+webpack://seismic-app-core/webpack/bootstrap	122
+webpack://seismic-app-core/src/ArticleViewer/core/dialogHelper/index.js	106
+webpack://seismic-app-core/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js	103
+[sourceMappingURL]	88
+webpack://seismic-app-core/src/ArticleViewer/entry.js	69
+webpack://seismic-app-core/external assign "__global_module_registers__[\"seismic-toolkit\"]"	56
+webpack://seismic-app-core/external assign "__global_module_registers__[\"seismic-common\"]"	55
+webpack://seismic-app-core/external assign "PropTypes"	19
+webpack://seismic-app-core/external assign "React"	15
+webpack://seismic-app-core/webpack/runtime/publicPath	7
+[EOLs]	1

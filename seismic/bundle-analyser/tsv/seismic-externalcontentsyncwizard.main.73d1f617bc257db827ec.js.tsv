@@ -1,0 +1,101 @@
+Source	Size
+webpack://seismic-externalcontentsyncwizard/src/common/dataHelper/api/apiSwagger.json	14979
+webpack://seismic-externalcontentsyncwizard/src/views/SyncContentTaskSettings/index.jsx	13027
+webpack://seismic-externalcontentsyncwizard/src/entry.jsx	12519
+webpack://seismic-externalcontentsyncwizard/src/common/dataHelper/externalContentService.js	8503
+webpack://seismic-externalcontentsyncwizard/src/components/UserSelector/TransferWidget.jsx	7575
+webpack://seismic-externalcontentsyncwizard/src/views/RSSPicker/components/RSSFeedData/index.jsx	6968
+webpack://seismic-externalcontentsyncwizard/src/views/SyncContent/index.jsx	6704
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/ru-RU.js	6553
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/ja-jp.js	6126
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/fr-CA.js	6091
+webpack://seismic-externalcontentsyncwizard/src/components/BreadCrumb/index.jsx	5975
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/fr-fr.js	5914
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/ko-kr.js	5791
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/es-es.js	5786
+webpack://seismic-externalcontentsyncwizard/src/views/SyncContentType/index.jsx	5786
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/pt-br.js	5740
+webpack://seismic-externalcontentsyncwizard/src/views/RSSPicker/components/PublishingTarget/index.jsx	5685
+webpack://seismic-externalcontentsyncwizard/src/components/GridView/index.jsx	5682
+webpack://seismic-externalcontentsyncwizard/src/views/GoogleContentPicker/index.jsx	5526
+webpack://seismic-externalcontentsyncwizard/src/components/pagination/index.jsx	5431
+webpack://seismic-externalcontentsyncwizard/src/components/UserSelector/UserTransfer.jsx	5425
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/en-gb.js	5258
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/de-de.js	5155
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/zh-CN.js	5086
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/en-us.js	5078
+webpack://seismic-externalcontentsyncwizard/src/views/RSSPicker/components/RSSModal/index.jsx	4960
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/it-IT.js	4942
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/nl-NL.js	4816
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/tr-TR.js	4811
+webpack://seismic-externalcontentsyncwizard/src/components/ContentPicker/index.jsx	4765
+webpack://seismic-externalcontentsyncwizard/src/views/AppRegExtensionPicker/index.jsx	4659
+webpack://seismic-externalcontentsyncwizard/src/views/SyncContentTaskSettings/sub/MappingEntry.jsx	4652
+webpack://seismic-externalcontentsyncwizard/src/views/RSSPicker/components/KeywordFilters/index.jsx	4595
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/id-ID.js	4532
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/locale-data/zh-tw.js	4523
+webpack://seismic-externalcontentsyncwizard/src/views/SelectConnection/index.jsx	4128
+webpack://seismic-externalcontentsyncwizard/src/views/RSSPicker/components/CheckBox/index.jsx	4037
+webpack://seismic-externalcontentsyncwizard/src/views/SyncContentTaskSettings/sub/SettingItem.jsx	3978
+webpack://seismic-externalcontentsyncwizard/src/components/GridView/sub/GridRow.jsx	3965
+webpack://seismic-externalcontentsyncwizard/src/components/ContentPicker/ListItem.jsx	3962
+webpack://seismic-externalcontentsyncwizard/src/components/UserSelector/SelectableItem.jsx	3920
+webpack://seismic-externalcontentsyncwizard/src/views/RSSPicker/components/Steps/Step.jsx	3917
+webpack://seismic-externalcontentsyncwizard/src/components/SchemaProcess.jsx	3769
+webpack://seismic-externalcontentsyncwizard/src/components/UserSelector/index.jsx	3528
+webpack://seismic-externalcontentsyncwizard/src/views/RSSPicker/components/FooterButton/index.jsx	3480
+webpack://seismic-externalcontentsyncwizard/src/views/DirectSelectConnection/index.jsx	3279
+webpack://seismic-externalcontentsyncwizard/src/components/Protrait/index.jsx	3180
+webpack://seismic-externalcontentsyncwizard/src/components/ContentPicker/List.jsx	3162
+webpack://seismic-externalcontentsyncwizard/src/components/StepBar/index.jsx	3036
+webpack://seismic-externalcontentsyncwizard/src/views/RSSPicker/index.jsx	2999
+webpack://seismic-externalcontentsyncwizard/src/views/RSSPicker/components/Steps/index.jsx	2998
+webpack://seismic-externalcontentsyncwizard/src/common/dataHelper/index.js	2863
+webpack://seismic-externalcontentsyncwizard/src/components/BreadCrumb/breadNode.jsx	2816
+webpack://seismic-externalcontentsyncwizard/src/components/GridView/sub/Checkbox.jsx	2798
+webpack://seismic-externalcontentsyncwizard/src/views/SyncContentType/syncContentTypeUtils.js	2786
+webpack://seismic-externalcontentsyncwizard/src/views/RSSPicker/components/Input/index.jsx	2702
+webpack://seismic-externalcontentsyncwizard/src/views/SyncContentTaskSettings/ContentSettingUtil.js	2694
+webpack://seismic-externalcontentsyncwizard/src/common/commonErrorHandler.js	2605
+webpack://seismic-externalcontentsyncwizard/src/components/ContentPicker/Header.jsx	2510
+webpack://seismic-externalcontentsyncwizard/src/views/SelectConnection/syncContentUtils.js	2367
+webpack://seismic-externalcontentsyncwizard/src/common/commonUtils.js	2198
+webpack://seismic-externalcontentsyncwizard/src/components/Layout/index.jsx	2194
+webpack://seismic-externalcontentsyncwizard/src/views/index.jsx	1999
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/without-translate/en.js	1977
+webpack://seismic-externalcontentsyncwizard/src/configs/details/updateSyncSettingsProcessConfig.js	1925
+webpack://seismic-externalcontentsyncwizard/external assign "ReactCustomScrollbars"	1834
+webpack://seismic-externalcontentsyncwizard/src/views/RSSPicker/constants.js	1574
+webpack://seismic-externalcontentsyncwizard/src/configs/details/createSyncWithoutStartingType.js	1571
+webpack://seismic-externalcontentsyncwizard/src/views/SyncContent/syncContentUtils.jsx	1561
+webpack://seismic-externalcontentsyncwizard/src/views/RSSPicker/components/KeywordFilters/Filter.jsx	1493
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/translate.js	1372
+webpack://seismic-externalcontentsyncwizard/src/components/Layout/BaseDiv.jsx	1292
+webpack://seismic-externalcontentsyncwizard/src/views/RSSPicker/Core/index.js	1198
+webpack://seismic-externalcontentsyncwizard/external assign "ReactDOM"	1097
+webpack://seismic-externalcontentsyncwizard/src/common/constant.js	849
+webpack://seismic-externalcontentsyncwizard/src/views/RSSPicker/Core/DataManager.js	825
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/without-translate/zh.js	760
+webpack://seismic-externalcontentsyncwizard/external assign "__global_module_registers__[\"seismic-common\"]"	709
+webpack://seismic-externalcontentsyncwizard/src/common/dataHelper/api/schema/externalContent-v1.json	657
+webpack://seismic-externalcontentsyncwizard/src/common/dataHelper/api/index.js	631
+webpack://seismic-externalcontentsyncwizard/src/configs/details/createSyncSettingsProcessConfig.js	458
+webpack://seismic-externalcontentsyncwizard/node_modules/classnames/index.js	426
+webpack://seismic-externalcontentsyncwizard/src/views/RSSPicker/components/RSSModal/dialog.js	417
+webpack://seismic-externalcontentsyncwizard/src/common/dataHelper/apiHandler.js	350
+webpack://seismic-externalcontentsyncwizard/src/common/i18n/lang.js	247
+webpack://seismic-externalcontentsyncwizard/webpack/runtime/make namespace object	175
+webpack://seismic-externalcontentsyncwizard/node_modules/@seismic/toolchain-scripts/webpack/setPublicPath.js	173
+[unmapped]	153
+webpack://seismic-externalcontentsyncwizard/webpack/bootstrap	122
+webpack://seismic-externalcontentsyncwizard/webpack/runtime/compat get default export	111
+webpack://seismic-externalcontentsyncwizard/webpack/runtime/define property getters	107
+[sourceMappingURL]	87
+webpack://seismic-externalcontentsyncwizard/src/configs/index.js	82
+webpack://seismic-externalcontentsyncwizard/webpack/runtime/hasOwnProperty shorthand	68
+webpack://seismic-externalcontentsyncwizard/external assign "__global_module_registers__[\"seismic-toolkit\"]"	58
+webpack://seismic-externalcontentsyncwizard/external assign "PropTypes"	25
+webpack://seismic-externalcontentsyncwizard/src/common/featureFlag.js	18
+webpack://seismic-externalcontentsyncwizard/external assign "React"	17
+webpack://seismic-externalcontentsyncwizard/webpack/runtime/publicPath	16
+[EOLs]	2

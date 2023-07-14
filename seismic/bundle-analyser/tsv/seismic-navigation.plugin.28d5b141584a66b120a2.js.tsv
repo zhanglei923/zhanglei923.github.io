@@ -1,0 +1,55 @@
+Source	Size
+webpack://seismic-navigation/node_modules/i18next/dist/esm/i18next.js	52161
+webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/lib/parser.js	16484
+webpack://seismic-navigation/src/PluginsModal/index.jsx	8006
+[no source]	5211
+webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/lib/time-data.generated.js	5077
+webpack://seismic-navigation/node_modules/@formatjs/icu-skeleton-parser/lib/number.js	4323
+webpack://seismic-navigation/node_modules/intl-messageformat/lib/src/core.js	3264
+webpack://seismic-navigation/node_modules/i18next-icu/dist/es/index.js	2301
+webpack://seismic-navigation/node_modules/intl-messageformat/lib/src/formatters.js	2183
+webpack://seismic-navigation/node_modules/@formatjs/icu-skeleton-parser/lib/date-time.js	2122
+webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/lib/error.js	1680
+webpack://seismic-navigation/node_modules/intl-messageformat/node_modules/tslib/tslib.es6.mjs	1271
+webpack://seismic-navigation/src/PluginsModal/i18n/translate.js	1167
+webpack://seismic-navigation/node_modules/@formatjs/fast-memoize/lib/index.js	950
+webpack://seismic-navigation/node_modules/intl-messageformat/lib/src/error.js	923
+webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/lib/types.js	801
+webpack://seismic-navigation/src/PluginsModal/component/customHover.jsx	757
+webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/lib/date-time-pattern-generator.js	623
+[unmapped]	595
+webpack://seismic-navigation/node_modules/i18next-icu/dist/es/utils.js	545
+webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/lib/index.js	536
+webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js	310
+webpack://seismic-navigation/node_modules/@formatjs/icu-skeleton-parser/node_modules/tslib/tslib.es6.mjs	299
+webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/node_modules/tslib/tslib.es6.mjs	295
+webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js	284
+webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/typeof.js	230
+webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/inherits.js	228
+webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/createClass.js	223
+webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js	177
+webpack://seismic-navigation/webpack/runtime/make namespace object	175
+webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js	172
+webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js	130
+webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js	123
+webpack://seismic-navigation/webpack/bootstrap	122
+webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/defineProperty.js	120
+webpack://seismic-navigation/webpack/runtime/define property getters	107
+webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js	106
+webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/classCallCheck.js	94
+webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js	93
+[sourceMappingURL]	74
+webpack://seismic-navigation/webpack/runtime/hasOwnProperty shorthand	68
+webpack://seismic-navigation/node_modules/@formatjs/icu-messageformat-parser/lib/regex.generated.js	54
+webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/slicedToArray.js	43
+webpack://seismic-navigation/node_modules/@formatjs/icu-skeleton-parser/lib/regex.generated.js	43
+webpack://seismic-navigation/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js	41
+webpack://seismic-navigation/node_modules/@seismic/toolchain-scripts/webpack/importmap/setPublicPathTemplate.js	24
+webpack://seismic-navigation/webpack/startup	16
+webpack://seismic-navigation/external system "seismic-common"	14
+webpack://seismic-navigation/external system "@seismic/mantle"	13
+webpack://seismic-navigation/external system "react"	13
+webpack://seismic-navigation/webpack/runtime/publicPath	7
+webpack://seismic-navigation/node_modules/intl-messageformat/lib/index.js	6
+webpack://seismic-navigation/src/PluginsModal/entry.js	3
+[EOLs]	1

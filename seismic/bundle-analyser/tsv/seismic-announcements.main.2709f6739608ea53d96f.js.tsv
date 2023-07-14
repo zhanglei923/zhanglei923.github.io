@@ -1,0 +1,35 @@
+Source	Size
+webpack://seismic-announcements/node_modules/react-responsive/dist/react-responsive.js	19297
+webpack://seismic-announcements/node_modules/color-convert/conversions.js	8433
+webpack://seismic-announcements/node_modules/color/index.js	6048
+webpack://seismic-announcements/src/components/global-style/index.tsx	5457
+webpack://seismic-announcements/node_modules/color-name/index.js	3427
+webpack://seismic-announcements/node_modules/color-string/index.js	3192
+webpack://seismic-announcements/node_modules/create-react-context/lib/implementation.js	2646
+webpack://seismic-announcements/src/components/mobile-app-wrapper/index.tsx	2597
+webpack://seismic-announcements/src/page/announcements-entry-page/index.tsx	1527
+webpack://seismic-announcements/node_modules/color-convert/index.js	747
+webpack://seismic-announcements/node_modules/color-convert/route.js	729
+webpack://seismic-announcements/src/components/mantle-wrapper/index.tsx	568
+webpack://seismic-announcements/external assign "__global_module_registers__[\"@seismic/mantle\"]"	295
+webpack://seismic-announcements/node_modules/simple-swizzle/index.js	260
+webpack://seismic-announcements/node_modules/simple-swizzle/node_modules/is-arrayish/index.js	248
+webpack://seismic-announcements/node_modules/create-react-context/lib/index.js	194
+webpack://seismic-announcements/webpack/runtime/make namespace object	175
+webpack://seismic-announcements/webpack/runtime/global	165
+webpack://seismic-announcements/dist/assets/setPublicPathForStandaloneLoader.js	157
+webpack://seismic-announcements/src/components/responsive-wrapper/index.tsx	143
+[unmapped]	143
+webpack://seismic-announcements/webpack/bootstrap	137
+webpack://seismic-announcements/webpack/runtime/compat get default export	111
+webpack://seismic-announcements/webpack/runtime/define property getters	107
+webpack://seismic-announcements/node_modules/gud/index.js	100
+[sourceMappingURL]	75
+webpack://seismic-announcements/external assign "__global_module_registers__[\"styled-components\"]"	69
+webpack://seismic-announcements/webpack/runtime/hasOwnProperty shorthand	68
+webpack://seismic-announcements/src/constants/index.ts	67
+webpack://seismic-announcements/node_modules/warning/warning.js	53
+webpack://seismic-announcements/external assign "PropTypes"	50
+webpack://seismic-announcements/external assign "React"	18
+webpack://seismic-announcements/webpack/runtime/publicPath	16
+[EOLs]	2

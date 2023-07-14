@@ -1,0 +1,21 @@
+Source	Size
+webpack://seismic-toolkit/node_modules/react-transition-group/TransitionGroup.js	4016
+webpack://seismic-toolkit/node_modules/react-transition-group/CSSTransitionGroupChild.js	3354
+webpack://seismic-toolkit/node_modules/seismic-react-ellipsis-text/lib/components/EllipsisText.js	3215
+webpack://seismic-toolkit/node_modules/react-transition-group/CSSTransitionGroup.js	1846
+webpack://seismic-toolkit/node_modules/react-transition-group/node_modules/dom-helpers/transition/properties.js	1595
+[no source]	1158
+webpack://seismic-toolkit/node_modules/react-transition-group/utils/PropTypes.js	885
+webpack://seismic-toolkit/node_modules/react-transition-group/node_modules/dom-helpers/util/requestAnimationFrame.js	585
+webpack://seismic-toolkit/node_modules/react-transition-group/utils/ChildMapping.js	530
+webpack://seismic-toolkit/node_modules/react-transition-group/node_modules/dom-helpers/class/removeClass.js	308
+webpack://seismic-toolkit/node_modules/react-transition-group/node_modules/dom-helpers/class/addClass.js	274
+webpack://seismic-toolkit/node_modules/chain-function/index.js	262
+webpack://seismic-toolkit/node_modules/react-transition-group/node_modules/dom-helpers/class/hasClass.js	179
+webpack://seismic-toolkit/node_modules/react-transition-group/node_modules/dom-helpers/util/inDOM.js	152
+webpack://seismic-toolkit/node_modules/@babel/runtime/helpers/interopRequireDefault.js	113
+[unmapped]	102
+[sourceMappingURL]	68
+webpack://seismic-toolkit/node_modules/react-transition-group/node_modules/warning/browser.js	24
+webpack://seismic-toolkit/node_modules/seismic-react-ellipsis-text/index.js	19
+[EOLs]	1

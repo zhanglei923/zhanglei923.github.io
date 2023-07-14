@@ -1,0 +1,977 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-admin-settings.tsModuleExport.0cc09b74dca7f3f02262.js",
+      "totalBytes": 1461293,
+      "mappedBytes": 1461049,
+      "unmappedBytes": 156,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 86,
+      "files": {
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/regenerator/index.js": {
+          "size": 53
+        },
+        "webpack://seismic-admin-settings/node_modules/base64-js/index.js": {
+          "size": 1399
+        },
+        "webpack://seismic-admin-settings/node_modules/buffer/index.js": {
+          "size": 25050
+        },
+        "webpack://seismic-admin-settings/node_modules/classnames/index.js": {
+          "size": 426
+        },
+        "webpack://seismic-admin-settings/node_modules/emitter-component/index.js": {
+          "size": 1233
+        },
+        "webpack://seismic-admin-settings/node_modules/events/events.js": {
+          "size": 6030
+        },
+        "webpack://seismic-admin-settings/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js": {
+          "size": 977
+        },
+        "webpack://seismic-admin-settings/node_modules/hoist-non-react-statics/node_modules/react-is/cjs/react-is.production.min.js": {
+          "size": 2146
+        },
+        "webpack://seismic-admin-settings/node_modules/hoist-non-react-statics/node_modules/react-is/index.js": {
+          "size": 40
+        },
+        "webpack://seismic-admin-settings/node_modules/ieee754/index.js": {
+          "size": 890
+        },
+        "webpack://seismic-admin-settings/node_modules/lodash/lodash.js": {
+          "size": 70709
+        },
+        "webpack://seismic-admin-settings/node_modules/path-to-regexp/index.js": {
+          "size": 3168
+        },
+        "webpack://seismic-admin-settings/node_modules/path-to-regexp/node_modules/isarray/index.js": {
+          "size": 134
+        },
+        "webpack://seismic-admin-settings/node_modules/react-router/node_modules/react-is/cjs/react-is.production.min.js": {
+          "size": 658
+        },
+        "webpack://seismic-admin-settings/node_modules/react-router/node_modules/react-is/index.js": {
+          "size": 28
+        },
+        "webpack://seismic-admin-settings/node_modules/regenerator-runtime/runtime.js": {
+          "size": 6659
+        },
+        "webpack://seismic-admin-settings/node_modules/sax/lib/sax.js": {
+          "size": 18987
+        },
+        "webpack://seismic-admin-settings/node_modules/stream/index.js": {
+          "size": 813
+        },
+        "webpack://seismic-admin-settings/node_modules/string_decoder/lib/string_decoder.js": {
+          "size": 3543
+        },
+        "webpack://seismic-admin-settings/node_modules/string_decoder/node_modules/safe-buffer/index.js": {
+          "size": 738
+        },
+        "webpack://seismic-admin-settings/node_modules/timers/index.js": {
+          "size": 597
+        },
+        "webpack://seismic-admin-settings/node_modules/void-elements/index.js": {
+          "size": 145
+        },
+        "webpack://seismic-admin-settings/node_modules/xml2js/lib/bom.js": {
+          "size": 124
+        },
+        "webpack://seismic-admin-settings/node_modules/xml2js/lib/builder.js": {
+          "size": 1590
+        },
+        "webpack://seismic-admin-settings/node_modules/xml2js/lib/defaults.js": {
+          "size": 992
+        },
+        "webpack://seismic-admin-settings/node_modules/xml2js/lib/parser.js": {
+          "size": 6185
+        },
+        "webpack://seismic-admin-settings/node_modules/xml2js/lib/processors.js": {
+          "size": 454
+        },
+        "webpack://seismic-admin-settings/node_modules/xml2js/lib/xml2js.js": {
+          "size": 510
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/DocumentPosition.js": {
+          "size": 147
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/NodeType.js": {
+          "size": 312
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/Utility.js": {
+          "size": 1088
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/WriterState.js": {
+          "size": 100
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLAttribute.js": {
+          "size": 1503
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLCData.js": {
+          "size": 657
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLCharacterData.js": {
+          "size": 1412
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLComment.js": {
+          "size": 660
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLDOMConfiguration.js": {
+          "size": 886
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLDOMErrorHandler.js": {
+          "size": 147
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLDOMImplementation.js": {
+          "size": 532
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLDOMStringList.js": {
+          "size": 315
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLDTDAttList.js": {
+          "size": 1334
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLDTDElement.js": {
+          "size": 705
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLDTDEntity.js": {
+          "size": 1846
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLDTDNotation.js": {
+          "size": 1015
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLDeclaration.js": {
+          "size": 737
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLDocType.js": {
+          "size": 2599
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLDocument.js": {
+          "size": 4777
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLDocumentCB.js": {
+          "size": 9149
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLDummy.js": {
+          "size": 460
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLElement.js": {
+          "size": 5431
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLNamedNodeMap.js": {
+          "size": 905
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLNode.js": {
+          "size": 12534
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLNodeList.js": {
+          "size": 308
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLProcessingInstruction.js": {
+          "size": 873
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLRaw.js": {
+          "size": 624
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLStreamWriter.js": {
+          "size": 3655
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLStringWriter.js": {
+          "size": 573
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLStringifier.js": {
+          "size": 4415
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLText.js": {
+          "size": 1238
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/XMLWriterBase.js": {
+          "size": 7093
+        },
+        "webpack://seismic-admin-settings/node_modules/xmlbuilder/lib/index.js": {
+          "size": 36492
+        },
+        "webpack://seismic-admin-settings/webpack/bootstrap": {
+          "size": 164
+        },
+        "webpack://seismic-admin-settings/webpack/runtime/compat get default export": {
+          "size": 111
+        },
+        "webpack://seismic-admin-settings/webpack/runtime/define property getters": {
+          "size": 107
+        },
+        "webpack://seismic-admin-settings/webpack/runtime/global": {
+          "size": 165
+        },
+        "webpack://seismic-admin-settings/webpack/runtime/hasOwnProperty shorthand": {
+          "size": 68
+        },
+        "webpack://seismic-admin-settings/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://seismic-admin-settings/webpack/runtime/node module decorator": {
+          "size": 67
+        },
+        "webpack://seismic-admin-settings/webpack/runtime/publicPath": {
+          "size": 16
+        },
+        "webpack://seismic-admin-settings/node_modules/@seismic/toolchain-scripts/webpack/setPublicPath.js": {
+          "size": 127
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/extends.js": {
+          "size": 254
+        },
+        "webpack://seismic-admin-settings/external assign \"__global_module_registers__[\\\"@seismic/skeletons\\\"]\"": {
+          "size": 50
+        },
+        "webpack://seismic-admin-settings/external assign \"React\"": {
+          "size": 21
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js": {
+          "size": 106
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js": {
+          "size": 286
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/slicedToArray.js": {
+          "size": 46
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js": {
+          "size": 41
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js": {
+          "size": 310
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js": {
+          "size": 172
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js": {
+          "size": 316
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/classCallCheck.js": {
+          "size": 94
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/createClass.js": {
+          "size": 223
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js": {
+          "size": 93
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/inherits.js": {
+          "size": 228
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/typeof.js": {
+          "size": 230
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js": {
+          "size": 123
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js": {
+          "size": 177
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js": {
+          "size": 154
+        },
+        "webpack://seismic-admin-settings/external assign \"PropTypes\"": {
+          "size": 21
+        },
+        "webpack://seismic-admin-settings/external assign \"__global_module_registers__[\\\"seismic-common\\\"]\"": {
+          "size": 48
+        },
+        "webpack://seismic-admin-settings/external assign \"__global_module_registers__[\\\"seismic-toolkit\\\"]\"": {
+          "size": 58
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/defineProperty.js": {
+          "size": 120
+        },
+        "webpack://seismic-admin-settings/src/service/UnificationService.ts": {
+          "size": 1841
+        },
+        "webpack://seismic-admin-settings/src/service/PermissionServiceHelper.ts": {
+          "size": 1530
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/toConsumableArray.js": {
+          "size": 40
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js": {
+          "size": 44
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/iterableToArray.js": {
+          "size": 112
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/nonIterableSpread.js": {
+          "size": 167
+        },
+        "webpack://seismic-admin-settings/external assign \"__global_module_registers__[\\\"@seismic/mantle\\\"]\"": {
+          "size": 53
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral.js": {
+          "size": 114
+        },
+        "webpack://seismic-admin-settings/external assign \"__global_module_registers__[\\\"styled-components\\\"]\"": {
+          "size": 66
+        },
+        "webpack://seismic-admin-settings/src/component/AlignCenterContainer/index.tsx": {
+          "size": 141
+        },
+        "webpack://seismic-admin-settings/src/utils/getPageComponent.tsx": {
+          "size": 1510
+        },
+        "webpack://seismic-admin-settings/src/utils/packageLoaders.ts": {
+          "size": 104
+        },
+        "webpack://seismic-admin-settings/src/apps/featureFlag.js": {
+          "size": 753
+        },
+        "webpack://seismic-admin-settings/src/utils/menusHelper.ts": {
+          "size": 2882
+        },
+        "webpack://seismic-admin-settings/src/utils/userUtil.ts": {
+          "size": 1680
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js": {
+          "size": 88
+        },
+        "webpack://seismic-admin-settings/node_modules/resolve-pathname/esm/resolve-pathname.js": {
+          "size": 615
+        },
+        "webpack://seismic-admin-settings/node_modules/value-equal/esm/value-equal.js": {
+          "size": 433
+        },
+        "webpack://seismic-admin-settings/node_modules/history/esm/history.js": {
+          "size": 1040
+        },
+        "webpack://seismic-admin-settings/node_modules/tiny-invariant/dist/esm/tiny-invariant.js": {
+          "size": 219
+        },
+        "webpack://seismic-admin-settings/node_modules/react-router/esm/react-router.js": {
+          "size": 3978
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/objectSpread.js": {
+          "size": 339
+        },
+        "webpack://seismic-admin-settings/node_modules/i18next/dist/esm/i18next.js": {
+          "size": 41891
+        },
+        "webpack://seismic-admin-settings/node_modules/react-i18next/dist/es/unescape.js": {
+          "size": 434
+        },
+        "webpack://seismic-admin-settings/node_modules/react-i18next/dist/es/context.js": {
+          "size": 1259
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js": {
+          "size": 268
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js": {
+          "size": 132
+        },
+        "webpack://seismic-admin-settings/node_modules/html-parse-stringify/dist/html-parse-stringify.module.js": {
+          "size": 2064
+        },
+        "webpack://seismic-admin-settings/node_modules/react-i18next/dist/es/utils.js": {
+          "size": 395
+        },
+        "webpack://seismic-admin-settings/node_modules/react-i18next/dist/es/Trans.js": {
+          "size": 5574
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/get.js": {
+          "size": 209
+        },
+        "webpack://seismic-admin-settings/node_modules/@babel/runtime/helpers/esm/superPropBase.js": {
+          "size": 90
+        },
+        "webpack://seismic-admin-settings/node_modules/i18next-xhr-backend/dist/esm/i18nextXHRBackend.js": {
+          "size": 2616
+        },
+        "webpack://seismic-admin-settings/src/i18n/i18n-plugin/getSeismicCDN-plugin.js": {
+          "size": 887
+        },
+        "webpack://seismic-admin-settings/src/i18n/locale-data/en.js": {
+          "size": 202144
+        },
+        "webpack://seismic-admin-settings/src/i18n/translate.js": {
+          "size": 1203
+        },
+        "webpack://seismic-admin-settings/external assign \"ReactCustomScrollbars\"": {
+          "size": 36
+        },
+        "webpack://seismic-admin-settings/src/common/keyBoardHandlers.js": {
+          "size": 605
+        },
+        "webpack://seismic-admin-settings/src/component/sidebar/SingleTab.jsx": {
+          "size": 1162
+        },
+        "webpack://seismic-admin-settings/src/component/sidebar/SidebarGroup.jsx": {
+          "size": 1853
+        },
+        "webpack://seismic-admin-settings/src/component/sidebar/Sidebar.jsx": {
+          "size": 1298
+        },
+        "webpack://seismic-admin-settings/src/new-entry/menu/Menu.tsx": {
+          "size": 644
+        },
+        "webpack://seismic-admin-settings/src/new-entry/menu/index.ts": {
+          "size": 3
+        },
+        "webpack://seismic-admin-settings/src/new-entry/pluggable-ui/pageGateway/index.tsx": {
+          "size": 667
+        },
+        "webpack://seismic-admin-settings/src/context/PluggableUIContext.ts": {
+          "size": 683
+        },
+        "webpack://seismic-admin-settings/src/new-entry/admin-setting-wrapper/index.tsx": {
+          "size": 2707
+        },
+        "webpack://seismic-admin-settings/src/hooks/usePluggableUIContext.ts": {
+          "size": 20
+        },
+        "webpack://seismic-admin-settings/src/hooks/useEntitlementUserPermissions.ts": {
+          "size": 47
+        },
+        "webpack://seismic-admin-settings/src/new-entry/AdminSettingEntry.tsx": {
+          "size": 1038
+        },
+        "webpack://seismic-admin-settings/src/component/breadcrumb/breadcrumb.jsx": {
+          "size": 1443
+        },
+        "webpack://seismic-admin-settings/src/common/setDialogProps.js": {
+          "size": 418
+        },
+        "webpack://seismic-admin-settings/src/component/dropdown/removeableDropdown/index.jsx": {
+          "size": 841
+        },
+        "webpack://seismic-admin-settings/src/component/dropdown/DropdownList.jsx": {
+          "size": 1471
+        },
+        "webpack://seismic-admin-settings/src/common/permissionChecker.js": {
+          "size": 225
+        },
+        "webpack://seismic-admin-settings/src/common/validateUtil.js": {
+          "size": 747
+        },
+        "webpack://seismic-admin-settings/src/common/FeatureToggleKeys.js": {
+          "size": 525
+        },
+        "webpack://seismic-admin-settings/src/common/constant.js": {
+          "size": 1173
+        },
+        "webpack://seismic-admin-settings/src/common/fmsFeatureToggleHelper.js": {
+          "size": 1598
+        },
+        "webpack://seismic-admin-settings/src/constant/index.ts": {
+          "size": 18
+        },
+        "webpack://seismic-admin-settings/src/context/SettingGlobalContext.ts": {
+          "size": 25
+        },
+        "webpack://seismic-admin-settings/src/pages/index.jsx": {
+          "size": 14594
+        },
+        "webpack://seismic-admin-settings/src/utils/userV1V2Helper.ts": {
+          "size": 254128
+        },
+        "webpack://seismic-admin-settings/src/service/swagger/index.js": {
+          "size": 1709
+        },
+        "webpack://seismic-admin-settings/src/common/fileDownloadHelper.js": {
+          "size": 244
+        },
+        "webpack://seismic-admin-settings/src/common/AppHelper.js": {
+          "size": 791
+        },
+        "webpack://seismic-admin-settings/src/service/AdminSettingsService.js": {
+          "size": 162323
+        },
+        "webpack://seismic-admin-settings/src/component/gridview/Sort.js": {
+          "size": 784
+        },
+        "webpack://seismic-admin-settings/src/common/generateIdUtil.js": {
+          "size": 446
+        },
+        "webpack://seismic-admin-settings/src/common/ASUtils.js": {
+          "size": 2533
+        },
+        "webpack://seismic-admin-settings/src/service/SearchService.js": {
+          "size": 5727
+        },
+        "webpack://seismic-admin-settings/src/common/dasToggleKeys.js": {
+          "size": 172
+        },
+        "webpack://seismic-admin-settings/external assign \"__global_module_registers__[\\\"@seismic/mantle-datagrid\\\"]\"": {
+          "size": 59
+        },
+        "webpack://seismic-admin-settings/src/pages/customPropsV2/toggle-helper.js": {
+          "size": 544
+        },
+        "webpack://seismic-admin-settings/src/pages/entry.jsx": {
+          "size": 8438
+        },
+        "webpack://seismic-admin-settings/src/common/datagridLicenseManager.js": {
+          "size": 380
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteContentId/contentIdUtil.js": {
+          "size": 951
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteContentId/SettingItem.jsx": {
+          "size": 1661
+        },
+        "webpack://seismic-admin-settings/src/component/globalstyle/notification/BaseNotification.jsx": {
+          "size": 1415
+        },
+        "webpack://seismic-admin-settings/src/component/globalstyle/notification/AutoPromptNotification.jsx": {
+          "size": 1163
+        },
+        "webpack://seismic-admin-settings/src/component/globalstyle/constant.js": {
+          "size": 12
+        },
+        "webpack://seismic-admin-settings/src/component/globalstyle/index.js": {
+          "size": 25
+        },
+        "webpack://seismic-admin-settings/src/component/tabview/TabItem.jsx": {
+          "size": 1086
+        },
+        "webpack://seismic-admin-settings/src/component/tabview/TabView.jsx": {
+          "size": 1068
+        },
+        "webpack://seismic-admin-settings/src/common/BrandingDataHelper.js": {
+          "size": 484
+        },
+        "webpack://seismic-admin-settings/src/component/hoc/EnhanceASContentUtil.js": {
+          "size": 1105
+        },
+        "webpack://seismic-admin-settings/src/common/defaultMessageConfig.js": {
+          "size": 2061
+        },
+        "webpack://seismic-admin-settings/src/component/hoc/EnhanceASContent.jsx": {
+          "size": 5562
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteContentId/teamSiteContentIdContainer.jsx": {
+          "size": 4556
+        },
+        "webpack://seismic-admin-settings/src/pages/emailTemplate/DataUtils.jsx": {
+          "size": 747
+        },
+        "webpack://seismic-admin-settings/src/pages/emailTemplate/EmailTemplateContainer.jsx": {
+          "size": 3630
+        },
+        "webpack://seismic-admin-settings/src/component/hoc/TeamsiteDataFetchWrapper.jsx": {
+          "size": 989
+        },
+        "webpack://seismic-admin-settings/src/component/gridview/Checkbox.jsx": {
+          "size": 1103
+        },
+        "webpack://seismic-admin-settings/src/context/TrimValueContext.js": {
+          "size": 29
+        },
+        "webpack://seismic-admin-settings/src/component/inlineEditor/InlineEditor.jsx": {
+          "size": 4575
+        },
+        "webpack://seismic-admin-settings/src/component/editableDropdown/EditableDropdownListItem.jsx": {
+          "size": 1018
+        },
+        "webpack://seismic-admin-settings/src/component/editableDropdown/EditableDropdown.jsx": {
+          "size": 3401
+        },
+        "webpack://seismic-admin-settings/src/component/gridview/GridEditableDropdown.jsx": {
+          "size": 1175
+        },
+        "webpack://seismic-admin-settings/src/component/DropdownWithInput/index.jsx": {
+          "size": 1522
+        },
+        "webpack://seismic-admin-settings/src/component/gridview/GridToggle.jsx": {
+          "size": 1077
+        },
+        "webpack://seismic-admin-settings/src/component/gridview/GridDate.jsx": {
+          "size": 1061
+        },
+        "webpack://seismic-admin-settings/src/resource/delete.svg": {
+          "size": 80
+        },
+        "webpack://seismic-admin-settings/src/component/form/form-items/Upload.jsx": {
+          "size": 2444
+        },
+        "webpack://seismic-admin-settings/src/component/form/form-items/NewUpload.jsx": {
+          "size": 1533
+        },
+        "webpack://seismic-admin-settings/src/component/form/index.js": {
+          "size": 32
+        },
+        "webpack://seismic-admin-settings/src/component/gridview/GridRow.jsx": {
+          "size": 9725
+        },
+        "webpack://seismic-admin-settings/src/component/pagination/pagination.jsx": {
+          "size": 3232
+        },
+        "webpack://seismic-admin-settings/src/resource/add.svg": {
+          "size": 77
+        },
+        "webpack://seismic-admin-settings/src/component/button/addTertiaryButton/index.jsx": {
+          "size": 882
+        },
+        "webpack://seismic-admin-settings/src/component/gridview/GridView.jsx": {
+          "size": 10426
+        },
+        "webpack://seismic-admin-settings/src/resource/search.svg": {
+          "size": 80
+        },
+        "webpack://seismic-admin-settings/src/resource/clear-text.svg": {
+          "size": 80
+        },
+        "webpack://seismic-admin-settings/src/component/searchBox/SearchBox.jsx": {
+          "size": 2300
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteMembers/TeamSiteMemberList.jsx": {
+          "size": 3495
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteMembers/teamSiteUtil.js": {
+          "size": 1758
+        },
+        "webpack://seismic-admin-settings/src/component/teamSiteRole/TeamSiteRole.jsx": {
+          "size": 4250
+        },
+        "webpack://seismic-admin-settings/src/component/groupList/GroupList.jsx": {
+          "size": 2664
+        },
+        "webpack://seismic-admin-settings/src/common/DateUtils.js": {
+          "size": 2406
+        },
+        "webpack://seismic-admin-settings/src/component/userList/UserList.jsx": {
+          "size": 4720
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteMembers/TeamSiteRoleLayout.jsx": {
+          "size": 1091
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteMembers/TeamSiteMembersContainer.jsx": {
+          "size": 10396
+        },
+        "webpack://seismic-admin-settings/src/pages/customProperties/TableInfo.jsx": {
+          "size": 2175
+        },
+        "webpack://seismic-admin-settings/src/pages/customProperties/CustomPropertiesConfig.js": {
+          "size": 2971
+        },
+        "webpack://seismic-admin-settings/src/pages/customProperties/DataUtils.jsx": {
+          "size": 6338
+        },
+        "webpack://seismic-admin-settings/src/pages/customProperties/Domain.jsx": {
+          "size": 9804
+        },
+        "webpack://seismic-admin-settings/src/pages/customProperties/CustomPropertiesContainer.jsx": {
+          "size": 13364
+        },
+        "webpack://seismic-admin-settings/src/pages/freestyleTeamSettings/FreestyleMixingRules.jsx": {
+          "size": 7756
+        },
+        "webpack://seismic-admin-settings/src/component/listselector/ListItem.jsx": {
+          "size": 4444
+        },
+        "webpack://seismic-admin-settings/src/component/listselector/ListSelector.jsx": {
+          "size": 5615
+        },
+        "webpack://seismic-admin-settings/src/common/teamsiteRuleBuilder.jsx": {
+          "size": 9642
+        },
+        "webpack://seismic-admin-settings/src/common/formatDataUtils.js": {
+          "size": 1670
+        },
+        "webpack://seismic-admin-settings/src/pages/freestyleTeamSettings/FreestyleEligibleContent/EligibleRulesSettingsUtil.js": {
+          "size": 2279
+        },
+        "webpack://seismic-admin-settings/src/resource/triangle-down.svg": {
+          "size": 662
+        },
+        "webpack://seismic-admin-settings/src/component/schema/schemaFormTable/schemaFormTableUtils.js": {
+          "size": 609
+        },
+        "webpack://seismic-admin-settings/src/component/schema/schemaFormTable/sub/TableHeader.jsx": {
+          "size": 2514
+        },
+        "webpack://seismic-admin-settings/src/component/schema/schemaFormTable/sub/ColumnTitle.jsx": {
+          "size": 306
+        },
+        "webpack://seismic-admin-settings/src/component/Password/index.jsx": {
+          "size": 1321
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/inputText/InputText.jsx": {
+          "size": 1631
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/transfer/TransferItem.jsx": {
+          "size": 1591
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/transfer/TransferPanel.jsx": {
+          "size": 2724
+        },
+        "webpack://seismic-admin-settings/src/resource/move-left.svg": {
+          "size": 83
+        },
+        "webpack://seismic-admin-settings/src/resource/move-right.svg": {
+          "size": 80
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/transfer/TransferOrg.jsx": {
+          "size": 5958
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/transfer/Transfer.jsx": {
+          "size": 1480
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/multiSelect/multiSelectUtil.js": {
+          "size": 799
+        },
+        "webpack://seismic-admin-settings/src/resource/notes_pen.svg": {
+          "size": 79
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/multiSelect/MultiSelect.jsx": {
+          "size": 3662
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/select/Select.jsx": {
+          "size": 2397
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/date/Date.jsx": {
+          "size": 1011
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/checkbox/index.jsx": {
+          "size": 1140
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/radioList/RadioList.jsx": {
+          "size": 1496
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/textView/TextView.jsx": {
+          "size": 1743
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/flexTools/predefinedType.js": {
+          "size": 297
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/flexTools/FlexTools.jsx": {
+          "size": 3186
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/button/predefinedType.js": {
+          "size": 159
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/button/Button.jsx": {
+          "size": 1667
+        },
+        "webpack://seismic-admin-settings/src/component/schema/formWidgets/index.js": {
+          "size": 131
+        },
+        "webpack://seismic-admin-settings/src/component/schema/schemaForm/predefinedTypes.js": {
+          "size": 238
+        },
+        "webpack://seismic-admin-settings/src/component/schema/schemaForm/checkProps.js": {
+          "size": 782
+        },
+        "webpack://seismic-admin-settings/src/component/schema/schemaForm/sub/dataFormat.js": {
+          "size": 690
+        },
+        "webpack://seismic-admin-settings/src/component/schema/schemaForm/sub/PropertyComp.jsx": {
+          "size": 4146
+        },
+        "webpack://seismic-admin-settings/src/component/schema/schemaForm/index.jsx": {
+          "size": 2845
+        },
+        "webpack://seismic-admin-settings/src/component/schema/schemaFormTable/sub/TableRow.jsx": {
+          "size": 1889
+        },
+        "webpack://seismic-admin-settings/src/component/schema/schemaFormTable/sub/TableBody.jsx": {
+          "size": 1390
+        },
+        "webpack://seismic-admin-settings/src/component/schema/schemaFormTable/sub/SubTables.jsx": {
+          "size": 1826
+        },
+        "webpack://seismic-admin-settings/src/component/schema/schemaFormTable/SchemaFormTable.jsx": {
+          "size": 6129
+        },
+        "webpack://seismic-admin-settings/src/pages/freestyleTeamSettings/FreestyleEligibleContent/EligibleRulesSetting.jsx": {
+          "size": 2304
+        },
+        "webpack://seismic-admin-settings/src/pages/freestyleTeamSettings/FreestyleEligibleContent/FreestyleEligibleContent.jsx": {
+          "size": 11400
+        },
+        "webpack://seismic-admin-settings/src/pages/freestyleTeamSettings/FreestyleTeamSettings.jsx": {
+          "size": 1442
+        },
+        "webpack://seismic-admin-settings/src/component/schema/schemaTable/sub/HeaderCell.jsx": {
+          "size": 1830
+        },
+        "webpack://seismic-admin-settings/src/component/schema/schemaTable/sub/TableHeader.jsx": {
+          "size": 1813
+        },
+        "webpack://seismic-admin-settings/src/component/schema/schemaTable/SchemaTable.jsx": {
+          "size": 4214
+        },
+        "webpack://seismic-admin-settings/src/common/timeZone.js": {
+          "size": 7011
+        },
+        "webpack://seismic-admin-settings/src/pages/jobDashboard/JobDashboardConfig.jsx": {
+          "size": 2371
+        },
+        "webpack://seismic-admin-settings/src/pages/jobDashboard/JobDashboardUtils.js": {
+          "size": 10710
+        },
+        "webpack://seismic-admin-settings/src/pages/user/userUtils.js": {
+          "size": 2286
+        },
+        "webpack://seismic-admin-settings/src/common/userType.js": {
+          "size": 24
+        },
+        "webpack://seismic-admin-settings/src/resource/seismic-group.svg": {
+          "size": 83
+        },
+        "webpack://seismic-admin-settings/src/component/SmartImage.jsx": {
+          "size": 1489
+        },
+        "webpack://seismic-admin-settings/src/pages/jobDashboard/JobSettingContent.jsx": {
+          "size": 8753
+        },
+        "webpack://seismic-admin-settings/src/pages/jobDashboard/sub/JobDetailUtils.js": {
+          "size": 2020
+        },
+        "webpack://seismic-admin-settings/src/pages/jobDashboard/sub/JobDetail.jsx": {
+          "size": 4771
+        },
+        "webpack://seismic-admin-settings/src/pages/jobDashboard/sub/CommentTextArea.jsx": {
+          "size": 1074
+        },
+        "webpack://seismic-admin-settings/src/pages/jobDashboard/sub/ContentListUtils.js": {
+          "size": 4488
+        },
+        "webpack://seismic-admin-settings/src/common/commonApiUtils.js": {
+          "size": 781
+        },
+        "webpack://seismic-admin-settings/src/pages/jobDashboard/sub/JobContentList.jsx": {
+          "size": 4345
+        },
+        "webpack://seismic-admin-settings/src/pages/jobDashboard/JobDashboard.jsx": {
+          "size": 9413
+        },
+        "webpack://seismic-admin-settings/src/pages/expirationDateSettings/ExpirationConfig.js": {
+          "size": 1397
+        },
+        "webpack://seismic-admin-settings/src/pages/expirationDateSettings/ExpirationDateUtil.js": {
+          "size": 2874
+        },
+        "webpack://seismic-admin-settings/src/pages/expirationDateSettings/ExpireDateSetting.jsx": {
+          "size": 5556
+        },
+        "webpack://seismic-admin-settings/src/pages/expirationDateSettings/ExpirationRulesSettings.jsx": {
+          "size": 3458
+        },
+        "webpack://seismic-admin-settings/src/pages/expirationDateSettings/ExpirationDateContainer.jsx": {
+          "size": 9206
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteApprovalProcessSetting/teamsiteApprovalProcessConfig.js": {
+          "size": 313
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteApprovalProcessSetting/WorkflowRulePanel.jsx": {
+          "size": 4686
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteApprovalProcessSetting/teamsiteAprovalProcessUtil.jsx": {
+          "size": 3397
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteApprovalProcessSetting/WorkflowRulePropertiesPanel.jsx": {
+          "size": 3523
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteApprovalProcessSetting/WorkflowRules.jsx": {
+          "size": 5129
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteApprovalProcessSetting/ApprovalProcessItem.jsx": {
+          "size": 1035
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteApprovalProcessSetting/TeamsiteDistributionAprovalProcessSetting.jsx": {
+          "size": 2357
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteApprovalProcessSetting/DistributionApprovalProcessSetting.jsx": {
+          "size": 7109
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteApprovalProcessSetting/TeamsiteAprovalProcessSetting.jsx": {
+          "size": 5614
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteApprovalProcessSetting/PublishingApprovalProcessSetting.jsx": {
+          "size": 9617
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteApprovalProcessSetting/TeamsiteAprovalProcessSettingsContainer.jsx": {
+          "size": 1945
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteDeliveryOption/teamsiteDeliveryOptionUtil.jsx": {
+          "size": 1989
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteDeliveryOption/DeliveryOptionItem.jsx": {
+          "size": 1552
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteDeliveryOption/TeamsiteDeliveryOptionSetting.jsx": {
+          "size": 3710
+        },
+        "webpack://seismic-admin-settings/src/pages/deliveryOptions/DeliveryOptionConfig.js": {
+          "size": 22
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteDeliveryOption/TeamsiteDeliveryOptionSettingsContainer.jsx": {
+          "size": 9336
+        },
+        "webpack://seismic-admin-settings/src/pages/teamsiteDeliveryOption/teamsiteDeliveryOptionConfig.js": {
+          "size": 82
+        },
+        "webpack://seismic-admin-settings/src/pages/uniquePermissions/uniquePermissionsUtils.js": {
+          "size": 534
+        },
+        "webpack://seismic-admin-settings/src/pages/uniquePermissions/UniquePermissions.jsx": {
+          "size": 4453
+        },
+        "webpack://seismic-admin-settings/src/pages/sharedContent/sharedContentUtils.js": {
+          "size": 1760
+        },
+        "webpack://seismic-admin-settings/src/pages/sharedContent/SharedContent.jsx": {
+          "size": 3869
+        },
+        "webpack://seismic-admin-settings/src/pages/announcements/AnnouncementConfig.js": {
+          "size": 668
+        },
+        "webpack://seismic-admin-settings/src/component/userList/TeamSiteMemberList.jsx": {
+          "size": 5387
+        },
+        "webpack://seismic-admin-settings/src/pages/announcements/AnnouncementUtil.js": {
+          "size": 1781
+        },
+        "webpack://seismic-admin-settings/src/pages/announcements/subComp/AnnouncementDatetime.jsx": {
+          "size": 1355
+        },
+        "webpack://seismic-admin-settings/src/component/multipleSelector/MultipleSelectorItem.jsx": {
+          "size": 1931
+        },
+        "webpack://seismic-admin-settings/src/component/multipleSelector/MultipleSelectorPanel.jsx": {
+          "size": 2821
+        },
+        "webpack://seismic-admin-settings/src/component/multipleSelector/MultipleSelector.jsx": {
+          "size": 7180
+        },
+        "webpack://seismic-admin-settings/src/pages/announcements/subComp/AnnouncementMultiSelector.jsx": {
+          "size": 1323
+        },
+        "webpack://seismic-admin-settings/src/pages/announcements/Announcement.jsx": {
+          "size": 8248
+        },
+        "webpack://seismic-admin-settings/src/pages/announcements/AnnouncementsContainer.jsx": {
+          "size": 9131
+        },
+        "webpack://seismic-admin-settings/src/pages/batchProcess/BatchProcess.jsx": {
+          "size": 4585
+        },
+        "webpack://seismic-admin-settings/src/apps/teamsiteSettings/menuItems.js": {
+          "size": 1517
+        },
+        "webpack://seismic-admin-settings/src/apps/teamsiteSettings/entry.js": {
+          "size": 3
+        },
+        "webpack://seismic-admin-settings/src/apps/teamsiteSettings/index.jsx": {
+          "size": 103
+        },
+        "[sourceMappingURL]": {
+          "size": 86
+        },
+        "[unmapped]": {
+          "size": 156
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

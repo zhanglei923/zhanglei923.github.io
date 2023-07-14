@@ -1,0 +1,55 @@
+Source	Size
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/index.jsx	13002
+webpack://seismic-app-core/external assign "__global_module_registers__[\"seismic-wopi\"]"	11253
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/BottomBar/items/components/Pagination.jsx	6340
+webpack://seismic-app-core/src/ContentViewer/HtmlViewer/index.jsx	6049
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/BottomBar/index.jsx	6003
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/BottomBar/items/components/createItem.jsx	4852
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/BottomBar/items/components/Annotaion.jsx	4845
+webpack://seismic-app-core/src/ContentViewer/index.jsx	4405
+webpack://seismic-app-core/src/common/ReactDynamicLoader.jsx	4245
+webpack://seismic-app-core/src/ContentViewer/Wopi/index.jsx	3821
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/Core/index.js	3001
+webpack://seismic-app-core/src/ContentViewer/ArticleV2Viewer/createOpenContentInInlineViewer.js	2410
+webpack://seismic-app-core/src/ContentViewer/Wopi/Core/index.js	2266
+webpack://seismic-app-core/src/common/loadModules/script.js	1414
+webpack://seismic-app-core/src/ContentViewer/HtmlViewer/loadHtml.js	1379
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/Core/constants.js	1327
+webpack://seismic-app-core/src/ContentViewer/EmailTemplateViewer/index.jsx	1285
+webpack://seismic-app-core/src/ContentViewer/i18n/index.js	1247
+webpack://seismic-app-core/src/ContentViewer/ArticleSDKViewer/index.jsx	1170
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/externals/seismic-liveplayer.js	1137
+webpack://seismic-app-core/src/common/loadModules/stylesheet.js	1117
+webpack://seismic-app-core/src/common/loadModules/index.js	745
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/BottomBar/items/components/Gallery.jsx	685
+webpack://seismic-app-core/src/ContentViewer/constants.js	673
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/BottomBar/items/components/ZoomOut.jsx	615
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/Core/handleImages.js	606
+webpack://seismic-app-core/node_modules/classnames/index.js	592
+webpack://seismic-app-core/src/ContentViewer/utils/getDefaultViewer.js	557
+webpack://seismic-app-core/node_modules/shallowequal/index.js	543
+webpack://seismic-app-core/src/common/loadModules/tryModule.js	500
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/BottomBar/items/components/FitWidth.jsx	482
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/BottomBar/items/components/FitPage.jsx	476
+webpack://seismic-app-core/src/ContentViewer/utils/isArticleV2.js	438
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/BottomBar/items/index.js	423
+webpack://seismic-app-core/src/ContentViewer/Wopi/externals/seismic-wopi.js	385
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/BottomBar/items/components/ZoomIn.jsx	379
+webpack://seismic-app-core/src/ContentViewer/utils/isEmailTemplate.js	368
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/BottomBar/items/components/FullScreen.jsx	367
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/BottomBar/items/components/propTypes.js	347
+webpack://seismic-app-core/src/common/i18n.js	332
+webpack://seismic-app-core/src/ContentViewer/LivePlayer/Core/UserProvider.js	299
+webpack://seismic-app-core/webpack/runtime/make namespace object	175
+webpack://seismic-app-core/src/ContentViewer/entry.js	163
+[unmapped]	154
+webpack://seismic-app-core/src/ContentViewer/ArticleV2Viewer/index.jsx	148
+webpack://seismic-app-core/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js	131
+webpack://seismic-app-core/webpack/bootstrap	122
+webpack://seismic-app-core/external assign "__global_module_registers__[\"seismic-toolkit\"]"	88
+webpack://seismic-app-core/external assign "__global_module_registers__[\"seismic-common\"]"	87
+[sourceMappingURL]	87
+webpack://seismic-app-core/external assign "PropTypes"	51
+webpack://seismic-app-core/external assign "React"	47
+webpack://seismic-app-core/webpack/runtime/publicPath	16
+[EOLs]	2

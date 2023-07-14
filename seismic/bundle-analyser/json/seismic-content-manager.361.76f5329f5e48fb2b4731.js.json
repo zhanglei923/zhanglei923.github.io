@@ -1,0 +1,161 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-content-manager.361.76f5329f5e48fb2b4731.js",
+      "totalBytes": 8235,
+      "mappedBytes": 8035,
+      "unmappedBytes": 123,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 76,
+      "files": {
+        "webpack://seismic-content-manager/node_modules/lodash/_Stack.js": {
+          "size": 238
+        },
+        "[no source]": {
+          "size": 926
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_Uint8Array.js": {
+          "size": 39
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_arrayEach.js": {
+          "size": 95
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_arrayFilter.js": {
+          "size": 118
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_arrayLikeKeys.js": {
+          "size": 396
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_arrayPush.js": {
+          "size": 89
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_baseAssign.js": {
+          "size": 73
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_baseAssignIn.js": {
+          "size": 74
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_baseClone.js": {
+          "size": 1473
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_baseCreate.js": {
+          "size": 183
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_baseGetAllKeys.js": {
+          "size": 88
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_baseIsMap.js": {
+          "size": 84
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_baseIsSet.js": {
+          "size": 84
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_baseKeysIn.js": {
+          "size": 203
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_baseTimes.js": {
+          "size": 76
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_cloneArrayBuffer.js": {
+          "size": 109
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_cloneBuffer.js": {
+          "size": 230
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_cloneDataView.js": {
+          "size": 124
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_cloneRegExp.js": {
+          "size": 114
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_cloneSymbol.js": {
+          "size": 113
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_cloneTypedArray.js": {
+          "size": 120
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_copyArray.js": {
+          "size": 92
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_copyObject.js": {
+          "size": 198
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_copySymbols.js": {
+          "size": 71
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_copySymbolsIn.js": {
+          "size": 71
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_getAllKeys.js": {
+          "size": 76
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_getAllKeysIn.js": {
+          "size": 77
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_getPrototype.js": {
+          "size": 57
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_getSymbols.js": {
+          "size": 203
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_getSymbolsIn.js": {
+          "size": 149
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_initCloneArray.js": {
+          "size": 188
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_initCloneByTag.js": {
+          "size": 694
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_initCloneObject.js": {
+          "size": 116
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_nativeKeysIn.js": {
+          "size": 86
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_stackClear.js": {
+          "size": 70
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_stackDelete.js": {
+          "size": 84
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_stackGet.js": {
+          "size": 52
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_stackHas.js": {
+          "size": 52
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/_stackSet.js": {
+          "size": 249
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/cloneDeep.js": {
+          "size": 53
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/isMap.js": {
+          "size": 73
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/isSet.js": {
+          "size": 73
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/keys.js": {
+          "size": 81
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/keysIn.js": {
+          "size": 86
+        },
+        "webpack://seismic-content-manager/node_modules/lodash/stubArray.js": {
+          "size": 35
+        },
+        "[sourceMappingURL]": {
+          "size": 76
+        },
+        "[unmapped]": {
+          "size": 123
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

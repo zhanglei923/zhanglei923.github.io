@@ -1,0 +1,17 @@
+Source	Size
+webpack://seismic-doccenter-v2/src/pages/NoneProfile/index.tsx	1069
+[no source]	240
+webpack://seismic-doccenter-v2/webpack/runtime/make namespace object	173
+webpack://seismic-doccenter-v2/webpack/runtime/compat get default export	109
+webpack://seismic-doccenter-v2/webpack/runtime/define property getters	105
+webpack://seismic-doccenter-v2/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js	103
+[sourceMappingURL]	81
+webpack://seismic-doccenter-v2/external assign "__global_module_registers__[\"seismic-content-discovery-toolkit\"]"	67
+webpack://seismic-doccenter-v2/webpack/runtime/hasOwnProperty shorthand	66
+webpack://seismic-doccenter-v2/external assign "__global_module_registers__[\"styled-components\"]"	51
+webpack://seismic-doccenter-v2/external assign "__global_module_registers__[\"@seismic/mantle\"]"	49
+webpack://seismic-doccenter-v2/external assign "React"	12
+[unmapped]	12
+webpack://seismic-doccenter-v2/webpack/bootstrap	7
+webpack://seismic-doccenter-v2/webpack/runtime/publicPath	6
+[EOLs]	1

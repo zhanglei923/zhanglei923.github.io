@@ -1,0 +1,209 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-delivery-options.main.137bf1a88529efc15e54.js",
+      "totalBytes": 162906,
+      "mappedBytes": 162718,
+      "unmappedBytes": 108,
+      "eolBytes": 2,
+      "sourceMapCommentBytes": 78,
+      "files": {
+        "webpack://SeismicDeliveryOptions/webpack/universalModuleDefinition": {
+          "size": 283
+        },
+        "webpack://SeismicDeliveryOptions/src/LiveSendQuickShare/livesendquickshare.js": {
+          "size": 2047
+        },
+        "webpack://SeismicDeliveryOptions/src/addtocart/addtocart.js": {
+          "size": 862
+        },
+        "webpack://SeismicDeliveryOptions/src/clearcart/clearcart.js": {
+          "size": 778
+        },
+        "webpack://SeismicDeliveryOptions/src/copytouserdrive/copytouserdrive.js": {
+          "size": 635
+        },
+        "webpack://SeismicDeliveryOptions/src/createmeeting/createmeeting.js": {
+          "size": 1825
+        },
+        "webpack://SeismicDeliveryOptions/src/createsharelink/createsharelink.controller.js": {
+          "size": 2692
+        },
+        "webpack://SeismicDeliveryOptions/src/createsharelink/createsharelink.js": {
+          "size": 593
+        },
+        "webpack://SeismicDeliveryOptions/src/customwithform/customwithform.controller.js": {
+          "size": 1242
+        },
+        "webpack://SeismicDeliveryOptions/src/customwithform/customwithform.js": {
+          "size": 666
+        },
+        "webpack://SeismicDeliveryOptions/src/customwithoutform/customwithoutform.js": {
+          "size": 1031
+        },
+        "webpack://SeismicDeliveryOptions/src/delivery-options.business.js": {
+          "size": 29231
+        },
+        "webpack://SeismicDeliveryOptions/src/delivery-options.common.js": {
+          "size": 940
+        },
+        "webpack://SeismicDeliveryOptions/src/delivery-options.constant.js": {
+          "size": 3549
+        },
+        "webpack://SeismicDeliveryOptions/src/delivery-options.controller.js": {
+          "size": 7300
+        },
+        "webpack://SeismicDeliveryOptions/src/delivery-options.directive.js": {
+          "size": 853
+        },
+        "webpack://SeismicDeliveryOptions/src/delivery-options.module.js": {
+          "size": 145
+        },
+        "webpack://SeismicDeliveryOptions/src/delivery-success/deliverysuccess.controller.js": {
+          "size": 590
+        },
+        "webpack://SeismicDeliveryOptions/src/download/download.js": {
+          "size": 1456
+        },
+        "webpack://SeismicDeliveryOptions/src/libs/ng-tags-input-customed/ng-tags-input.min.js": {
+          "size": 16086
+        },
+        "webpack://SeismicDeliveryOptions/src/liveshare/liveshare.js": {
+          "size": 424
+        },
+        "webpack://SeismicDeliveryOptions/src/lockunlock/lockunlock.js": {
+          "size": 1174
+        },
+        "webpack://SeismicDeliveryOptions/src/movecopy/movecopy.controller.js": {
+          "size": 7524
+        },
+        "webpack://SeismicDeliveryOptions/src/movecopy/movecopy.js": {
+          "size": 794
+        },
+        "webpack://SeismicDeliveryOptions/src/movepersonalcontent/movepersonalcontent.controller.js": {
+          "size": 7295
+        },
+        "webpack://SeismicDeliveryOptions/src/movepersonalcontent/movepersonalcontent.js": {
+          "size": 756
+        },
+        "webpack://SeismicDeliveryOptions/src/onlineedit/onlineedit.controller.js": {
+          "size": 1014
+        },
+        "webpack://SeismicDeliveryOptions/src/onlineedit/onlineedit.js": {
+          "size": 460
+        },
+        "webpack://SeismicDeliveryOptions/src/printblast/printblast.js": {
+          "size": 938
+        },
+        "webpack://SeismicDeliveryOptions/src/remove/remove.js": {
+          "size": 2669
+        },
+        "webpack://SeismicDeliveryOptions/src/rename/rename.controller.js": {
+          "size": 1993
+        },
+        "webpack://SeismicDeliveryOptions/src/rename/rename.js": {
+          "size": 585
+        },
+        "webpack://SeismicDeliveryOptions/src/request-history/request-history.js": {
+          "size": 529
+        },
+        "webpack://SeismicDeliveryOptions/src/savetopersonal/savetopersonal.js": {
+          "size": 1720
+        },
+        "webpack://SeismicDeliveryOptions/src/savetosalesforce/savetosalesforce.js": {
+          "size": 670
+        },
+        "webpack://SeismicDeliveryOptions/src/savetosharepoint/savetosharepoint.controller.js": {
+          "size": 1908
+        },
+        "webpack://SeismicDeliveryOptions/src/savetosharepoint/savetosharepoint.js": {
+          "size": 479
+        },
+        "webpack://SeismicDeliveryOptions/src/sendbyemail/tags-input-label.js": {
+          "size": 282
+        },
+        "webpack://SeismicDeliveryOptions/src/setascurrent/setascurrent.js": {
+          "size": 667
+        },
+        "webpack://SeismicDeliveryOptions/src/sfdccreatecontent/createcontent.controller.js": {
+          "size": 1143
+        },
+        "webpack://SeismicDeliveryOptions/src/sfdccreatecontent/createcontent.js": {
+          "size": 861
+        },
+        "webpack://SeismicDeliveryOptions/src/sfdccreatecontentdelivery/createcontentdelivery.controller.js": {
+          "size": 3527
+        },
+        "webpack://SeismicDeliveryOptions/src/sfdccreatecontentdelivery/createcontentdelivery.js": {
+          "size": 893
+        },
+        "webpack://SeismicDeliveryOptions/src/sfdcposttochatter/posttochatter.controller.js": {
+          "size": 2359
+        },
+        "webpack://SeismicDeliveryOptions/src/sfdcposttochatter/posttochatter.js": {
+          "size": 732
+        },
+        "webpack://SeismicDeliveryOptions/src/sfdcsaveasattachment/saveasattachment.controller.js": {
+          "size": 1286
+        },
+        "webpack://SeismicDeliveryOptions/src/sfdcsaveasattachment/saveasattachment.js": {
+          "size": 837
+        },
+        "webpack://SeismicDeliveryOptions/src/tree-view/tree-view.js": {
+          "size": 478
+        },
+        "webpack://SeismicDeliveryOptions/webpack/bootstrap": {
+          "size": 122
+        },
+        "webpack://SeismicDeliveryOptions/webpack/runtime/make namespace object": {
+          "size": 175
+        },
+        "webpack://SeismicDeliveryOptions/webpack/runtime/publicPath": {
+          "size": 23
+        },
+        "webpack://SeismicDeliveryOptions/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js": {
+          "size": 254
+        },
+        "webpack://SeismicDeliveryOptions/external assign \"__global_module_registers__[\\\"seismic-common\\\"]\"": {
+          "size": 48
+        },
+        "webpack://SeismicDeliveryOptions/lib/atob.js": {
+          "size": 510
+        },
+        "webpack://SeismicDeliveryOptions/src/delivery-options.model.js": {
+          "size": 3960
+        },
+        "webpack://SeismicDeliveryOptions/lib/base64_url_decode.js": {
+          "size": 370
+        },
+        "webpack://SeismicDeliveryOptions/lib/index.js": {
+          "size": 548
+        },
+        "webpack://SeismicDeliveryOptions/src/sendbyemailblast/emailblast.js": {
+          "size": 13282
+        },
+        "webpack://SeismicDeliveryOptions/src/printblast/printblast.controller.js": {
+          "size": 14473
+        },
+        "webpack://SeismicDeliveryOptions/src/sendbyemail/email.controller.js": {
+          "size": 5944
+        },
+        "webpack://SeismicDeliveryOptions/src/sendbyemail/email.js": {
+          "size": 1074
+        },
+        "webpack://SeismicDeliveryOptions/src/savetopersonal/saveToPersonalV2.js": {
+          "size": 5134
+        },
+        "[sourceMappingURL]": {
+          "size": 78
+        },
+        "[unmapped]": {
+          "size": 108
+        },
+        "[EOLs]": {
+          "size": 2
+        }
+      }
+    }
+  ]
+}

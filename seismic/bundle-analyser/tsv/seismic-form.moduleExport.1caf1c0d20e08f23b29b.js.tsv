@@ -1,0 +1,94 @@
+Source	Size
+webpack://seismic-form/src/legacy/HTML5/Scripts/Common/ViewModels/FormVm.js	139411
+webpack://seismic-form/src/legacy/HTML5/Scripts/Common/Views/PlainFormView.js	98668
+webpack://seismic-form/node_modules/i18next/dist/esm/i18next.js	40440
+webpack://seismic-form/src/libs/moment-customed/moment.js	34618
+webpack://seismic-form/src/legacy/HTML5/Scripts/Common/Models/FormModels.js	27593
+webpack://seismic-form/src/form.business.js	20497
+webpack://seismic-form/src/form.controller.js	19652
+webpack://seismic-form/src/legacy/HTML5/Scripts/Common/ViewModels/FormDataManager.js	14280
+webpack://seismic-form/src/legacy/HTML5/Scripts/Common/Libraries/jquery.form.js	13765
+webpack://seismic-form/src/libs/jquery-scrollbar/jquery.scrollbar.js	11910
+webpack://seismic-form/src/service/swagger/bss-upload-v1.json	10279
+webpack://seismic-form/src/legacy/H5/libraries/jquery-migrate-1.2.1.min.js	7292
+webpack://seismic-form/src/legacy/H5/apps/_external/commonform/common.view.js	7222
+webpack://seismic-form/src/service/bss-upload-service.js	5501
+webpack://seismic-form/src/utilities/i18n/locale-data/en-US/en-us-1.js	4689
+webpack://seismic-form/node_modules/i18next-xhr-backend/dist/esm/i18nextXHRBackend.js	4656
+webpack://seismic-form/src/components/formDialogWrapper/formDialogWrapper.js	4279
+webpack://seismic-form/src/delivery-form/delivery-form.helper.js	4275
+webpack://seismic-form/src/legacy/HTML5/Scripts/Common/ValidationRule.js	4043
+webpack://seismic-form/src/preview-reorder/previewreorder.business.js	3738
+webpack://seismic-form/src/form.helper.js	3519
+webpack://seismic-form/src/legacy/H5/apps/_external/commondeliveryform/_CommonDeliveryFormAppVm.js	3104
+webpack://seismic-form/src/preview-reorder/drag-drop-reorder.directive.js	3051
+webpack://seismic-form/src/legacy/HTML5/Scripts/Common/RuleEngine.js	2881
+webpack://seismic-form/src/_modules/distribution/distribution-finish.controller.js	2846
+webpack://seismic-form/src/legacy/HTML5/Scripts/Common/Libraries/jquery.splitbutton.js	2451
+webpack://seismic-form/src/legacy/HTML5/Scripts/Common/Views/CompatibleViews/desktop/compatible.js	2400
+webpack://seismic-form/src/utilities/log/log-manager.js	2341
+webpack://seismic-form/src/legacy/H5/apps/_external/commonform/_Handlers.js	2132
+webpack://seismic-form/external assign "__global_module_registers__[\"seismic-toolkit\"]"	2001
+webpack://seismic-form/src/utilities/i18n/locale-data/en-US/en-us-2.js	1992
+webpack://seismic-form/src/delivery-form/delivery-form.controller.js	1767
+webpack://seismic-form/src/preview-reorder/previewreorder.js	1666
+webpack://seismic-form/src/legacy/H5/apps/_external/_helpers/FormServiceHelper.js	1663
+webpack://seismic-form/src/legacy/H5/apps/_external/commonform/jquery.ui-2.nuautocomplete.js	1632
+webpack://seismic-form/src/form.runtime.js	1533
+webpack://seismic-form/src/legacy/H5/apps/_external/commonform/_CommonFormAppVm.js	1406
+webpack://seismic-form/src/legacy/HTML5/Scripts/Common/RuleBase.js	1285
+webpack://seismic-form/node_modules/react-i18next/dist/es/context.js	1260
+webpack://seismic-form/src/legacy/H5/apps/_external/_helpers/LibraryServiceHelper.js	1057
+webpack://seismic-form/src/utilities/i18n/translate.js	1018
+webpack://seismic-form/src/utilities/i18n/i18n-plugin/getSeismicCDN-plugin.js	943
+webpack://seismic-form/src/legacy/HTML5/Scripts/Common/Libraries/jquery.extend-modified.js	917
+webpack://seismic-form/src/form.selector.controller.js	913
+webpack://seismic-form/src/legacy/HTML5/Scripts/Common/VisibilityRule.js	859
+webpack://seismic-form/src/service/init-ms-api-client.js	797
+webpack://seismic-form/src/utilities/i18n/locale-data/en-US/index.js	751
+webpack://seismic-form/src/preview-reorder/previewreorder.controller.js	639
+webpack://seismic-form/src/form.finish.controller.js	604
+webpack://seismic-form/src/legacy/HTML5/Scripts/Common/Views/CompatibleViews/CompatibleProcessorManager.js	599
+webpack://seismic-form/src/legacy/HTML5/Scripts/Common/ViewModels/BaseVm.js	594
+webpack://seismic-form/src/form.format.controller.js	511
+webpack://seismic-form/src/_modules/distribution/distribution.factory.js	504
+webpack://seismic-form/node_modules/react-i18next/dist/es/unescape.js	429
+webpack://seismic-form/src/legacy/HTML5/Scripts/Common/TemplateLoader.js	407
+webpack://seismic-form/src/legacy/H5/apps/_external/_helpers/RequesterApiHelper.js	381
+webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/objectSpread.js	338
+webpack://seismic-form/src/form.directive.js	313
+webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/inherits.js	312
+webpack://seismic-form/src/delivery-form/delivery-form.directive.js	303
+webpack://seismic-form/webpack/universalModuleDefinition	299
+webpack://seismic-form/src/legacy/H5/apps/_tools/moment/override.jqueryui.datepicker.js	290
+webpack://seismic-form/webpack/bootstrap	287
+webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/createClass.js	277
+webpack://seismic-form/src/legacy/H5/apps/_external/commonform/_CommonFormApp.js	268
+webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/toPrimitive.js	258
+webpack://seismic-form/node_modules/@seismic/toolchain-scripts/webpack/manifest/setPublicPath.js	247
+webpack://seismic-form/src/legacy/H5/apps/_external/commondeliveryform/_CommonDeliveryFormApp.js	234
+webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/typeof.js	230
+webpack://seismic-form/webpack/runtime/make namespace object	193
+webpack://seismic-form/src/form.directive.focus.js	188
+webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js	177
+webpack://seismic-form/src/form.global.js	175
+webpack://seismic-form/webpack/runtime/define property getters	161
+webpack://seismic-form/webpack/runtime/compat get default export	147
+webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js	137
+webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/defineProperty.js	125
+webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js	123
+webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js	121
+[unmapped]	104
+webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/classCallCheck.js	94
+webpack://seismic-form/src/delivery-form/delivery-form.module.js	87
+webpack://seismic-form/external assign "__global_module_registers__[\"seismic-common\"]"	87
+webpack://seismic-form/webpack/runtime/hasOwnProperty shorthand	86
+webpack://seismic-form/webpack/runtime/node module decorator	85
+webpack://seismic-form/src/form.module.js	75
+[sourceMappingURL]	74
+webpack://seismic-form/node_modules/@babel/runtime/helpers/esm/toPropertyKey.js	67
+webpack://seismic-form/webpack/runtime/publicPath	59
+webpack://seismic-form/external assign "React"	47
+webpack://seismic-form/external assign "jQuery"	19
+webpack://seismic-form/src/utilities/i18n/lang.js	15
+[EOLs]	2

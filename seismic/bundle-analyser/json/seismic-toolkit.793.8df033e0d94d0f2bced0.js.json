@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-toolkit.793.8df033e0d94d0f2bced0.js",
+      "totalBytes": 13411,
+      "mappedBytes": 13124,
+      "unmappedBytes": 218,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 68,
+      "files": {
+        "webpack://seismic-toolkit/src/components/DeliveryOptionsBar/Common/constants.jsx": {
+          "size": 2565
+        },
+        "[no source]": {
+          "size": 3655
+        },
+        "webpack://seismic-toolkit/src/components/DeliveryOptionsBar/Common/util.js": {
+          "size": 3622
+        },
+        "webpack://seismic-toolkit/src/components/DeliveryOptionsBar/DeliveryOptionsBar.jsx": {
+          "size": 3282
+        },
+        "[sourceMappingURL]": {
+          "size": 68
+        },
+        "[unmapped]": {
+          "size": 218
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}

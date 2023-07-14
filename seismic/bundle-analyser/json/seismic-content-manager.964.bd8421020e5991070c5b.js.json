@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "bundleName": "seismic-content-manager.964.bd8421020e5991070c5b.js",
+      "totalBytes": 19263,
+      "mappedBytes": 18010,
+      "unmappedBytes": 1176,
+      "eolBytes": 1,
+      "sourceMapCommentBytes": 76,
+      "files": {
+        "webpack://seismic-content-manager/src-v2/ui/components/common-components/input-box/index.jsx": {
+          "size": 1381
+        },
+        "[no source]": {
+          "size": 8241
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/content-views/utils.js": {
+          "size": 630
+        },
+        "webpack://seismic-content-manager/src-v2/ui/components/mantle-icon-converter/svg/launch-form-svg.jsx": {
+          "size": 1439
+        },
+        "webpack://seismic-content-manager/src-v2/ui/sharedComponents/tag-value-components/add-btn.jsx": {
+          "size": 598
+        },
+        "webpack://seismic-content-manager/src-v2/ui/sharedComponents/tag-value-components/add-btn-with-hove.jsx": {
+          "size": 369
+        },
+        "webpack://seismic-content-manager/src-v2/ui/sharedComponents/tag-value-components/date-tag-value.jsx": {
+          "size": 907
+        },
+        "webpack://seismic-content-manager/src-v2/ui/sharedComponents/tag-value-components/tag-name.jsx": {
+          "size": 438
+        },
+        "webpack://seismic-content-manager/src-v2/ui/sharedComponents/tag-value-components/tag-value-with-remove.jsx": {
+          "size": 1535
+        },
+        "webpack://seismic-content-manager/src-v2/ui/sharedComponents/tag-value-components/tag-value.jsx": {
+          "size": 793
+        },
+        "webpack://seismic-content-manager/src-v2/utilities/action-list/plugin/checked-out.js": {
+          "size": 1007
+        },
+        "webpack://seismic-content-manager/src-v2/utilities/util/lazyLoadReact.jsx": {
+          "size": 672
+        },
+        "[sourceMappingURL]": {
+          "size": 76
+        },
+        "[unmapped]": {
+          "size": 1176
+        },
+        "[EOLs]": {
+          "size": 1
+        }
+      }
+    }
+  ]
+}
